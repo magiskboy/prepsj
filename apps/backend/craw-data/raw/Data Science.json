@@ -1,0 +1,457 @@
+[
+    {
+        "question": "Identify the language which is used in data science?",
+        "answer": "Answer: D) Ruby is used in data science.",
+        "options": [
+            "C++",
+            "R",
+            "Java",
+            "Ruby"
+        ]
+    },
+    {
+        "question": "Choose the correct components of data science.",
+        "answer": "Answer: D) All of the options are components of data science.",
+        "options": [
+            "domain expertise",
+            "data engineering",
+            "advanced computing",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is not a part of the data science process?",
+        "answer": "Answer: A) Communication building is not a part of the data science process.",
+        "options": [
+            "communication building",
+            "operationalize",
+            "model planning",
+            "Discovery"
+        ]
+    },
+    {
+        "question": "Total groups in which data can be characterized is?",
+        "answer": "Answer: B) Data can be categorized into two groups:  structured and unstructured data.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Choose whether the following statement is true or false:  Unstructured data is not organized",
+        "answer": "Answer: A) True. Unstructured data is not organized.",
+        "options": [
+            "True",
+            "False",
+            "maybe true or false",
+            "cannot be determined"
+        ]
+    },
+    {
+        "question": "A column is a  _________- representation of data.",
+        "answer": "Answer: B) A column is a vertical representation of data.",
+        "options": [
+            "Diagonal",
+            "Vertical",
+            "Top",
+            "horizontal"
+        ]
+    },
+    null,
+    {
+        "question": "Among the following identify the one in which dimensionality reduction reduces.",
+        "answer": "Answer: D) Dimensionality reduction reduces collinearity.",
+        "options": [
+            "Performance",
+            "Entropy",
+            "Stochastics",
+            "collinearity"
+        ]
+    },
+    {
+        "question": "Machine learning is a subset of which of the following.",
+        "answer": "Answer: A) machine learning is a subset of artificial intelligence",
+        "options": [
+            "Artificial intelligence",
+            "deep learning",
+            "data learning",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "FIND-S algorithm ignores?",
+        "answer": "Answer: B) FIND-S algorithm ignores negative",
+        "options": [
+            "Positive",
+            "Negative",
+            "Both",
+            "None"
+        ]
+    },
+    {
+        "question": "Full form of PAC is _________________",
+        "answer": "Answer: B) PAC stands for Probably Approximate Correct.",
+        "options": [
+            "Probably Approx Cost",
+            "Probably Approximate Correct",
+            "Probability Approx Communication",
+            "Probably Approximate Computation"
+        ]
+    },
+    {
+        "question": "Total types of layer in radial basis function neural networks is ______",
+        "answer": "Answer: C) There is a total of 3 Types of layered in radial basis function neural networks.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    null,
+    {
+        "question": "Procedural Domain Knowledge in a rule-based system, is in the form of?",
+        "answer": "Answer: C) Explanation: Procedural Domain Knowledge in a rule-based system, is in the form of Production Rules.",
+        "options": [
+            "Meta-Rules",
+            "Control Rules",
+            "Production Rules",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following architecture is also known as systolic arrays?",
+        "answer": "Answer: A) Explanation: MISD architecture is also known as systolic arrays",
+        "options": [
+            "MISD",
+            "SISD",
+            "SIMD",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Machines running LISP are also called?",
+        "answer": "Answer: A) Explanation: Machines running LISP are also called AI workstations",
+        "options": [
+            "AI Workstations",
+            "Time-Sharing Terminals",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A hybrid Bayesian Network consists of?",
+        "answer": "Answer: C) Explanation: Discrete and Continuous variables both act as numerical inputs to a hybrid Bayesian network.",
+        "options": [
+            "Discrete Variables",
+            "Continuous Variables",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the key data science skills among the following",
+        "answer": "Answer: D) All of the above are the key data science skills.",
+        "options": [
+            "data visualization",
+            "machine learning",
+            "Statistics",
+            "all of the above"
+        ]
+    },
+    null,
+    {
+        "question": "Identify the revision control system on the following.",
+        "answer": "Answer: C) Git  is the revision control system",
+        "options": [
+            "Scipy",
+            "Numpy",
+            "Git",
+            "Slidify"
+        ]
+    },
+    {
+        "question": "Among the following options identify the one which is false regarding regression.",
+        "answer": "Answer: D) option d is incorrect among the following.",
+        "options": [
+            "it is used for the prediction",
+            "it is used for  interpretation",
+            "it relates inputs to outputs",
+            "it discovers casual relationships"
+        ]
+    },
+    {
+        "question": "Choose the general limitations of the backpropagation rule among the following.",
+        "answer": "Answer: D) All of the above general limitations of the backpropagation rule.",
+        "options": [
+            "slow convergence",
+            "Scaling",
+            "local minima problem",
+            "All  of the above"
+        ]
+    },
+    {
+        "question": "Choose the instance-based learner.",
+        "answer": "Answer: B) Lazy learner is an instance-based learner.",
+        "options": [
+            "Eager learner",
+            "lazy learner",
+            "both a and b are correct",
+            "none of the above"
+        ]
+    },
+    null,
+    {
+        "question": "What does K stand for in K mean algorithm?",
+        "answer": "Answer: D) K stands for a number of iterations in the K mean algorithm",
+        "options": [
+            "number of clusters",
+            "number of data",
+            "number of attributes",
+            "Number of iterations"
+        ]
+    },
+    {
+        "question": "Which of the following machine learning algorithm is based upon the idea of bagging?",
+        "answer": "Answer: B) Random forest is based on the idea of bagging",
+        "options": [
+            "decision tree",
+            "random-forest",
+            "Classification",
+            "regression"
+        ]
+    },
+    {
+        "question": "Choose a disadvantage of decision trees among the following.",
+        "answer": "Answer: C) Decision trees are prone to overfitting",
+        "options": [
+            "Decision trees are robust to outliers",
+            "factor analysis",
+            "decision trees are prone to overfit",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is not a supervised learning",
+        "answer": "Answer: A) PCA Is not supervised learning.",
+        "options": [
+            "PCA",
+            "Naive Bayesian",
+            "linear regression",
+            "Decision tree"
+        ]
+    },
+    {
+        "question": "Identify the clustering method which takes care of variance in data",
+        "answer": "Answer: B) Gaussian mixture model takes care of variance in data",
+        "options": [
+            "Decision tree",
+            "Gaussian mixture model",
+            "K means",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Among the following options choose which one of the following focuses on the discovery of unknown properties on the data.",
+        "answer": "Answer: B) Data mining focuses on the discovery of unknown properties on the data.",
+        "options": [
+            "Big data",
+            "Data mining",
+            "Machine learning",
+            "Data wrangling"
+        ]
+    },
+    {
+        "question": "Identify the model which is  usually a gold standard for data analysis",
+        "answer": "Answer: A) Casual is usually a gold standard for data analysis.",
+        "options": [
+            "Casual",
+            "Inferential",
+            "Descriptive",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "Another name of data fishing is?",
+        "answer": "Answer: B) Data processing is also known as data dredging.",
+        "options": [
+            "Data merging",
+            "Data dredging",
+            "Data bagging",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "CLI stands for ___________",
+        "answer": "Answer: A) CLI stands for Command-line interface.",
+        "options": [
+            "Command-line interface",
+            "Command language interface",
+            "Command-line intercom",
+            "None of the above"
+        ]
+    },
+    null,
+    {
+        "question": "Among the following, choose the correct application of data science in Healthcare.",
+        "answer": "Answer: D) All of the above are applications of data science in Healthcare.",
+        "options": [
+            "Data science for genomics",
+            "Data science for medical imaging",
+            "Drug discovery with data science",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the Incorrect CLI command.",
+        "answer": "Answer: C) delete is not a CLI command.",
+        "options": [
+            "clear",
+            "rm",
+            "delete",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Total principles of analytical graphs that exist are __________",
+        "answer": "Answer: C) Total principles of analytical graphs that exist are 6.",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "question": "Knowledge in AI can be represented as?",
+        "answer": "Answer: C) The representation of knowledge in AI can be done both as Predicate and Propositional Logic",
+        "options": [
+            "Predicate Logic",
+            "Propositional Logic",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Inference engines work on the principle of?",
+        "answer": "Answer: C) The modes on which inference engines work are forward and backward chaining",
+        "options": [
+            "Backward Chaining",
+            "Forward Chaining",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Components of an expert system are?",
+        "answer": "Answer: D) All the above options comprise the components of an expert system.",
+        "options": [
+            "Knowledge base",
+            "User interface",
+            "Inference engine",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "How many types of observing environments are there?",
+        "answer": "Answer: A) There are 2 types of observing environments: Fully and Partial.",
+        "options": [
+            "2",
+            "3",
+            "0",
+            "1"
+        ]
+    },
+    {
+        "question": "Another name of data dredging is",
+        "answer": "Answer: C) Data dredging is also known as data snooping",
+        "options": [
+            "Data booting",
+            "Data bagging",
+            "Data snooping",
+            "Data merging"
+        ]
+    },
+    {
+        "question": "Out of the given options, which of the following algorithms uses the least memory?",
+        "answer": "Answer: A) DFS uses a lesser amount of memory because at a time the path from the node to a root is only stored in the memory stack, unlike BFS which will have to store the whole tree within it.",
+        "options": [
+            "DFS",
+            "BFS",
+            "Both A and B are the same",
+            "Cannot be compared"
+        ]
+    },
+    {
+        "question": "What are different machine learning methods?",
+        "answer": "Answer: D) The machine learning methods include Memorization, Analogy, and Deduction.",
+        "options": [
+            "Memorization",
+            "Analogy",
+            "Deduction",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "The different types of machine learning are?",
+        "answer": "Answer: D) The 3 types of machine learning are: Supervised, Unsupervised, and Reinforcement Learning",
+        "options": [
+            "Supervised",
+            "Unsupervised",
+            "Reinforcement",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Artificial Intelligence is associated with computers of which generation?",
+        "answer": "Answer: C) Fifth Generation computers are said to be able to have Artificial Intelligence within them",
+        "options": [
+            "Second",
+            "First",
+            "Fifth",
+            "Third"
+        ]
+    },
+    {
+        "question": "PEAS is an abbreviation for?",
+        "answer": "Answer: C) PEAS is an abbreviation for Performance, Environment, Actuators, Sensors.",
+        "options": [
+            "Peace, Environment, Action, Sense",
+            "Peer, Environment, Actuators, Sensors",
+            "Performance, Environment, Actuators, Sensors",
+            "Performance, Environment, Actuators, Sense"
+        ]
+    },
+    {
+        "question": "Among the following SGD  variant, which of the following is based on both Momentum and adaptive learning.",
+        "answer": "Answer: B) Adam, is a deep learning Optimizer that is based on both Momentum and additive learning.",
+        "options": [
+            "RMSprop",
+            "Adam",
+            "Nesterov",
+            "Adagrad"
+        ]
+    },
+    {
+        "question": "Identify the activation function output which is zero centered",
+        "answer": "Answer: A) Hyperbolic Tangent activation function is zero centered",
+        "options": [
+            "Hyperbolic tangent",
+            "Rectified linear unit",
+            "Sigmoid",
+            "Softmax"
+        ]
+    },
+    {
+        "question": "Among the following logic function, which of the following cannot be implemented by a  perceptron having two inputs",
+        "answer": "Answer: A) XOR cannot be implemented by a  perceptron having two inputs.",
+        "options": [
+            "XOR",
+            "NOR",
+            "OR",
+            "AND"
+        ]
+    }
+]

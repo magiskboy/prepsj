@@ -1,0 +1,1352 @@
+[
+  {
+    "question": "Identify the language which is used in data science?",
+    "options": [
+      {
+        "content": "C++",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "R",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Ruby",
+        "checked": true,
+        "explain": "Ruby is used in data science.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct components of data science.",
+    "options": [
+      {
+        "content": "domain expertise",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "data engineering",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "advanced computing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "All of the options are components of data science.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a part of the data science process?",
+    "options": [
+      {
+        "content": "communication building",
+        "checked": true,
+        "explain": "Communication building is not a part of the data science process.",
+        "code": "A"
+      },
+      {
+        "content": "operationalize",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "model planning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Discovery",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total groups in which data can be characterized is?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "Data can be categorized into two groups:  structured and unstructured data.",
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose whether the following statement is true or false:  Unstructured data is not organized",
+    "options": [
+      {
+        "content": "True",
+        "checked": true,
+        "explain": "True. Unstructured data is not organized.",
+        "code": "A"
+      },
+      {
+        "content": "False",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "maybe true or false",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "cannot be determined",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "A column is a  _________- representation of data.",
+    "options": [
+      {
+        "content": "Diagonal",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Vertical",
+        "checked": true,
+        "explain": "A column is a vertical representation of data.",
+        "code": "B"
+      },
+      {
+        "content": "Top",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "horizontal",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following identify the one in which dimensionality reduction reduces.",
+    "options": [
+      {
+        "content": "Performance",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Entropy",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Stochastics",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "collinearity",
+        "checked": true,
+        "explain": "Dimensionality reduction reduces collinearity.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Machine learning is a subset of which of the following.",
+    "options": [
+      {
+        "content": "Artificial intelligence",
+        "checked": true,
+        "explain": "machine learning is a subset of artificial intelligence",
+        "code": "A"
+      },
+      {
+        "content": "deep learning",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "data learning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "FIND-S algorithm ignores?",
+    "options": [
+      {
+        "content": "Positive",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Negative",
+        "checked": true,
+        "explain": "FIND-S algorithm ignores negative",
+        "code": "B"
+      },
+      {
+        "content": "Both",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of PAC is _________________",
+    "options": [
+      {
+        "content": "Probably Approx Cost",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Probably Approximate Correct",
+        "checked": true,
+        "explain": "PAC stands for Probably Approximate Correct.",
+        "code": "B"
+      },
+      {
+        "content": "Probability Approx Communication",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Probably Approximate Computation",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total types of layer in radial basis function neural networks is ______",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "There is a total of 3 Types of layered in radial basis function neural networks.",
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Procedural Domain Knowledge in a rule-based system, is in the form of?",
+    "options": [
+      {
+        "content": "Meta-Rules",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Control Rules",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Production Rules",
+        "checked": true,
+        "explain": "Explanation: Procedural Domain Knowledge in a rule-based system, is in the form of Production Rules.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following architecture is also known as systolic arrays?",
+    "options": [
+      {
+        "content": "MISD",
+        "checked": true,
+        "explain": "Explanation: MISD architecture is also known as systolic arrays",
+        "code": "A"
+      },
+      {
+        "content": "SISD",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "SIMD",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Machines running LISP are also called?",
+    "options": [
+      {
+        "content": "AI Workstations",
+        "checked": true,
+        "explain": "Explanation: Machines running LISP are also called AI workstations",
+        "code": "A"
+      },
+      {
+        "content": "Time-Sharing Terminals",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "A hybrid Bayesian Network consists of?",
+    "options": [
+      {
+        "content": "Discrete Variables",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Continuous Variables",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Explanation: Discrete and Continuous variables both act as numerical inputs to a hybrid Bayesian network.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the key data science skills among the following",
+    "options": [
+      {
+        "content": "data visualization",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "machine learning",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Statistics",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "All of the above are the key data science skills.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the revision control system on the following.",
+    "options": [
+      {
+        "content": "Scipy",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Numpy",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Git",
+        "checked": true,
+        "explain": "Git  is the revision control system",
+        "code": "C"
+      },
+      {
+        "content": "Slidify",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options identify the one which is false regarding regression.",
+    "options": [
+      {
+        "content": "it is used for the prediction",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "it is used for  interpretation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "it relates inputs to outputs",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "it discovers casual relationships",
+        "checked": true,
+        "explain": "option d is incorrect among the following.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the general limitations of the backpropagation rule among the following.",
+    "options": [
+      {
+        "content": "slow convergence",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Scaling",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "local minima problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All  of the above",
+        "checked": true,
+        "explain": "All of the above general limitations of the backpropagation rule.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the instance-based learner.",
+    "options": [
+      {
+        "content": "Eager learner",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "lazy learner",
+        "checked": true,
+        "explain": "Lazy learner is an instance-based learner.",
+        "code": "B"
+      },
+      {
+        "content": "both a and b are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does K stand for in K mean algorithm?",
+    "options": [
+      {
+        "content": "number of clusters",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "number of data",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "number of attributes",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Number of iterations",
+        "checked": true,
+        "explain": "K stands for a number of iterations in the K mean algorithm",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following machine learning algorithm is based upon the idea of bagging?",
+    "options": [
+      {
+        "content": "decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "random-forest",
+        "checked": true,
+        "explain": "Random forest is based on the idea of bagging",
+        "code": "B"
+      },
+      {
+        "content": "Classification",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "regression",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose a disadvantage of decision trees among the following.",
+    "options": [
+      {
+        "content": "Decision trees are robust to outliers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "factor analysis",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "decision trees are prone to overfit",
+        "checked": true,
+        "explain": "Decision trees are prone to overfitting",
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a supervised learning",
+    "options": [
+      {
+        "content": "PCA",
+        "checked": true,
+        "explain": "PCA Is not supervised learning.",
+        "code": "A"
+      },
+      {
+        "content": "Naive Bayesian",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "linear regression",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the clustering method which takes care of variance in data",
+    "options": [
+      {
+        "content": "Decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Gaussian mixture model",
+        "checked": true,
+        "explain": "Gaussian mixture model takes care of variance in data",
+        "code": "B"
+      },
+      {
+        "content": "K means",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options choose which one of the following focuses on the discovery of unknown properties on the data.",
+    "options": [
+      {
+        "content": "Big data",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Data mining",
+        "checked": true,
+        "explain": "Data mining focuses on the discovery of unknown properties on the data.",
+        "code": "B"
+      },
+      {
+        "content": "Machine learning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Data wrangling",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the model which is  usually a gold standard for data analysis",
+    "options": [
+      {
+        "content": "Casual",
+        "checked": true,
+        "explain": "Casual is usually a gold standard for data analysis.",
+        "code": "A"
+      },
+      {
+        "content": "Inferential",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Descriptive",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another name of data fishing is?",
+    "options": [
+      {
+        "content": "Data merging",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Data dredging",
+        "checked": true,
+        "explain": "Data processing is also known as data dredging.",
+        "code": "B"
+      },
+      {
+        "content": "Data bagging",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "CLI stands for ___________",
+    "options": [
+      {
+        "content": "Command-line interface",
+        "checked": true,
+        "explain": "CLI stands for Command-line interface.",
+        "code": "A"
+      },
+      {
+        "content": "Command language interface",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Command-line intercom",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following, choose the correct application of data science in Healthcare.",
+    "options": [
+      {
+        "content": "Data science for genomics",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Data science for medical imaging",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Drug discovery with data science",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are applications of data science in Healthcare.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the Incorrect CLI command.",
+    "options": [
+      {
+        "content": "clear",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "rm",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "delete",
+        "checked": true,
+        "explain": "delete is not a CLI command.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total principles of analytical graphs that exist are __________",
+    "options": [
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "6",
+        "checked": true,
+        "explain": "Total principles of analytical graphs that exist are 6.",
+        "code": "C"
+      },
+      {
+        "content": "8",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Knowledge in AI can be represented as?",
+    "options": [
+      {
+        "content": "Predicate Logic",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Propositional Logic",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "The representation of knowledge in AI can be done both as Predicate and Propositional Logic",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Inference engines work on the principle of?",
+    "options": [
+      {
+        "content": "Backward Chaining",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Forward Chaining",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "The modes on which inference engines work are forward and backward chaining",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Components of an expert system are?",
+    "options": [
+      {
+        "content": "Knowledge base",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "User interface",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Inference engine",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All the above options comprise the components of an expert system.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How many types of observing environments are there?",
+    "options": [
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "There are 2 types of observing environments: Fully and Partial.",
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "0",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another name of data dredging is",
+    "options": [
+      {
+        "content": "Data booting",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Data bagging",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Data snooping",
+        "checked": true,
+        "explain": "Data dredging is also known as data snooping",
+        "code": "C"
+      },
+      {
+        "content": "Data merging",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Out of the given options, which of the following algorithms uses the least memory?",
+    "options": [
+      {
+        "content": "DFS",
+        "checked": true,
+        "explain": "DFS uses a lesser amount of memory because at a time the path from the node to a root is only stored in the memory stack, unlike BFS which will have to store the whole tree within it.",
+        "code": "A"
+      },
+      {
+        "content": "BFS",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B are the same",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Cannot be compared",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are different machine learning methods?",
+    "options": [
+      {
+        "content": "Memorization",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Analogy",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Deduction",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "The machine learning methods include Memorization, Analogy, and Deduction.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The different types of machine learning are?",
+    "options": [
+      {
+        "content": "Supervised",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Unsupervised",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Reinforcement",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "The 3 types of machine learning are: Supervised, Unsupervised, and Reinforcement Learning",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Artificial Intelligence is associated with computers of which generation?",
+    "options": [
+      {
+        "content": "Second",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "First",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fifth",
+        "checked": true,
+        "explain": "Fifth Generation computers are said to be able to have Artificial Intelligence within them",
+        "code": "C"
+      },
+      {
+        "content": "Third",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "PEAS is an abbreviation for?",
+    "options": [
+      {
+        "content": "Peace, Environment, Action, Sense",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Peer, Environment, Actuators, Sensors",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Performance, Environment, Actuators, Sensors",
+        "checked": true,
+        "explain": "PEAS is an abbreviation for Performance, Environment, Actuators, Sensors.",
+        "code": "C"
+      },
+      {
+        "content": "Performance, Environment, Actuators, Sense",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following SGD  variant, which of the following is based on both Momentum and adaptive learning.",
+    "options": [
+      {
+        "content": "RMSprop",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Adam",
+        "checked": true,
+        "explain": "Adam, is a deep learning Optimizer that is based on both Momentum and additive learning.",
+        "code": "B"
+      },
+      {
+        "content": "Nesterov",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Adagrad",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the activation function output which is zero centered",
+    "options": [
+      {
+        "content": "Hyperbolic tangent",
+        "checked": true,
+        "explain": "Hyperbolic Tangent activation function is zero centered",
+        "code": "A"
+      },
+      {
+        "content": "Rectified linear unit",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Sigmoid",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Softmax",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following logic function, which of the following cannot be implemented by a  perceptron having two inputs",
+    "options": [
+      {
+        "content": "XOR",
+        "checked": true,
+        "explain": "XOR cannot be implemented by a  perceptron having two inputs.",
+        "code": "A"
+      },
+      {
+        "content": "NOR",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "OR",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "AND",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

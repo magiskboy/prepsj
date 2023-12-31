@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Among the following options choose the one which shows the advantage of using the JDBC connection pool.",
+        "answer": "Answer: B) The advantage of using a JDBC connection pool is better performance.",
+        "options": [
+            "Using less memory",
+            "Better performance",
+            "Slower performance",
+            "Using more memory"
+        ]
+    },
+    {
+        "question": "Among the following which contains date information.",
+        "answer": "Answer:  A) java.sql timestamp contains date information.",
+        "options": [
+            "java.sql timestamp",
+            "java.io time",
+            "java.io.timestamp",
+            "java.sql.time"
+        ]
+    },
+    {
+        "question": "Identify the method of the JDBC process among the following options.",
+        "answer": "Answer:  D) addbatch() Is the method of JDBC.",
+        "options": [
+            "remove()",
+            "deletebatch()",
+            "setbatch()",
+            "addbacth()"
+        ]
+    },
+    {
+        "question": "The total JDBC product components in Java software provides is ___________",
+        "answer": "Answer: B)The total JDBC product components in Java software provides is 3.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Total JDBC drivers available is _____________",
+        "answer": "Answer:  C) Total JDBC drivers available is 4.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Where can BLOB, CLOB, ARRAY, and REF type columns be updated?",
+        "answer": "Answer: C) BLOB, CLOB, ARRAY, and REF type columns be updated in JDBC 3.0",
+        "options": [
+            "JDBC 1.0",
+            "JDBC 2.0",
+            "JDBC 3.0",
+            "JDBC 4.0"
+        ]
+    },
+    {
+        "question": "Which driver is known as the thin driver in JDBC?",
+        "answer": "Answer: D) Type 4 driver is known as the thin driver in JDBC.",
+        "options": [
+            "Type 1 driver",
+            "Type 2 driver",
+            "Type 3 driver",
+            "Type 4 driver"
+        ]
+    },
+    {
+        "question": "TCP, FTP, SMTP, Telnet are examples of?",
+        "answer": "Answer: B) TCP FTP Telnet, SMTP are examples of protocols.",
+        "options": [
+            "IP address",
+            "Protocol",
+            "Socket",
+            "MAC address"
+        ]
+    },
+    {
+        "question": "Identify the class used for connection-less socket programming.",
+        "answer": "Answer: C) Both datagram packet and datagram socket is used for connection-less socket programming",
+        "options": [
+            "Datagram packet",
+            "Datagram socket",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Total TCP/IP ports reserved for specific protocol is._______",
+        "answer": "Answer: A) Total TCP/IP ports reserved for specific protocol is 1024.",
+        "options": [
+            "1024",
+            "2048",
+            "512",
+            "32"
+        ]
+    },
+    {
+        "question": "What is the total number of bits in a single IP address?",
+        "answer": "Answer: D) The total number of bits in a single IP address is 32.",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ]
+    },
+    {
+        "question": "Which of the following option leads to the portability and security of Java?",
+        "answer": "Answer: C) Bytecode is executed by JVM is the correct answer.",
+        "options": [
+            "Dynamic binding between objects",
+            "Use of exception handling",
+            "Bytecode is executed by JVM",
+            "The applet makes the Java code secure and portable"
+        ]
+    },
+    {
+        "question": "What are the major components of the JDBC?",
+        "answer": "Answer: B)The major components of JDBC are - DriverManager, Driver, Connection, Statement, and ResultSet.",
+        "options": [
+            "DriverManager, Statement, and ResultSet",
+            "DriverManager, Driver, Connection, Statement, and ResultSet",
+            "DriverManager, Connection, Statement, and ResultSet",
+            "DriverManager, Driver, Connection, and Statement"
+        ]
+    },
+    {
+        "question": "Which is responsible for getting a connection to the database?",
+        "answer": "Answer: D) Driver is responsible for getting a connection to the database.",
+        "options": [
+            "Connection",
+            "Statement",
+            "ResultSet",
+            "Driver"
+        ]
+    },
+    {
+        "question": "In which file database table configuration is stored?",
+        "answer": "Answer: C) Database table configuration file is stored in .hbm",
+        "options": [
+            ".sql",
+            ".ora",
+            ".hbm",
+            ".dbm"
+        ]
+    },
+    {
+        "question": "How constructor can be used for a servlet?",
+        "answer": "Answer: A) Constructor can be used for a servlet by Initialization and a Constructor function.",
+        "options": [
+            "Initialization and Constructor function",
+            "Setup() method",
+            "Initialization",
+            "Constructor function"
+        ]
+    },
+    {
+        "question": "Identify the method which is used to start a  server thread.",
+        "answer": "Answer: B) run()  is used to start a  server thread.",
+        "options": [
+            "start thread()",
+            "run()",
+            "runthread()",
+            "start()"
+        ]
+    },
+    {
+        "question": "Identify the method which is used to find the URL from the cache of httpd.",
+        "answer": "Answer: D) servefromcache() is used to find the URL from the cache of httpd.",
+        "options": [
+            "getfromcache()",
+            "findfromcache()",
+            "findcache()",
+            "servefromcache()"
+        ]
+    },
+    {
+        "question": "Choose the instance variable of class httpd among the following.",
+        "answer": "Answer: D) All of the above are instances variable of class httpd.",
+        "options": [
+            "Cache",
+            "Port",
+            "Log",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Among the following which method is used to know the host of an URL?",
+        "answer": "Answer: B) gethost() is used to know the host of an URL.",
+        "options": [
+            "findhost()",
+            "gethost()",
+            "locatehost()",
+            "host()"
+        ]
+    },
+    {
+        "question": "Which of the following ways is used to communicate from an applet to servlet?",
+        "answer": "Answer: D) All of the above is used to communicate from an applet to the servlet.",
+        "options": [
+            "HTTP communication",
+            "Socket communication",
+            "RMI communication",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which tag is used to execute Java source code in JSP?",
+        "answer": "Answer: B) Scriptlet tag is used to execute Java source code in JSP.",
+        "options": [
+            "Expression tag",
+            "Scriptlet tag",
+            "Declaration tag",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following access modifiers provides the widest scope of visibility for a class member in Java?",
+        "answer": "Answer: D) public",
+        "options": [
+            "private",
+            "protected",
+            "default",
+            "public"
+        ]
+    },
+    {
+        "question": "What is the purpose of the finally block in a Java try-catch-finally construct?",
+        "answer": "Answer: B) To execute code regardless of whether an exception is thrown or not.",
+        "options": [
+            "To catch and handle exceptions thrown in the try block",
+            "To execute code regardless of whether an exception is thrown or not",
+            "To define the conditions for handling exceptions",
+            "To provide an alternate code path when an exception occurs"
+        ]
+    },
+    {
+        "question": "Total ways to perform exception handling in JSP is ________",
+        "answer": "Answer: A) There are 2 Ways to perform exception handling in JSP.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Which of the following tags does the JSP page contain?",
+        "answer": "Answer: C) JSP page contains both JSP tags and HTML tags.",
+        "options": [
+            "JSP tags",
+            "HTML tags",
+            "Both A and C",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Full form of  JDBC is __________",
+        "answer": "Answer: C) JDBC stands for Java database connectivity",
+        "options": [
+            "Java database Communications",
+            "Java database concept",
+            "Java database connectivity",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following requires fewer resources?",
+        "answer": "Answer: B) Thread requires fewer resources.",
+        "options": [
+            "Process",
+            "Thread",
+            "Both Thread and Process",
+            "Neither read nor process"
+        ]
+    },
+    {
+        "question": "What decides the priority of the thread?",
+        "answer": "Answer: B) Thread scheduler will decide the priority of the thread.",
+        "options": [
+            "Thread",
+            "Process scheduler",
+            "Process",
+            "Thread scheduler"
+        ]
+    },
+    {
+        "question": "Among the following which is a type of multitasking?",
+        "answer": "Answer: C) Both A and B are types of multitasking.",
+        "options": [
+            "Thread based",
+            "Process-based",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is the RMI server responsible for?",
+        "answer": "Answer: D) RMI service is responsible for all of the given options.",
+        "options": [
+            "Exporting remote object",
+            "Creating an instance of the remote of",
+            "Binding an instance of the remote object building to the RMI registry.",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "RMI stands for __________",
+        "answer": "Answer: B) RMI stands for Remote Method Invocation.",
+        "options": [
+            "Remote Memory Interface",
+            "Remote Method Invocation",
+            "Random Method Invocation",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is built on top of socket programming?",
+        "answer": "Answer: A) RMI is built on top of socket programming.",
+        "options": [
+            "RMI",
+            "EJB",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify among the following which follows the connectionless service.",
+        "answer": "Answer: D) UDP follows the connectionless service.",
+        "options": [
+            "HTTP",
+            "TCP/IP",
+            "TCP",
+            "UDP"
+        ]
+    },
+    {
+        "question": "Among the following protocols are used for splitting and sending packets to an address across a network.",
+        "answer": "Answer: B) TCP/IP .is used for splitting and sending packets to an address across a network.",
+        "options": [
+            "SMTP",
+            "TCP/IP",
+            "UDP",
+            "FTP"
+        ]
+    },
+    {
+        "question": "What is the total number of ResultSet available with the JDBC 2.0 core API?",
+        "answer": "Answer: B) The total number of ResultSet available with the JDBC 2.0 core API is 3.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    null,
+    null,
+    {
+        "question": "Among the following identify the packages which represent interfaces and classes for servlet API.",
+        "answer": "Answer:  C) Both a and b are correct.",
+        "options": [
+            "javax.servelet.http",
+            "javax.servelet",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the HTTP request method which is non-idempotent.",
+        "answer": "Answer: C) Both POST and GET are non-idempotent.",
+        "options": [
+            "POST",
+            "GET",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following examples of application servers?",
+        "answer": "Answer: A) JBoss is an example of an application server",
+        "options": [
+            "JBoss",
+            "Tomcat",
+            "Apache",
+            "WebLogic"
+        ]
+    },
+    {
+        "question": "The total number of techniques used in session tracking is ________",
+        "answer": "Answer: B) Total 4 techniques used in session tracking.",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "question": "Identify the Microsoft solution for providing dynamic web content.",
+        "answer": "Answer: A) JSP is used for providing dynamic web content.",
+        "options": [
+            "ASP",
+            "JSP",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is the difference between servlet and JSP?",
+        "answer": "Answer: C) The major difference between servlet and JSP is syntax.",
+        "options": [
+            "Compilation",
+            "Translation",
+            "Syntax",
+            "Both A and B"
+        ]
+    },
+    {
+        "question": "Among the following which is not a directive?",
+        "answer": "Answer: D) Export is not the directive",
+        "options": [
+            "Page",
+            "Include",
+            "Tag",
+            "Export"
+        ]
+    },
+    null,
+    {
+        "question": "For resolving Facelet views, which of the following is configured.",
+        "answer": "Answer: C) ViewResolver is configured for resolving Facelet views.",
+        "options": [
+            "View_Resolver",
+            "View-resolver",
+            "ViewResolver",
+            "ViewFacelets"
+        ]
+    },
+    {
+        "question": "Among the following methods which of the following returns proxy object.",
+        "answer": "Answer: C) load() Is the method that returns a proxy object.",
+        "options": [
+            "getDatabase()",
+            "get()",
+            "load()",
+            "loadDatabase()"
+        ]
+    },
+    {
+        "question": "Among the following which attribute is used to specify the class name of the bean.",
+        "answer": "Answer: B) class is used to specify the class name of the pin.",
+        "options": [
+            "id",
+            "class",
+            "name",
+            "constructor-args"
+        ]
+    },
+    null
+]

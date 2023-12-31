@@ -1,0 +1,1562 @@
+[
+  {
+    "question": "Choose the correct option related to Android.",
+    "options": [
+      {
+        "content": "Android is a web browser",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android is an Operating System",
+        "checked": true,
+        "explain": "Android is an Operating System",
+        "code": "B"
+      },
+      {
+        "content": "Android is a web server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is an activity in android?",
+    "options": [
+      {
+        "content": "android class",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "android package",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "A single screen in an application with supporting java code",
+        "checked": true,
+        "explain": "A activity is a single screen in an application.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options choose the one for which Android is based on Linux.",
+    "options": [
+      {
+        "content": "Networking",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Portability",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Security",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": " All of the above are reasons for which Android is based on Linux.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the below virtual machines choose the one which is used by the Android operating system",
+    "options": [
+      {
+        "content": "Dalvik operating system",
+        "checked": true,
+        "explain": " Android uses Dalvik operating system.",
+        "code": "A"
+      },
+      {
+        "content": "JVM",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Simple virtual machine",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the language on which Android is based upon.",
+    "options": [
+      {
+        "content": "Python",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "C++",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Java",
+        "checked": true,
+        "explain": "Android is based upon Java.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "All layout classes are the subclasses of",
+    "options": [
+      {
+        "content": "android.widget",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "android.view.View",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "android.view.ViewGroup",
+        "checked": true,
+        "explain": "all layout classes are the subclasses of android.view.ViewGroup in android.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of APK is",
+    "options": [
+      {
+        "content": "Android Page Kit",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android Phone Kit",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Android Package Kit",
+        "checked": true,
+        "explain": "APK stands for Android package kit.",
+        "code": "C"
+      },
+      {
+        "content": "Android Photo Kit",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is manifest XML in android?",
+    "options": [
+      {
+        "content": "It has information about layout in an application",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "It has all the information about an application",
+        "checked": true,
+        "explain": "It has all the information about an application",
+        "code": "B"
+      },
+      {
+        "content": "It has the information about activities in an application",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the use of a content provider in Android?",
+    "options": [
+      {
+        "content": "For sharing the data between applications",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "For storing the data in the database",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "For sending the data from an application to another application",
+        "checked": true,
+        "explain": "A content provider is used to share information between Android applications.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "While developing android application developers can test their apps on",
+    "options": [
+      {
+        "content": "Emulators in Android SDK",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android Phone",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Third-Party Emulator",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All the above",
+        "checked": true,
+        "explain": "Apps can be tested in all the sources mentioned above.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In android, mini activities are also known as",
+    "options": [
+      {
+        "content": "Adapter",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Activity",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fragments",
+        "checked": true,
+        "explain": "In android, mini activities are also known as Fragments",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following choose the one which converts Java bytecode into Dalvik bytecode",
+    "options": [
+      {
+        "content": "dex compiler",
+        "checked": true,
+        "explain": " dex compiler converts convert JAVA bytecode into Dalvik bytecode.",
+        "code": "A"
+      },
+      {
+        "content": "Mobile interpretive compare",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Dalvik converter",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The services in android can be stopped using which of the following method?",
+    "options": [
+      {
+        "content": "system. exit()  method",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "stopSelf() and stopService() method",
+        "checked": true,
+        "explain": "stopSelf() and stopService() method can be used to stop services in android.",
+        "code": "B"
+      },
+      {
+        "content": "finish() method",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "end() method",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Activity in Android can be killed using?",
+    "options": [
+      {
+        "content": "finishActivity (int requestCode)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "finish() method",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "neither a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": true,
+        "explain": "Activity in Android can be killed using both finishActivity (int requestCode) and finish() method.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of ADB is.",
+    "options": [
+      {
+        "content": "Android Delete Bridge",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android Debug Bridge",
+        "checked": true,
+        "explain": " ADB stands for Android debug Bridge.",
+        "code": "B"
+      },
+      {
+        "content": "Android Destroy Bridge",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Android Developed Bridge",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "AVD stands for",
+    "options": [
+      {
+        "content": "Active Virtual Display",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android Virtual display",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Android Virtual Device",
+        "checked": true,
+        "explain": "AVD stands for Android virtual device",
+        "code": "C"
+      },
+      {
+        "content": "Active Virtual Device",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the option which is contained in the src folder",
+    "options": [
+      {
+        "content": "Manifest",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Java Source Code",
+        "checked": true,
+        "explain": "Java source code is contained in the src folder",
+        "code": "B"
+      },
+      {
+        "content": "XML",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of them",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the parent class of activity.",
+    "options": [
+      {
+        "content": "contextThemeWrapper",
+        "checked": true,
+        "explain": "The contextThemeWrapper class is the parent class of activity.",
+        "code": "A"
+      },
+      {
+        "content": "context",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "object",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose among the following tabs in which an error is shown",
+    "options": [
+      {
+        "content": "ADB logs",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Memory",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "CPU",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Logcat",
+        "checked": true,
+        "explain": "Logcat shows an error.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When was Open Handset Alliance announced?",
+    "options": [
+      {
+        "content": "2004",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2005",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "2006",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "2007",
+        "checked": true,
+        "explain": "Open Handset Alliance was announced in 2007",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the topmost layer of Android architecture",
+    "options": [
+      {
+        "content": "Applications",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Applications Framework",
+        "checked": true,
+        "explain": "The topmost layer of Android architecture is the application framework.",
+        "code": "B"
+      },
+      {
+        "content": "Linux Kernel",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "System libraries and android runtime",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the lowest layer of Android architecture.",
+    "options": [
+      {
+        "content": "Applications",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Applications framework",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Linux Kernel",
+        "checked": true,
+        "explain": "Linux kernel Is the lowest layer of Android architecture.",
+        "code": "C"
+      },
+      {
+        "content": "System libraries and android runtime",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which is not a state in the service lifecycle.",
+    "options": [
+      {
+        "content": "Running",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Start",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Paused",
+        "checked": true,
+        "explain": "Paused is not a state in the service lifecycle.",
+        "code": "C"
+      },
+      {
+        "content": "Destroyed",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the dialogue class in Android among the following",
+    "options": [
+      {
+        "content": "DatePicker Dialog",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "AlertDialog",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ProgressDialog",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are dialogue classes in Android.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the built-in database of Android.",
+    "options": [
+      {
+        "content": "MySQL",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "SQLite",
+        "checked": true,
+        "explain": "SQLite Is the built-in database of Android.",
+        "code": "B"
+      },
+      {
+        "content": "Oracle",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the one which provides access to the database.",
+    "options": [
+      {
+        "content": "android.api",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "android.database",
+        "checked": true,
+        "explain": "android.database provides access to the database.",
+        "code": "B"
+      },
+      {
+        "content": "android.content",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why is.sendStickybroadcast(intent) used?",
+    "options": [
+      {
+        "content": "To show intent is prioritize",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "To show intent is optional",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "To show intent is sticky",
+        "checked": true,
+        "explain": "sendStickybroadcast(intent) is used to show intent is sticky.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the one which is used to log debug messages.",
+    "options": [
+      {
+        "content": "Log.R()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Log.d()",
+        "checked": true,
+        "explain": "Log.d() is used to log debug messages.",
+        "code": "B"
+      },
+      {
+        "content": "Log.D()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Log.r()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of ANR is.",
+    "options": [
+      {
+        "content": "Application not rendering",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Application not responding",
+        "checked": true,
+        "explain": "ANR stands for Application not responding",
+        "code": "B"
+      },
+      {
+        "content": "Application not reacting",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Application not reachable",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "All layout classes are subclasses of which of the following?",
+    "options": [
+      {
+        "content": "android.widget",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "android.view.view",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "android .view.Viewgroup",
+        "checked": true,
+        "explain": "All layout classes are subclasses of android .view.Viewgroup",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the layout in which Android arranges its children into rows and columns.",
+    "options": [
+      {
+        "content": "FrameLayout",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RelativeLayout",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "TableLayout",
+        "checked": true,
+        "explain": "TableLayout arranges its children into rows and columns.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of GCM is",
+    "options": [
+      {
+        "content": "Google Centre messaging",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Google Cloud messaging",
+        "checked": true,
+        "explain": "GCM stands for Google Cloud messaging",
+        "code": "B"
+      },
+      {
+        "content": "Google account",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None account manager",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct definition of the nine-patch images tool in Android",
+    "options": [
+      {
+        "content": "Used to change the bitmap images in 9 sections",
+        "checked": true,
+        "explain": "Nine-patch images tool is used to change the bitmap images into 9 sections.",
+        "code": "A"
+      },
+      {
+        "content": "it is an image extension tool",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Neither a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "JSON stands for ___________",
+    "options": [
+      {
+        "content": "JavaScript Oriented Notation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JavaScript Object Native",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "JavaScript Object Notation",
+        "checked": true,
+        "explain": "JSON stands for Javascript Object Notation.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option to find the JSON element length in Android JSON.",
+    "options": [
+      {
+        "content": "sum()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "add()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "count()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "length()",
+        "checked": true,
+        "explain": "To find the JSON element length in Android JSON, length() is used.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Transient data in Android is.",
+    "options": [
+      {
+        "content": "Secure data",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Permanent data",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Temporary data",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Logical data",
+        "checked": true,
+        "explain": "Transient data in Android is logical data.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "On what is Android web browser-based?",
+    "options": [
+      {
+        "content": "Safari",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Firefox",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Open-source WebKit",
+        "checked": true,
+        "explain": "Android web browser is based upon open-source WebKit.",
+        "code": "C"
+      },
+      {
+        "content": "Chrome",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why is the view pager used?",
+    "options": [
+      {
+        "content": "Paging down list items",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Swiping Fragments",
+        "checked": true,
+        "explain": "viewpager is used for swiping fragments.",
+        "code": "B"
+      },
+      {
+        "content": "Swiping Activities",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "On which kernel is Android-based on",
+    "options": [
+      {
+        "content": "Windows",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Mac",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Linux",
+        "checked": true,
+        "explain": "Android is based on Linux.",
+        "code": "C"
+      },
+      {
+        "content": "Redhat",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct technique to refresh the dynamic content in Android.",
+    "options": [
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Ajax",
+        "checked": true,
+        "explain": "Using the ajax technique we can refresh the dynamic content in Android.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Under which, an open-source license is Android licensed?",
+    "options": [
+      {
+        "content": "OSS",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Apache/MIT",
+        "checked": true,
+        "explain": "Android is licensed under Apache/MIT.",
+        "code": "B"
+      },
+      {
+        "content": "Gnus GPL",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Sourceforce",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "OHA stands for ___________.",
+    "options": [
+      {
+        "content": "Open Handset Alliance",
+        "checked": true,
+        "explain": "OHA stands for Open Handset Alliance.",
+        "code": "A"
+      },
+      {
+        "content": "Open Handset Association",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Open Handset Application",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Open Host Application",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which of the following is the Android application Framework provided?",
+    "options": [
+      {
+        "content": "Zip file",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Jar file",
+        "checked": true,
+        "explain": "Android application Framework is provided in the Jar file.",
+        "code": "B"
+      },
+      {
+        "content": "Object file",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "EXE file",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following packages is used for supporting SQL libraries in the Android framework.",
+    "options": [
+      {
+        "content": "android.*",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "org.w3c.dom",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "javax.*",
+        "checked": true,
+        "explain": "javax.*  is used for supporting SQL libraries in the Android framework.",
+        "code": "C"
+      },
+      {
+        "content": "junit.*",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "WAP stands for?",
+    "options": [
+      {
+        "content": "Wireless Application Protocol",
+        "checked": true,
+        "explain": "WAP stands for wireless application protocol.",
+        "code": "A"
+      },
+      {
+        "content": "Wireless Application Program",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Wireless Application Portal",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Wireless Application Parts",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the option below which are part of the system library and android runtime layer of Android architecture.",
+    "options": [
+      {
+        "content": "SSL",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "DVM",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Webkit",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "SSL, DVM, and WebKit are all part of the system library and android runtime layer of Android architecture.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Who manages data sharing between applications?",
+    "options": [
+      {
+        "content": "Telephony managers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Location manager",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Content providers",
+        "checked": true,
+        "explain": "Data sharing between applications is managed by content providers.",
+        "code": "C"
+      },
+      {
+        "content": "Activity manager",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Who develops DVM?",
+    "options": [
+      {
+        "content": "Dan Bornstein",
+        "checked": true,
+        "explain": "DVM was developed by Dan Bornstein.",
+        "code": "A"
+      },
+      {
+        "content": "Dennis Ritchie",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Linus Torvald",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is a WebKit?",
+    "options": [
+      {
+        "content": "Database Server",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Browser Engine",
+        "checked": true,
+        "explain": "Webkit is a browser engine.",
+        "code": "B"
+      },
+      {
+        "content": "Database Engine",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "AAPT stands for",
+    "options": [
+      {
+        "content": "Android activity packaging tool",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Android action packaging tool",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Android asset packaging tool",
+        "checked": true,
+        "explain": "AAPT stands for Android asset packaging tool.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of NDK is _______",
+    "options": [
+      {
+        "content": "Native Development Key",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Native Development Kit",
+        "checked": true,
+        "explain": "NDK stands for Native Development Kit.",
+        "code": "B"
+      },
+      {
+        "content": "New Development Kit",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Net Development Kit",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which language is used by WAP?",
+    "options": [
+      {
+        "content": "SGML",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "WML",
+        "checked": true,
+        "explain": "WAP uses WML.",
+        "code": "B"
+      },
+      {
+        "content": "XML",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "HTML",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

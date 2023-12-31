@@ -1,0 +1,1472 @@
+[
+  {
+    "question": "Identify which of the following life cycle contains the phases: test case design, test execution, defect tracking, maintenance.",
+    "options": [
+      {
+        "content": "SDLC",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "STLC",
+        "checked": true,
+        "explain": "Test case design, test execution, defect tracking, maintenance falls under STLC.",
+        "code": "B"
+      },
+      {
+        "content": "SQLC",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "BLC",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect phase of STLC(Software Testing Life cycle).",
+    "options": [
+      {
+        "content": "Test closure",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Coding",
+        "checked": true,
+        "explain": "Coding is not a phase of STLC",
+        "code": "B"
+      },
+      {
+        "content": "Requirement analysis",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Test planning",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does the RAD software process stand for?",
+    "options": [
+      {
+        "content": "Rapid Application Development",
+        "checked": true,
+        "explain": "RAD stands for Rapid Application Development.",
+        "code": "A"
+      },
+      {
+        "content": "Recent Application Development",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Relative Application Development",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Rapid Application Design",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the simplest model of SDLC?",
+    "options": [
+      {
+        "content": "Agile",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RAD",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Waterfall",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Spiral",
+        "checked": true,
+        "explain": "The spiral model is the simplest model of SDLC.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which is the following is the most important feature of the spiral model?",
+    "options": [
+      {
+        "content": "Efficiency management",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Time management",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Risk management",
+        "checked": true,
+        "explain": "Risk management is the most important feature of the spiral model.",
+        "code": "C"
+      },
+      {
+        "content": "Quality management",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is the first step of SDLC?",
+    "options": [
+      {
+        "content": "Coding",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Design",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Preliminary Investigation and Analysis",
+        "checked": true,
+        "explain": "The first step of SDLC is Preliminary Investigation and Analysis",
+        "code": "C"
+      },
+      {
+        "content": "Testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect black box technique?",
+    "options": [
+      {
+        "content": "Syntax testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Linear Code Sequence and Jump(LCSAJ)",
+        "checked": true,
+        "explain": "LCSAJ is not a black box technique",
+        "code": "B"
+      },
+      {
+        "content": "State transition testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is known as a variance from software product specifications?",
+    "options": [
+      {
+        "content": "Report",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Defect",
+        "checked": true,
+        "explain": "The term which is known as a variance from software product specifications is known as a defect.",
+        "code": "B"
+      },
+      {
+        "content": "Review",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Requirement",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the type of integration testing which uses stubs.",
+    "options": [
+      {
+        "content": "Bottom-up testing",
+        "checked": true,
+        "explain": "Bottom-up testing uses stubs",
+        "code": "A"
+      },
+      {
+        "content": "top-down testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "system testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the correct functional requirement.",
+    "options": [
+      {
+        "content": "Robustness",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Portability",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Maintainability",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": true,
+        "explain": "All of the above are non-functional requirements, hence D) is correct.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "SDLC stands for _______________",
+    "options": [
+      {
+        "content": "System development life cycle",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "secure development life cycle",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Software development life cycle",
+        "checked": true,
+        "explain": "SDLC stands for Software development life cycle.",
+        "code": "C"
+      },
+      {
+        "content": "Both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the fault-based testing technique.",
+    "options": [
+      {
+        "content": "Beta testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Unit testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Mutation testing",
+        "checked": true,
+        "explain": "Mutation testing is a fault-based technique.",
+        "code": "C"
+      },
+      {
+        "content": "Stress testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are types of code review?",
+    "options": [
+      {
+        "content": "Code walkthrough",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Code inspection",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both A and B are types of code review",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of ITG is?",
+    "options": [
+      {
+        "content": "independent test group",
+        "checked": true,
+        "explain": "Full form of ITG is an independent test group.",
+        "code": "A"
+      },
+      {
+        "content": "integration testing group",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "individual testing group",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does FAST stand for?",
+    "options": [
+      {
+        "content": "Facilitated Application Specification Technique",
+        "checked": true,
+        "explain": "FAST stands for Facilitated Application Specification Technique.",
+        "code": "A"
+      },
+      {
+        "content": "Functional Application Specification Techniques",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fast Application Specification Technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total phases of RAD software model is-",
+    "options": [
+      {
+        "content": "6",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "5",
+        "checked": true,
+        "explain": "RAD consists of a total of 5 phases - Business modeling, Data modeling, Process modeling, application generation, and testing & turnover.",
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option among the following. What does the software consist of?",
+    "options": [
+      {
+        "content": "Program+documentation operating procedures",
+        "checked": true,
+        "explain": "Software consists of Program+documentation operating procedures",
+        "code": "A"
+      },
+      {
+        "content": "Program+hardware manuals",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Instruction+hardware manuals",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Set of programs",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the stage in which test cases are designed?",
+    "options": [
+      {
+        "content": "Test planning",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Test configuration",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Test specification",
+        "checked": true,
+        "explain": "Test cases are designed during Test specification",
+        "code": "C"
+      },
+      {
+        "content": "Test recording",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the best time when regression testing should be done?",
+    "options": [
+      {
+        "content": "As frequently as possible",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "When the environment has been modified",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "After the software has been modified",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Both b and c are correct",
+        "checked": true,
+        "explain": "Regression testing should be done after the software has been modified and when the environment has been modified",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When can white-box testing be started?",
+    "options": [
+      {
+        "content": "After SRS creation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "After installation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "After programming",
+        "checked": true,
+        "explain": "White-box testing be started after programming.",
+        "code": "C"
+      },
+      {
+        "content": "After designing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "For which of the following reasons is the waterfall model not suitable.",
+    "options": [
+      {
+        "content": "Small projects",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Complex projects",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Maintenance Projects",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Accommodating changes",
+        "checked": true,
+        "explain": "Waterfall model is not suitable for accommodating changes.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "By whom is unit testing done?",
+    "options": [
+      {
+        "content": "Users",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Customers",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Developers",
+        "checked": true,
+        "explain": "Unit testing is done by developers.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is used to define testing?",
+    "options": [
+      {
+        "content": "Finding broken code",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A stage of all projects",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Evaluating deliverables to find errors",
+        "checked": true,
+        "explain": "Evaluating deliverables to find errors is testing",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option which does not relate to the Evolutionary Process Model?",
+    "options": [
+      {
+        "content": "Concurrent Development Model",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "WINWIN Spiral Model",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Incremental Model",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above does not relate to the Evolutionary Process Model. The Evolutionary Process Model is designed for rapid model development i.e it is developed from scratch and is modified as per user requirement.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Black box testing is also known as",
+    "options": [
+      {
+        "content": "Behavioral testing",
+        "checked": true,
+        "explain": "Black box testing is also known as Behavioral testing.",
+        "code": "A"
+      },
+      {
+        "content": "Data flow testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Graph-based testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Loop testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the model which is also known as Verification and Validation Model?",
+    "options": [
+      {
+        "content": "Waterfall model",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "V-model",
+        "checked": true,
+        "explain": "The V-model is also known as Verification and Validation Model.",
+        "code": "B"
+      },
+      {
+        "content": "Prototype model",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Evolutionary model",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following models will not result in the desired output, when the user participation isn’t involved?",
+    "options": [
+      {
+        "content": "RAD and prototyping",
+        "checked": true,
+        "explain": "RAD and prototyping are the models which are dependent upon the user’s participation and might produce undesired output",
+        "code": "A"
+      },
+      {
+        "content": "Waterfall and prototyping",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Prototyping and spiral",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Spiral and RAD",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which is not true in the case of Unit testing?",
+    "options": [
+      {
+        "content": "It is conducted by the development team.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "It decreases the speed of development.",
+        "checked": true,
+        "explain": "Unit testing does not decrease the speed of development.",
+        "code": "B"
+      },
+      {
+        "content": "Tester tests whether individual units of source code are fit for use.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "It cannot be expected to catch every error in the program.",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "For how many lines of code(LOC) is the Build and Fix model suitable for programming exercises?",
+    "options": [
+      {
+        "content": "100-200",
+        "checked": true,
+        "explain": "Build and Fix model suitable for programming exercises of 100-200 LOC.",
+        "code": "A"
+      },
+      {
+        "content": "400-1000",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "200-400",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": ">1000",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When can white-box testing be started?",
+    "options": [
+      {
+        "content": "After SRS creation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "After installation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "After programming",
+        "checked": true,
+        "explain": "White-box testing be started after programming.",
+        "code": "C"
+      },
+      {
+        "content": "After designing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the two dimensions of the spiral model.",
+    "options": [
+      {
+        "content": "Radial, angular",
+        "checked": true,
+        "explain": "Radial, angular are the two types of dimensions of the spiral model.",
+        "code": "A"
+      },
+      {
+        "content": "Diagonal, angular",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Diagonal, perpendicular",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which is not recommended for software processes in software engineering?",
+    "options": [
+      {
+        "content": "Software verification",
+        "checked": true,
+        "explain": "Software verification is not recommended since it is mainly used for implementing and testing",
+        "code": "A"
+      },
+      {
+        "content": "Software testing and validation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Software designing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Software evolution",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect type of Prototyping model.",
+    "options": [
+      {
+        "content": "Vertical prototype",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Horizontal prototype",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Diagonal prototype",
+        "checked": true,
+        "explain": "Diagonal prototype is not a type of Prototyping model.",
+        "code": "C"
+      },
+      {
+        "content": "Domain prototype",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the advantage of the Iterative model among the following.",
+    "options": [
+      {
+        "content": "Simpler to manage",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Divided workload",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Early revenue generation",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "All of the above are advantages of the Iterative model.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the correct measure for correctness.",
+    "options": [
+      {
+        "content": "Errors per KLOC",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "$ per KLOC",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Defects per KLOC",
+        "checked": true,
+        "explain": "Defects per KLOC is the most common measure for the correctness",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which of the following categories can white-box testing be classified?",
+    "options": [
+      {
+        "content": "Design based testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Structural testing",
+        "checked": true,
+        "explain": "White-box testing can also be classified as structural testing.",
+        "code": "B"
+      },
+      {
+        "content": "Error guessing technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When is the ‘risk analysis’ In the spiral model performed?",
+    "options": [
+      {
+        "content": "In the first loop",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Before using the spiral model",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Every loop",
+        "checked": true,
+        "explain": "The ‘risk analysis’ In the spiral model is performed in every loop.",
+        "code": "C"
+      },
+      {
+        "content": "The first and second loop",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The SRS document is also known as _____________ specification.",
+    "options": [
+      {
+        "content": "Black box",
+        "checked": true,
+        "explain": "The SRS document is also known as black box specification",
+        "code": "A"
+      },
+      {
+        "content": "White box",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Grey box",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the environment in which we can perform alpha testing?",
+    "options": [
+      {
+        "content": "User’s end",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Developer’s end",
+        "checked": true,
+        "explain": "Alpha testing is always performed from the developer’s end",
+        "code": "B"
+      },
+      {
+        "content": "Both a and b are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is cyclomatic complexity?",
+    "options": [
+      {
+        "content": "Black box testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "White-box testing",
+        "checked": true,
+        "explain": "White box testing",
+        "code": "B"
+      },
+      {
+        "content": "Grey box testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the testing which cannot be performed on the first build of the software?",
+    "options": [
+      {
+        "content": "Sanity testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Regression testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Retesting",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All a, b and c",
+        "checked": true,
+        "explain": "None of the above tests can be performed on the first build of the software.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which is not a type of incremental testing approach.",
+    "options": [
+      {
+        "content": "Big-bang",
+        "checked": true,
+        "explain": "Big-bang is not a type of incremental testing approach",
+        "code": "A"
+      },
+      {
+        "content": "Top-down",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bottom-up",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Functional incrimination",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option which represents the key objective of integration testing?",
+    "options": [
+      {
+        "content": "Interface errors",
+        "checked": true,
+        "explain": "The key objective of integration testing is to resolve interface errors.",
+        "code": "A"
+      },
+      {
+        "content": "Procedure errors",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Design errors",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the option which does not apply to agile software development?",
+    "options": [
+      {
+        "content": "Producing only the essential work products.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Recent Application Development",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Abolishing the project planning and testing",
+        "checked": true,
+        "explain": "Abolishing the project planning and testing is not applicable as testing and planning are essential in SDLC.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the correct option among the following which is not included in SRS?",
+    "options": [
+      {
+        "content": "Functionality",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Performance",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "External interfaces",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Design solutions",
+        "checked": true,
+        "explain": "Design solutions are not included in SRS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the correct defect rate for Six sigma?",
+    "options": [
+      {
+        "content": "1.0 defect per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "1.4 defects per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3 defects per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "3.4 million per million lines of code.",
+        "checked": true,
+        "explain": "Defect rate for Six sigma is 3.4 million per million lines of code.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of SPICE is?",
+    "options": [
+      {
+        "content": "Software Process Improvement and Control Determination",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Software Process Improvement and Capability Determination",
+        "checked": true,
+        "explain": "SPICE stands for Software Process Improvement and Capability Determination.",
+        "code": "B"
+      },
+      {
+        "content": "Software Process Improvement and Compatibility Determination",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option among the following which is involved in the system planning and designing phase of the Software Development Life Cycle (SDLC)?",
+    "options": [
+      {
+        "content": "Parallel run",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Sizing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Specification freeze",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Parallel run, sizing, specification freeze are involved in the system planning and designing phase of the Software Development Life Cycle (SDLC).",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect testing technique.",
+    "options": [
+      {
+        "content": "Integration testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Collaboration testing",
+        "checked": true,
+        "explain": "Collaboration testing is not a testing technique",
+        "code": "B"
+      },
+      {
+        "content": "System testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Unit testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

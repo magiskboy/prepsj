@@ -1,0 +1,493 @@
+[
+    {
+        "question": "Identify which of the following life cycle contains the phases: test case design, test execution, defect tracking, maintenance.",
+        "answer": "Answer - B) Test case design, test execution, defect tracking, maintenance falls under STLC.",
+        "options": [
+            "SDLC",
+            "STLC",
+            "SQLC",
+            "BLC"
+        ]
+    },
+    {
+        "question": "Identify the incorrect phase of STLC(Software Testing Life cycle).",
+        "answer": "Answer - B) Coding is not a phase of STLC",
+        "options": [
+            "Test closure",
+            "Coding",
+            "Requirement analysis",
+            "Test planning"
+        ]
+    },
+    {
+        "question": "What does the RAD software process stand for?",
+        "answer": "Answer - A) RAD stands for Rapid Application Development.",
+        "options": [
+            "Rapid Application Development",
+            "Recent Application Development",
+            "Relative Application Development",
+            "Rapid Application Design"
+        ]
+    },
+    {
+        "question": "Identify the simplest model of SDLC?",
+        "answer": "Answer - D) The spiral model is the simplest model of SDLC.",
+        "options": [
+            "Agile",
+            "RAD",
+            "Waterfall",
+            "Spiral"
+        ]
+    },
+    {
+        "question": "Which is the following is the most important feature of the spiral model?",
+        "answer": "Answer - C) Risk management is the most important feature of the spiral model.",
+        "options": [
+            "Efficiency management",
+            "Time management",
+            "Risk management",
+            "Quality management"
+        ]
+    },
+    {
+        "question": "Which of the following is the first step of SDLC?",
+        "answer": "Answer - C) The first step of SDLC is Preliminary Investigation and Analysis",
+        "options": [
+            "Coding",
+            "Design",
+            "Preliminary Investigation and Analysis",
+            "Testing"
+        ]
+    },
+    {
+        "question": "Identify the incorrect black box technique?",
+        "answer": "Answer - B) LCSAJ is not a black box technique",
+        "options": [
+            "Syntax testing",
+            "Linear Code Sequence and Jump(LCSAJ)",
+            "State transition testing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the term which is known as a variance from software product specifications?",
+        "answer": "Answer - B) The term which is known as a variance from software product specifications is known as a defect.",
+        "options": [
+            "Report",
+            "Defect",
+            "Review",
+            "Requirement"
+        ]
+    },
+    {
+        "question": "Identify the type of integration testing which uses stubs.",
+        "answer": "Answer - A) Bottom-up testing uses stubs",
+        "options": [
+            "Bottom-up testing",
+            "top-down testing",
+            "system testing",
+            "both a and b"
+        ]
+    },
+    {
+        "question": "Identify the correct functional requirement.",
+        "answer": "Answer - D) All of the above are non-functional requirements, hence D) is correct.",
+        "options": [
+            "Robustness",
+            "Portability",
+            "Maintainability",
+            "None"
+        ]
+    },
+    {
+        "question": "SDLC stands for _______________",
+        "answer": "Answer - C) SDLC stands for Software development life cycle.",
+        "options": [
+            "System development life cycle",
+            "secure development life cycle",
+            "Software development life cycle",
+            "Both a and b"
+        ]
+    },
+    {
+        "question": "Identify the fault-based testing technique.",
+        "answer": "Answer - C) Mutation testing is a fault-based technique.",
+        "options": [
+            "Beta testing",
+            "Unit testing",
+            "Mutation testing",
+            "Stress testing"
+        ]
+    },
+    {
+        "question": "Which of the following are types of code review?",
+        "answer": "Answer - C) Both A and B are types of code review",
+        "options": [
+            "Code walkthrough",
+            "Code inspection",
+            "Both A and B",
+            "None"
+        ]
+    },
+    {
+        "question": "The full form of ITG is?",
+        "answer": "Answer - A) Full form of ITG is an independent test group.",
+        "options": [
+            "independent test group",
+            "integration testing group",
+            "individual testing group",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What does FAST stand for?",
+        "answer": "Answer - A) FAST stands for Facilitated Application Specification Technique.",
+        "options": [
+            "Facilitated Application Specification Technique",
+            "Functional Application Specification Techniques",
+            "Fast Application Specification Technique",
+            "None"
+        ]
+    },
+    {
+        "question": "Total phases of RAD software model is-",
+        "answer": "Answer - B) RAD consists of a total of 5 phases - Business modeling, Data modeling, Process modeling, application generation, and testing & turnover.",
+        "options": [
+            "6",
+            "5",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "question": "Choose the correct option among the following. What does the software consist of?",
+        "answer": "Answer - A) Software consists of Program+documentation operating procedures",
+        "options": [
+            "Program+documentation operating procedures",
+            "Program+hardware manuals",
+            "Instruction+hardware manuals",
+            "Set of programs"
+        ]
+    },
+    {
+        "question": "Identify the stage in which test cases are designed?",
+        "answer": "Answer - C) Test cases are designed during Test specification",
+        "options": [
+            "Test planning",
+            "Test configuration",
+            "Test specification",
+            "Test recording"
+        ]
+    },
+    {
+        "question": "Select the best time when regression testing should be done?",
+        "answer": "Answer - D) Regression testing should be done after the software has been modified and when the environment has been modified",
+        "options": [
+            "As frequently as possible",
+            "When the environment has been modified",
+            "After the software has been modified",
+            "Both b and c are correct"
+        ]
+    },
+    {
+        "question": "When can white-box testing be started?",
+        "answer": "Answer - C) White-box testing be started after programming.",
+        "options": [
+            "After SRS creation",
+            "After installation",
+            "After programming",
+            "After designing"
+        ]
+    },
+    {
+        "question": "For which of the following reasons is the waterfall model not suitable.",
+        "answer": "Answer - D) Waterfall model is not suitable for accommodating changes.",
+        "options": [
+            "Small projects",
+            "Complex projects",
+            "Maintenance Projects",
+            "Accommodating changes"
+        ]
+    },
+    {
+        "question": "By whom is unit testing done?",
+        "answer": "Answer - C) Unit testing is done by developers.",
+        "options": [
+            "Users",
+            "Customers",
+            "Developers",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the term which is used to define testing?",
+        "answer": "Answer - C) Evaluating deliverables to find errors is testing",
+        "options": [
+            "Finding broken code",
+            "A stage of all projects",
+            "Evaluating deliverables to find errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option which does not relate to the Evolutionary Process Model?",
+        "answer": "Answer - D) All of the above does not relate to the Evolutionary Process Model. The Evolutionary Process Model is designed for rapid model development i.e it is developed from scratch and is modified as per user requirement.",
+        "options": [
+            "Concurrent Development Model",
+            "WINWIN Spiral Model",
+            "Incremental Model",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Black box testing is also known as",
+        "answer": "Answer - A) Black box testing is also known as Behavioral testing.",
+        "options": [
+            "Behavioral testing",
+            "Data flow testing",
+            "Graph-based testing",
+            "Loop testing"
+        ]
+    },
+    {
+        "question": "Identify the model which is also known as Verification and Validation Model?",
+        "answer": "Answer - B) The V-model is also known as Verification and Validation Model.",
+        "options": [
+            "Waterfall model",
+            "V-model",
+            "Prototype model",
+            "Evolutionary model"
+        ]
+    },
+    {
+        "question": "Which of the following models will not result in the desired output, when the user participation isn’t involved?",
+        "answer": "Answer - A) RAD and prototyping are the models which are dependent upon the user’s participation and might produce undesired output",
+        "options": [
+            "RAD and prototyping",
+            "Waterfall and prototyping",
+            "Prototyping and spiral",
+            "Spiral and RAD"
+        ]
+    },
+    {
+        "question": "Which is not true in the case of Unit testing?",
+        "answer": "Answer - B) Unit testing does not decrease the speed of development.",
+        "options": [
+            "It is conducted by the development team.",
+            "It decreases the speed of development.",
+            "Tester tests whether individual units of source code are fit for use.",
+            "It cannot be expected to catch every error in the program."
+        ]
+    },
+    {
+        "question": "For how many lines of code(LOC) is the Build and Fix model suitable for programming exercises?",
+        "answer": "Answer - A) Build and Fix model suitable for programming exercises of 100-200 LOC.",
+        "options": [
+            "100-200",
+            "400-1000",
+            "200-400",
+            ">1000"
+        ]
+    },
+    {
+        "question": "When can white-box testing be started?",
+        "answer": "Answer - C) White-box testing be started after programming.",
+        "options": [
+            "After SRS creation",
+            "After installation",
+            "After programming",
+            "After designing"
+        ]
+    },
+    {
+        "question": "Identify the two dimensions of the spiral model.",
+        "answer": "Answer - A) Radial, angular are the two types of dimensions of the spiral model.",
+        "options": [
+            "Radial, angular",
+            "Diagonal, angular",
+            "Diagonal, perpendicular",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify among the following which is not recommended for software processes in software engineering?",
+        "answer": "Answer - A) Software verification is not recommended since it is mainly used for implementing and testing",
+        "options": [
+            "Software verification",
+            "Software testing and validation",
+            "Software designing",
+            "Software evolution"
+        ]
+    },
+    {
+        "question": "Identify the incorrect type of Prototyping model.",
+        "answer": "Answer - C) Diagonal prototype is not a type of Prototyping model.",
+        "options": [
+            "Vertical prototype",
+            "Horizontal prototype",
+            "Diagonal prototype",
+            "Domain prototype"
+        ]
+    },
+    {
+        "question": "Choose the advantage of the Iterative model among the following.",
+        "answer": "Answer - D) All of the above are advantages of the Iterative model.",
+        "options": [
+            "Simpler to manage",
+            "Divided workload",
+            "Early revenue generation",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "Identify the correct measure for correctness.",
+        "answer": "Answer - C) Defects per KLOC is the most common measure for the correctness",
+        "options": [
+            "Errors per KLOC",
+            "$ per KLOC",
+            "Defects per KLOC",
+            "None"
+        ]
+    },
+    {
+        "question": "In which of the following categories can white-box testing be classified?",
+        "answer": "Answer - B) White-box testing can also be classified as structural testing.",
+        "options": [
+            "Design based testing",
+            "Structural testing",
+            "Error guessing technique",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "When is the ‘risk analysis’ In the spiral model performed?",
+        "answer": "Answer - C) The ‘risk analysis’ In the spiral model is performed in every loop.",
+        "options": [
+            "In the first loop",
+            "Before using the spiral model",
+            "Every loop",
+            "The first and second loop"
+        ]
+    },
+    {
+        "question": "The SRS document is also known as _____________ specification.",
+        "answer": "Answer - A) The SRS document is also known as black box specification",
+        "options": [
+            "Black box",
+            "White box",
+            "Grey box",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the environment in which we can perform alpha testing?",
+        "answer": "Answer - B) Alpha testing is always performed from the developer’s end",
+        "options": [
+            "User’s end",
+            "Developer’s end",
+            "Both a and b are correct",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is cyclomatic complexity?",
+        "answer": "Answer - B) White box testing",
+        "options": [
+            "Black box testing",
+            "White-box testing",
+            "Grey box testing",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the testing which cannot be performed on the first build of the software?",
+        "answer": "Answer - D) None of the above tests can be performed on the first build of the software.",
+        "options": [
+            "Sanity testing",
+            "Regression testing",
+            "Retesting",
+            "All a, b and c"
+        ]
+    },
+    {
+        "question": "Identify among the following which is not a type of incremental testing approach.",
+        "answer": "Answer - A) Big-bang is not a type of incremental testing approach",
+        "options": [
+            "Big-bang",
+            "Top-down",
+            "Bottom-up",
+            "Functional incrimination"
+        ]
+    },
+    {
+        "question": "Choose the correct option which represents the key objective of integration testing?",
+        "answer": "Answer - A) The key objective of integration testing is to resolve interface errors.",
+        "options": [
+            "Interface errors",
+            "Procedure errors",
+            "Design errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the option which does not apply to agile software development?",
+        "answer": "Answer - C) Abolishing the project planning and testing is not applicable as testing and planning are essential in SDLC.",
+        "options": [
+            "Producing only the essential work products.",
+            "Recent Application Development",
+            "Abolishing the project planning and testing",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct option among the following which is not included in SRS?",
+        "answer": "Answer - D) Design solutions are not included in SRS.",
+        "options": [
+            "Functionality",
+            "Performance",
+            "External interfaces",
+            "Design solutions"
+        ]
+    },
+    {
+        "question": "Select the correct defect rate for Six sigma?",
+        "answer": "Answer - D) Defect rate for Six sigma is 3.4 million per million lines of code.",
+        "options": [
+            "1.0 defect per million lines of code.",
+            "1.4 defects per million lines of code.",
+            "3 defects per million lines of code.",
+            "3.4 million per million lines of code."
+        ]
+    },
+    null,
+    {
+        "question": "The full form of SPICE is?",
+        "answer": "Answer - B) SPICE stands for Software Process Improvement and Capability Determination.",
+        "options": [
+            "Software Process Improvement and Control Determination",
+            "Software Process Improvement and Capability Determination",
+            "Software Process Improvement and Compatibility Determination",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option among the following which is involved in the system planning and designing phase of the Software Development Life Cycle (SDLC)?",
+        "answer": "Answer - D) Parallel run, sizing, specification freeze are involved in the system planning and designing phase of the Software Development Life Cycle (SDLC).",
+        "options": [
+            "Parallel run",
+            "Sizing",
+            "Specification freeze",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the incorrect testing technique.",
+        "answer": "Answer - B) Collaboration testing is not a testing technique",
+        "options": [
+            "Integration testing",
+            "Collaboration testing",
+            "System testing",
+            "Unit testing"
+        ]
+    }
+]

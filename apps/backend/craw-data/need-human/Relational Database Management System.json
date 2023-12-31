@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The full form of RDBMS is?",
+    "answer": "Explanation: The full form of RDBMS is Relational Database Management System.",
+    "options": [
+      "Relational Database Management System",
+      "Relational Database Management Services",
+      "Relational Database Managerial Services",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is the property of transaction that protects data from system failure?",
+    "answer": "Explanation: The property “Durability” protects the data from system failure.",
+    "options": [
+      "Atomicity",
+      "Isolation",
+      "Consistency",
+      "Durability"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is preserved in the execution of transactions in isolation?",
+    "answer": "Explanation: Consistency is preserved in the execution of transactions in isolations.",
+    "options": [
+      "Atomicity",
+      "Isolation",
+      "Consistency",
+      "Durability"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which is the lowest level of abstraction that describes how the data are actually stored?",
+    "answer": "Explanation: The physical level of abstraction describes how the data are actually stored.",
+    "options": [
+      "Physical",
+      "Abstract",
+      "View",
+      "User"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is a relation in RDBMS?",
+    "answer": "Explanation: In RDBMS, each table is also known as a relation.",
+    "options": [
+      "Table",
+      "Key",
+      "Data Types",
+      "Row"
+    ],
+    "done": false
+  },
+  {
+    "question": "“RDBMS has ACID properties”-Which of the following options is true about this statement?",
+    "answer": "Explanation: ACID properties of RDBMS depend on the nature of data stored in the database.",
+    "options": [
+      "True",
+      "False",
+      "Depends on data in the RDBMS",
+      "Maybe"
+    ],
+    "done": false
+  },
+  {
+    "question": "During transaction before commit which of the following statement is done automatically in case of shutdown?",
+    "answer": "Explanation: In case of a shutdown, Rollback is done automatically.",
+    "options": [
+      "Rollback",
+      "Commit",
+      "View",
+      "Flashback"
+    ],
+    "done": false
+  },
+  {
+    "question": "A relational database developer refers to a record as?",
+    "answer": "Explanation: A record is also referred to as a Tuple.",
+    "options": [
+      "Relation",
+      "Tuple",
+      "Data",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The database is always expected to satisfy which predicate?",
+    "answer": "Explanation: Assertion conditions are always expected to be satisfied by the database.",
+    "options": [
+      "Mandate",
+      "Assertion",
+      "Verify",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following can replace the below query?SELECT name, course_id  \n            FROM instructor, teaches  \n            WHERE instructor_ID= teaches_ID;",
+    "answer": "Explanation: Join can be used to join 2 tables with the same attributes.",
+    "options": [
+      "Select name, course_id from instructor natural join teaches;",
+      "Select name,course_id from teaches,instructor where instructor_id=course_id;",
+      "Select name, course_id from instructor;",
+      "Select course_id from instructor join teaches;"
+    ],
+    "done": false
+  },
+  {
+    "question": "The database system catalog stores what kind of information?",
+    "answer": "Explanation: The database system catalog stores the number of tuples, number of blocks, size of a tuple in a relation, and the blocking factor in it as statistical data.",
+    "options": [
+      "Number of blocks",
+      "Number of tuples",
+      "Size of tuples mentioned",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The local variables that hold write operations are copied to the database work in which phase?",
+    "answer": "Explanation: The local variables that hold write operations are copied to the database work in the Write Phase.",
+    "options": [
+      "Read Phase",
+      "Write Phase",
+      "Validation Phase",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following query do?UPDATE student \nSET marks = marks * 1.20;",
+    "answer": "Explanation: The UPDATE Command is used to edit a specific value in the tuple. The SET command sets the marks to a 20% greater value than the initial value.",
+    "options": [
+      "Increases marks by 120%",
+      "Decreases marks by 20%",
+      "Increase marks by 20%",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The relational model of RDBMS is concerned with?",
+    "answer": "Explanation: The relation model consists of Data Structure, Data Manipulation, and Data Integrity.",
+    "options": [
+      "Data Structure",
+      "Data Manipulation",
+      "Data Integrity",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The attribute which is the primary key should have its values never?",
+    "answer": "Explanation: The value of the primary key column should never have its values changed.",
+    "options": [
+      "Changed",
+      "Dependent",
+      "Independent",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The referential integrity constraint of a relational database can be specified with the help of?",
+    "answer": "Explanation: Foreign Key specifies the referential integrity constraints of a relational database.",
+    "options": [
+      "Primary Key",
+      "Secondary Key",
+      "Foreign Key",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Minimal Superkeys are also called?",
+    "answer": "Explanation: Minimal Superkeys are also called candidate keys.",
+    "options": [
+      "Primary Key",
+      "Candidate Key",
+      "Foreign Key",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The part of database design linked to the logical design is?",
+    "answer": "Explanation: Database Schema is related to the logical design of a database.",
+    "options": [
+      "Database Schema",
+      "Database Relation",
+      "Database Entry",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are applications of dynamic hashing?",
+    "answer": "Explanation: Dynamic Hashing allows for the accommodation of growth and shrinkage of the database as well as modification of the hash function.",
+    "options": [
+      "Accommodates growth and shrinkage of the database.",
+      "Allows modification of the hash function.",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "How can we delete entries in an RDBMS?",
+    "answer": "Explanation: Delete command is used to delete entries from an RDBMS.",
+    "options": [
+      "Delete",
+      "Insert",
+      "Assign",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Select the correct foreign key constraint?",
+    "answer": "Explanation: Referential Integrity is known as Foreign Key Constraint.",
+    "options": [
+      "Referential Integrity",
+      "Entity Integrity",
+      "Domain Integrity",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the name of the query that is placed within a WHERE or HAVING clause of another query?",
+    "answer": "Explanation: It is known as subquery.",
+    "options": [
+      "Multi Query",
+      "Sub Query",
+      "Super Query",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Modify operation is done after which operation?",
+    "answer": "Explanation: Modify operation is performed after lookup.",
+    "options": [
+      "LookUp",
+      "Insert",
+      "Delete",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Date when inserted into a database should be of the format?",
+    "answer": "Explanation: The correct format of inserting date is given in option C.",
+    "options": [
+      "YYYY-MM-DD",
+      "“YYYY-MM-DD”",
+      "‘YYYY-MM-DD’",
+      "DD-MM-YYYY"
+    ],
+    "done": false
+  },
+  {
+    "question": "Total view of a database is known as?",
+    "answer": "Explanation: Total view of a database is known as the Conceptual view.",
+    "options": [
+      "Internal View",
+      "Conceptual View",
+      "Physical View",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "To select some particular columns, which of the following columns is used?",
+    "answer": "Explanation: Projection is used to select some particular columns.",
+    "options": [
+      "PROJECTION",
+      "SELECTION",
+      "JOIN",
+      "UNION"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is NTFS?",
+    "answer": "Explanation: NTFS stands for New Technology File System.",
+    "options": [
+      "New Tree File System",
+      "New Technology File System",
+      "New Table File System",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are properties of entities?",
+    "answer": "Explanation: Attributes are a property of entities.",
+    "options": [
+      "Table",
+      "Attributes",
+      "Groups",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following constraints does RDBMS checks before creating tables?",
+    "answer": "Explanation: All of the above constraints are checked by RDBMS before creating tables.",
+    "options": [
+      "Not Null",
+      "Primary Key",
+      "Data Integrity",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is a domain called atomic?",
+    "answer": "Explanation: A domain is called atomic when its elements are indivisible.",
+    "options": [
+      "Indivisible",
+      "Divisible",
+      "Constant",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Set of one or more attributes taken collectively to uniquely identify a record is called?",
+    "answer": "Explanation: Super Key is a set of one or more attributes taken collectively to uniquely identify a record.",
+    "options": [
+      "Super Key",
+      "Candidate Key",
+      "Foreign Key",
+      "Primary Key"
+    ],
+    "done": false
+  },
+  {
+    "question": "Language through which user requests data from a database is called?",
+    "answer": "Explanation: The user requests data from a database using query language.",
+    "options": [
+      "Relational",
+      "Assembly",
+      "Query",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The union operation performs the set union of 2 ‘_______’ tables.",
+    "answer": "Explanation: The union operation performs the set union of 2 ‘Similarly Structured’ tables.",
+    "options": [
+      "Similarly Structured",
+      "Any 2 tables",
+      "No union operation is defined as such",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The Select command is a part of what type of statement?",
+    "answer": "Explanation: Select command is part of Data Manipulation Language or DML.",
+    "options": [
+      "DML",
+      "DDL",
+      "View",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What kind of updates are not allowed in RDBMS?",
+    "answer": "Explanation: Updates that violate the Integrity Constraints of a Database are not allowed in RDBMS.",
+    "options": [
+      "Integrity Constraints violations",
+      "Authorization violations",
+      "DDL Constraints violations",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The number of attributes in a relation is called its?",
+    "answer": "Explanation: The number of attributes in a relation is called its Degree.",
+    "options": [
+      "Cardinality",
+      "Degree",
+      "Strength",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What kind of Joins is a default in SQL?",
+    "answer": "Explanation: Inner Joins are considered to be default in SQL.",
+    "options": [
+      "Inner",
+      "Outer",
+      "Self",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "The primary key must be?",
+    "answer": "Explanation: The primary key must be both unique and not null.",
+    "options": [
+      "Unique",
+      "Not Null",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are examples of aggregate functions in SQL?",
+    "answer": "Explanation: All of the above are examples of aggregate functions in SQL",
+    "options": [
+      "SUM",
+      "MAX",
+      "MIN",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "SQL update statements that can only be used in the set clause are called?",
+    "answer": "Explanation: Scalar Subqueries can only be used in the set clause.",
+    "options": [
+      "Scalar Subqueries",
+      "Conjoined Query",
+      "Multiple Subqueries",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which conditions allows a general predicate over the relations being joined?",
+    "answer": "Explanation: The On condition allows a general predicate over the relations being joined.",
+    "options": [
+      "On",
+      "Where",
+      "Having",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the maximum number of tables which can be joined with a join?",
+    "answer": "Explanation: We can join multiple tables using joins.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Multiple Tables can be joined"
+    ],
+    "done": false
+  },
+  {
+    "question": "How can we make a transaction permanent in the database?",
+    "answer": "Explanation: We can make a transaction permanent in a database by committing the transaction.",
+    "options": [
+      "View",
+      "Commit",
+      "Rollback",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Maximum number of children of a B-tree of order N is?",
+    "answer": "Explanation: A B-tree of order N is N.",
+    "options": [
+      "N / 2",
+      "N - 1",
+      "N",
+      "N * N"
+    ],
+    "done": false
+  },
+  {
+    "question": "How is the ranking of queries done?",
+    "answer": "Explanation: Ranking of queries is done using the Order By clause.",
+    "options": [
+      "Order By",
+      "Group By",
+      "Where",
+      "Having"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the AS clause used for?",
+    "answer": "Explanation: AS clause is used for rename.",
+    "options": [
+      "Projection",
+      "Rename",
+      "Select",
+      "Union"
+    ],
+    "done": false
+  },
+  {
+    "question": "OLAP stands for?",
+    "answer": "Explanation: OLAP stands for Online Analytical Processing.",
+    "options": [
+      "Online Analytical Processing",
+      "Online Analysis Processing",
+      "Online Transaction Processing",
+      "Online Aggregate Processing"
+    ],
+    "done": false
+  },
+  {
+    "question": "What type of data can be modeled as dimensional and measure attributes?",
+    "answer": "Explanation: Data that can be modeled as dimensional and measure attributes is called Multidimensional data.",
+    "options": [
+      "Multidimensional",
+      "SingleDimsenional",
+      "Measured",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Cross tabs in SQL are created using?",
+    "answer": "Explanation: Cross Tabs are created in SQL using Slice.",
+    "options": [
+      "Slice",
+      "Dice",
+      "Pivot",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "A set of entities of same type that share same properties or attributes is called?",
+    "answer": "Explanation: A set of entities of same type that share same properties or attributes is called an Entity Set.",
+    "options": [
+      "Entity Set",
+      "Attribute Set",
+      "Relation Set",
+      "Entity Model"
+    ],
+    "done": false
+  }
+]

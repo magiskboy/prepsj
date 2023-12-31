@@ -1,0 +1,1464 @@
+[
+  {
+    "question": "Full form of PHP is?",
+    "options": [
+      {
+        "content": "Pretext Hypertext Processor",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Hypertext preprocessor",
+        "checked": true,
+        "explain": "PHP stands for Hypertext preprocessor",
+        "code": "B"
+      },
+      {
+        "content": "Preprocessor Home page",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the default file extension of PHP among the following.",
+    "options": [
+      {
+        "content": ".xml",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": ".html",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": ".php",
+        "checked": true,
+        "explain": "The default file extension of PHP is .php",
+        "code": "C"
+      },
+      {
+        "content": ".ph",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What type of language is PHP?",
+    "options": [
+      {
+        "content": "Server-side scripting",
+        "checked": true,
+        "explain": "PHP is a server-side scripting language.",
+        "code": "A"
+      },
+      {
+        "content": "Client-side scripting",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "User-side scripting",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct syntax of PHP.",
+    "options": [
+      {
+        "content": "<php>",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "<?php>",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "?php?",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "<?php?>",
+        "checked": true,
+        "explain": "The correct syntax is <?php?>",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the equivalent of the statement : $sub -= $sub.",
+    "options": [
+      {
+        "content": "$sub = $sub - 1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "$sub = $sub - $sub",
+        "checked": true,
+        "explain": "$sub -= $sub is equivalent to $sub = $sub - $sub",
+        "code": "B"
+      },
+      {
+        "content": "$sub = $sub - $sub - 1",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "$sub = $sub",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total ways in which user a print output in PHP is -",
+    "options": [
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "Output can be printed in 2 ways i.e. echo and print.",
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among echo and print, which is faster?",
+    "options": [
+      {
+        "content": "print",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "echo",
+        "checked": true,
+        "explain": "echo is comparatively faster than print.",
+        "code": "B"
+      },
+      {
+        "content": "Both have the same speed",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In PHP, variable names must start with which of the following.",
+    "options": [
+      {
+        "content": "No numbers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Letters",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Underscore",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Variable names must follow all of the above.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Is PHP variable case sensitive?",
+    "options": [
+      {
+        "content": "True",
+        "checked": true,
+        "explain": "PHP variables are case-sensitive.",
+        "code": "A"
+      },
+      {
+        "content": "False",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Depends on variable",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total variable scope in PHP is?",
+    "answer": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "done": false
+  },
+  {
+    "question": "Choose the incorrect data type among the following.",
+    "options": [
+      {
+        "content": "Objects",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "void",
+        "checked": true,
+        "explain": "void is not a data type in PHP.",
+        "code": "B"
+      },
+      {
+        "content": "Null",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Resources",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total looping techniques supported by PHP are?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "22",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": true,
+        "explain": "PHP supports 4 types of looping techniques - for, while, do-while,for-each loop.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose whether true or false: the do-while loop is an exit control loop.",
+    "options": [
+      {
+        "content": "False",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "True",
+        "checked": true,
+        "explain": "True. the do-while loop is an exit control loop.",
+        "code": "B"
+      },
+      {
+        "content": "Depends on the condition",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose whether true or false: while loop is an exit control loop.",
+    "options": [
+      {
+        "content": "False",
+        "checked": true,
+        "explain": "False. while loop is an entry control loop.",
+        "code": "A"
+      },
+      {
+        "content": "True",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Depends on the condition",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the function among the following, which is not built-in.",
+    "options": [
+      {
+        "content": "fopen()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "fclosed()",
+        "checked": true,
+        "explain": "fclosed() isn’t a built-in function in PHP.",
+        "code": "B"
+      },
+      {
+        "content": "gettype()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "print_r()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Functions in PHP should start with which of the following keyword?",
+    "answer": "Answer: c) Functions in PHP should start with the keyword function.",
+    "options": [
+      "def",
+      "fun",
+      "function",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Total types of the array in PHP is?",
+    "options": [
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "There are a total of 3 types of arrays in PHP.",
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Index of an array by default starts with which of the following in PHP?",
+    "options": [
+      {
+        "content": "0",
+        "checked": true,
+        "explain": "Index of arrays starts with 0 in PHP.",
+        "code": "A"
+      },
+      {
+        "content": "-1",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "trim() in PHP is used for?",
+    "options": [
+      {
+        "content": "Removes uppercase alphabet",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Removes whitespaces",
+        "checked": true,
+        "explain": "trim() removes whitespaces.",
+        "code": "B"
+      },
+      {
+        "content": "Removes lowercase alphabet",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Removes underscore",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another term used for Objects is?",
+    "options": [
+      {
+        "content": "template",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "reference",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "instances",
+        "checked": true,
+        "explain": "Objects are also known as instances.",
+        "code": "C"
+      },
+      {
+        "content": "class",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Using which keyword is the object created?",
+    "options": [
+      {
+        "content": "object",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "new",
+        "checked": true,
+        "explain": "new keyword is used for creating the object.",
+        "code": "B"
+      },
+      {
+        "content": "create",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another name of the constructor is?",
+    "options": [
+      {
+        "content": "Key function",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Automatic function",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Find function",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Magic function",
+        "checked": true,
+        "explain": "Constructors are also known as magic functions.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options, choose the term which is used to refer to methods within the class itself.",
+    "options": [
+      {
+        "content": "this",
+        "checked": true,
+        "explain": "this keyword is used to refer to methods within the class itself.",
+        "code": "A"
+      },
+      {
+        "content": "public",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "private",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "protected",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which version of PHP was Type Hinting introduced?",
+    "options": [
+      {
+        "content": "PHP 6",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "PHP 4",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "PHP 5",
+        "checked": true,
+        "explain": "Type Hinting was introduced in PHP 5.",
+        "code": "C"
+      },
+      {
+        "content": "PHP 5.3",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following functions, choose the one which accepts any number of parameters.",
+    "options": [
+      {
+        "content": "get_argv()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "func_get_argv()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "get_argc()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "func_get_args()",
+        "checked": true,
+        "explain": "func_get_args() can accepts any number of parameters.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used to find files?",
+    "options": [
+      {
+        "content": "file()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "glob()",
+        "checked": true,
+        "explain": "glob() is used to find files.",
+        "code": "B"
+      },
+      {
+        "content": "get_file()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "fold()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the function which is used to compress a string.",
+    "options": [
+      {
+        "content": "gzcompress()",
+        "checked": true,
+        "explain": "gzcompress() is used to compress a string.",
+        "code": "A"
+      },
+      {
+        "content": "compress()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "zip()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "zip_compress()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following function is used to sort array in descending order?",
+    "options": [
+      {
+        "content": "dsort()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "asort()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "rsort()",
+        "checked": true,
+        "explain": "rsort() is used to sort array in descending order.",
+        "code": "C"
+      },
+      {
+        "content": "sort()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct way to invoke a method among the following.",
+    "options": [
+      {
+        "content": "object::methodName();",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "object -> methodName();",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "$object::methodName();",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "$object->methodName();",
+        "checked": true,
+        "explain": "To invoke a method $object->methodName(); is used.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the option which prevents a method from being overridden by a subclass?",
+    "options": [
+      {
+        "content": "Final",
+        "checked": true,
+        "explain": "Final is the method scope which prevents a method from being overridden by a subclass.",
+        "code": "A"
+      },
+      {
+        "content": "Protected",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Static",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Abstract",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In PHP, how are constructors recognized?",
+    "options": [
+      {
+        "content": "function_construct()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "classname()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "function__construct()",
+        "checked": true,
+        "explain": "In PHP, constructors recognized by function__construct().",
+        "code": "C"
+      },
+      {
+        "content": "_construct()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the feature, which allows calling one or more methods or functions in single instruction?",
+    "options": [
+      {
+        "content": "Method adding",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Method chaining",
+        "checked": true,
+        "explain": "Method chaining allows to call one or more methods or functions in a single instruction.",
+        "code": "B"
+      },
+      {
+        "content": "Method including",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Typecasting",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total error levels available in PHP are?",
+    "options": [
+      {
+        "content": "17",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "16",
+        "checked": true,
+        "explain": "PHP has a total of 16 error levels.",
+        "code": "B"
+      },
+      {
+        "content": "15",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "14",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Error level E_ERROR denotes?",
+    "options": [
+      {
+        "content": "Near-fatal error",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Compile-time error",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fatal compile-time error",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Fatal run-time error",
+        "checked": true,
+        "explain": "E_ERROR denotes a Fatal run-time error.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the options among the following which invokes the exception class.",
+    "options": [
+      {
+        "content": "new exception()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "throws new expection()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "throw new expection()",
+        "checked": true,
+        "explain": "throw new exception() invokes the exception class.",
+        "code": "C"
+      },
+      {
+        "content": "New throws exception()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the options among the following which generates unique ids",
+    "options": [
+      {
+        "content": "md5()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "uniqueid()",
+        "checked": true,
+        "explain": "uniqueid() is function which generates unique ids.",
+        "code": "B"
+      },
+      {
+        "content": "id()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "mdid()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Find the output of the code below:<?PHP\n ECHO CHR(52);\n?>",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": true,
+        "explain": "ASCII value of 4 is 52, hence the output is 4.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Find the output of the code below:<?PHP\n ECHO ORD(“HI”);\n?>",
+    "options": [
+      {
+        "content": "104",
+        "checked": true,
+        "explain": "The ASCII value of H is 104 and ORD returns the ASCII value of the first character.",
+        "code": "A"
+      },
+      {
+        "content": "103",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "106",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "209",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the function which adds a value at the end of an array?",
+    "options": [
+      {
+        "content": "into_array()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "inend_array()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "array_unshift()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "array_push()",
+        "checked": true,
+        "explain": "array_push() adds a value at the end of an array.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Find the output of the code below:<?PHP\n$arr = ARRAY(12,5,2);\n ECHO (ARRAY_PRODUCT($A));\n?>",
+    "options": [
+      {
+        "content": "60",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "10",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "120",
+        "checked": true,
+        "explain": "ARRAY_PRODUCT returns the product of all the elements of the array.",
+        "code": "C"
+      },
+      {
+        "content": "24",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following function is used to sort arrays in the natural order?",
+    "options": [
+      {
+        "content": "dsort()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "natcasesort()",
+        "checked": true,
+        "explain": "natcasesort() is used to sort arrays in the natural order.",
+        "code": "B"
+      },
+      {
+        "content": "naturalsort()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "casesort()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the property scope not supported by PHP.",
+    "options": [
+      {
+        "content": "public",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "static",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "friendly",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "final",
+        "checked": true,
+        "explain": "The property scope final is not supported by PHP.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "From which of the following class does the child class inherits?\nChild class\nSuper class\nBase class\nParent class",
+    "options": [
+      {
+        "content": "Only 2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Only 2 and 3",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Only 3 and 4",
+        "checked": true,
+        "explain": ". The child class inherits from a parent class and base class.",
+        "code": "C"
+      },
+      {
+        "content": "Only 1 and 4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To implement overloading, which of the following magic method used?",
+    "options": [
+      {
+        "content": "__call",
+        "checked": true,
+        "explain": "__call is used to implement overloading in PHP.",
+        "code": "A"
+      },
+      {
+        "content": "__invoke",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "__unset",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "__wakeup",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of SPL is?",
+    "options": [
+      {
+        "content": "Source PHP library",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Source PHP list",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Standard PHP library",
+        "checked": true,
+        "explain": "SPL stands for Standard PHP library.",
+        "code": "C"
+      },
+      {
+        "content": "Standard PHP list",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total types of filtering present in PHP?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "PHP has a total of 2 filtering types.",
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the regular expression which matches any expression string having zero or one P?",
+    "options": [
+      {
+        "content": "P+",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "P*",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "P?",
+        "checked": true,
+        "explain": "P? Is the regular expression that matches any expression string having zero or one P.",
+        "code": "C"
+      },
+      {
+        "content": "P#",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of POSIX is?",
+    "options": [
+      {
+        "content": "Portable Operating system interface for Linux",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Portable Operating system interface for Unix",
+        "checked": true,
+        "explain": "POSIX stands for Portable Operating system interface for Unix.",
+        "code": "B"
+      },
+      {
+        "content": "Portative Operating system interface for Linux",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Portative Operating system interface for Unix",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the function which converts a string to uppercase.",
+    "options": [
+      {
+        "content": "uppercase()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "str_uppercase()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "strtoupper()",
+        "checked": true,
+        "explain": "strtoupper() converts a string to uppercase.",
+        "code": "C"
+      },
+      {
+        "content": "struppercase()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The function FILESIZE() returns the size of the file in?",
+    "options": [
+      {
+        "content": "KB",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Bytes",
+        "checked": true,
+        "explain": "FILESIZE() returns the size of the file in bytes.",
+        "code": "B"
+      },
+      {
+        "content": "GB",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "bits",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

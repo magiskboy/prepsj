@@ -1,0 +1,1173 @@
+[
+  {
+    "question": "Which of the following is used in React.js to increase performance?",
+    "options": [
+      {
+        "content": "Virtual DOM",
+        "checked": true,
+        "explain": "Virtual DOM is used in React.js to increase performance.",
+        "code": "A"
+      },
+      {
+        "content": "Original DOM",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is ReactJS?",
+    "options": [
+      {
+        "content": "Server-side framework",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "user interface framework",
+        "checked": true,
+        "explain": "ReactJS is a user-interface framework.",
+        "code": "B"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the one which is used to pass data to components from outside",
+    "options": [
+      {
+        "content": "Render with arguments",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "setState",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "PropTypes",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "props",
+        "checked": true,
+        "explain": "props are used to pass data to components from outside.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Who created React.js?",
+    "options": [
+      {
+        "content": "Jordan Mike",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Jordan Walke",
+        "checked": true,
+        "explain": "Jordan Walke created React.js.",
+        "code": "B"
+      },
+      {
+        "content": "Tim Lee",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Jordan Lee",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which language is React.js written?",
+    "options": [
+      {
+        "content": "Python",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JavaScript",
+        "checked": true,
+        "explain": "React.js is written in Javascript.",
+        "code": "B"
+      },
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "PHP",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is Babel?",
+    "options": [
+      {
+        "content": "JavaScript compiler",
+        "checked": true,
+        "explain": "Devil is a JavaScript compiler.",
+        "code": "A"
+      },
+      {
+        "content": "JavaScript interpreter",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "JavaScript transpiler",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the command used to create a react app.",
+    "options": [
+      {
+        "content": "npm install create-react-app",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "npm install -g create-react-app",
+        "checked": true,
+        "explain": "npm install -g create-react-app is used to create a react app.",
+        "code": "B"
+      },
+      {
+        "content": "install -g create-react-app",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following port is the default where webpack-dev-server runs?",
+    "answer": "Answer : D) 8080 is the default where webpack-dev-server runs.",
+    "options": [
+      "3000",
+      "3306",
+      "3030",
+      "8080"
+    ],
+    "done": false
+  },
+  {
+    "question": "How many elements can a valid react component return?",
+    "options": [
+      {
+        "content": "1",
+        "checked": true,
+        "explain": "A valid red component can return only 1 element.",
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "A state in React.js is also known as?",
+    "options": [
+      {
+        "content": "The internal storage of the component",
+        "checked": true,
+        "explain": "A state in React.js is also known as the internal storage of the component.",
+        "code": "A"
+      },
+      {
+        "content": "External storage of the component",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Permanent storage",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following method is used to access the state of a component from inside of a member function?",
+    "options": [
+      {
+        "content": "this.prototype.stateValue",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "this,getState()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "this.values",
+        "checked": true,
+        "explain": "this.values is used to access the state of a component from inside of a member function.",
+        "code": "C"
+      },
+      {
+        "content": "this.state",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are arbitrary inputs of components in react also known as?",
+    "options": [
+      {
+        "content": "Elements",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Props",
+        "checked": true,
+        "explain": "Arbitrary inputs of components in react also known as Props.",
+        "code": "B"
+      },
+      {
+        "content": "Keys",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Ref",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In MVC, what does React.js act as?",
+    "options": [
+      {
+        "content": "Model",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Controller",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "View",
+        "checked": true,
+        "explain": "ViewIn MVC, React.js acts as the \"View\" (V). React.js is mainly used to create and manage the user interface (UI) components and their interactions in a web application, which is the main responsibility of the View layer in the MVC architecture.",
+        "code": "C"
+      },
+      {
+        "content": "Middleware",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among The following options, choose the one which helps react for keeping their data uni-directional?",
+    "options": [
+      {
+        "content": "DOM",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Flux",
+        "checked": true,
+        "explain": "FLux helps react for keeping their data uni-directional.",
+        "code": "B"
+      },
+      {
+        "content": "JSX",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Props",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Using which of the following command can prevent default behaviour at in react?",
+    "options": [
+      {
+        "content": "preventDefault()",
+        "checked": true,
+        "explain": "preventDefault() is used to prevent default behavior in react.",
+        "code": "A"
+      },
+      {
+        "content": "avoidDefault()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "revokeDefault()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the smallest building block of React.JS.",
+    "options": [
+      {
+        "content": "Props",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Elements",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Components",
+        "checked": true,
+        "explain": "Components are the smallest building blocks of ReactJS.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is ReactJS mainly used for building?",
+    "options": [
+      {
+        "content": "Database",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Connectivity",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "User interface",
+        "checked": true,
+        "explain": "ReactJS is mainly used for building user interfaces.",
+        "code": "C"
+      },
+      {
+        "content": "Design platform",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following function is used to change the state of react component?",
+    "options": [
+      {
+        "content": "this.setState()",
+        "checked": true,
+        "explain": "this.setState() is used to change the state of react component.",
+        "code": "A"
+      },
+      {
+        "content": "this.state()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "this.setChangeState()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which acts as the input of class-based component?",
+    "answer": "Answer : D) props act as the input of the class-based components.",
+    "options": [
+      "Factory",
+      "Render",
+      "Class",
+      "props"
+    ],
+    "done": false
+  },
+  {
+    "question": "Among the following which is used to create a class inheritance?",
+    "options": [
+      {
+        "content": "Inherits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Extends",
+        "checked": true,
+        "explain": "Extends are used to create a class inheritance.",
+        "code": "B"
+      },
+      {
+        "content": "Create",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "this",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct data flow sequence of flux concept.",
+    "options": [
+      {
+        "content": "Action -> Dispatcher -> Store -> View",
+        "checked": true,
+        "explain": "The correct data flow sequence of flux concept is :     Action -> Dispatcher -> Store -> View",
+        "code": "A"
+      },
+      {
+        "content": "Action -> Dispatcher -> View -> Store",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Action -> Store -> View -> Dispatcher",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Dispatcher -> Action -> Store -> View",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total ways of defining variables in ES6 is?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "There are three ways of defining variables in ES6: let, var and const.",
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are two ways to handle data in react?",
+    "options": [
+      {
+        "content": "services and components",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "State and props",
+        "checked": true,
+        "explain": "State and props is used to handle data in react.",
+        "code": "B"
+      },
+      {
+        "content": "state and services",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "state and component",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the corner which is a must-have for every ReactJS component?",
+    "answer": "Answer : A)renderComponent is a must-have for every ReactJS component.",
+    "options": [
+      "renderComponent",
+      "SetinitialComponent",
+      "Render",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "ES6 stands for _________",
+    "answer": "Answer : C) ES6 stands for ECMAScript 6.",
+    "options": [
+      "ECMA 6",
+      "ECMAJavaScript 6",
+      "ECMAScript 6",
+      "EJavaScript 6"
+    ],
+    "done": false
+  },
+  {
+    "question": "Choose the method with refers to the parent class in ReactJS?",
+    "options": [
+      {
+        "content": "this()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "super()",
+        "checked": true,
+        "explain": "super() refers to the parent class in ReactJS.",
+        "code": "B"
+      },
+      {
+        "content": "iniherits()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "self()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "JSX stands for __________",
+    "answer": "Answer : A) JSX stands for Javascript XML.",
+    "options": [
+      "Javascript XML",
+      "JSON XML",
+      "JSON",
+      "Javascript and AngularJS"
+    ],
+    "done": false
+  },
+  {
+    "question": "The function which is called to render HTML to a web page in react?",
+    "answer": "Answer : B)render() is called to render HTML to a web page in react.",
+    "options": [
+      "ReactDOM_render()",
+      "render()",
+      "render_DOM()",
+      "DOM_HTML()"
+    ],
+    "done": false
+  },
+  {
+    "question": "Choose the functionality of setState?",
+    "options": [
+      {
+        "content": "Access the previous state before the setState operation.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "invoke code after the setState operation is done",
+        "checked": true,
+        "explain": "setState invoke code after the setState operation is done.",
+        "code": "B"
+      },
+      {
+        "content": "replace this date completely instead of the default merge actionnone of the above",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the method which is not a part of ReactDOM?",
+    "options": [
+      {
+        "content": "ReactDOM.createPortal()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "ReactDOM.hydrate()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ReactDOM.destroy()",
+        "checked": true,
+        "explain": "ReactDOM.destroy() is not a part of ReactDOM.",
+        "code": "C"
+      },
+      {
+        "content": "ReactDOM.findDOMNode()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct statement in the context of uncontrolled components in ReactJS?",
+    "options": [
+      {
+        "content": "source of truth can be anything",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "source of truth is a component state",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "source of truth is DOM",
+        "checked": true,
+        "explain": "Source of truth is DOM is correct in the context of uncontrolled components in ReactJS.",
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which directory is react component saved?",
+    "answer": "Answer : C) React component is saved in js/components in/.",
+    "options": [
+      "vendor/js/components/",
+      "components/js",
+      "js/components",
+      "vendor/components"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the functionality of a “webpack” command?",
+    "options": [
+      {
+        "content": "Runs react local development server",
+        "checked": true,
+        "explain": "Webpack is a model blunder.",
+        "code": "A"
+      },
+      {
+        "content": "transfer files all the JavaScript down into one file",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "a module blunder",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In react, the key should be?",
+    "options": [
+      {
+        "content": "Unique among his siblings only",
+        "checked": true,
+        "explain": "The key should be unique among his siblings only.",
+        "code": "A"
+      },
+      {
+        "content": "unique in the DOM",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Does not requires to be unique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which company developed ReactJS?",
+    "options": [
+      {
+        "content": "Apple",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Facebook",
+        "checked": true,
+        "explain": "ReactJS was developed by Facebook.",
+        "code": "B"
+      },
+      {
+        "content": "Google",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Twitter",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the component which should be overridden to stop the component from updating?",
+    "answer": "Answer : D) shouldComponentUpdate should be override to stop the component from updating.",
+    "options": [
+      "componentDidUpdate",
+      "componentDidMount",
+      "willComponentUpdate",
+      "shouldComponentUpdate"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is used to access a function fetch() from h1 element in JSX?",
+    "answer": "Answer : D) The correct command is <h1>{fetch()}</h1>.",
+    "options": [
+      "<h1>${fetch()}</h1>",
+      "<h1>{fetch}</h1>",
+      "<h1>${fetch}</h1>",
+      "<h1>{fetch()}</h1>"
+    ],
+    "done": false
+  },
+  {
+    "question": "When setState() is called inside render() method, which of the following events takes place?",
+    "answer": "Answer : D) Stackoverflow error occurs when setState() is called inside render() method.",
+    "options": [
+      "duplicate key error",
+      "repetitive output happiness on the screen",
+      "nothing happens",
+      "stackoverflow error"
+    ],
+    "done": false
+  },
+  {
+    "question": "What happens if you render an input element with disabled = {false}?",
+    "options": [
+      {
+        "content": "it will be rendered as enabled",
+        "checked": true,
+        "explain": "It will be rendered as enabled if you render an input element with disabled = {false}.",
+        "code": "A"
+      },
+      {
+        "content": "it will be rendered as disabled",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "it will not be rendered at all",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When is useReducer used over useState in React component?",
+    "options": [
+      {
+        "content": "When we want to replace redux",
+        "checked": true,
+        "explain": "When we want to replace redux, useReducer is used over useState.",
+        "code": "A"
+      },
+      {
+        "content": "when we want to break our production app",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "when we want to improve performance",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "React is a ___________",
+    "options": [
+      {
+        "content": "JavaScript framework",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JavaScript library",
+        "checked": true,
+        "explain": "React is a JavaScript library.",
+        "code": "B"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the library which is most often associated with react?",
+    "options": [
+      {
+        "content": "Sinon",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Chai",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Jest",
+        "checked": true,
+        "explain": "Jest is most often associated with react.",
+        "code": "C"
+      },
+      {
+        "content": "Mocha",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is used to handle code-splitting?",
+    "options": [
+      {
+        "content": "React.lazy",
+        "checked": true,
+        "explain": "React.lazy is used to handle code splitting.",
+        "code": "A"
+      },
+      {
+        "content": "React.memo",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "React.fallback",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "React.split",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why is useLayoutEffect used?",
+    "answer": "Answer : D) When you need the browser to paint before the effect runs, useLayoutEffect used.",
+    "options": [
+      "To complete the update",
+      "to optimize for all devices",
+      "To change the layout of the screen",
+      "when you need the browser to paint before the effectors"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following terms commonly described react applications?",
+    "options": [
+      {
+        "content": "Imperative",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Integrated",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Declarative",
+        "checked": true,
+        "explain": "Declarative is commonly used to describe react applications.",
+        "code": "C"
+      },
+      {
+        "content": "closed",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why is ref used?",
+    "options": [
+      {
+        "content": "to bind the function",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "to call a function",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "to directly access the DOM node",
+        "checked": true,
+        "explain": "Ref is used to directly access the DOM node.",
+        "code": "C"
+      },
+      {
+        "content": "to refer to another JS file",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

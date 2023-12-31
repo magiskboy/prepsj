@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the process at the most detailed level of the data flow diagrams known as?",
+        "answer": "Answer: B) The process at the most detailed level of the data flow diagrams known as functional primitives",
+        "options": [
+            "Interfaces",
+            "functional primitives",
+            "data flow",
+            "transform descriptions"
+        ]
+    },
+    {
+        "question": "Total bits used by the IPv6 address is ________",
+        "answer": "Answer: C) Total bits used by the IPv6 address is 128 bits.",
+        "options": [
+            "64 bit",
+            "256 bit",
+            "128 bit",
+            "32 bit"
+        ]
+    },
+    {
+        "question": "Identify the language which is mainly used for Artificial Intelligence",
+        "answer": "Answer: C) Prolog is used for Artificial Intelligence.",
+        "options": [
+            "Java",
+            "J2EE",
+            "Prolog",
+            "C"
+        ]
+    },
+    {
+        "question": "Why is a firewall used in a computer?",
+        "answer": "Answer: D) Firewall is used in computers for security.",
+        "options": [
+            "Monitoring",
+            "data transmission",
+            "Authentication",
+            "security"
+        ]
+    },
+    {
+        "question": "The full form of DOM is?",
+        "answer": "Answer: B) DOM  stands for document object model.",
+        "options": [
+            "Document-oriented memory",
+            "document object model",
+            "document object memory",
+            "none"
+        ]
+    },
+    {
+        "question": "How many levels are there in the architecture of the database?",
+        "answer": "Answer: B) There are three levels of architecture in the database - physical level, the view level, and user level.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Among the following which is not a database management software",
+        "answer": "Answer: B) COBOL  is not a database management software",
+        "options": [
+            "MySQL",
+            "COBOL",
+            "Sybase",
+            "Oracle"
+        ]
+    },
+    {
+        "question": "Identify the total standard color names that HTML supports.",
+        "answer": "Answer: C) HTML supports a total of 140 standard color names.",
+        "options": [
+            "30",
+            "70",
+            "140",
+            "120"
+        ]
+    },
+    {
+        "question": "Choose the port number of FTP.",
+        "answer": "Answer: B) The port number of FTP is 21",
+        "options": [
+            "23",
+            "21",
+            "110",
+            "143"
+        ]
+    },
+    {
+        "question": "Total number of layers in OSI model is ___________",
+        "answer": "Answer: B) The total number of layers in the OSI model is 7.",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "question": "UNIX is written in which language?",
+        "answer": "Answer: C) UNIX is written in C language. It was developed in the 1970s at AT & T Bell laboratories.",
+        "options": [
+            "C#",
+            "C++",
+            "C",
+            ".Net"
+        ]
+    },
+    {
+        "question": "Identify the different features of Big Data Analytics.",
+        "answer": "Answer: D)  All of the above are features of Big Data Analytics",
+        "options": [
+            "open source",
+            "data recovery",
+            "Scalability",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is an extension of image file?",
+        "answer": "Answer: B)  .gif is an extension of image file.",
+        "options": [
+            ".mkv",
+            ".gif",
+            ".txt",
+            ".vdf"
+        ]
+    },
+    {
+        "question": "Dbase III is?",
+        "answer": "Answer: C) dBase III is Application software.",
+        "options": [
+            "Hardware",
+            "Firmware",
+            "application software",
+            "operating system"
+        ]
+    },
+    {
+        "question": "The main memory of a computer system is?",
+        "answer": "Answer: B) Main memory of a computer system is volatile",
+        "options": [
+            "Non-volatile",
+            "Volatile",
+            "Restricted",
+            "Unrestricted"
+        ]
+    },
+    {
+        "question": "Identify among the following servers which allow LAN users to share data.",
+        "answer": "Answer: D) File server allows LAN users to share data.",
+        "options": [
+            "Communication server",
+            "Point server",
+            "Data server",
+            "File server"
+        ]
+    },
+    {
+        "question": "URL stands for _______________",
+        "answer": "Answer: D) The full form of URL is a uniform resource locator.",
+        "options": [
+            "Uninterrupted data locator",
+            "Uninterrupted record locator",
+            "uniform record locator",
+            "uniform resource locator"
+        ]
+    },
+    {
+        "question": "SSLstands for _______________",
+        "answer": "Answer: A) The full form of SSL is a secure socket layer.",
+        "options": [
+            "secure socket layer",
+            "secure secret level",
+            "secure system level",
+            "section security layer"
+        ]
+    },
+    {
+        "question": "Which of the following is not a SQL command?",
+        "answer": "Answer: A) DELETE is not a SQL command",
+        "options": [
+            "DELETE",
+            "ORDER BY",
+            "SELECT",
+            "WHERE"
+        ]
+    },
+    {
+        "question": "Identify the range of byte data types in JavaScript",
+        "answer": "Answer: B) the range of byte data type is - 128 to 127.",
+        "options": [
+            "-10 to 9",
+            "- 128 to 127",
+            "-32768 to 32767",
+            "-2147483648 to 2147483647"
+        ]
+    },
+    {
+        "question": "Computer word size is a multiple of ______ bits",
+        "answer": "Answer: C) Computer word size is a multiple of 16 bits",
+        "options": [
+            "4 bits",
+            "10 bits",
+            "16 bits",
+            "1024 bits"
+        ]
+    },
+    {
+        "question": "OCR stands for _____________",
+        "answer": "Answer: D) OCR stands for optical card reader.",
+        "options": [
+            "Online computer retrieval",
+            "office cash receiver",
+            "optical character reader",
+            "optical card reader"
+        ]
+    },
+    {
+        "question": "Testing of program’s corporate is known as?",
+        "answer": "Answer: D) Testing of program’s corporate is known as unit testing.",
+        "options": [
+            "System testing",
+            "isolation testing",
+            "pilot testing",
+            "unit-testing"
+        ]
+    },
+    {
+        "question": "Information in computer read-only memory stored by",
+        "answer": "Answer: C) Information in computer read-only memory is stored by the manufacturer.",
+        "options": [
+            "Engineer",
+            "Programmer",
+            "Manufacturer",
+            "user"
+        ]
+    },
+    {
+        "question": "Device driver required in?",
+        "answer": "Answer: C) A disk drive is a device driver that allows a specific disk drive to communicate with the remainder of the computer. A good example of this driver is a floppy disk drive.",
+        "options": [
+            "Register",
+            "Main memory",
+            "Disk",
+            "Cache"
+        ]
+    },
+    {
+        "question": "Identify the call which never returns an error?",
+        "answer": "Answer: B) The call getpid never returns an error",
+        "options": [
+            "fork",
+            "getpid",
+            "ioctl",
+            "open"
+        ]
+    },
+    {
+        "question": "The total view of a database is known as?",
+        "answer": "Answer: C) The conceptual view is referred to as the total view of a database",
+        "options": [
+            "Physical view",
+            "Internal view",
+            "Conceptual view",
+            "External view"
+        ]
+    },
+    {
+        "question": "Which of the following does computer hardware consist of?",
+        "answer": "Answer: D) computer hardware consists of All of the above.",
+        "options": [
+            "storage devices",
+            "CPU",
+            "I/O devices",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "In what terms is Computer memory measured?",
+        "answer": "Answer: D) Computer memory is measured in terms of bytes.",
+        "options": [
+            "Units",
+            "Bits",
+            "Cells",
+            "bytes"
+        ]
+    },
+    {
+        "question": "Which of the following memory of the computer is volatile?",
+        "answer": "Answer: B) RAM is volatile.",
+        "options": [
+            "EEPROM",
+            "RAM",
+            "ROM",
+            "CMOS"
+        ]
+    },
+    {
+        "question": "Which of the following computer memory users cannot write any information or instruction?",
+        "answer": "Answer: B) Users cannot write any information or instruction on ROM.",
+        "options": [
+            "EEPROM",
+            "RAM",
+            "ROM",
+            "CMOS"
+        ]
+    },
+    {
+        "question": "Which of the following commands in UNIX is used to send a signal?",
+        "answer": "Answer: B) kill is used to send a signal in UNIX",
+        "options": [
+            "send",
+            "kill",
+            "sigsend",
+            "none"
+        ]
+    },
+    {
+        "question": "Using which of the following is the interconnection of the computer possible?",
+        "answer": "Answer: C) Using information technology, interconnection of computer is possible.",
+        "options": [
+            "communication links",
+            "Cables",
+            "information technology",
+            "processing"
+        ]
+    },
+    {
+        "question": "Where is computer firmware present?",
+        "answer": "Answer: B) Computer firmware is present in non-volatile memory.",
+        "options": [
+            "Cache memory",
+            "non-volatile memory",
+            "Volatile memory",
+            "RAM"
+        ]
+    },
+    {
+        "question": "LPT stands for ______________",
+        "answer": "Answer: C) LPT stands for Line printer.",
+        "options": [
+            "Low print typewriter",
+            "line per text",
+            "line printer",
+            "laser printer"
+        ]
+    },
+    {
+        "question": "What are modern computers based on?",
+        "answer": "Answer: B) Modern computers are based on both microchips and microprocessors.",
+        "options": [
+            "Microchip",
+            "Microprocessor",
+            "I/O devices",
+            "both a and b"
+        ]
+    },
+    {
+        "question": "What else is a command interpreter called?",
+        "answer": "Answer: D) A command interpreter is also called the shell.",
+        "options": [
+            "prompt",
+            "kernel",
+            "command",
+            "shell"
+        ]
+    },
+    {
+        "question": "The computer system which uses a drum plotter is known as?",
+        "answer": "Answer: C) Computer system which uses drum plotter is known as both mini and mainframe computer.",
+        "options": [
+            "mini computer",
+            "Mainframe computer",
+            "Both A and B",
+            "none"
+        ]
+    },
+    {
+        "question": "Which of the following is known as an uninterruptible unit?",
+        "answer": "Answer: C) Atomic is known as an uninterruptible unit. That is, whenever a process start executes, it doesn’t terminate or context switch until its complete execution",
+        "options": [
+            "single",
+            "static",
+            "atomic",
+            "none of the mentioned"
+        ]
+    },
+    {
+        "question": "Where can the data be updated?",
+        "answer": "Answer: C) Data can be updated in an operational environment",
+        "options": [
+            "Informational environment",
+            "Data warehouse environment",
+            "Operational environment",
+            "Data mining environment"
+        ]
+    },
+    {
+        "question": "Identify the one which is not a networking device.",
+        "answer": "Answer: B) Traffic analyzer is not a networking device",
+        "options": [
+            "Switch",
+            "Traffic analyzer",
+            "Bridge",
+            "Router"
+        ]
+    },
+    {
+        "question": "The standard length of the MAC address is",
+        "answer": "Answer: B) Standard length of MAC address is 48 bits",
+        "options": [
+            "16 bits",
+            "48 bits",
+            "32 bits",
+            "8 bits"
+        ]
+    },
+    {
+        "question": "Which of the following is not an operating system?",
+        "answer": "Answer: C) Oracle is not an operating system. It is a relational database management system, also known as Oracle Database",
+        "options": [
+            "Linux",
+            "DOS",
+            "Oracle",
+            "Windows"
+        ]
+    },
+    {
+        "question": "Through API, _____ service portability is enabled.",
+        "answer": "Answer: D) Through API, systems service portability is enabled",
+        "options": [
+            "device",
+            "network",
+            "services",
+            "systems"
+        ]
+    },
+    {
+        "question": "What is a table joined with itself called?",
+        "answer": "Answer: B) Table joined with self is known as Self Join",
+        "options": [
+            "Join",
+            "Self-join",
+            "Outer join",
+            "Equi join"
+        ]
+    },
+    {
+        "question": "Which of the following is a single-user operating system?",
+        "answer": "Answer: B) Ms-DOS is a single-user operating system.",
+        "options": [
+            "Windows",
+            "Ms-DOS",
+            "MAC",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose among the following, which is the most common internet protocol.",
+        "answer": "Answer: D) SMTP is the most commonly used internet protocol.",
+        "options": [
+            "PPP",
+            "FTP",
+            "TCP/IP",
+            "SMTP"
+        ]
+    },
+    {
+        "question": "Full form of SBC is?",
+        "answer": "Answer: B) SBC stands for Smart business center",
+        "options": [
+            "Standard business center",
+            "Smart business center",
+            "Standard building center",
+            "Smart building center"
+        ]
+    },
+    {
+        "question": "Another name of reading operation in?",
+        "answer": "Answer: C) Read operation is also known as fetch operation.",
+        "options": [
+            "store operations",
+            "access operation",
+            "Fetch operation",
+            "control operation"
+        ]
+    },
+    {
+        "question": "What is the total number of users that can use a microprocessor at a time?",
+        "answer": "Answer: A) Only a single user can use a microprocessor at a time",
+        "options": [
+            "Single users",
+            "Multi-user",
+            "particular user",
+            "professional user"
+        ]
+    }
+]

@@ -1,0 +1,515 @@
+[
+    {
+        "question": "Identify the correct functional requirement.",
+        "answer": "Answer - D) All of the above are non-functional requirements, hence D) is correct.",
+        "options": [
+            "Robustness",
+            "Portability",
+            "Maintainability",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct measure for correctness.",
+        "answer": "Answer - C) Defects per KLOC is the most common measure for correctness.",
+        "options": [
+            "Errors per KLOC",
+            "$ per KLOC",
+            "Defects per KLOC",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the fault-based testing technique.",
+        "answer": "Answer - C) Mutation testing is a fault-based technique.",
+        "options": [
+            "Beta testing",
+            "Unit testing",
+            "Mutation testing",
+            "Stress testing"
+        ]
+    },
+    {
+        "question": "Identify the term which is not related to testing?",
+        "answer": "Answer - D) Test bot is not related to testing.",
+        "options": [
+            "failure",
+            "error",
+            "Test case",
+            "Test bot"
+        ]
+    },
+    {
+        "question": "Identify the incorrect testing technique.",
+        "answer": "Answer - B) Collaboration testing is not a testing technique.",
+        "options": [
+            "Integration testing",
+            "Collaboration testing",
+            "System testing",
+            "Unit testing"
+        ]
+    },
+    {
+        "question": "Which of the following are types of code review?",
+        "answer": "Answer - C) Both A and B are types of code review",
+        "options": [
+            "Code walkthrough",
+            "Code inspection",
+            "Both A and B",
+            "None"
+        ]
+    },
+    {
+        "question": "When can white-box testing be started?",
+        "answer": "Answer - C) White-box testing be started after programming.",
+        "options": [
+            "After SRS creation",
+            "After installation",
+            "After programming",
+            "After designing"
+        ]
+    },
+    {
+        "question": "By whom is unit testing done?",
+        "answer": "Answer - B) Unit testing is done by developers.",
+        "options": [
+            "Users",
+            "Customers",
+            "Developers",
+            "None"
+        ]
+    },
+    {
+        "question": "In which of the following categories can white-box testing be classified?",
+        "answer": "Answer - B) White-box testing can also be classified as structural testing.",
+        "options": [
+            "Design based testing",
+            "Structural testing",
+            "Error guessing technique",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the term which is used to define testing?",
+        "answer": "Answer - C) Evaluating deliverables to find errors is testing.",
+        "options": [
+            "Finding broken code",
+            "A stage of all projects",
+            "Evaluating deliverables to find errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the environment in which we can perform alpha testing?",
+        "answer": "Answer - B) Alpha testing is always performed from the developer’s end.",
+        "options": [
+            "User’s end",
+            "Developer’s end",
+            "Both a and b are correct",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option which represents the key objective of integration testing?",
+        "answer": "Answer - A) The key objective of integration testing is to resolve interface errors.",
+        "options": [
+            "Interface errors",
+            "Procedure errors",
+            "Design errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Select the best time when regression testing should be done?",
+        "answer": "Answer - D) Regression testing should be done after the software has been modified and when the environment has been modified.",
+        "options": [
+            "As frequently as possible",
+            "When the environment has been modified",
+            "After the software has been modified",
+            "Both b and c are correct"
+        ]
+    },
+    {
+        "question": "What is cyclomatic complexity?",
+        "answer": "Answer - B) White box testing.",
+        "options": [
+            "Black box testing",
+            "White box testing",
+            "Grey box testing",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "The SRS document is also known as _____________ specification.",
+        "answer": "Answer - A) The SRS document is also known as black box specification.",
+        "options": [
+            "Black box",
+            "White box",
+            "Grey box",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct option among the following which is not included in SRS?",
+        "answer": "Answer - D) Design solutions are not included in SRS.",
+        "options": [
+            "Functionality",
+            "Performance",
+            "External interfaces",
+            "Design solutions"
+        ]
+    },
+    {
+        "question": "Identify the testing which cannot be performed on the first build of the software?",
+        "answer": "Answer - D) None of the above tests can be performed on the first build of the software.",
+        "options": [
+            "Sanity testing",
+            "Regression testing",
+            "Retesting",
+            "All a, b and c"
+        ]
+    },
+    {
+        "question": "Identify the stage in which test cases are designed?",
+        "answer": "Answer - C) Test cases are designed during Test specification.",
+        "options": [
+            "Test planning",
+            "Test configuration",
+            "Test specification",
+            "Test recording"
+        ]
+    },
+    {
+        "question": "Identify among the following which is not a type of incremental testing approach.",
+        "answer": "Answer - A) Big-bang is not a type of incremental testing approach.",
+        "options": [
+            "Big-bang",
+            "Top-down",
+            "Bottom-up",
+            "Functional incrimination"
+        ]
+    },
+    {
+        "question": "Identify the incorrect phase of STLC(Software Testing Life cycle).",
+        "answer": "Answer - B) Coding is not a phase of STLC",
+        "options": [
+            "Test closure",
+            "Coding",
+            "Requirement analysis",
+            "Test planning"
+        ]
+    },
+    null,
+    {
+        "question": "Select the correct defect rate for Six sigma?",
+        "answer": "Answer - D) Defect rate for Six sigma is 3.4 million per million lines of code.",
+        "options": [
+            "1.0 defect per million lines of code.",
+            "1.4 defects per million lines of code.",
+            "3 defects per million lines of code.",
+            "3.4 million per million lines of code."
+        ]
+    },
+    {
+        "question": "In which of the following categories can White Box techniques be classified.",
+        "answer": "Answer - C) White Box techniques be classified into Structural testing.",
+        "options": [
+            "Design based testing",
+            "Error guessing technique",
+            "Structural testing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "To which boundary value analysis belongs.",
+        "answer": "Answer - B) Boundary value analysis belongs to White box testing.",
+        "options": [
+            "Black box testing",
+            "White box testing",
+            "Both a and b are correct",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option among the following. Does the software consist of?",
+        "answer": "Answer - a) Software consists of Program+documentation operating procedures",
+        "options": [
+            "Program+documentation operating procedures",
+            "Program+hardware manuals",
+            "Instruction+hardware manuals",
+            "Set of programs"
+        ]
+    },
+    {
+        "question": "The full form of SPICE is?",
+        "answer": "Answer - B) SPICE stands for Software Process Improvement and Compatibility Determination.",
+        "options": [
+            "Software Process Improvement and Control Determination",
+            "Software Process Improvement and Capability Determination",
+            "Software Process Improvement and Compatibility Determination",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option which is not used in measuring the size of the software?",
+        "answer": "Answer - A) Size of the module is not used in measuring the size of the software.",
+        "options": [
+            "Size of module",
+            "KLOC",
+            "Function points",
+            "None of the above"
+        ]
+    },
+    null,
+    {
+        "question": "In which chart are lower and upper limits present?",
+        "answer": "Answer - A) Lower and upper limits are present in the Run chart, which is used to record the behavior of variables over a period of time for a system.",
+        "options": [
+            "Run chart",
+            "Bar chart",
+            "Control chart",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Is exhaustive testing possible?",
+        "answer": "Answer - B) Exhaustive testing is Impractical but possible.",
+        "options": [
+            "Always possible",
+            "Impractical but possible",
+            "Impractical but impossible",
+            "Practically possible"
+        ]
+    },
+    {
+        "question": "Identify the most reputed testing standard?",
+        "answer": "Answer - C) ISO is the most reputed testing standard.",
+        "options": [
+            "Microsoft",
+            "M Bridge Awards",
+            "ISO",
+            "QAI"
+        ]
+    },
+    {
+        "question": "The full form of ITG is?",
+        "answer": "Answer - A) Full form of ITG is an independent test group.",
+        "options": [
+            "independent test group",
+            "integration testing group",
+            "individual testing group",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Using which methodology is maintenance testing performed?",
+        "answer": "Answer - C) Maintenance testing is performed using the Breadth test and depth test.",
+        "options": [
+            "Sanity testing",
+            "Retesting",
+            "Breadth test and depth test",
+            "Confirmation testing"
+        ]
+    },
+    {
+        "question": "Identify the term which is used to define functional testing?",
+        "answer": "Answer - A) Functional testing is also known as component testing.",
+        "options": [
+            "Component testing",
+            "Sanity testing",
+            "Acceptance testing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the incorrect white box technique.",
+        "answer": "Answer - B) State transition testing is not a white box technique.",
+        "options": [
+            "Statement testing",
+            "State transition testing",
+            "Path testing",
+            "Data flow testing"
+        ]
+    },
+    {
+        "question": "In which stage is user acceptance testing done?",
+        "answer": "Answer - A) User acceptance testing is done at the manual stage",
+        "options": [
+            "Manual stage",
+            "Automatic stage",
+            "On both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify the incorrect black box technique?",
+        "answer": "Answer - B) LCSAJ is not a black box technique",
+        "options": [
+            "Syntax testing",
+            "Linear Code Sequence and Jump(LCSAJ)",
+            "State transition testing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct option which states the correct definition of Software. It is considered to be a collection of?",
+        "answer": "Answer - D) Software is said to be a collection of programming code, documentation, associated libraries.",
+        "options": [
+            "Programming code",
+            "documentations",
+            "associated libraries",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What does FAST stand for?",
+        "answer": "Answer - A) FAST stands for Facilitated Application Specification Technique.",
+        "options": [
+            "Facilitated Application Specification Technique",
+            "Functional Application Specification Techniques",
+            "Fast Application Specification Technique",
+            "None"
+        ]
+    },
+    {
+        "question": "Decomposition is also popularly known as",
+        "answer": "Answer - D) Decomposition is also popularly known as Divide and conquer principle",
+        "options": [
+            "Group and merge principle",
+            "Binary search principle",
+            "Quicksort principle",
+            "Divide and conquer principle"
+        ]
+    },
+    {
+        "question": "RUP and PSP stands for?",
+        "answer": "Answer - A) RUP stands for Rational Unified Process and PSP stands for Personal software process",
+        "options": [
+            "Rational Unified Process and Personal software process",
+            "Rational Unified Process and Project software process",
+            "Real-time unified process and Project software process",
+            "Real-time unified process and Personal software process"
+        ]
+    },
+    {
+        "question": "COCOMO model stands for?",
+        "answer": "Answer - B) COCOMO stands for Constructive Cost Estimation Model",
+        "options": [
+            "Complete Cost Estimation Model",
+            "Constructive Cost Estimation Model",
+            "Common Cost Estimation Model",
+            "Comprehensive Cost Estimation Model"
+        ]
+    },
+    {
+        "question": "CCMI model stands for?",
+        "answer": "Answer - D) CCMI model stands for Capability Maturity Model integration.",
+        "options": [
+            "Capability Managed Maturity Integration",
+            "Capability Maturity Model Integrator",
+            "Capability Maturity Modification integration",
+            "Capability Maturity Model integration"
+        ]
+    },
+    {
+        "question": "Identify the term which is used to define testing?",
+        "answer": "Answer - C) Evaluating deliverables to find errors is testing.",
+        "options": [
+            "Finding broken code",
+            "A stage of all projects",
+            "Evaluating deliverables to find errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A program having high cyclomatic complexity is more likely to be",
+        "answer": "Answer - B) A program having high cyclomatic complexity is more likely to be difficult to test.",
+        "options": [
+            "Small",
+            "Difficult to test",
+            "Difficult to write",
+            "Large"
+        ]
+    },
+    {
+        "question": "Identify the testing tool which does not support by Database Testing?",
+        "answer": "Answer - C) Evaluating deliverables to find errors is testing.",
+        "options": [
+            "Finding broken code",
+            "A stage of all projects",
+            "Evaluating deliverables to find errors",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify which of the following life cycle contains the phases: test case design, test execution, defect tracking, maintenance.",
+        "answer": "Answer - B) Test case design, test execution, defect tracking, maintenance falls under STLC.",
+        "options": [
+            "SDLC",
+            "STLC",
+            "SQLC",
+            "BLC"
+        ]
+    },
+    null,
+    {
+        "question": "To notify the developer which bugs need to be fixed first is termed as?",
+        "answer": "Answer - D) To notify the developer which bugs needs to be fixed first is termed as priority",
+        "options": [
+            "Scalability",
+            "Fixability",
+            "Traceability",
+            "Priority"
+        ]
+    },
+    {
+        "question": "Black box testing is also known as",
+        "answer": "Answer - A) Black box testing is also known as Behavioral testing.",
+        "options": [
+            "Behavioral Testing",
+            "Data flow testing",
+            "Graph based testing",
+            "Loop testing"
+        ]
+    },
+    {
+        "question": "White box testing is also known as",
+        "answer": "Answer - B) White box testing is also known as glass box testing.",
+        "options": [
+            "Behavioral testing",
+            "Glass box testing",
+            "Structural testing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "System testing is a",
+        "answer": "Answer - C) System testing is black box testing.",
+        "options": [
+            "Grey box testing",
+            "White box testing",
+            "Black box testing",
+            "Both b and c are correct"
+        ]
+    },
+    {
+        "question": "Which is not true in case of Unit testing?",
+        "answer": "Answer -  B) Unit testing does not decrease the speed of development.",
+        "options": [
+            "It is conducted by development team.",
+            "It decreases the speed of development.",
+            "Tester tests whether individual units of source code is fit for use.",
+            "It cannot be expected to catch every error in program."
+        ]
+    },
+    {
+        "question": "Identify the term which is known as a variance from software product specifications?",
+        "answer": "Answer - B) The term which is known as a variance from software product specifications is known as defect.",
+        "options": [
+            "Report",
+            "Defect",
+            "Review",
+            "Requirement"
+        ]
+    }
+]

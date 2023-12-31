@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Javascript is an _______ language?",
+        "answer": "Javascript is an Object-Oriented Language.",
+        "options": [
+            "Object-Oriented",
+            "Object-Based",
+            "Procedural",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following keywords is used to define a variable in Javascript?",
+        "answer": "Both var and let keywords are used to define a variable in Javascript.",
+        "options": [
+            "var",
+            "let",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following methods is used to access HTML elements using Javascript?",
+        "answer": "Both the above methods are used to access HTML elements using Javascript.",
+        "options": [
+            "getElementbyId()",
+            "getElementsByClassName()",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Upon encountering empty statements, what does the Javascript Interpreter do?",
+        "answer": "In Javascript, the interpreter will ignore the empty statements whenever it encounters them.",
+        "options": [
+            "Throws an error",
+            "Ignores the statements",
+            "Gives a warning",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following methods can be used to display data in some form using Javascript?",
+        "answer": "All of the above methods are used to display data in some form using Javascript.",
+        "options": [
+            "document.write()",
+            "console.log()",
+            "window.alert()",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "How can a datatype be declared to be a constant type?",
+        "answer": "The const keyword is used to declare a variable as a constant type in Javascript and tells the compiler that its value cannot be changed later in the program.",
+        "options": [
+            "const",
+            "var",
+            "let",
+            "constant"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?<script type=\"text/javascript\">\na = 5 + \"9\";\ndocument.write(a);\n</script>",
+        "answer": "In the above code snippet, the first number is of integer type and the second of string type. The code snippet gives priority to the string type and concatenates them due to the ‘+’ operator.",
+        "options": [
+            "Compilation Error",
+            "14",
+            "Runtime Error",
+            "59"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?<script type=\"text/javascript\" language=\"javascript\">\n  \nvar a = \"Scaler\";\nvar result = a.substring(2, 4);\ndocument.write(result);\n  \n</script>",
+        "answer": "The substring function in javascript slices a substring out of a given string from the start to end indexes(excluding the end index). So the 2nd and 3rd characters are taken here(0-based indexing) and the answer is al.",
+        "options": [
+            "al",
+            "ale",
+            "cal",
+            "caler"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?\n<script type=\"text/javascript\" language=\"javascript\">\n \nvar x=12;\nvar y=8;\nvar res=eval(\"x+y\");\ndocument.write(res);\n \n</script>",
+        "answer": "The eval() function evaluates the expression passed into it as a parameter and returns the result after evaluation.",
+        "options": [
+            "20",
+            "x+y",
+            "128",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "When the switch statement matches the expression with the given labels, how is the comparison done?",
+        "answer": "Switch performs an ‘===’ based comparison, i.e both the value of the expression and its datatype is compared.",
+        "options": [
+            "Both the datatype and the result of the expression are compared.",
+            "Only the datatype of the expression is compared.",
+            "Only the value of the expression is compared.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What keyword is used to check whether a given property is valid or not?",
+        "answer": "The in keyword is used to check whether the given property is valid or not in Javascript.",
+        "options": [
+            "in",
+            "is in",
+            "exists",
+            "lies"
+        ]
+    },
+    {
+        "question": "What is the use of the <noscript> tag in Javascript?",
+        "answer": "The <noscript> tag is displayed by non-Javascript browsers only.",
+        "options": [
+            "The contents are displayed by non-JS-based browsers.",
+            "Clears all the cookies and cache.",
+            "Both A and B.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?(function(){\n setTimeout(()=> console.log(1),2000);\n console.log(2);\n setTimeout(()=> console.log(3),0);\n console.log(4);\n})();",
+        "answer": "First the 2 is printed with the console.log, then even with a time delay of 0ms, the 4 is printed before the 3 because JS executes setTimeout with the Web API, and so the entire function is executed first. Lastly, after a delay of 2000ms, the 1 is printed.",
+        "options": [
+            "1 2 3 4",
+            "2 3 4 1",
+            "2 4 3 1",
+            "4 3 2 1"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?(function(a){\n return (function(){\n   console.log(a);\n   a = 6;\n })()\n})(21);",
+        "answer": "Even though a is defined in the outer function, due to closure, inner functions have access to it.",
+        "options": [
+            "6",
+            "NaN",
+            "21",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?function solve(arr, rotations){\n if(rotations == 0) return arr;\n for(let i = 0; i < rotations; i++){\n   let element = arr.pop();\n   arr.unshift(element);\n }\n return arr;\n}\n// solve([44, 1, 22, 111], 5);",
+        "answer": "The above code snippets rotate an array to its right by some specified number of times(here 3).",
+        "options": [
+            "[111, 44, 1, 22]",
+            "[44, 1, 22, 111]",
+            "[111, 44, 1, 22]",
+            "[1, 22, 111, 44]"
+        ]
+    },
+    {
+        "question": "What will be the output for the following code snippet?<p id=\"example\"></p>  \n<script>  \nfunction Func()  \n{  \ndocument.getElementById(\"example\").innerHTML=Math.sqrt(81);  \n}  \n</script>",
+        "answer": "The sqrt() method returns the square root of the passed parameter, which is in an inbuilt javascript function.",
+        "options": [
+            "9",
+            "81",
+            "Error",
+            "0"
+        ]
+    },
+    {
+        "question": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "answer": "Any NULL value of operator will always return typeof object.",
+        "options": [
+            "Boolean",
+            "Undefined",
+            "Object",
+            "Integer"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?var a = 1;  \nvar b = 0;  \nwhile (a <= 3)  \n{  \n   a++;  \n   b += a * 2;  \n   print(b);\n}",
+        "answer": "The loop will run 3 times, before meeting the exit condition. First value of b will be 2 * 2 = 4, followed by 4 + 3 * 2 = 10, and then value of 10 + 4 * 2 = 18.",
+        "options": [
+            "4 10 18",
+            "1 2 3",
+            "1 4 7",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What does the Javascript “debugger” statement do?",
+        "answer": "‘debugger’ statement is used to setup the breakup points at probable points of error in the code snippet, using the debugger window.",
+        "options": [
+            "It will debug all the errors in the program at runtime.",
+            "It acts as a breakpoint in a program.",
+            "It will debug error in the current statement if any.",
+            "All of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?var a = Math.max();\nvar b = Math.min();\nprint(a);\nprint(b);",
+        "answer": "The Math.max() method returns -Infinity by default and the Math.min() method returns Infinity value by default when passed without any parameters.",
+        "options": [
+            "-Infinity Infinity",
+            "Infinity -Infinity",
+            "Infinity Infinity",
+            "-Infinity -Infinity"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?var a = Math.max() < Math.min();\nvar b = Math.max() > Math.min();\nprint(a);\nprint(b);",
+        "answer": "In Javascript Math.max() is lesser than Math.min() because Math.max() returns -Infinity and Math.min() returns Infinity.",
+        "options": [
+            "true false",
+            "false true",
+            "true true",
+            "false false"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?var a = true + true + true * 3;\nprint(a)",
+        "answer": "In Javascript, true is considered as the number 1 when used in any arithmetic expression, hence the expression evaluates to 5.",
+        "options": [
+            "3",
+            "0",
+            "Error",
+            "5"
+        ]
+    },
+    {
+        "question": "What is the output of the following code snippet?print(NaN === NaN);",
+        "answer": "In Javascript, NaN is not considered to be equal to NaN even after using the strict equality operator.",
+        "options": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?print(typeof(NaN));",
+        "answer": "NaN in Javascript is defined to be of type number despite its name(not a number).",
+        "options": [
+            "Object",
+            "Number",
+            "String",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What does the ‘toLocateString()’ method do in JS?",
+        "answer": "The ‘toLocateString()’ method in JS returns a localized string representation of an object.",
+        "options": [
+            "Returns a localised object representation.",
+            "Returns a parsed string.",
+            "Returns a localized string representation of an object.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "The process in which an object or data structure is translated into a format suitable for transferral over a network, or storage is called?",
+        "answer": "Object Serialization is the process in which an object or data structure is translated into a format suitable for transferral over a network, or storage.",
+        "options": [
+            "Object Serialization",
+            "Object Encapsulation",
+            "Object Inheritance",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which function is used to serialize an object into a JSON string in Javascript?",
+        "answer": "The JSON.stringify() function is used to convert a JSON object into string format.",
+        "options": [
+            "stringify()",
+            "parse()",
+            "convert()",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The 3 basic object attributes in Javascript are:",
+        "answer": "In general for objects in Javascript, the objects are associated with 3 basic attributes, Class, prototype, object's extensible flag.",
+        "options": [
+            "Class, prototype, objects' parameters.",
+            "Class, prototype, object's extensible flag.",
+            "Class, parameters, object's extensible flag.",
+            "Classes, Native object, and Interfaces and Object's extensible flag."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?let sum = 0; \nconst a = [1, 2, 3];\na.forEach(getSum);\nprint(sum);\nfunction getSum(ele) {\n   sum += ele;\n}",
+        "answer": "The above code snippet calculates the sum of numbers in an array, by using the forEach loops method.",
+        "options": [
+            "6",
+            "1",
+            "2",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [1, 2, 3, 4, 5];\nprint(a.slice(2, 4));",
+        "answer": "The slice() function in Javascript slices an array within the given start and end indexes and then returns the values lying in those ranges. The indexing done is 0-based indexing.",
+        "options": [
+            "3, 4",
+            "2, 3",
+            "3, 4, 5",
+            "2, 3, 4"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?print(parseInt(\"123Hello\"));\nprint(parseInt(\"Hello123\"));",
+        "answer": "The parseInt() method converts a string to an integer if it is possible. If the string starts with a number, it will convert that numeric part and return it. Else, it will return NaN.",
+        "options": [
+            "123 NaN",
+            "123Hello Hello123",
+            "NaN NaN",
+            "123 123"
+        ]
+    },
+    {
+        "question": "Which of the following are closures in Javascript?",
+        "answer": "Every time a function is created in JS, a closure is created. So, all closures are functions and functions have a scope chain that is associated with them.",
+        "options": [
+            "Variables",
+            "Functions",
+            "Objects",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is not a Javascript framework?",
+        "answer": "Other than Cassandra, all the other options are Javascript frameworks.",
+        "options": [
+            "Node",
+            "Vue",
+            "React",
+            "Cassandra"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?var a = \"hello\";\nvar sum = 0;\nfor(var i = 0; i < a.length; i++) {\n   sum += (a[i] - 'a');\n}\nprint(sum);",
+        "answer": "In Javascript, the a[i] - ‘a’ is not typecasted to an integer type and hence the result is NaN.",
+        "options": [
+            "47",
+            "NaN",
+            "0",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What keyword is used to declare an asynchronous function in Javascript?",
+        "answer": "The async keyword is used to declare an asynchronous function in Javascript.",
+        "options": [
+            "async",
+            "await",
+            "setTimeout",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How to stop an interval timer in Javascript?",
+        "answer": "clearInterval is used to stop an interval timer in JS.",
+        "options": [
+            "clearInterval",
+            "clearTimer",
+            "intervalOver",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?const set = new Set();\nset.add(5);\nset.add('Hello');\nset.add({ name: 'Scaler' });\nfor (let item of set) {\n console.log(item + 6);\n}",
+        "answer": "First 2 numbers are added as integers, followed by string concatenation. Finally, since both are not of string type, JS stringifies both the object and the number and concatenates them. When an object is stringified it is read as [object Object] and then concatenated.",
+        "options": [
+            "11 NaN NaN",
+            "11 NaN [object Object]",
+            "11 Hello6 [object Object]6",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How are objects compared when they are checked with the strict equality operator?",
+        "answer": "In Javascript, objects are passed by reference and hence the strict equality operator compares their references.",
+        "options": [
+            "The contents of the objects are compared",
+            "Their references are compared",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What does … operator do in JS?",
+        "answer": "The … operator is used to spread iterables to individual elements in Javascript and is also called the spread operator.",
+        "options": [
+            "It is used to spread iterables to individual elements",
+            "It is used to describe a datatype of undefined size",
+            "No such operator exists",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?const example = ({ a, b, c }) => {\n console.log(a, b, c);\n};\nexample(0, 1, 2);",
+        "answer": "Since we are passing individual numbers rather than a single object to the function, Javascript will initialize the object parameters with their default value of undefined.",
+        "options": [
+            "0 1 2",
+            "0 Undefined Undefined",
+            "Undefined Undefined Undefined",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?let a = [1, 2, 3, 4, 5, 6];\nvar left = 0, right = 5;\nvar found = false;\nvar target = 5;\nwhile(left <= right) {\n   var mid = Math.floor((left + right) / 2);\n   if(a[mid] == target) {\n       found = true;\n       break;\n   }\n   else if(a[mid] < target) {\n       left = mid + 1;\n   }\n   else {\n       right = mid - 1;\n   }\n}\nif(found) {\n   print(\"YES\");\n}\nelse {\n   print(\"NO\");\n}",
+        "answer": "The above code performs binary search to search for the target element of 5 in the given array. If it is found, it prints YES else NO.",
+        "options": [
+            "YES",
+            "NO",
+            "Syntax Error",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?let s = \"00000001111111\";\nlet l = 0, r = s.length - 1, ans = -1;\nwhile(l <= r) {\n   var mid = Math.floor((l + r) / 2);\n   if(s[mid] == '1') {\n       ans = mid;\n       r = mid - 1;\n   }\n   else {\n       l = mid + 1;\n   }\n}\nprint(ans);",
+        "answer": "This code snippet shows one of the many applications of the binary search algorithm in Javascript. Here, we are binary searching for the index of the first occurrence of the character ‘1’ in the given string. When we get the character ‘1’ at the mid index, we store it as the answer and move to the left half which will have the first index of ‘1’ if it occurs. Else we move to the right half. So, the answer will be 7 (0-based indexing).",
+        "options": [
+            "8",
+            "7",
+            "0",
+            "1"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?let n = 24;\nlet l = 0, r = 100, ans = n;\nwhile(l <= r) {\n   let mid = Math.floor((l + r) / 2);\n   if(mid * mid <= n) {\n       ans = mid;\n       l = mid + 1;\n   }\n   else {\n       r = mid - 1;\n   }\n}\nprint(ans);",
+        "answer": "The code snippet basically uses binary search to calculate the floor of the square root of a number. Since the square root is an increasing function, so binary search is applicable here. Here, for n = 24, the answer is 4.",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?const obj1 = {Name: \"Hello\", Age: 16};\nconst obj2 = {Name: \"Hello\", Age: 16};\nprint(obj1 === obj2);",
+        "answer": "The strict equality operator compares objects by their references so even though the contents of both objects are the same, their references don’t match resulting in false.",
+        "options": [
+            "true",
+            "false",
+            "Undefined",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What happens when we run this code?function dog() {\n   print(\"I am a dog.\");\n}\ndog.sound = \"Bark\";",
+        "answer": "Nothing happens in the above code, and it is totally valid because functions in Javascript are treated as objects.",
+        "options": [
+            "Syntax Error",
+            "“I am a dog” gets printed",
+            "ReferenceError",
+            "Nothing happens"
+        ]
+    },
+    {
+        "question": "How do we write a comment in javascript?",
+        "answer": "The correct syntax of writing a comment in Javascript is // This is a comment.",
+        "options": [
+            "/* */",
+            "//",
+            "#",
+            "$ $"
+        ]
+    },
+    {
+        "question": "Which object in Javascript doesn’t have a prototype?",
+        "answer": "Base objects are the only objects in Javascript that don’t have a prototype.",
+        "options": [
+            "Base Object",
+            "All objects have a prototype",
+            "None of the objects have a prototype",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?function test(...args) {\n console.log(typeof args);\n}\ntest(12);",
+        "answer": "The …args parameter allows us to collect all remaining arguments into an array, and in Javascript typeof an array is an object.",
+        "options": [
+            "NaN",
+            "Number",
+            "Object",
+            "Array"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?const obj1 = {first: 20, second: 30, first: 50};\nconsole.log(obj1);",
+        "answer": "When an object is passed with duplicate keys, the value of the key will be replaced by the last value of that key used in the declaration.",
+        "options": [
+            "{first: 20, second: 30}",
+            "{first: 50, second: 30}",
+            "{first: 20, second: 30, first: 50}",
+            "Syntax Error"
+        ]
+    },
+    {
+        "question": "Which of the following are not server-side Javascript objects?",
+        "answer": "All of the above options are not server-side Javascript objects.",
+        "options": [
+            "Date",
+            "FileUpload",
+            "Function",
+            "All of the above"
+        ]
+    }
+]

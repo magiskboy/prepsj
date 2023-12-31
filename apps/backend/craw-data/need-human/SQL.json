@@ -1,0 +1,607 @@
+[
+  {
+    "question": "Which of the following are some common RDBMS in use?",
+    "answer": "Explanation: All of the above options are examples of some famous RDBMS in use.",
+    "options": [
+      "Oracle",
+      "MySQL",
+      "HeidiSQL",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What command is used to create a new table in SQL?",
+    "answer": "Explanation: The CREATE TABLE command is used to create a new table in SQL.",
+    "options": [
+      "CREATE TABLE",
+      "BUILD TABLE",
+      "GENERATE TABLE",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following statement in SQL do?DROP TABLE student;",
+    "answer": "Explanation: The DROP command is used to delete/drop a table in SQL.",
+    "options": [
+      "Deletes a table called student.",
+      "Creates a table called student.",
+      "Check if there is a table called student.",
+      "None of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are types of Unicode character string types in SQL?",
+    "answer": "Explanation: nchar and ntext are types of Unicode character strings datatypes in SQL.",
+    "options": [
+      "nchar",
+      "ntext",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does BLOB in SQL stand for?",
+    "answer": "Explanation: BLOB in SQL stands for Binary Large Objects which is an SQL Object datatype.",
+    "options": [
+      "Binary Large Objects",
+      "Big Large Objects",
+      "Binary Language for Objects",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following datatype is most appropriate for storing a string of up to 255 characters?",
+    "answer": "Explanation: TINY TEXT can contain a string of up to 255 characters or 255 bytes.",
+    "options": [
+      "TEXT",
+      "TINY TEXT",
+      "BLOB",
+      "BINARY"
+    ],
+    "done": false
+  },
+  {
+    "question": "What happens when no value is inserted in an ENUM list?",
+    "answer": "Explanation: In the case an ENUM list is empty and no value is inserted, a blank value is inserted in the list.",
+    "options": [
+      "Nothing happens",
+      "The code will crash",
+      "A blank value is inserted in that case",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the range of integers that can be held in the MEDIUMINT datatype of SQL?",
+    "answer": "Explanation: Integer with values in the signed range of -8388608 to 8388607 and values in the unsigned range of 0 to 16777215 can be stored in the MEDIUMINT datatype.",
+    "options": [
+      "Signed numbers in the range of -8388608 to 8388607.",
+      "Unsigned numbers in the range of 0 to 16777215.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following code snippet do?\nALTER TABLE STUDENT ADD(ADDRESS VARCHAR2(20));",
+    "answer": "Explanation: The ADD command is used to add a new column with given specifications into a table by altering the contents of the table.",
+    "options": [
+      "Adds a column called ADDRESS in the table student.",
+      "Checks if a column called ADDRESS is present in the table student.",
+      "Invalid Syntax",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following commands is used to delete all rows and free up space from a table?",
+    "answer": "Explanation: TRUNCATE command is used to delete all rows and free up space from a table.",
+    "options": [
+      "TRUNCATE",
+      "DROP",
+      "DELETE",
+      "ALTER"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following commands are a part of Data Control Language?",
+    "answer": "Explanation: Revoke and Grant are the 2 commands that are a part of Data Control Language.",
+    "options": [
+      "Revoke",
+      "Grant",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following code snippet do?DELETE FROM STUDENTS \nWHERE AGE = 16;  \nROLLBACK;",
+    "answer": "Explanation: The ROLLBACK command is used to perform a rollback onto the latest unsaved changes.",
+    "options": [
+      "Performs an undo operation on the delete operation.",
+      "Deletes the rows from the table where AGE = 16",
+      "Deletes the entire table",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is the wildcard in WHERE clause used?",
+    "answer": "Explanation: Wildcard in WHERE clause is used when an exact match is not possible in a SELECT statement.",
+    "options": [
+      "An exact match is necessary for a CREATE statement.",
+      "An exact match is not possible in a SELECT statement.",
+      "An exact match is necessary for a SELECT statement.",
+      "None of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is the full form of DDL?",
+    "answer": "Explanation: The full form of DDL is Data definition language.",
+    "options": [
+      "Data definition language",
+      "Data derivation language",
+      "Dynamic data language",
+      "Detailed data language"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which SQL constraint do we use to set some value to a field whose value has not been added explicitly?",
+    "answer": "Explanation: The DEFAULT constraint is used to set a default value for a column which comes into use when a value for a field in that column is not set.",
+    "options": [
+      "UNIQUE",
+      "NOT NULL",
+      "DEFAULT",
+      "CHECK"
+    ],
+    "done": false
+  },
+  {
+    "question": "What are rows of a relation known as?",
+    "answer": "Explanation: The rows of a relation are known as tuples.",
+    "options": [
+      "Degree",
+      "Entity",
+      "Tuple",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "During transaction before commit which of the following statements is done automatically in case of shutdown?",
+    "answer": "Explanation: In case of a shutdown, before committing, Rollback is done.",
+    "options": [
+      "Rollback",
+      "Commit",
+      "View",
+      "Flashback"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following allows you to uniquely identify a tuple?",
+    "answer": "Explanation: Super Key is used to uniquely identify a tuple in a relation.",
+    "options": [
+      "Schema",
+      "Attribute",
+      "Super key",
+      "Domain"
+    ],
+    "done": false
+  },
+  {
+    "question": "How many operations are considered to be the most basic SQL operations?",
+    "answer": "Explanation: The 4 basic SQL operations are: Create, Read, Update and Delete(CRUD).",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is not a SQL command?",
+    "answer": "Explanation: DELETE is not a SQL command.",
+    "options": [
+      "DELETE",
+      "ORDER BY",
+      "SELECT",
+      "WHERE"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following code snippet do?SELECT TOP 5 * FROM students;",
+    "answer": "Explanation: The above code snippet basically selects all the top 5 rows from the students' table.",
+    "options": [
+      "Select the top 5 entries for all the columns in the students' table.",
+      "Select all the entries from the students' table other than the top 5 entries",
+      "Selects all entries from the student table except 5 random rows",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following matches the definition given below: It is an artificial key that aims to uniquely identify each record.",
+    "answer": "Explanation: Surrogate Key is an artificial key that aims to uniquely identify each record.",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Surrogate Key",
+      "Composite Key"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following commands are used to put a restriction on the number of rows returned from a query?",
+    "answer": "Explanation: LIMIT is used to put a restriction on how many rows are returned from a query.",
+    "options": [
+      "LIMIT",
+      "LIKE",
+      "WHERE",
+      "GROUP BY"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are valid logical operators in SQL?",
+    "answer": "Explanation: All of the above expressions are valid logical operators in SQL.",
+    "options": [
+      "SOME",
+      "ALL",
+      "AND",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following SQL functions compares the similarities of 2 strings and returns the result as a 4 character code?",
+    "answer": "Explanation: SOUNDEX compares 2 strings and returns their similarity as a 4 character code.",
+    "options": [
+      "SOUNDEX",
+      "DIFFERENCE",
+      "CONCAT",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "To select some particular columns, which of the following commands is used?",
+    "answer": "Explanation: To select some particular commands, PROJECTION is used.",
+    "options": [
+      "PROJECTION",
+      "SELECTION",
+      "JOIN",
+      "UNION"
+    ],
+    "done": false
+  },
+  {
+    "question": "Primary key can be?",
+    "answer": "Explanation: Primary key must always be NOT NULL.",
+    "options": [
+      "NULL",
+      "NOT NULL",
+      "Both NULL and NOT NULL",
+      "Depends on situation"
+    ],
+    "done": false
+  },
+  {
+    "question": "Select the valid SQL type.",
+    "answer": "Explanation: All of the above options are valid SQL types.",
+    "options": [
+      "NUMERIC",
+      "CHARACTER",
+      "FLOAT",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following functions do we use to get a specified day of the month for a given date?",
+    "answer": "Explanation: DAY is used to get the specified day of the month for a given date.",
+    "options": [
+      "DAY",
+      "DATEPART",
+      "GETDATE",
+      "CURRENT_TIMESTAMP"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following operators is used to compare a value to a list of literal values that have been specified?",
+    "answer": "Explanation: The BETWEEN operator is used to compare a value to a list of literal values that have been specified.",
+    "options": [
+      "ANY",
+      "BETWEEN",
+      "IN",
+      "ALL"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is a table joined with itself called?",
+    "answer": "Explanation: Table joined with itself is called a self join.",
+    "options": [
+      "Join",
+      "Self-join",
+      "Outer join",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "NATURAL JOIN can also be termed as -",
+    "answer": "Explanation: NATURAL JOIN can also be termed as a combination of Projection and cartesian product.",
+    "options": [
+      "Combination of Union and cartesian product",
+      "Combination of Selection and cartesian product",
+      "Combination of Projection and cartesian product",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following commands is used to delete a trigger in SQL?",
+    "answer": "Explanation: The DROP command is used to delete a trigger in SQL.",
+    "options": [
+      "DROP",
+      "DELETE",
+      "ALTER",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "How can we view all the triggers currently in the database?",
+    "answer": "Explanation: The SHOW command will display all the triggers that are currently present in the table.",
+    "options": [
+      "SHOW",
+      "VIEW",
+      "READ",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is known as the minimal super key?",
+    "answer": "Explanation: The Candidate Key is also known as the minimal super key.",
+    "options": [
+      "Primary key",
+      "Foreign key",
+      "Candidate key",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Select the correct foreign key constraint?",
+    "answer": "Explanation: The most important foreign key constraint is Referential Integrity.",
+    "options": [
+      "Referential integrity",
+      "Entity integrity",
+      "Domain integrity",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is NOLOCK in SQL equivalent to?",
+    "answer": "Explanation: The NOLOCK in SQL is equivalent to READ UNCOMMITTED.",
+    "options": [
+      "WRITE UNCOMMITTED",
+      "READ COMMITTED",
+      "WRITE COMMITTED",
+      "READ UNCOMMITTED"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following can replace the below query?SELECT Name, ID  \nFROM Student, Courses  \nWHERE Student_ID = Courses_ID;",
+    "answer": "Explanation: The correct replacement of the above query is shown in option B.",
+    "options": [
+      "Select Name,ID from Courses,Student where Student_ID = ID;",
+      "Select Name, ID from Student natural join Courses;",
+      "Select Name, ID from Student;",
+      "Select ID from Student join Courses;"
+    ],
+    "done": false
+  },
+  {
+    "question": "What will be the output of the following code snippet?SELECT ROUND (TRUNCATE (MOD (2500, 20), -1), 2) FROM dual;",
+    "answer": "Explanation: The MOD(2500, 20) expression will return 0, after which the rest of the functions will just be applied on the value 0.",
+    "options": [
+      "Error",
+      "00",
+      "0",
+      "1"
+    ],
+    "done": false
+  },
+  {
+    "question": "How can the user change “Scaler” into “Interviewbit” in the “Name” column in the Users table?",
+    "answer": "Explanation: The UPDATE command and WHERE clause are used together to change the name as asked in the question.",
+    "options": [
+      "UPDATE User SET Name = 'Scaler' INTO Name = 'Interviewbit'",
+      "MODIFY Users SET Name = 'Interviewbit' WHERE Name = 'Scaler'",
+      "MODIFY Users SET Name = 'Scaler' INTO Name = 'Interviewbit'",
+      "UPDATE Users SET Name = 'Interviewbit' WHERE Name = 'Scaler'"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the name of the query that is placed within a WHERE or HAVING clause of another query?",
+    "answer": "Explanation: It is called subquery.",
+    "options": [
+      "Multi query",
+      "Subquery",
+      "Super query",
+      "Master query"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which is the AS clause used for?",
+    "answer": "Explanation: The AS is used for the renaming functionality.",
+    "options": [
+      "Rename",
+      "Selection",
+      "Join",
+      "Projection"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are valid SQL constraints?",
+    "answer": "Explanation: All of the above are valid SQL constraints.",
+    "options": [
+      "NOT NULL",
+      "CHECK",
+      "UNIQUE",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is also known as a concatenated key?",
+    "answer": "Explanation: Composite key is also known as a concatenated key since it is composed of one or more columns.",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Surrogate Key",
+      "Composite Key"
+    ],
+    "done": false
+  },
+  {
+    "question": "The program which performs some common action on database data and is also stored there is called?",
+    "answer": "Explanation: SQL procedures are stored in SQL codes, which can be saved for reuse again and again.",
+    "options": [
+      "Trigger",
+      "Stored Procedure",
+      "Stored Function",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "How can SQL injections occur?",
+    "answer": "Explanation: SQL injections can occur in the 2 ways described in options A and B.",
+    "options": [
+      "Data is used to dynamically construct an SQL Query.",
+      "Unintended data from an untrusted source enters the application.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following constraints can be defined only at the column level?",
+    "answer": "Explanation: NOT NULL constraint can be defined only at the column level.",
+    "options": [
+      "UNIQUE",
+      "NOT NULL",
+      "CHECK",
+      "PRIMARY KEY"
+    ],
+    "done": false
+  },
+  {
+    "question": "Group of operations that form a single logical unit of work called?",
+    "answer": "Explanation: A logical group of statements that is written to perform a single unit of work is called a transaction.",
+    "options": [
+      "Network",
+      "Unit",
+      "Transaction",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the concurrency-based protocol?",
+    "answer": "Explanation: All of the above options are concurrency-based protocols.",
+    "options": [
+      "Lock based protocol",
+      "Two-phase locking protocol",
+      "Timestamp ordering protocol",
+      "All"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is not a valid SQL type?",
+    "answer": "Explanation: NUMERIC, DECIMAL, and CHARACTER are valid SQL types.",
+    "options": [
+      "NUMERIC",
+      "DECIMAL",
+      "CHARACTER",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the full form of SQL?",
+    "answer": "Explanation: SQL is the abbreviation for Structured Query Language.",
+    "options": [
+      "Structured Query Language",
+      "Sample Query Language",
+      "Structured Query List",
+      "None of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is not a DDL command?",
+    "answer": "Explanation: UPDATE is a DML command.",
+    "options": [
+      "REVOKE",
+      "GRANT",
+      "UPDATE",
+      "RENAME"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following are TCL commands?",
+    "answer": "Explanation: Both A and B are TCL commands.",
+    "options": [
+      "ROLLBACK",
+      "SAVEPOINT",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "SQL views are also known as?",
+    "answer": "Explanation: SQL Views are also known as Virtual Table.",
+    "options": [
+      "Schema",
+      "Virtual Table",
+      "Instance",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is not a valid aggregate function?",
+    "answer": "Explanation: All of the above options are valid aggregate functions in SQL.",
+    "options": [
+      "count()",
+      "Sum()",
+      "Avg()",
+      "None of the above"
+    ],
+    "done": false
+  }
+]

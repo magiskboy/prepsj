@@ -1,0 +1,475 @@
+[
+    {
+        "question": "Identify the deployment model among the following.",
+        "answer": "Answer:  D) All of the above are deployment models.",
+        "options": [
+            "Private",
+            "Public",
+            "Hybrid",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Choose among the following which is related to services provided by the cloud.",
+        "answer": "Answer:  B) Sourcing is related to services provided by the cloud.",
+        "options": [
+            "Reliability",
+            "Souring",
+            "Ownership",
+            "AaaS"
+        ]
+    },
+    {
+        "question": "Choose the correct IaaS provider among the following.",
+        "answer": "Answer:  A) EC2 is the IaaS service provider.",
+        "options": [
+            "EC2",
+            "EC1",
+            "EC10",
+            "Hybrid"
+        ]
+    },
+    {
+        "question": "Identify among the components which are known as a hypervisor.",
+        "answer": "Answer:  B) VMM is known as the hypervisor.",
+        "options": [
+            "VMC",
+            "VMM",
+            "VC",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct relationship of cloud services to customers.",
+        "answer": "Answer:  B) Cloud services are one-to-many relationships with their customers.",
+        "options": [
+            "One-One",
+            "One-Many",
+            "Many-one",
+            "Many-Many"
+        ]
+    },
+    {
+        "question": "Which of the following refers to network or internet?",
+        "answer": "Answer:  C) Cloud computing refers to network or internet.",
+        "options": [
+            "Cloud",
+            "CRM",
+            "Cloud computing",
+            "Computing"
+        ]
+    },
+    null,
+    {
+        "question": "What does the term “elasticity” in cloud computing refer to?",
+        "answer": "Answer:  D) Elasticity means the ability to scale down or scale-up.",
+        "options": [
+            "Ability to scale down",
+            "Parallel",
+            "Ability to scale up",
+            "Both a and c are correct"
+        ]
+    },
+    {
+        "question": "Identify among the following, which are examples of IaaS cloud computing",
+        "answer": "Answer:  D) All of the above are examples of IaaS cloud computing.",
+        "options": [
+            "Linode",
+            "Cisco meta cloud",
+            "Digital ocean",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify among the following, which are examples of SaaS cloud computing.",
+        "answer": "Answer:  D) All of the above are examples of SaaS cloud computing.",
+        "options": [
+            "Dropbox",
+            "Salesforce",
+            "Google workshop",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify among the following, which are examples of PaaS cloud computing",
+        "answer": "Answer: D) All of the above are examples of PaaS cloud computing.",
+        "options": [
+            "Heroku",
+            "Google App Engine",
+            "AWS Elastic Beanstalk",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Choose among the following, which are the characteristics of IaaS.",
+        "answer": "Answer:  D) All of the above are characteristics of IaaS.",
+        "options": [
+            "Highly scalable",
+            "Flexible and dynamic platform",
+            "Facilitates hardware access to many users",
+            "All of the above"
+        ]
+    },
+    null,
+    {
+        "question": "In cloud computing, the client is on which end.",
+        "answer": "Answer:  B) Client is on the front end.",
+        "options": [
+            "Backend",
+            "Frontend",
+            "Depends",
+            "Both a and b"
+        ]
+    },
+    {
+        "question": "In which year was Google Compute Engine released?",
+        "answer": "Answer:  A) Google Compute Engine was released in 2012.",
+        "options": [
+            "2012",
+            "2009",
+            "2015",
+            "2006"
+        ]
+    },
+    {
+        "question": "What is the most important concern of cloud computing?",
+        "answer": "Answer:  C) Security is the most important concern of cloud computing.",
+        "options": [
+            "Cost",
+            "Space",
+            "Security",
+            "Platform"
+        ]
+    },
+    {
+        "question": "Total types of cloud computing services are?",
+        "answer": "Answer:  D) There are a total of 4 cloud computing services - public, private, hybrid, multi-clouds.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "PaaS stands for?",
+        "answer": "Answer:  A) PaaS stands for Platform as a service.",
+        "options": [
+            "Platform as a service",
+            "Platform as a software",
+            "Parallel as a service",
+            "None"
+        ]
+    },
+    {
+        "question": "The term “hybrid cloud” refers to?",
+        "answer": "Answer:  C) Hybrid cloud refers to the combination of private and public cloud.",
+        "options": [
+            "Private cloud",
+            "Public cloud",
+            "Combination of private and public cloud",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the technique used for creating cloud computing.",
+        "answer": "Answer:  C) Virtualization is the technique used for creating cloud computing.",
+        "options": [
+            "Insubordination",
+            "Cannibalization",
+            "Virtualization",
+            "Transubstantiation"
+        ]
+    },
+    {
+        "question": "Total steps of deployment stage in cloud computing are?",
+        "answer": "Answer:  B) The total deployment stage in cloud computing is 4.",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "question": "Identify among the following, which provides a runtime environment.",
+        "answer": "Answer:  C) PaaS provides a runtime environment for applications.",
+        "options": [
+            "IaaS",
+            "SaaS",
+            "PaaS",
+            "XaaS"
+        ]
+    },
+    {
+        "question": "SAN stands for ______",
+        "answer": "Answer:  A) SAN stands for Storage area network.",
+        "options": [
+            "Storage area network",
+            "Security area network",
+            "Switch application network",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the most basic level of storage.",
+        "answer": "Answer:  C) DAS is the most basic level of storage.",
+        "options": [
+            "NAS",
+            "SAN",
+            "DAS",
+            "ISCSI"
+        ]
+    },
+    {
+        "question": "Identify the storage technologies among the following which have the best performance.",
+        "answer": "Answer:  B) SAN has the best performance among all others.",
+        "options": [
+            "NAS",
+            "SAN",
+            "DAS",
+            "None"
+        ]
+    },
+    {
+        "question": "Among the following layers, which are not related to SAN architecture.",
+        "answer": "Answer:  D) Object layer is not related to SAN architecture.",
+        "options": [
+            "Storage layer",
+            "Host layer",
+            "Fabric layer",
+            "Object layer"
+        ]
+    },
+    {
+        "question": "Among the following, which provides the GUI for interaction with the cloud.",
+        "answer": "Answer:  C) Client infrastructure provides the GUI for interaction with the cloud.",
+        "options": [
+            "Server",
+            "Client",
+            "Client infrastructure",
+            "Application"
+        ]
+    },
+    {
+        "question": "Choose among the following options, on which utility computing is based.",
+        "answer": "Answer:  D) Utility computing is based on SOA.",
+        "options": [
+            "Virtual isolation model",
+            "Grid Computing model",
+            "Pay-per use model",
+            "SOA"
+        ]
+    },
+    {
+        "question": "On what is cloud computing-based.",
+        "answer": "Answer:  C) Cloud computing is based on virtualization.",
+        "options": [
+            "Modulation",
+            "Hybridization",
+            "Virtualization",
+            "Multiplexing"
+        ]
+    },
+    {
+        "question": "Which of the following is a cloud?",
+        "answer": "Answer:  A) Hadoop can be considered as a cloud.",
+        "options": [
+            "Hadoop",
+            "Web applications",
+            "Intranet",
+            "None"
+        ]
+    },
+    {
+        "question": "SaaS stands for?",
+        "answer": "Answer: B) SaaS stands for Software as a service.",
+        "options": [
+            "Scalability as a service",
+            "Software as a service",
+            "Service as a software",
+            "None"
+        ]
+    },
+    {
+        "question": "Total types of hypervisors are?",
+        "answer": "Answer: A) There are two types of hypervisors.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Total types of PaaS are?",
+        "answer": "Answer:  C) There are four types of hypervisors.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5a"
+        ]
+    },
+    {
+        "question": "QPS stands for?",
+        "answer": "Answer:  D) QPS stands for Query per second.",
+        "options": [
+            "Query period sites",
+            "Quantum per second",
+            "Quality Per Service",
+            "Query per second"
+        ]
+    },
+    {
+        "question": "Choose the most important use of cloud computing.",
+        "answer": "Answer:  B) Data storage is the most important use of cloud computing.",
+        "options": [
+            "Data privacy",
+            "Data storage",
+            "Cost-effective",
+            "Security"
+        ]
+    },
+    {
+        "question": "Which of the following is a cloud platform by amazon?",
+        "answer": "Answer:  C) Amazon provided AWS cloud service.",
+        "options": [
+            "Cloudera",
+            "Azure",
+            "AWS",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify among the following, which monitors the performance of major cloud-based services in real-time.",
+        "answer": "Answer:  B) CloudSensor monitors the performance of major cloud-based services in real-time.",
+        "options": [
+            "CloudMetrices",
+            "CloudSensor",
+            "CloudWatch",
+            "None"
+        ]
+    },
+    {
+        "question": "GAE stands for?",
+        "answer": "Answer:  A) GAE stands for Google apps engine.",
+        "options": [
+            "Google apps engine",
+            "Google applied to engineer",
+            "Google architecture engineering",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the most restrictive and most refined cloud service model.",
+        "answer": "Answer:  D) PaaS is the most restrictive and most refined cloud service model.",
+        "options": [
+            "IaaS",
+            "XaaS",
+            "SaaS",
+            "PaaS"
+        ]
+    },
+    {
+        "question": "Which of the following terms refers to the management and location of cloud infrastructure.",
+        "answer": "Answer:  B) Deployment refers to the management and location of cloud infrastructure.",
+        "options": [
+            "Application",
+            "Deployment",
+            "Service",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What are the types of dimensions in Cloud Cube?",
+        "answer": "Answer:  C) There are 4 types of dimensions in Cloud Cube.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    null,
+    {
+        "question": "IaaS stands for?",
+        "answer": "Answer:  B) IaaS stands for Infrastructure as a service",
+        "options": [
+            "Information as a service",
+            "Infrastructure as a service",
+            "Infrastructure as a software",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the highest degree of integration of cloud computing.",
+        "answer": "Answer: A) SaaS is the highest degree of integration of cloud computing.",
+        "options": [
+            "SaaS",
+            "PaaS",
+            "IaaS",
+            "CaaS"
+        ]
+    },
+    {
+        "question": "Choose among the following which allows the different OS to run in their memory space.",
+        "answer": "Answer:  C) VMM allows the different OS to run in their memory space.",
+        "options": [
+            "VMS",
+            "VMS",
+            "VMM",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the VM monitor and CPU emulator among the following.",
+        "answer": "Answer:  B) QEMU is the VM monitor and CPU emulator.",
+        "options": [
+            "Parallels",
+            "QEMU",
+            "VMS",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the Type 1 hypervisor among the following.",
+        "answer": "Answer:  D) KVM is the Type 1 hypervisor.",
+        "options": [
+            "KVM",
+            "Virtual Server 2005 R2",
+            "Wind River Simics",
+            "KVM"
+        ]
+    },
+    {
+        "question": "IT Architecture Development comes under which of the following phases.",
+        "answer": "Answer:  A) IT Architecture Development under planning phase.",
+        "options": [
+            "Planning phase",
+            "Development phase",
+            "Strategy phase",
+            "Testing phase"
+        ]
+    },
+    {
+        "question": "Total types of cloud architecture are?",
+        "answer": "Answer:  B) There is a total of two types of cloud architecture - frontend and backend.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "By whom is the backend used primarily?",
+        "answer": "Answer:  B) Backend is used primarily by Service providers.",
+        "options": [
+            "User",
+            "Service provider",
+            "Client",
+            "Stockholders"
+        ]
+    }
+]

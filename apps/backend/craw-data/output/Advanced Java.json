@@ -1,0 +1,1306 @@
+[
+  {
+    "question": "Among the following options choose the one which shows the advantage of using the JDBC connection pool.",
+    "options": [
+      {
+        "content": "Using less memory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Better performance",
+        "checked": true,
+        "explain": "The advantage of using a JDBC connection pool is better performance.",
+        "code": "B"
+      },
+      {
+        "content": "Slower performance",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Using more memory",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which contains date information.",
+    "answer": "Answer:  A) java.sql timestamp contains date information.",
+    "options": [
+      "java.sql timestamp",
+      "java.io time",
+      "java.io.timestamp",
+      "java.sql.time"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the method of the JDBC process among the following options.",
+    "answer": "Answer:  D) addbatch() Is the method of JDBC.",
+    "options": [
+      "remove()",
+      "deletebatch()",
+      "setbatch()",
+      "addbacth()"
+    ],
+    "done": false
+  },
+  {
+    "question": "The total JDBC product components in Java software provides is ___________",
+    "options": [
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "The total JDBC product components in Java software provides is 3.",
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total JDBC drivers available is _____________",
+    "answer": "Answer:  C) Total JDBC drivers available is 4.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "done": false
+  },
+  {
+    "question": "Where can BLOB, CLOB, ARRAY, and REF type columns be updated?",
+    "options": [
+      {
+        "content": "JDBC 1.0",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JDBC 2.0",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "JDBC 3.0",
+        "checked": true,
+        "explain": "BLOB, CLOB, ARRAY, and REF type columns be updated in JDBC 3.0",
+        "code": "C"
+      },
+      {
+        "content": "JDBC 4.0",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which driver is known as the thin driver in JDBC?",
+    "options": [
+      {
+        "content": "Type 1 driver",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Type 2 driver",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Type 3 driver",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Type 4 driver",
+        "checked": true,
+        "explain": "Type 4 driver is known as the thin driver in JDBC.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "TCP, FTP, SMTP, Telnet are examples of?",
+    "options": [
+      {
+        "content": "IP address",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Protocol",
+        "checked": true,
+        "explain": "TCP FTP Telnet, SMTP are examples of protocols.",
+        "code": "B"
+      },
+      {
+        "content": "Socket",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "MAC address",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the class used for connection-less socket programming.",
+    "options": [
+      {
+        "content": "Datagram packet",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Datagram socket",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both datagram packet and datagram socket is used for connection-less socket programming",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total TCP/IP ports reserved for specific protocol is._______",
+    "options": [
+      {
+        "content": "1024",
+        "checked": true,
+        "explain": "Total TCP/IP ports reserved for specific protocol is 1024.",
+        "code": "A"
+      },
+      {
+        "content": "2048",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "512",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "32",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the total number of bits in a single IP address?",
+    "options": [
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "8",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "16",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "32",
+        "checked": true,
+        "explain": "The total number of bits in a single IP address is 32.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following option leads to the portability and security of Java?",
+    "options": [
+      {
+        "content": "Dynamic binding between objects",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Use of exception handling",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bytecode is executed by JVM",
+        "checked": true,
+        "explain": "Bytecode is executed by JVM is the correct answer.",
+        "code": "C"
+      },
+      {
+        "content": "The applet makes the Java code secure and portable",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are the major components of the JDBC?",
+    "options": [
+      {
+        "content": "DriverManager, Statement, and ResultSet",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "DriverManager, Driver, Connection, Statement, and ResultSet",
+        "checked": true,
+        "explain": "The major components of JDBC are - DriverManager, Driver, Connection, Statement, and ResultSet.",
+        "code": "B"
+      },
+      {
+        "content": "DriverManager, Connection, Statement, and ResultSet",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "DriverManager, Driver, Connection, and Statement",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which is responsible for getting a connection to the database?",
+    "options": [
+      {
+        "content": "Connection",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Statement",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ResultSet",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Driver",
+        "checked": true,
+        "explain": "Driver is responsible for getting a connection to the database.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which file database table configuration is stored?",
+    "options": [
+      {
+        "content": ".sql",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": ".ora",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": ".hbm",
+        "checked": true,
+        "explain": "Database table configuration file is stored in .hbm",
+        "code": "C"
+      },
+      {
+        "content": ".dbm",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How constructor can be used for a servlet?",
+    "options": [
+      {
+        "content": "Initialization and Constructor function",
+        "checked": true,
+        "explain": "Constructor can be used for a servlet by Initialization and a Constructor function.",
+        "code": "A"
+      },
+      {
+        "content": "Setup() method",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Initialization",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Constructor function",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the method which is used to start a  server thread.",
+    "options": [
+      {
+        "content": "start thread()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "run()",
+        "checked": true,
+        "explain": "run()  is used to start a  server thread.",
+        "code": "B"
+      },
+      {
+        "content": "runthread()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "start()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the method which is used to find the URL from the cache of httpd.",
+    "options": [
+      {
+        "content": "getfromcache()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "findfromcache()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "findcache()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "servefromcache()",
+        "checked": true,
+        "explain": "servefromcache() is used to find the URL from the cache of httpd.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the instance variable of class httpd among the following.",
+    "options": [
+      {
+        "content": "Cache",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Port",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Log",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are instances variable of class httpd.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which method is used to know the host of an URL?",
+    "options": [
+      {
+        "content": "findhost()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "gethost()",
+        "checked": true,
+        "explain": "gethost() is used to know the host of an URL.",
+        "code": "B"
+      },
+      {
+        "content": "locatehost()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "host()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following ways is used to communicate from an applet to servlet?",
+    "options": [
+      {
+        "content": "HTTP communication",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Socket communication",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "RMI communication",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above is used to communicate from an applet to the servlet.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which tag is used to execute Java source code in JSP?",
+    "options": [
+      {
+        "content": "Expression tag",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Scriptlet tag",
+        "checked": true,
+        "explain": "Scriptlet tag is used to execute Java source code in JSP.",
+        "code": "B"
+      },
+      {
+        "content": "Declaration tag",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following access modifiers provides the widest scope of visibility for a class member in Java?",
+    "options": [
+      {
+        "content": "private",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "protected",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "default",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "public",
+        "checked": true,
+        "explain": "public",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the purpose of the finally block in a Java try-catch-finally construct?",
+    "options": [
+      {
+        "content": "To catch and handle exceptions thrown in the try block",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "To execute code regardless of whether an exception is thrown or not",
+        "checked": true,
+        "explain": "To execute code regardless of whether an exception is thrown or not.",
+        "code": "B"
+      },
+      {
+        "content": "To define the conditions for handling exceptions",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "To provide an alternate code path when an exception occurs",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total ways to perform exception handling in JSP is ________",
+    "options": [
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "There are 2 Ways to perform exception handling in JSP.",
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following tags does the JSP page contain?",
+    "options": [
+      {
+        "content": "JSP tags",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "HTML tags",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and C",
+        "checked": true,
+        "explain": "JSP page contains both JSP tags and HTML tags.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of  JDBC is __________",
+    "options": [
+      {
+        "content": "Java database Communications",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Java database concept",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Java database connectivity",
+        "checked": true,
+        "explain": "JDBC stands for Java database connectivity",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following requires fewer resources?",
+    "options": [
+      {
+        "content": "Process",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Thread",
+        "checked": true,
+        "explain": "Thread requires fewer resources.",
+        "code": "B"
+      },
+      {
+        "content": "Both Thread and Process",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Neither read nor process",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What decides the priority of the thread?",
+    "options": [
+      {
+        "content": "Thread",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Process scheduler",
+        "checked": true,
+        "explain": "Thread scheduler will decide the priority of the thread.",
+        "code": "B"
+      },
+      {
+        "content": "Process",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Thread scheduler",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which is a type of multitasking?",
+    "options": [
+      {
+        "content": "Thread based",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Process-based",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both A and B are types of multitasking.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the RMI server responsible for?",
+    "options": [
+      {
+        "content": "Exporting remote object",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Creating an instance of the remote of",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Binding an instance of the remote object building to the RMI registry.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "RMI service is responsible for all of the given options.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "RMI stands for __________",
+    "options": [
+      {
+        "content": "Remote Memory Interface",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Remote Method Invocation",
+        "checked": true,
+        "explain": "RMI stands for Remote Method Invocation.",
+        "code": "B"
+      },
+      {
+        "content": "Random Method Invocation",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is built on top of socket programming?",
+    "options": [
+      {
+        "content": "RMI",
+        "checked": true,
+        "explain": "RMI is built on top of socket programming.",
+        "code": "A"
+      },
+      {
+        "content": "EJB",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which follows the connectionless service.",
+    "options": [
+      {
+        "content": "HTTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "TCP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "UDP",
+        "checked": true,
+        "explain": "UDP follows the connectionless service.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following protocols are used for splitting and sending packets to an address across a network.",
+    "options": [
+      {
+        "content": "SMTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": true,
+        "explain": "TCP/IP .is used for splitting and sending packets to an address across a network.",
+        "code": "B"
+      },
+      {
+        "content": "UDP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the total number of ResultSet available with the JDBC 2.0 core API?",
+    "options": [
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "The total number of ResultSet available with the JDBC 2.0 core API is 3.",
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following identify the packages which represent interfaces and classes for servlet API.",
+    "answer": "Answer:  C) Both a and b are correct.",
+    "options": [
+      "javax.servelet.http",
+      "javax.servelet",
+      "Both A and B",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the HTTP request method which is non-idempotent.",
+    "options": [
+      {
+        "content": "POST",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "GET",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both POST and GET are non-idempotent.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following examples of application servers?",
+    "options": [
+      {
+        "content": "JBoss",
+        "checked": true,
+        "explain": "JBoss is an example of an application server",
+        "code": "A"
+      },
+      {
+        "content": "Tomcat",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Apache",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "WebLogic",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The total number of techniques used in session tracking is ________",
+    "options": [
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "4",
+        "checked": true,
+        "explain": "Total 4 techniques used in session tracking.",
+        "code": "B"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "6",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the Microsoft solution for providing dynamic web content.",
+    "options": [
+      {
+        "content": "ASP",
+        "checked": true,
+        "explain": "JSP is used for providing dynamic web content.",
+        "code": "A"
+      },
+      {
+        "content": "JSP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the difference between servlet and JSP?",
+    "options": [
+      {
+        "content": "Compilation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Translation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Syntax",
+        "checked": true,
+        "explain": "The major difference between servlet and JSP is syntax.",
+        "code": "C"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which is not a directive?",
+    "options": [
+      {
+        "content": "Page",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Include",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Tag",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Export",
+        "checked": true,
+        "explain": "Export is not the directive",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "For resolving Facelet views, which of the following is configured.",
+    "options": [
+      {
+        "content": "View_Resolver",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "View-resolver",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ViewResolver",
+        "checked": true,
+        "explain": "ViewResolver is configured for resolving Facelet views.",
+        "code": "C"
+      },
+      {
+        "content": "ViewFacelets",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following methods which of the following returns proxy object.",
+    "options": [
+      {
+        "content": "getDatabase()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "get()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "load()",
+        "checked": true,
+        "explain": "load() Is the method that returns a proxy object.",
+        "code": "C"
+      },
+      {
+        "content": "loadDatabase()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which attribute is used to specify the class name of the bean.",
+    "options": [
+      {
+        "content": "id",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "class",
+        "checked": true,
+        "explain": "class is used to specify the class name of the pin.",
+        "code": "B"
+      },
+      {
+        "content": "name",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "constructor-args",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

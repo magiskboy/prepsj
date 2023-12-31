@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "What is the process at the most detailed level of the data flow diagrams known as?",
+    "options": [
+      {
+        "content": "Interfaces",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "functional primitives",
+        "checked": true,
+        "explain": "The process at the most detailed level of the data flow diagrams known as functional primitives",
+        "code": "B"
+      },
+      {
+        "content": "data flow",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "transform descriptions",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total bits used by the IPv6 address is ________",
+    "options": [
+      {
+        "content": "64 bit",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "256 bit",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "128 bit",
+        "checked": true,
+        "explain": "Total bits used by the IPv6 address is 128 bits.",
+        "code": "C"
+      },
+      {
+        "content": "32 bit",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the language which is mainly used for Artificial Intelligence",
+    "options": [
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "J2EE",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Prolog",
+        "checked": true,
+        "explain": "Prolog is used for Artificial Intelligence.",
+        "code": "C"
+      },
+      {
+        "content": "C",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why is a firewall used in a computer?",
+    "options": [
+      {
+        "content": "Monitoring",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "data transmission",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Authentication",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "security",
+        "checked": true,
+        "explain": "Firewall is used in computers for security.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of DOM is?",
+    "options": [
+      {
+        "content": "Document-oriented memory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "document object model",
+        "checked": true,
+        "explain": "DOM  stands for document object model.",
+        "code": "B"
+      },
+      {
+        "content": "document object memory",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How many levels are there in the architecture of the database?",
+    "options": [
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "There are three levels of architecture in the database - physical level, the view level, and user level.",
+        "code": "B"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which is not a database management software",
+    "options": [
+      {
+        "content": "MySQL",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "COBOL",
+        "checked": true,
+        "explain": "COBOL  is not a database management software",
+        "code": "B"
+      },
+      {
+        "content": "Sybase",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Oracle",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the total standard color names that HTML supports.",
+    "options": [
+      {
+        "content": "30",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "70",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "140",
+        "checked": true,
+        "explain": "HTML supports a total of 140 standard color names.",
+        "code": "C"
+      },
+      {
+        "content": "120",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the port number of FTP.",
+    "options": [
+      {
+        "content": "23",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "21",
+        "checked": true,
+        "explain": "The port number of FTP is 21",
+        "code": "B"
+      },
+      {
+        "content": "110",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "143",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Total number of layers in OSI model is ___________",
+    "options": [
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "7",
+        "checked": true,
+        "explain": "The total number of layers in the OSI model is 7.",
+        "code": "B"
+      },
+      {
+        "content": "9",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "11",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "UNIX is written in which language?",
+    "options": [
+      {
+        "content": "C#",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "C++",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "C",
+        "checked": true,
+        "explain": "UNIX is written in C language. It was developed in the 1970s at AT & T Bell laboratories.",
+        "code": "C"
+      },
+      {
+        "content": ".Net",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the different features of Big Data Analytics.",
+    "options": [
+      {
+        "content": "open source",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "data recovery",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Scalability",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": " All of the above are features of Big Data Analytics",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is an extension of image file?",
+    "options": [
+      {
+        "content": ".mkv",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": ".gif",
+        "checked": true,
+        "explain": " .gif is an extension of image file.",
+        "code": "B"
+      },
+      {
+        "content": ".txt",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": ".vdf",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Dbase III is?",
+    "options": [
+      {
+        "content": "Hardware",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Firmware",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "application software",
+        "checked": true,
+        "explain": "dBase III is Application software.",
+        "code": "C"
+      },
+      {
+        "content": "operating system",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The main memory of a computer system is?",
+    "options": [
+      {
+        "content": "Non-volatile",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Volatile",
+        "checked": true,
+        "explain": "Main memory of a computer system is volatile",
+        "code": "B"
+      },
+      {
+        "content": "Restricted",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Unrestricted",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following servers which allow LAN users to share data.",
+    "options": [
+      {
+        "content": "Communication server",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Point server",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Data server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "File server",
+        "checked": true,
+        "explain": "File server allows LAN users to share data.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "URL stands for _______________",
+    "options": [
+      {
+        "content": "Uninterrupted data locator",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Uninterrupted record locator",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "uniform record locator",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "uniform resource locator",
+        "checked": true,
+        "explain": "The full form of URL is a uniform resource locator.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "SSLstands for _______________",
+    "options": [
+      {
+        "content": "secure socket layer",
+        "checked": true,
+        "explain": "The full form of SSL is a secure socket layer.",
+        "code": "A"
+      },
+      {
+        "content": "secure secret level",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "secure system level",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "section security layer",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a SQL command?",
+    "options": [
+      {
+        "content": "DELETE",
+        "checked": true,
+        "explain": "DELETE is not a SQL command",
+        "code": "A"
+      },
+      {
+        "content": "ORDER BY",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "SELECT",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "WHERE",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the range of byte data types in JavaScript",
+    "options": [
+      {
+        "content": "-10 to 9",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "- 128 to 127",
+        "checked": true,
+        "explain": "the range of byte data type is - 128 to 127.",
+        "code": "B"
+      },
+      {
+        "content": "-32768 to 32767",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "-2147483648 to 2147483647",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Computer word size is a multiple of ______ bits",
+    "options": [
+      {
+        "content": "4 bits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "10 bits",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "16 bits",
+        "checked": true,
+        "explain": "Computer word size is a multiple of 16 bits",
+        "code": "C"
+      },
+      {
+        "content": "1024 bits",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "OCR stands for _____________",
+    "options": [
+      {
+        "content": "Online computer retrieval",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "office cash receiver",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "optical character reader",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "optical card reader",
+        "checked": true,
+        "explain": "OCR stands for optical card reader.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Testing of program’s corporate is known as?",
+    "options": [
+      {
+        "content": "System testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "isolation testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "pilot testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "unit-testing",
+        "checked": true,
+        "explain": "Testing of program’s corporate is known as unit testing.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Information in computer read-only memory stored by",
+    "options": [
+      {
+        "content": "Engineer",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Programmer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Manufacturer",
+        "checked": true,
+        "explain": "Information in computer read-only memory is stored by the manufacturer.",
+        "code": "C"
+      },
+      {
+        "content": "user",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Device driver required in?",
+    "options": [
+      {
+        "content": "Register",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Main memory",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Disk",
+        "checked": true,
+        "explain": "A disk drive is a device driver that allows a specific disk drive to communicate with the remainder of the computer. A good example of this driver is a floppy disk drive.",
+        "code": "C"
+      },
+      {
+        "content": "Cache",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the call which never returns an error?",
+    "options": [
+      {
+        "content": "fork",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "getpid",
+        "checked": true,
+        "explain": "The call getpid never returns an error",
+        "code": "B"
+      },
+      {
+        "content": "ioctl",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "open",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The total view of a database is known as?",
+    "options": [
+      {
+        "content": "Physical view",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Internal view",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Conceptual view",
+        "checked": true,
+        "explain": "The conceptual view is referred to as the total view of a database",
+        "code": "C"
+      },
+      {
+        "content": "External view",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following does computer hardware consist of?",
+    "options": [
+      {
+        "content": "storage devices",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "CPU",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "I/O devices",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "computer hardware consists of All of the above.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In what terms is Computer memory measured?",
+    "options": [
+      {
+        "content": "Units",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Bits",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Cells",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "bytes",
+        "checked": true,
+        "explain": "Computer memory is measured in terms of bytes.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following memory of the computer is volatile?",
+    "options": [
+      {
+        "content": "EEPROM",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RAM",
+        "checked": true,
+        "explain": "RAM is volatile.",
+        "code": "B"
+      },
+      {
+        "content": "ROM",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "CMOS",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following computer memory users cannot write any information or instruction?",
+    "options": [
+      {
+        "content": "EEPROM",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RAM",
+        "checked": true,
+        "explain": "Users cannot write any information or instruction on ROM.",
+        "code": "B"
+      },
+      {
+        "content": "ROM",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "CMOS",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following commands in UNIX is used to send a signal?",
+    "options": [
+      {
+        "content": "send",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "kill",
+        "checked": true,
+        "explain": "kill is used to send a signal in UNIX",
+        "code": "B"
+      },
+      {
+        "content": "sigsend",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Using which of the following is the interconnection of the computer possible?",
+    "options": [
+      {
+        "content": "communication links",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Cables",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "information technology",
+        "checked": true,
+        "explain": "Using information technology, interconnection of computer is possible.",
+        "code": "C"
+      },
+      {
+        "content": "processing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Where is computer firmware present?",
+    "options": [
+      {
+        "content": "Cache memory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "non-volatile memory",
+        "checked": true,
+        "explain": "Computer firmware is present in non-volatile memory.",
+        "code": "B"
+      },
+      {
+        "content": "Volatile memory",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "RAM",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "LPT stands for ______________",
+    "options": [
+      {
+        "content": "Low print typewriter",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "line per text",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "line printer",
+        "checked": true,
+        "explain": "LPT stands for Line printer.",
+        "code": "C"
+      },
+      {
+        "content": "laser printer",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are modern computers based on?",
+    "options": [
+      {
+        "content": "Microchip",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Microprocessor",
+        "checked": true,
+        "explain": "Modern computers are based on both microchips and microprocessors.",
+        "code": "B"
+      },
+      {
+        "content": "I/O devices",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What else is a command interpreter called?",
+    "options": [
+      {
+        "content": "prompt",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "kernel",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "command",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "shell",
+        "checked": true,
+        "explain": "A command interpreter is also called the shell.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The computer system which uses a drum plotter is known as?",
+    "options": [
+      {
+        "content": "mini computer",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Mainframe computer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Computer system which uses drum plotter is known as both mini and mainframe computer.",
+        "code": "C"
+      },
+      {
+        "content": "none",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is known as an uninterruptible unit?",
+    "options": [
+      {
+        "content": "single",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "static",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "atomic",
+        "checked": true,
+        "explain": "Atomic is known as an uninterruptible unit. That is, whenever a process start executes, it doesn’t terminate or context switch until its complete execution",
+        "code": "C"
+      },
+      {
+        "content": "none of the mentioned",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Where can the data be updated?",
+    "options": [
+      {
+        "content": "Informational environment",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Data warehouse environment",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Operational environment",
+        "checked": true,
+        "explain": "Data can be updated in an operational environment",
+        "code": "C"
+      },
+      {
+        "content": "Data mining environment",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the one which is not a networking device.",
+    "options": [
+      {
+        "content": "Switch",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Traffic analyzer",
+        "checked": true,
+        "explain": "Traffic analyzer is not a networking device",
+        "code": "B"
+      },
+      {
+        "content": "Bridge",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Router",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The standard length of the MAC address is",
+    "options": [
+      {
+        "content": "16 bits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "48 bits",
+        "checked": true,
+        "explain": "Standard length of MAC address is 48 bits",
+        "code": "B"
+      },
+      {
+        "content": "32 bits",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "8 bits",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": [
+      {
+        "content": "Linux",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "DOS",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Oracle",
+        "checked": true,
+        "explain": "Oracle is not an operating system. It is a relational database management system, also known as Oracle Database",
+        "code": "C"
+      },
+      {
+        "content": "Windows",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Through API, _____ service portability is enabled.",
+    "options": [
+      {
+        "content": "device",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "network",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "services",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "systems",
+        "checked": true,
+        "explain": "Through API, systems service portability is enabled",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is a table joined with itself called?",
+    "options": [
+      {
+        "content": "Join",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Self-join",
+        "checked": true,
+        "explain": "Table joined with self is known as Self Join",
+        "code": "B"
+      },
+      {
+        "content": "Outer join",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Equi join",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is a single-user operating system?",
+    "options": [
+      {
+        "content": "Windows",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Ms-DOS",
+        "checked": true,
+        "explain": "Ms-DOS is a single-user operating system.",
+        "code": "B"
+      },
+      {
+        "content": "MAC",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose among the following, which is the most common internet protocol.",
+    "options": [
+      {
+        "content": "PPP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "SMTP",
+        "checked": true,
+        "explain": "SMTP is the most commonly used internet protocol.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of SBC is?",
+    "options": [
+      {
+        "content": "Standard business center",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Smart business center",
+        "checked": true,
+        "explain": "SBC stands for Smart business center",
+        "code": "B"
+      },
+      {
+        "content": "Standard building center",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Smart building center",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another name of reading operation in?",
+    "options": [
+      {
+        "content": "store operations",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "access operation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fetch operation",
+        "checked": true,
+        "explain": "Read operation is also known as fetch operation.",
+        "code": "C"
+      },
+      {
+        "content": "control operation",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the total number of users that can use a microprocessor at a time?",
+    "options": [
+      {
+        "content": "Single users",
+        "checked": true,
+        "explain": "Only a single user can use a microprocessor at a time",
+        "code": "A"
+      },
+      {
+        "content": "Multi-user",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "particular user",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "professional user",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

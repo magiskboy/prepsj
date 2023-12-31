@@ -1,0 +1,532 @@
+[
+    {
+        "question": "The “Father of Artificial Intelligence” is:",
+        "answer": "John McCarthy is also known as the “Father of Artificial Intelligence”.",
+        "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "John McCarthy",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Blind Search can be used for which of the following situations?",
+        "answer": "Blind Search doesn’t contain any domain information such as closeness and hence it is best used for a Small Search Space.",
+        "options": [
+            "Real-Life Simulation",
+            "Small Search Space",
+            "Advanced Game Theory",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "In how many category processes is Artificial Intelligence classified in?",
+        "answer": "AI is classified into 3 categories processes: Sensing, Reasoning, and Acting.",
+        "options": [
+            "Depends on the input nature",
+            "5",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "question": "If a machine can change its course of action based on the external environment on its own, the machine is called?",
+        "answer": "Machines that can change their course of action by making their own decisions are said to be Intelligent.",
+        "options": [
+            "Mobile",
+            "Intelligent",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is the common language for Artificial Intelligence?",
+        "answer": "While programming can be done in any language, in today’s world Python has become the go-to language for AI and ML-related tasks due to its vast and diverse library functionalities.",
+        "options": [
+            "Python",
+            "Java",
+            "Lisp",
+            "PHP"
+        ]
+    },
+    {
+        "question": "Which of the following is not an application of artificial intelligence?",
+        "answer": "Other than Database Management System, all the other options are viable fields of study in Artificial Intelligence.",
+        "options": [
+            "Computer Vision",
+            "Natural Language Processing",
+            "Database Management System",
+            "Digital Assistants"
+        ]
+    },
+    {
+        "question": "The proposition symbols in AI are?",
+        "answer": "true and false are the 2 proposition symbols in AI.",
+        "options": [
+            "true and false",
+            "true, false, and null",
+            "true",
+            "false"
+        ]
+    },
+    {
+        "question": "Which of the following symbols in AI are logical symbols?",
+        "answer": "The logical symbols in AI are: Negation, Conjunction, Disjunction, Implication, and Biconditional symbols.",
+        "options": [
+            "Negation",
+            "Conjunction",
+            "Implication",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are informed search methods?",
+        "answer": "All of the above options are informed search methods used in Artificial Intelligence.",
+        "options": [
+            "Best First Search",
+            "A* Search",
+            "Memory Bound Heuristic Search",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "The name of the Artificial Intelligence system developed by Daniel Bobrow was?",
+        "answer": "The name of the Artificial Intelligence system developed by Daniel Bobrow was STUDENT developed in the Lisp Language in 1964.",
+        "options": [
+            "BACON",
+            "SIMD",
+            "STUDENT",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is a type of artificial intelligence agent?",
+        "answer": "There are a total of 5 AI agents: Simple Reflex Agent, Model-Based Reflex Agent, Goal-based reflex agent, utility-based agent, learning agent.",
+        "options": [
+            "Learning AI Agent",
+            "Simple Reflex AI Agent",
+            "Goal-Based AI Agent",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "How many types of recognition are there in AI?",
+        "answer": "There are 3 types of recognition in AI: Biometric Identification, Content-Based Image Retrieval, Handwriting Recognition.",
+        "options": [
+            "5",
+            "3",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "question": "Procedural Domain Knowledge in a rule-based system, is in the form of?",
+        "answer": "Procedural Domain Knowledge in a rule-based system, is in the form of Production Rules.",
+        "options": [
+            "Meta-Rules",
+            "Control Rules",
+            "Production Rules",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What are the different types of Artificial Intelligence approaches?",
+        "answer": "All the given options are different types of AI approaches used in different scenarios.",
+        "options": [
+            "Strong Approach",
+            "Weak Approach",
+            "Applied Approach",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "‘The Imitation Game’ was the original name of?",
+        "answer": "The Turing Test was originally called the ‘The Imitation Game’ by its creator.",
+        "options": [
+            "LISP",
+            "The Turing Test",
+            "The Halting Problem",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following architecture is also known as systolic arrays?",
+        "answer": "MISD architecture is also known as systolic arrays.",
+        "options": [
+            "MISD",
+            "SISD",
+            "SIMD",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Decisions of Victory/Defeat are made in Game trees using which algorithm?",
+        "answer": "The Min/Max algorithm is preferred over other search-based algorithms in Game trees to make win/loss decisions optimally.",
+        "options": [
+            "DFS",
+            "BFS",
+            "Heuristic Search",
+            "Min/Max Algorithm"
+        ]
+    },
+    {
+        "question": "The correct ways to solve a problem of state-space search are?",
+        "answer": "The only 2 ways to solve a problem of state-space search problem are given in options (A) and (B).",
+        "options": [
+            "Forward from the initial state",
+            "Backward from the goal",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Machines running LISP are also called?",
+        "answer": "Machines running LISP are also called AI workstations.",
+        "options": [
+            "AI Workstations",
+            "Time-Sharing Terminals",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How does an AI agent interacts with its environment?",
+        "answer": "An AI agent perceives and acts upon the environment using Sensors and Actuators. With Sensors, it senses the surrounding, and with Actuators, it acts on it.",
+        "options": [
+            "Using sensors and perceivers",
+            "Using only sensors",
+            "Using only perceivers",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is the work of Task Environment and Rational Agents?",
+        "answer": "Task Environments provides an issue and Rational Agents provides the corresponding solution.",
+        "options": [
+            "Problem and Solution",
+            "Solution and Problem",
+            "Observation and Problem",
+            "Observation and Solution"
+        ]
+    },
+    {
+        "question": "How many types of observing environments are there?",
+        "answer": "There are 2 types of observing environments: Fully and Partial.",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "0"
+        ]
+    },
+    {
+        "question": "How many types of quantification are there in AI?",
+        "answer": "There are 2 types of quantification in AI: Universal and Existential.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Out of the given options, which of the following algorithms uses the least memory?",
+        "answer": "DFS uses the lesser amount of memory because at a time the path from the node to a root is only stored in the memory stack unlike BFS which will have to store the whole tree within it.",
+        "options": [
+            "DFS",
+            "BFS",
+            "Both A and B are the same",
+            "Cannot be compared"
+        ]
+    },
+    {
+        "question": "Machines that try to imitate human intuition while handling vague information lie in the field of AI called?",
+        "answer": "Fuzzy Logic allows machines to mimic human intuition when provided with information that is vague in nature.",
+        "options": [
+            "Functional Logic",
+            "Fuzzy Logic",
+            "Boolean Logic",
+            "Human Logic"
+        ]
+    },
+    {
+        "question": "What is meant by a “Complete Algorithm”?",
+        "answer": "A complete algorithm is an algorithm that finds a solution to a problem(if it exists) in finite time.",
+        "options": [
+            "If a solution exists, the algorithm will find it before terminating.",
+            "It will find the solution in a finite amount of time.",
+            "Both A and B.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "The measure of performance of an AI agent is measured using?",
+        "answer": "The performance of an AI agent is improved using the learning agent.",
+        "options": [
+            "Learning Agent.",
+            "Changing Agent.",
+            "Both A and B.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "Which of the following are valid Machine Learning algorithms?",
+        "answer": "All of the above algorithms given above are valid ML algorithms.",
+        "options": [
+            "Linear Regression",
+            "K Means Clustering",
+            "Naive Bayes",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What are different machine learning methods?",
+        "answer": "The machine learning methods include Memorization, Analogy, and Deduction.",
+        "options": [
+            "Memorization",
+            "Analogy",
+            "Deduction",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Exploratory Learning is another name for?",
+        "answer": "In unsupervised learning, no external supervision is required so the machine learns on the basis of exploring the datasets themselves.",
+        "options": [
+            "Supervised learning",
+            "Unsupervised learning",
+            "Reinforcement learning",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The things considered in the design of a learning element are?",
+        "answer": "The 3 main things to be considered in the design of a learning element are: Components, Feedback, and Representation.",
+        "options": [
+            "Components",
+            "Feedback",
+            "Representation",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "The different types of machine learning are?",
+        "answer": "The 3 types of machine learning are: Supervised, Unsupervised, and Reinforcement Learning.",
+        "options": [
+            "Supervised",
+            "Unsupervised",
+            "Reinforcement",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "How is a decision reached upon by a decision tree?",
+        "answer": "A decision tree makes its decision based on the results of a sequence of tests.",
+        "options": [
+            "No test",
+            "Single Test",
+            "Double Test",
+            "Multiple sequences of tests"
+        ]
+    },
+    {
+        "question": "A hybrid Bayesian Network consists of?",
+        "answer": "Discrete and Continuous variables both act as numerical inputs to a hybrid Bayesian network.",
+        "options": [
+            "Discrete Variables",
+            "Continuous Variables",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "AI agents are composed of?",
+        "answer": "AI agents implement mapping for perceptions to actions.",
+        "options": [
+            "Architecture",
+            "Program",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "For external action selection, which element is used in the agent?",
+        "answer": "The performance element is used for external action selection in AI agents.",
+        "options": [
+            "Perceive",
+            "Performance",
+            "Actuator",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How is the brightness of a pixel on the screen increased?",
+        "answer": "The brightness of a pixel is directly proportional to the amount of light incident on the screen.",
+        "options": [
+            "Increasing the amount of light directed on the screen",
+            "Using mirrors",
+            "Using sound waves",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The process of making 2 logical expressions look identical is called?",
+        "answer": "Unification is the process of making 2 logical expressions look identical.",
+        "options": [
+            "Lifting",
+            "Unification",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "PEAS is an abbreviation for?",
+        "answer": "PEAS is an abbreviation for Performance, Environment, Actuators, Sensors.",
+        "options": [
+            "Peace, Environment, Action, Sense",
+            "Peer, Environment, Actuators, Sensors",
+            "Performance, Environment, Actuators, Sensors",
+            "Performance, Environment, Actuators, Sense"
+        ]
+    },
+    {
+        "question": "Knowledge in AI can be represented as?",
+        "answer": "The representation of knowledge in AI can be done both as Predicate and Propositional Logic.",
+        "options": [
+            "Predicate Logic",
+            "Propositional Logic",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are appropriate levels for a knowledge-based AI agent?",
+        "answer": "The 3 main levels for a knowledge-based AI agent are: Knowledge, Logical, and Implementation level.",
+        "options": [
+            "Knowledge Level",
+            "Logical Level",
+            "Implementation Level",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "How can we achieve Artificial Intelligence in real life?",
+        "answer": "Machine learning and Deep Learning are 2 of the ways to implement Artificial Intelligence in real life.",
+        "options": [
+            "Machine Learning",
+            "Deep Learning",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are heuristic search algorithms?",
+        "answer": "Both options A and B are heuristics-based search algorithms.",
+        "options": [
+            "Best First Search Algorithm",
+            "A* Search Algorithm",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How do we multiply 2 numbers in LISP?",
+        "answer": "The syntax to multiply 2 numbers in LISP is correctly shown in option A.",
+        "options": [
+            "* a b",
+            "a * b",
+            "a mul b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Inference engines work on the principle of?",
+        "answer": "The modes on which inference engines work are forward and backward chaining.",
+        "options": [
+            "Backward Chaining",
+            "Forward Chaining",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The process of breaking an image into parts is called?",
+        "answer": "Segmentation is the process of breaking an image into groups based on the similarity of pixels.",
+        "options": [
+            "Smoothing",
+            "Segmentation",
+            "Processing",
+            "Break Down"
+        ]
+    },
+    {
+        "question": "Which of the following are valid 3D image processing techniques?",
+        "answer": "All of the above options are valid 3D image processing techniques.",
+        "options": [
+            "Motion",
+            "Texture",
+            "Contour",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Parsing is used for?",
+        "answer": "The process of building up a parse tree for an input string is called parsing.",
+        "options": [
+            "Parse tree buildup",
+            "Data Interpretation",
+            "Sound Recognition",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Artificial Intelligence is associated with computers of which generation?",
+        "answer": "Fifth Generation computers are said to be able to have Artificial Intelligence within them.",
+        "options": [
+            "Second",
+            "First",
+            "Fifth",
+            "Third"
+        ]
+    },
+    {
+        "question": "Components of an expert system are?",
+        "answer": "All the above options comprise the components of an expert system.",
+        "options": [
+            "Knowledge base",
+            "User interface",
+            "Inference engine",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following search method takes less memory space?",
+        "answer": "Depth First Search takes the least memory consumption because only the nodes on the current path are stored.",
+        "options": [
+            "Depth First Search",
+            "Breadth-First Search",
+            "Linear Search",
+            "Optimal Search"
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of AI?",
+        "answer": "Reactive Machines are not a type of AI based on functionality.",
+        "options": [
+            "Weak AI",
+            "Theory of Mind",
+            "Reactive Machines",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What is state space in AI?",
+        "answer": "State Space in AI is defined as the collection of all the problem states.",
+        "options": [
+            "Collection of all the problem states.",
+            "A specific problem states out of all the problem states.",
+            "Both A and B.",
+            "None of the above"
+        ]
+    }
+]

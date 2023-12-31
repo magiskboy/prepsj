@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "questions",
+  "info": {
+    "singularName": "question",
+    "pluralName": "questions",
+    "displayName": "Question",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Text",
+        "MCQ"
+      ]
+    },
+    "examination": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::examination.examination",
+      "inversedBy": "questions"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "isPublic": {
+      "type": "boolean",
+      "default": false
+    },
+    "options": {
+      "type": "json"
+    }
+  }
+}

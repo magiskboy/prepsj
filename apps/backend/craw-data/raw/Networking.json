@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What does PoP stand for?",
+        "answer": "Answer - B) PoP stands for Post Office Protocol",
+        "options": [
+            "Pre Office Protocol",
+            "Post Office Protocol",
+            "Protocol of Post",
+            "None"
+        ]
+    },
+    {
+        "question": "What is the port number of PoP?",
+        "answer": "Answer - C) The ports number of PoP is 110",
+        "options": [
+            "35",
+            "43",
+            "110",
+            "25"
+        ]
+    },
+    {
+        "question": "What is the number of layers in the OSI model?",
+        "answer": "Answer - C) OSI model consists of 7 layers.",
+        "options": [
+            "2 layers",
+            "4 layers",
+            "7 layers",
+            "9 layers"
+        ]
+    },
+    {
+        "question": "The full form of OSI is?",
+        "answer": "Answer - D) OSI stands for Open system interconnection.",
+        "options": [
+            "Operating System interface",
+            "Optical System interconnection",
+            "Operating System Internet",
+            "Open system interconnection"
+        ]
+    },
+    {
+        "question": "Identify the layer which provides service to the user.",
+        "answer": "Answer - B) Application layer provides service to the user.",
+        "options": [
+            "Session layer",
+            "Application layer",
+            "Presentation error",
+            "Physical layer"
+        ]
+    },
+    {
+        "question": "What is a HUB?",
+        "answer": "Answer - C) A HUB is a network device",
+        "options": [
+            "Software",
+            "Computing device",
+            "Network device",
+            "Calculating device"
+        ]
+    },
+    {
+        "question": "What does a set of rules define?",
+        "answer": "Answer - D) Protocol defines a set of rules.",
+        "options": [
+            "SMTP",
+            "FTP",
+            "IMAP",
+            "Protocol"
+        ]
+    },
+    {
+        "question": "Identify among the following which is mainly used to host web site.",
+        "answer": "Answer - B) Web server is mainly used to host web site.",
+        "options": [
+            "Mail server",
+            "Webserver",
+            "Database server",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the full form of HTTP?",
+        "answer": "Answer - A) HTTPS stands for HyperText Transfer Protocol",
+        "options": [
+            "HyperText Transfer Protocol",
+            "HyperText Transfer Package",
+            "Hyper Transfer Text Package",
+            "Hyper Transfer Text Practice"
+        ]
+    },
+    {
+        "question": "Identify the protocol primarily used for browsing data.",
+        "answer": "Answer - D) HTTP is used for browsing data.",
+        "options": [
+            "FTP",
+            "TCP",
+            "TFTP",
+            "HTTP"
+        ]
+    },
+    {
+        "question": "Identify the total versions of IP.",
+        "answer": "Answer - B) IP has 2 versions, IPV4 and IPV6.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Identify the first network which was based on TCP/IP protocol.",
+        "answer": "Answer - A) ARPANET was the first network that was based on TCP/IP protocol.",
+        "options": [
+            "ARPANET",
+            "HUB",
+            "Ethernet Card",
+            "Router"
+        ]
+    },
+    {
+        "question": "Choose among the following, which is the most common internet protocol.",
+        "answer": "Answer - D) SMTP is the most commonly used internet protocol.",
+        "options": [
+            "PPP",
+            "FTP",
+            "TCP/IP",
+            "SMTP"
+        ]
+    },
+    {
+        "question": "What does TCP/IP stand for?",
+        "answer": "Answer - B) TCP/IP stands for Transmission control protocol/Internet protocol.",
+        "options": [
+            "Telephone control protocol / Internet Protocol",
+            "Transmission control protocol/Internet protocol",
+            "Transmission control protocol/International protocol",
+            "None"
+        ]
+    },
+    {
+        "question": "Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model?",
+        "answer": "Answer - B) The TCP/IP model does not contain a session layer.",
+        "options": [
+            "Network layer",
+            "Session layer",
+            "Application layer",
+            "Transport layer"
+        ]
+    },
+    {
+        "question": "What is the collection of the hyperlinked document on the internet known as?",
+        "answer": "Answer - The collection of the hyperlinked document on the internet known as WWW.",
+        "options": [
+            "HTML",
+            "Email",
+            "WWW",
+            "Internet"
+        ]
+    },
+    {
+        "question": "What is the location of a resource on the internet given by?",
+        "answer": "Answer - D) The location of a resource on the internet is given by URL",
+        "options": [
+            "Email",
+            "IP",
+            "Protocol",
+            "URL"
+        ]
+    },
+    {
+        "question": "Identify the incorrect network topology,",
+        "answer": "Answer - C) P2P is not network topology.",
+        "options": [
+            "Bus",
+            "Star",
+            "P2P",
+            "Ring"
+        ]
+    },
+    {
+        "question": "Choose the port number of FTP.",
+        "answer": "Answer - B) The port number of FTP is 21.",
+        "options": [
+            "23",
+            "21",
+            "110",
+            "143"
+        ]
+    },
+    {
+        "question": "What is the length of the IPv4 address?",
+        "answer": "Answer - C) The length of the IPv4 address is 32 bits.",
+        "options": [
+            "8 bits",
+            "16 bits",
+            "32 bits",
+            "128 bits"
+        ]
+    },
+    {
+        "question": "What is the length of the IPv6 address?",
+        "answer": "Answer - D) The length of the IPv6 address is 128 bits.",
+        "options": [
+            "8 bits",
+            "16 bits",
+            "32 bits",
+            "128 bits"
+        ]
+    },
+    {
+        "question": "What is the term used when the main server sends mail to another mail server?",
+        "answer": "Answer - B) SMTP is the term used when the main server sends mail to another mail server.",
+        "options": [
+            "FTP",
+            "SMTP",
+            "TCP/IP",
+            "MIME"
+        ]
+    },
+    {
+        "question": "What is the port number of SMTP?",
+        "answer": "Answer - C) The port number of SMTP is 25.",
+        "options": [
+            "110",
+            "143",
+            "25",
+            "99"
+        ]
+    },
+    {
+        "question": "What does MIME stand for?",
+        "answer": "Answer - D) MIME stands for Multipurpose Internet Mail Extension.",
+        "options": [
+            "Multipurpose Internet Mail Extra",
+            "Multi Internet Mail End",
+            "Multipurpose Internet Mail Email",
+            "Multipurpose Internet Mail Extension"
+        ]
+    },
+    {
+        "question": "What does port number 143 refer to?",
+        "answer": "Answer - C) Port number 143 refers to IMAP.",
+        "options": [
+            "SMTP",
+            "FTP",
+            "IMAP",
+            "POP"
+        ]
+    },
+    {
+        "question": "Identify among the following the network device used to connect two dis-similar types of networks.",
+        "answer": "Answer - D) Gateway is used to connect two dis-similar types of networks.",
+        "options": [
+            "Switch",
+            "Hub",
+            "Bridge",
+            "Gateway"
+        ]
+    },
+    {
+        "question": "Identify the device used to boost up a weak signal.",
+        "answer": "Answer - B) Repeater is used to boost up a weak signal.",
+        "options": [
+            "Modem",
+            "Repeater",
+            "Switch",
+            "Router"
+        ]
+    },
+    {
+        "question": "What does MAC stand for?",
+        "answer": "Answer - A) MAC stands for Media Access Control.",
+        "options": [
+            "Media Access Control",
+            "Mass Access Control",
+            "Media Access Carriage",
+            "None"
+        ]
+    },
+    {
+        "question": "What is the length of the MAC address?",
+        "answer": "Answer - D) Length of MAC address is 48 bits.",
+        "options": [
+            "8 bits",
+            "16 bits",
+            "32 bits",
+            "48 bits"
+        ]
+    },
+    {
+        "question": "Which of the following is used to allocate and manage resources for a network?",
+        "answer": "Answer - B) Server is used to allocate and manage resources for a network.",
+        "options": [
+            "Bluetooth",
+            "Server",
+            "Node",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The arrangement where all data pass through a central computer is known as",
+        "answer": "Answer - C) The arrangement where all data pass through a central computer is known as Star topology.",
+        "options": [
+            "Ring topology",
+            "Mesh topology",
+            "Star topology",
+            "Bus topology"
+        ]
+    },
+    {
+        "question": "What of the following device is used in the network layer?",
+        "answer": "Answer - C) Router is used in the network layer.",
+        "options": [
+            "Application gateway",
+            "Switch",
+            "Router",
+            "Repeaters"
+        ]
+    },
+    {
+        "question": "Identify if the following statement is True or False: Network Interface Card(NIC) is an I/O device.",
+        "answer": "Answer - A) NIC is an I/O device.",
+        "options": [
+            "True",
+            "False",
+            "Depends on usage",
+            "None"
+        ]
+    },
+    {
+        "question": "What is required to use a Simple Network Management System?",
+        "answer": "Answer - C) Rules are required to use a Simple Network Management System.",
+        "options": [
+            "Servers",
+            "Protocols",
+            "Rules",
+            "IP"
+        ]
+    },
+    {
+        "question": "Identify the major difference between SNMPv3 and SNMPv2.",
+        "answer": "Answer - D) The major difference between SNMPv3 and SNMPv2 is Enhanced security.",
+        "options": [
+            "Classification",
+            "Integration",
+            "Management",
+            "Enhanced security"
+        ]
+    },
+    {
+        "question": "Identify the network which extends a private network across a public network.",
+        "answer": "Answer - B) VPN extends a private network across a public network.",
+        "options": [
+            "Storage Area network",
+            "Virtual private network",
+            "Enterprise Private network",
+            "Local area network"
+        ]
+    },
+    {
+        "question": "Identify the layer which is responsible for data translating.",
+        "answer": "Answer - C) Presentation layer is used for data translating.",
+        "options": [
+            "Network",
+            "Datalink",
+            "Presentation",
+            "Application"
+        ]
+    },
+    {
+        "question": "Identify the layer which determines the interface of the system with the user.",
+        "answer": "Answer - D) Application layer is used to determine the interface of the system with the user.",
+        "options": [
+            "Network",
+            "Datalink",
+            "Presentation",
+            "Application"
+        ]
+    },
+    {
+        "question": "Which of the following topology arrangements is a point-to-point line configuration?",
+        "answer": "Answer - D) All of the above consists of a point-to-point line configuration.",
+        "options": [
+            "RIng",
+            "Mesh",
+            "Star",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the device which links two homogeneous packed broadcast local networks.",
+        "answer": "Answer - C) Bridge is used to link two homogeneous packed broadcast local networks.",
+        "options": [
+            "Hub",
+            "Router",
+            "Bridge",
+            "Gateway"
+        ]
+    },
+    {
+        "question": "Why are parity bits used?",
+        "answer": "Answer - B) Parity bits are used to detect the error.",
+        "options": [
+            "To encrypt data",
+            "To detect error",
+            "To identify user",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify among the following which belongs to class A.",
+        "answer": "Answer - A)121.12.12.248 belongs to class A as the first octet value in the address lies between [0, 127].",
+        "options": [
+            "121.12.12.248",
+            "128.12.12.248",
+            "129.12.12.248",
+            "130.12.12.248"
+        ]
+    },
+    {
+        "question": "What does LAN stand for?",
+        "answer": "Answer - B) LAN stands for Local Area Network.",
+        "options": [
+            "Local Array Network",
+            "Local Area Network",
+            "Local Area Net",
+            "None"
+        ]
+    },
+    {
+        "question": "Who keeps the private key in asymmetric key cryptography?",
+        "answer": "Answer - B) Receiver keeps the private key in asymmetric key cryptography.",
+        "options": [
+            "Sender",
+            "Receiver",
+            "Both Sender and Receiver",
+            "None"
+        ]
+    },
+    {
+        "question": "Calculate the maximum efficiency of pure ALOHA at G = 0.5?",
+        "answer": "Answer - D) The maximum efficiency of pure ALOHA is given by G * e^(-2G)         Here G = 0.5         So, 0.5 * e^(-2 * 0.5) = 0.5 * e = 18.4%",
+        "options": [
+            "16%",
+            "1.89%",
+            "18.4%",
+            "18.999%"
+        ]
+    },
+    {
+        "question": "Identify the switching method in which the message is divided into small packets.",
+        "answer": "Answer - B) In packet switching message is divided into small packets.",
+        "options": [
+            "Virtual switching",
+            "Packet switching",
+            "Message switching",
+            "None"
+        ]
+    },
+    {
+        "question": "What is a proxy server also known as?",
+        "answer": "Answer - A) Proxy server is also known as Application-level gateway.",
+        "options": [
+            "Application-level gateway",
+            "Proxy tools",
+            "Application proxy",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify among the following servers which allow LAN users to share data.",
+        "answer": "Answer - D) File server allows LAN users to share data.",
+        "options": [
+            "Communication server",
+            "Point server",
+            "Data server",
+            "File server"
+        ]
+    },
+    {
+        "question": "Choose the correct formula for the total vulnerable time value of pure ALOHA.",
+        "answer": "Answer - C) The total vulnerable time value of pure ALOHA is 2*Tfr.",
+        "options": [
+            "½ Tfr",
+            "Tfr",
+            "2*Tfr",
+            "4*Tfr"
+        ]
+    },
+    {
+        "question": "Choose among the following which is a bit-oriented protocol.",
+        "answer": "Answer - B) HDLC or High-level link control is a bit-oriented protocol that is used to transmit info from one network to another.",
+        "options": [
+            "SSL",
+            "HDLC",
+            "HTTP",
+            "All of the above"
+        ]
+    }
+]

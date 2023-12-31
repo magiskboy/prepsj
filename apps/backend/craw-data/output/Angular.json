@@ -1,0 +1,1254 @@
+[
+  {
+    "question": "AngularJS is a ____",
+    "options": [
+      {
+        "content": "Java framework",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JavaScript framework",
+        "checked": true,
+        "explain": "AngularJS is a JavaScript framework.",
+        "code": "B"
+      },
+      {
+        "content": "HTML framework",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "SQL framework",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "AngularJS is perfect for?",
+    "options": [
+      {
+        "content": "MPAs",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "DPAs",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "CPAs",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "SPAs",
+        "checked": true,
+        "explain": "AngularJS is perfect for SPAs.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following, on which architectural pattern is AngularJS based?",
+    "options": [
+      {
+        "content": "Decorator pattern",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Observer pattern",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "MVVM architecture pattern",
+        "checked": true,
+        "explain": "AngularJS is based on an MVVM architecture pattern.",
+        "code": "C"
+      },
+      {
+        "content": "MVC architecture pattern",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct syntax for writing AngularJS expression.",
+    "options": [
+      {
+        "content": "[expression]",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "{{expressions}}",
+        "checked": true,
+        "explain": "{{expressions}} is the correct syntax.",
+        "code": "B"
+      },
+      {
+        "content": "{{{expressions}}}",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "{expressions}",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the reactor which is used to bind the application data to the HTML view in AngularJS.",
+    "options": [
+      {
+        "content": "ng-bind directive",
+        "checked": true,
+        "explain": "ng-bind directive is used to bind the application data to the HTML view in AngularJS.",
+        "code": "A"
+      },
+      {
+        "content": "ng-model directive",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ng-init directive",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "ng-app directive",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct statement about the lowercase filter.",
+    "options": [
+      {
+        "content": "it is a function that takes text as input",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "the lowercase filter converts a text to lowercase text",
+        "checked": true,
+        "explain": "Lowercase filter converts a text to lowercase text is correct.",
+        "code": "B"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the advantage of Angular JS among the following.",
+    "options": [
+      {
+        "content": "it provides reusable components",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "it uses dependency injection and makes use of separation of concerns",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "it is unit-testable",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "All of the above advantages of Angular JS",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The functionality of angular controllers in the application is",
+    "options": [
+      {
+        "content": "an angular controller is used for displaying the data",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "an angular controller is used for controlling the data",
+        "checked": true,
+        "explain": "Angular controllers are used for controlling the data",
+        "code": "B"
+      },
+      {
+        "content": "both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The syntax used to create a module in AngularJS is:",
+    "options": [
+      {
+        "content": "module(“app”,[])",
+        "checked": true,
+        "explain": "module(“app”,[]) is the correct syntax used to create a module in AngularJS",
+        "code": "A"
+      },
+      {
+        "content": "var myModule=angular.module();",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "var myModule = new Module();",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the incorrect AngularJS filter.",
+    "options": [
+      {
+        "content": "orderby",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "email",
+        "checked": true,
+        "explain": "email is not an AngularJS filter.",
+        "code": "B"
+      },
+      {
+        "content": "currency",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "lowercase",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Who is the father of AngularJS?",
+    "options": [
+      {
+        "content": "Misko Hevery",
+        "checked": true,
+        "explain": "Misko Hevery is the father of AngularJS.",
+        "code": "A"
+      },
+      {
+        "content": "Brad Green",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Mike Adams",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Adam a bronze",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the directive which is used to find the values of HTML controls to application data.",
+    "options": [
+      {
+        "content": "ng-model",
+        "checked": true,
+        "explain": "ng-model is used to find the values of HTML controls to application data.",
+        "code": "A"
+      },
+      {
+        "content": "ng-init",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ng-app",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "ng-hide",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Module created by using AngularJS function is known as",
+    "options": [
+      {
+        "content": "module()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "mod()",
+        "checked": true,
+        "explain": "Module created by using AngularJS function is known as a module().",
+        "code": "B"
+      },
+      {
+        "content": "Angular module()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "mdl()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The total $RootScope an AngularJS application can have is?",
+    "answer": "Answer:  B) Total $RootScope an AngularJS application can have is 1.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following components is the one which can be injected as a dependency in Angular JS?",
+    "options": [
+      {
+        "content": "Factory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Constant",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Application module",
+        "checked": true,
+        "explain": "Application module can be injected as a dependency in AngularJS.",
+        "code": "C"
+      },
+      {
+        "content": "Value",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct definition of deep thinking in AngularJS",
+    "options": [
+      {
+        "content": "Deep linking refers to Linking various views to the main page",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Deep linking allows you to encode the state of an application in the URL so that it can be bookmarked",
+        "checked": true,
+        "explain": "Deep linking allows you to encode the state of an application in the URL so that it can be bookmarked.",
+        "code": "B"
+      },
+      {
+        "content": "Deep linking is an SEO based technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which can be used to write AngularJS directives",
+    "options": [
+      {
+        "content": "Attribute",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "class name",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Tag",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": true,
+        "explain": "All of the above can be used to write the AngularJS directives.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "AOT stands for ________",
+    "options": [
+      {
+        "content": "Angular Object Templates",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Ahead of Time compilation",
+        "checked": true,
+        "explain": "AOT stands for Ahead of Time compilation.",
+        "code": "B"
+      },
+      {
+        "content": "Both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the incorrect hook application lifecycle.",
+    "options": [
+      {
+        "content": "noOnInit",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "ngViewStart",
+        "checked": true,
+        "explain": "ngViewStart is not a hook application lifecycle.",
+        "code": "B"
+      },
+      {
+        "content": "ngOnChanges",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The router is a part of which of the following given models?",
+    "options": [
+      {
+        "content": "@angular/router",
+        "checked": true,
+        "explain": "Router is a part of @angular/router. of",
+        "code": "A"
+      },
+      {
+        "content": "@angular/core",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What can RxJS be used for?",
+    "options": [
+      {
+        "content": "Server-side",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Browser",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both a and b",
+        "checked": true,
+        "explain": "RxJS can be used for both Server-side and browser.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which decorator is used for configuring model class",
+    "options": [
+      {
+        "content": "@NgApp",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "@NgModule",
+        "checked": true,
+        "explain": "@NgModule is used for configuring the model class.",
+        "code": "B"
+      },
+      {
+        "content": "Both a and b are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the functionality of.angular-cli.json  among the following.",
+    "options": [
+      {
+        "content": "used to configure angular 2 project",
+        "checked": true,
+        "explain": ".angular-cli.json is used to configure the angular 2 projects.",
+        "code": "A"
+      },
+      {
+        "content": "used to install required  project packages",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "used to link external files",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following choose the one which is responsible for the startup of the angular 2 projects.",
+    "options": [
+      {
+        "content": "app.ts",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "main.ts",
+        "checked": true,
+        "explain": "main.ts is Responsible for the startup of the angular 2 project",
+        "code": "B"
+      },
+      {
+        "content": "index.js",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "angular.cli.json",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How is interpolation in angular 2 done?",
+    "answer": "Answer: B )Using {{}} interpolation is done in angular 2.",
+    "options": [
+      "{{{}}}",
+      "{{}}",
+      "{{|var}}",
+      "!!!!"
+    ],
+    "done": false
+  },
+  {
+    "question": "Choose the filter which is used to convert the input to all uppercase",
+    "options": [
+      {
+        "content": "toUpper",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "upper",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "uppercase",
+        "checked": true,
+        "explain": "uppercase Is used to convert the input to uppercase.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To detect changes in the angular 2 project which of the following is used?",
+    "options": [
+      {
+        "content": "zone.js",
+        "checked": true,
+        "explain": "zone.js is used to detect changes in the angular 2 project.",
+        "code": "A"
+      },
+      {
+        "content": "scope.js",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "zones.js",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "zone$,js",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a feature of angular 2?",
+    "options": [
+      {
+        "content": "Typescript",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "multi-thread",
+        "checked": true,
+        "explain": "Multithread is not a feature of angular 2",
+        "code": "B"
+      },
+      {
+        "content": "Components",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "services",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used to retrieve a list of items from a server’s URL?",
+    "options": [
+      {
+        "content": "Using the http get method",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "using an HTTP package",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "create a get SQL  statement",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "create a URL transaction",
+        "checked": true,
+        "explain": "To retrieve a list of items from a server’s URL, create a URL transaction.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct definition of routerOutlet.",
+    "options": [
+      {
+        "content": "A decorator defines the template to display when a route is activated",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "a directive defined in the HTML indicating where the route’s view should display",
+        "checked": true,
+        "explain": "routerOutlet is a directive defined in the HTML indicating where the route’s view should display.",
+        "code": "B"
+      },
+      {
+        "content": "A directive defined in the HTML identifying the route to activate",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "A property of component class used to activate a route",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following can be used as a prefix for directive?",
+    "options": [
+      {
+        "content": "ng-",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "data-",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both a and b",
+        "checked": true,
+        "explain": "Both A and B can be used as a prefix for the directive.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct definition of the view in MVC.",
+    "options": [
+      {
+        "content": "View is responsible for displaying all or a portion of data to the user",
+        "checked": true,
+        "explain": "View is responsible for displaying all or a portion of data to the user.",
+        "code": "A"
+      },
+      {
+        "content": "View is responsible to act and process the data",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "View represents the database view",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "On which of the types of components can a custom derivative be created?",
+    "options": [
+      {
+        "content": "Attribute",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "element directives",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "CSS",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above types of components can be used to create a custom derivative.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following which is not built-in a pipe in angular?",
+    "options": [
+      {
+        "content": "CurrencyPipe",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "DataPipe",
+        "checked": true,
+        "explain": "DataPipe Is not built-in a pipe in angular.",
+        "code": "B"
+      },
+      {
+        "content": "PercentPipe",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "none of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the valid AngularJS expression.",
+    "options": [
+      {
+        "content": "{(2+2)}",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "{2+2}",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "{{2+2}}",
+        "checked": true,
+        "explain": "{{2+2}} is correct expression.",
+        "code": "C"
+      },
+      {
+        "content": "((2+2))",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which decorator is used to make a class a service?",
+    "options": [
+      {
+        "content": "Injectable",
+        "checked": true,
+        "explain": "Injectable is used to make a class service.",
+        "code": "A"
+      },
+      {
+        "content": "Component",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "injector",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the functionality of the @output decorator?",
+    "options": [
+      {
+        "content": "Add OptionShare data from child component to parent1",
+        "checked": true,
+        "explain": "@output is used to share data from child component to parent.",
+        "code": "A"
+      },
+      {
+        "content": "use a service",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "use event  binding",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "share data from the parent component to a child",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which function is used to import RouterModule in a feature module?",
+    "options": [
+      {
+        "content": "forRoot()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "forModule()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "forFeature()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "forChild()",
+        "checked": true,
+        "explain": "forChild() is used to import RouterModule in a feature module.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Most used CSS frameworks are ________",
+    "options": [
+      {
+        "content": "SASS",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Semantic UI",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bootstrap",
+        "checked": true,
+        "explain": "Most used CSS frameworks are bootstrap.",
+        "code": "C"
+      },
+      {
+        "content": "Foundation",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "AngularJS was developed by which company?",
+    "options": [
+      {
+        "content": "Facebook",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Google",
+        "checked": true,
+        "explain": "AngularJS was developed by Google.",
+        "code": "B"
+      },
+      {
+        "content": "Angular",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Netflix",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the functionality of the @input decorator",
+    "options": [
+      {
+        "content": "Share data from child component to parent",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "use a service",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "use event  binding",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "share data from parent component to child",
+        "checked": true,
+        "explain": "@input is used to share data from the parent component to the child.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the definition of transpilers.",
+    "options": [
+      {
+        "content": "Converts source to the library",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Convert source to source and then to the library",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "source to source compiler",
+        "checked": true,
+        "explain": "Transpiler are the source to source compiler.",
+        "code": "C"
+      },
+      {
+        "content": "all of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Angular CLI stands for ____________",
+    "options": [
+      {
+        "content": "Angular command-line interceptor",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Angular command line",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Angular command-line interface",
+        "checked": true,
+        "explain": "Angular CLI stands for Angular command-line interface.",
+        "code": "C"
+      },
+      {
+        "content": "Angular command-line user interfaces",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

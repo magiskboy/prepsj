@@ -1,0 +1,1483 @@
+[
+  {
+    "question": "What does PoP stand for?",
+    "options": [
+      {
+        "content": "Pre Office Protocol",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Post Office Protocol",
+        "checked": true,
+        "explain": "PoP stands for Post Office Protocol",
+        "code": "B"
+      },
+      {
+        "content": "Protocol of Post",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the port number of PoP?",
+    "options": [
+      {
+        "content": "35",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "43",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "110",
+        "checked": true,
+        "explain": "The ports number of PoP is 110",
+        "code": "C"
+      },
+      {
+        "content": "25",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the number of layers in the OSI model?",
+    "options": [
+      {
+        "content": "2 layers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "4 layers",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "7 layers",
+        "checked": true,
+        "explain": "OSI model consists of 7 layers.",
+        "code": "C"
+      },
+      {
+        "content": "9 layers",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of OSI is?",
+    "options": [
+      {
+        "content": "Operating System interface",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Optical System interconnection",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Operating System Internet",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Open system interconnection",
+        "checked": true,
+        "explain": "OSI stands for Open system interconnection.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the layer which provides service to the user.",
+    "options": [
+      {
+        "content": "Session layer",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Application layer",
+        "checked": true,
+        "explain": "Application layer provides service to the user.",
+        "code": "B"
+      },
+      {
+        "content": "Presentation error",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Physical layer",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is a HUB?",
+    "options": [
+      {
+        "content": "Software",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Computing device",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Network device",
+        "checked": true,
+        "explain": "A HUB is a network device",
+        "code": "C"
+      },
+      {
+        "content": "Calculating device",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does a set of rules define?",
+    "options": [
+      {
+        "content": "SMTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "IMAP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Protocol",
+        "checked": true,
+        "explain": "Protocol defines a set of rules.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which is mainly used to host web site.",
+    "options": [
+      {
+        "content": "Mail server",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Webserver",
+        "checked": true,
+        "explain": "Web server is mainly used to host web site.",
+        "code": "B"
+      },
+      {
+        "content": "Database server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the full form of HTTP?",
+    "options": [
+      {
+        "content": "HyperText Transfer Protocol",
+        "checked": true,
+        "explain": "HTTPS stands for HyperText Transfer Protocol",
+        "code": "A"
+      },
+      {
+        "content": "HyperText Transfer Package",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Hyper Transfer Text Package",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Hyper Transfer Text Practice",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the protocol primarily used for browsing data.",
+    "options": [
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "TCP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "TFTP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "HTTP",
+        "checked": true,
+        "explain": "HTTP is used for browsing data.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the total versions of IP.",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": true,
+        "explain": "IP has 2 versions, IPV4 and IPV6.",
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the first network which was based on TCP/IP protocol.",
+    "options": [
+      {
+        "content": "ARPANET",
+        "checked": true,
+        "explain": "ARPANET was the first network that was based on TCP/IP protocol.",
+        "code": "A"
+      },
+      {
+        "content": "HUB",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Ethernet Card",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Router",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose among the following, which is the most common internet protocol.",
+    "options": [
+      {
+        "content": "PPP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "SMTP",
+        "checked": true,
+        "explain": "SMTP is the most commonly used internet protocol.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does TCP/IP stand for?",
+    "options": [
+      {
+        "content": "Telephone control protocol / Internet Protocol",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Transmission control protocol/Internet protocol",
+        "checked": true,
+        "explain": "TCP/IP stands for Transmission control protocol/Internet protocol.",
+        "code": "B"
+      },
+      {
+        "content": "Transmission control protocol/International protocol",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model?",
+    "options": [
+      {
+        "content": "Network layer",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Session layer",
+        "checked": true,
+        "explain": "The TCP/IP model does not contain a session layer.",
+        "code": "B"
+      },
+      {
+        "content": "Application layer",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Transport layer",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the collection of the hyperlinked document on the internet known as?",
+    "answer": "Answer - The collection of the hyperlinked document on the internet known as WWW.",
+    "options": [
+      "HTML",
+      "Email",
+      "WWW",
+      "Internet"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the location of a resource on the internet given by?",
+    "options": [
+      {
+        "content": "Email",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "IP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Protocol",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "URL",
+        "checked": true,
+        "explain": "The location of a resource on the internet is given by URL",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect network topology,",
+    "options": [
+      {
+        "content": "Bus",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Star",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "P2P",
+        "checked": true,
+        "explain": "P2P is not network topology.",
+        "code": "C"
+      },
+      {
+        "content": "Ring",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the port number of FTP.",
+    "options": [
+      {
+        "content": "23",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "21",
+        "checked": true,
+        "explain": "The port number of FTP is 21.",
+        "code": "B"
+      },
+      {
+        "content": "110",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "143",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the length of the IPv4 address?",
+    "options": [
+      {
+        "content": "8 bits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "16 bits",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "32 bits",
+        "checked": true,
+        "explain": "The length of the IPv4 address is 32 bits.",
+        "code": "C"
+      },
+      {
+        "content": "128 bits",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the length of the IPv6 address?",
+    "options": [
+      {
+        "content": "8 bits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "16 bits",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "32 bits",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "128 bits",
+        "checked": true,
+        "explain": "The length of the IPv6 address is 128 bits.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the term used when the main server sends mail to another mail server?",
+    "options": [
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "SMTP",
+        "checked": true,
+        "explain": "SMTP is the term used when the main server sends mail to another mail server.",
+        "code": "B"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "MIME",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the port number of SMTP?",
+    "options": [
+      {
+        "content": "110",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "143",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "25",
+        "checked": true,
+        "explain": "The port number of SMTP is 25.",
+        "code": "C"
+      },
+      {
+        "content": "99",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does MIME stand for?",
+    "options": [
+      {
+        "content": "Multipurpose Internet Mail Extra",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Multi Internet Mail End",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Multipurpose Internet Mail Email",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Multipurpose Internet Mail Extension",
+        "checked": true,
+        "explain": "MIME stands for Multipurpose Internet Mail Extension.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does port number 143 refer to?",
+    "options": [
+      {
+        "content": "SMTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "IMAP",
+        "checked": true,
+        "explain": "Port number 143 refers to IMAP.",
+        "code": "C"
+      },
+      {
+        "content": "POP",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following the network device used to connect two dis-similar types of networks.",
+    "options": [
+      {
+        "content": "Switch",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Hub",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bridge",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Gateway",
+        "checked": true,
+        "explain": "Gateway is used to connect two dis-similar types of networks.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the device used to boost up a weak signal.",
+    "options": [
+      {
+        "content": "Modem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Repeater",
+        "checked": true,
+        "explain": "Repeater is used to boost up a weak signal.",
+        "code": "B"
+      },
+      {
+        "content": "Switch",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Router",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does MAC stand for?",
+    "options": [
+      {
+        "content": "Media Access Control",
+        "checked": true,
+        "explain": "MAC stands for Media Access Control.",
+        "code": "A"
+      },
+      {
+        "content": "Mass Access Control",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Media Access Carriage",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the length of the MAC address?",
+    "options": [
+      {
+        "content": "8 bits",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "16 bits",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "32 bits",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "48 bits",
+        "checked": true,
+        "explain": "Length of MAC address is 48 bits.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used to allocate and manage resources for a network?",
+    "options": [
+      {
+        "content": "Bluetooth",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Server",
+        "checked": true,
+        "explain": "Server is used to allocate and manage resources for a network.",
+        "code": "B"
+      },
+      {
+        "content": "Node",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The arrangement where all data pass through a central computer is known as",
+    "options": [
+      {
+        "content": "Ring topology",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Mesh topology",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Star topology",
+        "checked": true,
+        "explain": "The arrangement where all data pass through a central computer is known as Star topology.",
+        "code": "C"
+      },
+      {
+        "content": "Bus topology",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What of the following device is used in the network layer?",
+    "options": [
+      {
+        "content": "Application gateway",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Switch",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Router",
+        "checked": true,
+        "explain": "Router is used in the network layer.",
+        "code": "C"
+      },
+      {
+        "content": "Repeaters",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify if the following statement is True or False: Network Interface Card(NIC) is an I/O device.",
+    "options": [
+      {
+        "content": "True",
+        "checked": true,
+        "explain": "NIC is an I/O device.",
+        "code": "A"
+      },
+      {
+        "content": "False",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Depends on usage",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is required to use a Simple Network Management System?",
+    "options": [
+      {
+        "content": "Servers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Protocols",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Rules",
+        "checked": true,
+        "explain": "Rules are required to use a Simple Network Management System.",
+        "code": "C"
+      },
+      {
+        "content": "IP",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the major difference between SNMPv3 and SNMPv2.",
+    "options": [
+      {
+        "content": "Classification",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Integration",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Management",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Enhanced security",
+        "checked": true,
+        "explain": "The major difference between SNMPv3 and SNMPv2 is Enhanced security.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the network which extends a private network across a public network.",
+    "options": [
+      {
+        "content": "Storage Area network",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Virtual private network",
+        "checked": true,
+        "explain": "VPN extends a private network across a public network.",
+        "code": "B"
+      },
+      {
+        "content": "Enterprise Private network",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Local area network",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the layer which is responsible for data translating.",
+    "options": [
+      {
+        "content": "Network",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Datalink",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Presentation",
+        "checked": true,
+        "explain": "Presentation layer is used for data translating.",
+        "code": "C"
+      },
+      {
+        "content": "Application",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the layer which determines the interface of the system with the user.",
+    "options": [
+      {
+        "content": "Network",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Datalink",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Presentation",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Application",
+        "checked": true,
+        "explain": "Application layer is used to determine the interface of the system with the user.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following topology arrangements is a point-to-point line configuration?",
+    "options": [
+      {
+        "content": "RIng",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Mesh",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Star",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above consists of a point-to-point line configuration.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the device which links two homogeneous packed broadcast local networks.",
+    "options": [
+      {
+        "content": "Hub",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Router",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bridge",
+        "checked": true,
+        "explain": "Bridge is used to link two homogeneous packed broadcast local networks.",
+        "code": "C"
+      },
+      {
+        "content": "Gateway",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Why are parity bits used?",
+    "options": [
+      {
+        "content": "To encrypt data",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "To detect error",
+        "checked": true,
+        "explain": "Parity bits are used to detect the error.",
+        "code": "B"
+      },
+      {
+        "content": "To identify user",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which belongs to class A.",
+    "options": [
+      {
+        "content": "121.12.12.248",
+        "checked": true,
+        "explain": "121.12.12.248 belongs to class A as the first octet value in the address lies between [0, 127].",
+        "code": "A"
+      },
+      {
+        "content": "128.12.12.248",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "129.12.12.248",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "130.12.12.248",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does LAN stand for?",
+    "options": [
+      {
+        "content": "Local Array Network",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Local Area Network",
+        "checked": true,
+        "explain": "LAN stands for Local Area Network.",
+        "code": "B"
+      },
+      {
+        "content": "Local Area Net",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Who keeps the private key in asymmetric key cryptography?",
+    "options": [
+      {
+        "content": "Sender",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Receiver",
+        "checked": true,
+        "explain": "Receiver keeps the private key in asymmetric key cryptography.",
+        "code": "B"
+      },
+      {
+        "content": "Both Sender and Receiver",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Calculate the maximum efficiency of pure ALOHA at G = 0.5?",
+    "options": [
+      {
+        "content": "16%",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "1.89%",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "18.4%",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "18.999%",
+        "checked": true,
+        "explain": "The maximum efficiency of pure ALOHA is given by G * e^(-2G)         Here G = 0.5         So, 0.5 * e^(-2 * 0.5) = 0.5 * e = 18.4%",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the switching method in which the message is divided into small packets.",
+    "options": [
+      {
+        "content": "Virtual switching",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Packet switching",
+        "checked": true,
+        "explain": "In packet switching message is divided into small packets.",
+        "code": "B"
+      },
+      {
+        "content": "Message switching",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is a proxy server also known as?",
+    "options": [
+      {
+        "content": "Application-level gateway",
+        "checked": true,
+        "explain": "Proxy server is also known as Application-level gateway.",
+        "code": "A"
+      },
+      {
+        "content": "Proxy tools",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Application proxy",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following servers which allow LAN users to share data.",
+    "options": [
+      {
+        "content": "Communication server",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Point server",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Data server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "File server",
+        "checked": true,
+        "explain": "File server allows LAN users to share data.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct formula for the total vulnerable time value of pure ALOHA.",
+    "options": [
+      {
+        "content": "½ Tfr",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Tfr",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "2*Tfr",
+        "checked": true,
+        "explain": "The total vulnerable time value of pure ALOHA is 2*Tfr.",
+        "code": "C"
+      },
+      {
+        "content": "4*Tfr",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose among the following which is a bit-oriented protocol.",
+    "options": [
+      {
+        "content": "SSL",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "HDLC",
+        "checked": true,
+        "explain": "HDLC or High-level link control is a bit-oriented protocol that is used to transmit info from one network to another.",
+        "code": "B"
+      },
+      {
+        "content": "HTTP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

@@ -1,0 +1,1494 @@
+[
+  {
+    "question": "Identify the correct functional requirement.",
+    "options": [
+      {
+        "content": "Robustness",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Portability",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Maintainability",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": true,
+        "explain": "All of the above are non-functional requirements, hence D) is correct.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the correct measure for correctness.",
+    "options": [
+      {
+        "content": "Errors per KLOC",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "$ per KLOC",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Defects per KLOC",
+        "checked": true,
+        "explain": "Defects per KLOC is the most common measure for correctness.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the fault-based testing technique.",
+    "options": [
+      {
+        "content": "Beta testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Unit testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Mutation testing",
+        "checked": true,
+        "explain": "Mutation testing is a fault-based technique.",
+        "code": "C"
+      },
+      {
+        "content": "Stress testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is not related to testing?",
+    "options": [
+      {
+        "content": "failure",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "error",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Test case",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Test bot",
+        "checked": true,
+        "explain": "Test bot is not related to testing.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect testing technique.",
+    "options": [
+      {
+        "content": "Integration testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Collaboration testing",
+        "checked": true,
+        "explain": "Collaboration testing is not a testing technique.",
+        "code": "B"
+      },
+      {
+        "content": "System testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Unit testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are types of code review?",
+    "options": [
+      {
+        "content": "Code walkthrough",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Code inspection",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both A and B are types of code review",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When can white-box testing be started?",
+    "options": [
+      {
+        "content": "After SRS creation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "After installation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "After programming",
+        "checked": true,
+        "explain": "White-box testing be started after programming.",
+        "code": "C"
+      },
+      {
+        "content": "After designing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "By whom is unit testing done?",
+    "options": [
+      {
+        "content": "Users",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Customers",
+        "checked": true,
+        "explain": "Unit testing is done by developers.",
+        "code": "B"
+      },
+      {
+        "content": "Developers",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which of the following categories can white-box testing be classified?",
+    "options": [
+      {
+        "content": "Design based testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Structural testing",
+        "checked": true,
+        "explain": "White-box testing can also be classified as structural testing.",
+        "code": "B"
+      },
+      {
+        "content": "Error guessing technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is used to define testing?",
+    "options": [
+      {
+        "content": "Finding broken code",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A stage of all projects",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Evaluating deliverables to find errors",
+        "checked": true,
+        "explain": "Evaluating deliverables to find errors is testing.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the environment in which we can perform alpha testing?",
+    "options": [
+      {
+        "content": "User’s end",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Developer’s end",
+        "checked": true,
+        "explain": "Alpha testing is always performed from the developer’s end.",
+        "code": "B"
+      },
+      {
+        "content": "Both a and b are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option which represents the key objective of integration testing?",
+    "options": [
+      {
+        "content": "Interface errors",
+        "checked": true,
+        "explain": "The key objective of integration testing is to resolve interface errors.",
+        "code": "A"
+      },
+      {
+        "content": "Procedure errors",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Design errors",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the best time when regression testing should be done?",
+    "options": [
+      {
+        "content": "As frequently as possible",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "When the environment has been modified",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "After the software has been modified",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Both b and c are correct",
+        "checked": true,
+        "explain": "Regression testing should be done after the software has been modified and when the environment has been modified.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is cyclomatic complexity?",
+    "options": [
+      {
+        "content": "Black box testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "White box testing",
+        "checked": true,
+        "explain": "White box testing.",
+        "code": "B"
+      },
+      {
+        "content": "Grey box testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The SRS document is also known as _____________ specification.",
+    "options": [
+      {
+        "content": "Black box",
+        "checked": true,
+        "explain": "The SRS document is also known as black box specification.",
+        "code": "A"
+      },
+      {
+        "content": "White box",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Grey box",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the correct option among the following which is not included in SRS?",
+    "options": [
+      {
+        "content": "Functionality",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Performance",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "External interfaces",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Design solutions",
+        "checked": true,
+        "explain": "Design solutions are not included in SRS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the testing which cannot be performed on the first build of the software?",
+    "options": [
+      {
+        "content": "Sanity testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Regression testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Retesting",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All a, b and c",
+        "checked": true,
+        "explain": "None of the above tests can be performed on the first build of the software.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the stage in which test cases are designed?",
+    "options": [
+      {
+        "content": "Test planning",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Test configuration",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Test specification",
+        "checked": true,
+        "explain": "Test cases are designed during Test specification.",
+        "code": "C"
+      },
+      {
+        "content": "Test recording",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify among the following which is not a type of incremental testing approach.",
+    "options": [
+      {
+        "content": "Big-bang",
+        "checked": true,
+        "explain": "Big-bang is not a type of incremental testing approach.",
+        "code": "A"
+      },
+      {
+        "content": "Top-down",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bottom-up",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Functional incrimination",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect phase of STLC(Software Testing Life cycle).",
+    "options": [
+      {
+        "content": "Test closure",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Coding",
+        "checked": true,
+        "explain": "Coding is not a phase of STLC",
+        "code": "B"
+      },
+      {
+        "content": "Requirement analysis",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Test planning",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the correct defect rate for Six sigma?",
+    "options": [
+      {
+        "content": "1.0 defect per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "1.4 defects per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3 defects per million lines of code.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "3.4 million per million lines of code.",
+        "checked": true,
+        "explain": "Defect rate for Six sigma is 3.4 million per million lines of code.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which of the following categories can White Box techniques be classified.",
+    "options": [
+      {
+        "content": "Design based testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Error guessing technique",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Structural testing",
+        "checked": true,
+        "explain": "White Box techniques be classified into Structural testing.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To which boundary value analysis belongs.",
+    "options": [
+      {
+        "content": "Black box testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "White box testing",
+        "checked": true,
+        "explain": "Boundary value analysis belongs to White box testing.",
+        "code": "B"
+      },
+      {
+        "content": "Both a and b are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option among the following. Does the software consist of?",
+    "answer": "Answer - a) Software consists of Program+documentation operating procedures",
+    "options": [
+      "Program+documentation operating procedures",
+      "Program+hardware manuals",
+      "Instruction+hardware manuals",
+      "Set of programs"
+    ],
+    "done": false
+  },
+  {
+    "question": "The full form of SPICE is?",
+    "options": [
+      {
+        "content": "Software Process Improvement and Control Determination",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Software Process Improvement and Capability Determination",
+        "checked": true,
+        "explain": "SPICE stands for Software Process Improvement and Compatibility Determination.",
+        "code": "B"
+      },
+      {
+        "content": "Software Process Improvement and Compatibility Determination",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option which is not used in measuring the size of the software?",
+    "options": [
+      {
+        "content": "Size of module",
+        "checked": true,
+        "explain": "Size of the module is not used in measuring the size of the software.",
+        "code": "A"
+      },
+      {
+        "content": "KLOC",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Function points",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which chart are lower and upper limits present?",
+    "options": [
+      {
+        "content": "Run chart",
+        "checked": true,
+        "explain": "Lower and upper limits are present in the Run chart, which is used to record the behavior of variables over a period of time for a system.",
+        "code": "A"
+      },
+      {
+        "content": "Bar chart",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Control chart",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Is exhaustive testing possible?",
+    "options": [
+      {
+        "content": "Always possible",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Impractical but possible",
+        "checked": true,
+        "explain": "Exhaustive testing is Impractical but possible.",
+        "code": "B"
+      },
+      {
+        "content": "Impractical but impossible",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Practically possible",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the most reputed testing standard?",
+    "options": [
+      {
+        "content": "Microsoft",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "M Bridge Awards",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ISO",
+        "checked": true,
+        "explain": "ISO is the most reputed testing standard.",
+        "code": "C"
+      },
+      {
+        "content": "QAI",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The full form of ITG is?",
+    "options": [
+      {
+        "content": "independent test group",
+        "checked": true,
+        "explain": "Full form of ITG is an independent test group.",
+        "code": "A"
+      },
+      {
+        "content": "integration testing group",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "individual testing group",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Using which methodology is maintenance testing performed?",
+    "options": [
+      {
+        "content": "Sanity testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Retesting",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Breadth test and depth test",
+        "checked": true,
+        "explain": "Maintenance testing is performed using the Breadth test and depth test.",
+        "code": "C"
+      },
+      {
+        "content": "Confirmation testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is used to define functional testing?",
+    "options": [
+      {
+        "content": "Component testing",
+        "checked": true,
+        "explain": "Functional testing is also known as component testing.",
+        "code": "A"
+      },
+      {
+        "content": "Sanity testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Acceptance testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect white box technique.",
+    "options": [
+      {
+        "content": "Statement testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "State transition testing",
+        "checked": true,
+        "explain": "State transition testing is not a white box technique.",
+        "code": "B"
+      },
+      {
+        "content": "Path testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Data flow testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which stage is user acceptance testing done?",
+    "options": [
+      {
+        "content": "Manual stage",
+        "checked": true,
+        "explain": "User acceptance testing is done at the manual stage",
+        "code": "A"
+      },
+      {
+        "content": "Automatic stage",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "On both a and b",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect black box technique?",
+    "options": [
+      {
+        "content": "Syntax testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Linear Code Sequence and Jump(LCSAJ)",
+        "checked": true,
+        "explain": "LCSAJ is not a black box technique",
+        "code": "B"
+      },
+      {
+        "content": "State transition testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct option which states the correct definition of Software. It is considered to be a collection of?",
+    "options": [
+      {
+        "content": "Programming code",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "documentations",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "associated libraries",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Software is said to be a collection of programming code, documentation, associated libraries.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does FAST stand for?",
+    "options": [
+      {
+        "content": "Facilitated Application Specification Technique",
+        "checked": true,
+        "explain": "FAST stands for Facilitated Application Specification Technique.",
+        "code": "A"
+      },
+      {
+        "content": "Functional Application Specification Techniques",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fast Application Specification Technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Decomposition is also popularly known as",
+    "options": [
+      {
+        "content": "Group and merge principle",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Binary search principle",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Quicksort principle",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Divide and conquer principle",
+        "checked": true,
+        "explain": "Decomposition is also popularly known as Divide and conquer principle",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "RUP and PSP stands for?",
+    "options": [
+      {
+        "content": "Rational Unified Process and Personal software process",
+        "checked": true,
+        "explain": "RUP stands for Rational Unified Process and PSP stands for Personal software process",
+        "code": "A"
+      },
+      {
+        "content": "Rational Unified Process and Project software process",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Real-time unified process and Project software process",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Real-time unified process and Personal software process",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "COCOMO model stands for?",
+    "options": [
+      {
+        "content": "Complete Cost Estimation Model",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Constructive Cost Estimation Model",
+        "checked": true,
+        "explain": "COCOMO stands for Constructive Cost Estimation Model",
+        "code": "B"
+      },
+      {
+        "content": "Common Cost Estimation Model",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Comprehensive Cost Estimation Model",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "CCMI model stands for?",
+    "options": [
+      {
+        "content": "Capability Managed Maturity Integration",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Capability Maturity Model Integrator",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Capability Maturity Modification integration",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Capability Maturity Model integration",
+        "checked": true,
+        "explain": "CCMI model stands for Capability Maturity Model integration.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the term which is used to define testing?",
+    "options": [
+      {
+        "content": "Finding broken code",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A stage of all projects",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Evaluating deliverables to find errors",
+        "checked": true,
+        "explain": "Evaluating deliverables to find errors is testing.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "A program having high cyclomatic complexity is more likely to be",
+    "options": [
+      {
+        "content": "Small",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Difficult to test",
+        "checked": true,
+        "explain": "A program having high cyclomatic complexity is more likely to be difficult to test.",
+        "code": "B"
+      },
+      {
+        "content": "Difficult to write",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Large",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the testing tool which does not support by Database Testing?",
+    "options": [
+      {
+        "content": "Finding broken code",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A stage of all projects",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Evaluating deliverables to find errors",
+        "checked": true,
+        "explain": "Evaluating deliverables to find errors is testing.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify which of the following life cycle contains the phases: test case design, test execution, defect tracking, maintenance.",
+    "options": [
+      {
+        "content": "SDLC",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "STLC",
+        "checked": true,
+        "explain": "Test case design, test execution, defect tracking, maintenance falls under STLC.",
+        "code": "B"
+      },
+      {
+        "content": "SQLC",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "BLC",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To notify the developer which bugs need to be fixed first is termed as?",
+    "options": [
+      {
+        "content": "Scalability",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Fixability",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Traceability",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Priority",
+        "checked": true,
+        "explain": "To notify the developer which bugs needs to be fixed first is termed as priority",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Black box testing is also known as",
+    "options": [
+      {
+        "content": "Behavioral Testing",
+        "checked": true,
+        "explain": "Black box testing is also known as Behavioral testing.",
+        "code": "A"
+      },
+      {
+        "content": "Data flow testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Graph based testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Loop testing",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "White box testing is also known as",
+    "options": [
+      {
+        "content": "Behavioral testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Glass box testing",
+        "checked": true,
+        "explain": "White box testing is also known as glass box testing.",
+        "code": "B"
+      },
+      {
+        "content": "Structural testing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "System testing is a",
+    "options": [
+      {
+        "content": "Grey box testing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "White box testing",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Black box testing",
+        "checked": true,
+        "explain": "System testing is black box testing.",
+        "code": "C"
+      },
+      {
+        "content": "Both b and c are correct",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which is not true in case of Unit testing?",
+    "answer": "Answer -  B) Unit testing does not decrease the speed of development.",
+    "options": [
+      "It is conducted by development team.",
+      "It decreases the speed of development.",
+      "Tester tests whether individual units of source code is fit for use.",
+      "It cannot be expected to catch every error in program."
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the term which is known as a variance from software product specifications?",
+    "options": [
+      {
+        "content": "Report",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Defect",
+        "checked": true,
+        "explain": "The term which is known as a variance from software product specifications is known as defect.",
+        "code": "B"
+      },
+      {
+        "content": "Review",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Requirement",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

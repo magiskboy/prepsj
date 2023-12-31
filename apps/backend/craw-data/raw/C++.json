@@ -1,0 +1,532 @@
+[
+    {
+        "question": "Identify the correct extension of the user-defined header file in C++.",
+        "answer": ".h extensions is the extension used for user-defined header files.",
+        "options": [
+            ".cpp",
+            ".hg",
+            ".h",
+            ".hf"
+        ]
+    },
+    {
+        "question": "Identify the incorrect constructor type.",
+        "answer": "Friend constructor is not a type of constructor.",
+        "options": [
+            "Friend constructor",
+            "Default constructor",
+            "Parameterized constructor",
+            "Copy constructor"
+        ]
+    },
+    {
+        "question": "C++ uses which approach?",
+        "answer": "C++ is an object oriented language and it uses bottom-up approach.",
+        "options": [
+            "right -left",
+            "Top-down",
+            "left-right",
+            "bottom -up"
+        ]
+    },
+    {
+        "question": "Which of the following data type is supported in C++ but not in C?",
+        "answer": "boolean data type is not supported in C.",
+        "options": [
+            "int",
+            "bool",
+            "double",
+            "float"
+        ]
+    },
+    {
+        "question": "Identify the correct syntax for declaring arrays in C++.",
+        "answer": "int arr[10] is the correct syntax for declaring arrays.",
+        "options": [
+            "array arr[10]",
+            "array{10}",
+            "int arr[10]",
+            "int arr"
+        ]
+    },
+    {
+        "question": "Size of wchat_t is.",
+        "answer": "Size of wchat_t depends on the number of bits in the system as the compiler wants to make the CPU as efficient as possible in accessing the next  value.",
+        "options": [
+            "2",
+            "4",
+            "2 or 4",
+            "Depends on number of bits in system"
+        ]
+    },
+    {
+        "question": "Which of the following is “address of operator”?.",
+        "answer": "& is used to denote the address of operator.",
+        "options": [
+            "*",
+            "&",
+            "[]",
+            "&&"
+        ]
+    },
+    {
+        "question": "Identify the correct example for a pre-increment operator.",
+        "answer": "++n is a pre-increment operator.",
+        "options": [
+            "++n",
+            "n++",
+            "- -n",
+            "+n"
+        ]
+    },
+    {
+        "question": "Which of the following loops is best when we know the number of iterations?",
+        "answer": "When the number of iterations are known, for loop is best to use.",
+        "options": [
+            "While loop",
+            "Do while",
+            "For loop",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the scope resolution operator.",
+        "answer": ":: is the scope resolution operator.",
+        "options": [
+            ":",
+            "::",
+            "?",
+            "None"
+        ]
+    },
+    {
+        "question": "goto can be classified into?",
+        "answer": "goto can be classified into a label.",
+        "options": [
+            "label",
+            "variable",
+            "operator",
+            "function"
+        ]
+    },
+    {
+        "question": "Identify the correct definition of ‘*’ operator in pointer.",
+        "answer": "* denotes the value of the address operator.",
+        "options": [
+            "Address of operator",
+            "Value of address operator",
+            "Multiplication operator",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "By which of the following can the if-else statement be replaced?",
+        "answer": "if-else statement can be replaced by conditional operator.",
+        "options": [
+            "Bitwise operator",
+            "Logical operator",
+            "Conditional operator",
+            "Arithmetic operator"
+        ]
+    },
+    {
+        "question": "Choose the correct default return value of function.",
+        "answer": "The default return value of function is int.",
+        "options": [
+            "int",
+            "void",
+            "char",
+            "float"
+        ]
+    },
+    {
+        "question": "Using which of the following data type can 19.54 be represented?",
+        "answer": "19.54 can be represented using double.",
+        "options": [
+            "void",
+            "double",
+            "int",
+            "None"
+        ]
+    },
+    {
+        "question": "When can an inline function be expanded?",
+        "answer": "Inline functions are expanded during compile time.",
+        "options": [
+            "Runtime",
+            "Compile time",
+            "Never gets expanded",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the correct function from which the execution of C++ program starts?",
+        "answer": "Execution of C++ always starts from main().",
+        "options": [
+            "new()",
+            "start()",
+            "pow()",
+            "main()"
+        ]
+    },
+    {
+        "question": "Choose the correct option which is mandatory in a function.",
+        "answer": "While writing a function,both return type and function name are mandatory.",
+        "options": [
+            "return_type",
+            "parameters",
+            "function_name",
+            "Both a and c"
+        ]
+    },
+    {
+        "question": "The constants in C++ are also known as?",
+        "answer": "The constants in C++ are also known as literals.",
+        "options": [
+            "pre-processor",
+            "literals",
+            "const",
+            "none"
+        ]
+    },
+    {
+        "question": "Using which of the following keywords can an exception be generated?",
+        "answer": "Using the throw keyword, an exception can be generated in C++.",
+        "options": [
+            "threw",
+            "throws",
+            "throw",
+            "catch"
+        ]
+    },
+    {
+        "question": "Identify the size of int datatype in C++.",
+        "answer": "The size of int datatype depends on compiler to compiler.",
+        "options": [
+            "1 byte",
+            "2 bytes",
+            "4 bytes",
+            "Depends on compiler"
+        ]
+    },
+    {
+        "question": "Which of the following types is the language C++?",
+        "answer": "C++ is a statically typed language.",
+        "options": [
+            "Procedural",
+            "Statically typed language",
+            "Dynamically typed language",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What is the ASCII value of ‘\\0’ character?",
+        "answer": "Value of ‘\\0’ is 0.",
+        "options": [
+            "32",
+            "24",
+            "48",
+            "0"
+        ]
+    },
+    {
+        "question": "Identify the format string among the following.",
+        "answer": "%d is known as the format string.",
+        "options": [
+            "&",
+            "\\n",
+            "%d",
+            "None"
+        ]
+    },
+    {
+        "question": "What is do-while loop also known as?",
+        "answer": "do-while loop also known as exit control loop.",
+        "options": [
+            "Exit control",
+            "Entry control",
+            "Per tested",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the correct range of signed char.",
+        "answer": "The range of signed char is -128 to 127.",
+        "options": [
+            "-256 to 255",
+            "-128 to 127",
+            "0 to 255",
+            "0 to 127"
+        ]
+    },
+    {
+        "question": "Choose the size of the below struct.Struct{\nInt a;\nChar b;\nFloat c;\n}",
+        "answer": "Size of int = 2 byte, char = 1 byte and float = 4 bytes. Therefore total size = 2 + 1 + 4 = 7 bytes.",
+        "options": [
+            "2",
+            "4",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "question": "Identify the logical AND operator.",
+        "answer": "&& is known as the AND operator.",
+        "options": [
+            "||",
+            "&&",
+            "&",
+            "!"
+        ]
+    },
+    {
+        "question": "Choose the correct subscript operator.",
+        "answer": "[ ] is known as the subscript operator.",
+        "options": [
+            "[ ]",
+            "{ }",
+            "*",
+            "( )"
+        ]
+    },
+    {
+        "question": "Choose the type of loop which is guaranteed to execute at-least once?",
+        "answer": "do-while loop is.guaranteed to execute at-least once.",
+        "options": [
+            "for loop",
+            "do-while",
+            "while",
+            "None"
+        ]
+    },
+    {
+        "question": "How much bytes of memory does void occupy?",
+        "answer": "void does not occupy any memory. Hence, it takes 0 bytes of memory.",
+        "options": [
+            "1",
+            "0",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "question": "Why are comments used?",
+        "answer": "Comments are used to help others read & understand the program.",
+        "options": [
+            "Make the program run faster",
+            "To help others read & understand the program",
+            "Increase the size of the executable program",
+            "Make a program compile easier"
+        ]
+    },
+    {
+        "question": "Total types of errors in C++.",
+        "answer": "There are three types of errors in C++- syntax errors, runtime errors, logic errors.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Identify the storage classes that have global visibility.",
+        "answer": "extern is the storage classes that have global visibility.",
+        "options": [
+            "extern",
+            "auto",
+            "register",
+            "static"
+        ]
+    },
+    {
+        "question": "Choose the option below which is not a member of class.",
+        "answer": "Friend function is not a member of class.",
+        "options": [
+            "Friend function",
+            "Static function",
+            "Virtual function",
+            "Const function"
+        ]
+    },
+    {
+        "question": "Total types of constructors in C++ are?",
+        "answer": "There are three types of constructors in C++ - .default constructor, parameterized constructor and copy constructor.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "What is the number of parameters that a default constructor requires?",
+        "answer": "Default constructor does not require any parameter.",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "question": "What does a C++ class hold?",
+        "answer": "C++ class holds both Function and data.",
+        "options": [
+            "Function",
+            "Data",
+            "Arrays",
+            "Both a and b"
+        ]
+    },
+    {
+        "question": "Data members and member functions of a class are private by.default. True or False?",
+        "answer": "True. Data members and member functions of a class are always private by default.",
+        "options": [
+            "True",
+            "False",
+            "Depends on code",
+            "None"
+        ]
+    },
+    {
+        "question": "Under which pillar of OOPS does base class and derived class relationship come?",
+        "answer": "Base class and derived class relationship comes under inheritance.",
+        "options": [
+            "Polymorphism",
+            "Inheritance",
+            "Encapsulation",
+            "Abstraction"
+        ]
+    },
+    {
+        "question": "Which of the following functions can be inherited from base class?",
+        "answer": "None of the functions can be inherited from the base class.",
+        "options": [
+            "Constructor",
+            "Destructor",
+            "Static",
+            "None"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n  Float a = 5;\n  switch(a){\n     Case 5: cout <<”Interviewbit”;\n     Default: cout <<”Scaler”;\n  }\n}",
+        "answer": "The following code will give error as we can pass either integer or character data type in switch.",
+        "options": [
+            "Interviewbit",
+            "Scaler",
+            "InterviewbitScaler",
+            "Error"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n  int a = 10, b, c;\n  b  = a++;\n  c = a;\n  cout << a << “ “ <<b <<” “<< c << endl;\n}",
+        "answer": "The initial value of a is 10. Now, after post incrementing, the value of a is 11, and the previous value of a is assigned to b. Hence b = 10. c is assigned the updated value. Hence, the answer is 11 10 11.",
+        "options": [
+            "10 11 11",
+            "11 11 11",
+            "11 10 11",
+            "10 10 10"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n  int a, b = 10;\n  a = 95 / 10;\n  cout << a << endl;\n}",
+        "answer": "Since integer division is performed, 9 is the answer.",
+        "options": [
+            "9",
+            "9.5",
+            "10",
+            "9.0"
+        ]
+    },
+    {
+        "question": "How many times will the print statement be executed?main(){\n  int i = 0;\n  label:\n  cout << “Interviewbit;\n  i++;\n  if(i < 3){\n    goto label;\n  }\n}",
+        "answer": "Interviewbit will be printed 3 times, since for every if i < 3, it goes to label and an iteration occurs.",
+        "options": [
+            "1 time",
+            "2 times",
+            "3 times",
+            "Error"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n cout <<  -10 - 10 -10;\n}",
+        "answer": "Since this is an arithmetic operation, -30 is the correct answer.",
+        "options": [
+            "0",
+            "-30",
+            "30",
+            "20"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n int a = 10 / 0;\n}",
+        "answer": "Dividing integer by 0 gives arithmetic exception, since it is undefined.",
+        "options": [
+            "0",
+            "Compilation error",
+            "exception",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct escape sequence used for the new line.",
+        "answer": "\\n is the escape sequence used for the new line.",
+        "options": [
+            "\\t",
+            "\\n",
+            "\\a",
+            "None"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n char ch[] = “Interviewbit Scaler”; \n int l = strlen(ch);\n cout << l << endl;\n}",
+        "answer": "The length of the string “Interviewbit” is 12 and that of “Scaler” is 6. Since, there is a space in between, an additional 1 needs to be counted.Hence, output = 12 +  6 + 1 = 19.",
+        "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+        ]
+    },
+    {
+        "question": "Find the output of the following program.main(){\n int i = (1, 2, 3);\n cout << i << endl;\n}",
+        "answer": "The last value is given precedence. Hence, the output is 3.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ]
+    },
+    {
+        "question": "Which of the following is the correct identifier?",
+        "answer": "var_name12 is the correct identifier as in identifiers, it can contain lowercase/uppercase letters or digits. It should start with non digits and also should not contain any special characters.",
+        "options": [
+            "2var_name",
+            "2VAR_NAME",
+            "$varname",
+            "var_name12"
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of inheritance?",
+        "answer": "Distributed  is not a type of inheritance.",
+        "options": [
+            "Multiple",
+            "Multilevel",
+            "Distributed",
+            "Heirarchical"
+        ]
+    },
+    {
+        "question": "What is an object in c++?",
+        "answer": "An object is an instance of class.",
+        "options": [
+            "It is function of class",
+            "It is instance of class",
+            "It is datatype of class",
+            "It is part of the syntax of class"
+        ]
+    }
+]

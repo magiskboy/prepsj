@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Among the following option identify the one which is not a type of learning",
+    "options": [
+      {
+        "content": "Semi unsupervised learning",
+        "checked": true,
+        "explain": "Semi unsupervised learning is incorrect.",
+        "code": "A"
+      },
+      {
+        "content": "Supervised learning",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Reinforcement learning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Unsupervised learning",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the kind of learning algorithm for  “facial identities for facial expressions”.",
+    "options": [
+      {
+        "content": "Prediction",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Recognition patterns",
+        "checked": true,
+        "explain": "For facial identities and facial expression, “recognition patterns” is used.",
+        "code": "B"
+      },
+      {
+        "content": "Recognizing anomalies",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Generating patterns",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the model which is trained with data in only a single batch.",
+    "options": [
+      {
+        "content": "Offline learning",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Batch learning",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "The model is trained with data in only a single batch. is known as batch learning or offline learning.",
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the application of machine learning methods to a large database called?",
+    "options": [
+      {
+        "content": "Big data computing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Internet of things",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Data mining",
+        "checked": true,
+        "explain": "Application of machine learning methods to large databases is known as data mining.",
+        "code": "C"
+      },
+      {
+        "content": "Artificial intelligence",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the type of learning in which labeled training data is used.",
+    "options": [
+      {
+        "content": "Semi unsupervised learning",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Supervised learning",
+        "checked": true,
+        "explain": "Supervised learning uses labeled training data.",
+        "code": "B"
+      },
+      {
+        "content": "Reinforcement learning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Unsupervised learning",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following identify the one in which dimensionality reduction reduces.",
+    "options": [
+      {
+        "content": "Performance",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Entropy",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Stochastics",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Collinearity",
+        "checked": true,
+        "explain": "Dimensionality reduction reduces collinearity.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following machine learning algorithm is based upon the idea of bagging?",
+    "options": [
+      {
+        "content": "Decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Random-forest",
+        "checked": true,
+        "explain": "Random forest is based on the idea of bagging.",
+        "code": "B"
+      },
+      {
+        "content": "Classification",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Regression",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose a disadvantage of decision trees among the following.",
+    "options": [
+      {
+        "content": "Decision trees are robust to outliers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Factor analysis",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Decision trees are prone to overfit",
+        "checked": true,
+        "explain": "Decision trees are prone to overfitting.",
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the term known as on which the machine learning algorithms build a model based on sample data?",
+    "options": [
+      {
+        "content": "Data training",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Training data",
+        "checked": true,
+        "explain": "The term is known as training data.",
+        "code": "B"
+      },
+      {
+        "content": "Transfer data",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Machine learning is a subset of which of the following.",
+    "options": [
+      {
+        "content": "Artificial intelligence",
+        "checked": true,
+        "explain": "Machine learning is a subset of artificial intelligence.",
+        "code": "A"
+      },
+      {
+        "content": "Deep learning",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Data learning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following machine learning techniques helps in detecting the outliers in data?",
+    "options": [
+      {
+        "content": "Classification",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Clustering",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Anomaly detection",
+        "checked": true,
+        "explain": "The machine learning algorithm which helps in detecting the outliers is known as anomaly detection.",
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The father of machine learning is _____________",
+    "options": [
+      {
+        "content": "Geoffrey Everest Hinton",
+        "checked": true,
+        "explain": "The father of machine learning is Geoffrey Everest Hinton.",
+        "code": "A"
+      },
+      {
+        "content": "Geoffrey Hill",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Geoffrey Chaucer",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The most significant phase in genetic algorithm is _________",
+    "options": [
+      {
+        "content": "Mutation",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Selection",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fitness function",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Crossover",
+        "checked": true,
+        "explain": "Crossover is the most significant figure in genetic algorithm",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are common classes of problems in machine learning?",
+    "options": [
+      {
+        "content": "Regression",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Classification",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Clustering",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are common classes of problems in machine learning.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options identify the one which is false regarding regression.",
+    "options": [
+      {
+        "content": "It is used for the prediction",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "It is used for  interpretation",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "It relates inputs to outputs",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "It discovers casual relationships",
+        "checked": true,
+        "explain": "Option d is incorrect among the following.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the successful applications of ML.",
+    "options": [
+      {
+        "content": "Learning to classify new astronomical structures",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Learning to recognize spoken words",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Learning to drive an autonomous vehicle",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are applications of ML.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the incorrect numerical functions in the various function representation of machine learning.",
+    "options": [
+      {
+        "content": "Case-based",
+        "checked": true,
+        "explain": "Case-based is the correct answer",
+        "code": "A"
+      },
+      {
+        "content": "Support vector machines",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Linear regression",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Neural network",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "FIND-S algorithm ignores?",
+    "options": [
+      {
+        "content": "Positive",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Negative",
+        "checked": true,
+        "explain": "FIND-S algorithm ignores negative.",
+        "code": "B"
+      },
+      {
+        "content": "Both",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the correct definition of neuro software.",
+    "options": [
+      {
+        "content": "It is software used by neurosurgeons",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "It is software  used to analyze neurons",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "It is a powerful and easy neural network",
+        "checked": true,
+        "explain": "Neuro software is a powerful and easy neural network.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the general limitations of the backpropagation rule among the following.",
+    "options": [
+      {
+        "content": "Slow convergence",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Scaling",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Local minima problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above general limitations of the backpropagation rule.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Analysis of ML algorithm needs",
+    "options": [
+      {
+        "content": "Statistical learning theory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Computational learning theory",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Analysis of ML algorithms needs both statistical learning theory and computational learning theory.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the most widely used mattress and tools to assess the classification models.",
+    "options": [
+      {
+        "content": "The area under the ROC curve",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Confusion matrix",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Cost-sensitive accuracy",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above are correct.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Full form of PAC is _____________",
+    "options": [
+      {
+        "content": "Probably Approx Cost",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Probably Approximate Correct",
+        "checked": true,
+        "explain": "PAC stands for Probably Approximate Correct.",
+        "code": "B"
+      },
+      {
+        "content": "Probability Approx Communication",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Probably Approximate Computation",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the options below of which the area CLT is comprised of.",
+    "options": [
+      {
+        "content": "Mistake bound",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Sample complexity",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Computational complexity",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "The area CLT is comprised of all of the above.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the instance-based learner.",
+    "options": [
+      {
+        "content": "Eager learner",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Lazy learner",
+        "checked": true,
+        "explain": "Lazy learner is an instance-based learner.",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B are correct",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the difficulties with the k-nearest neighbor algorithm.",
+    "options": [
+      {
+        "content": "Curse of dimensionality",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Calculate the distance of the test case from all training cases",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Both A and B are correct.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The total types of the layer in radial basis function neural networks is ______",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "There is a total of 3 types of layered in radial basis function neural networks.",
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is an application of CBR?",
+    "options": [
+      {
+        "content": "Diagnosis",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Design",
+        "checked": true,
+        "explain": "Design is an application of CBR.",
+        "code": "B"
+      },
+      {
+        "content": "Planning",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the correct advantages of CBR.",
+    "options": [
+      {
+        "content": "Fast to train",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A local approx is found for each test case",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Knowledge is in a form understandable by human",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above advantages of CBR.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Machine learning as various Search and Optimisation algorithms. Identify among the following which is not evolutionary computation.",
+    "options": [
+      {
+        "content": "Genetic algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Genetic programming",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Neuroevolution",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Perceptron",
+        "checked": true,
+        "explain": "Perceptron is not evolutionary computing.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not machine learning disciplines?",
+    "options": [
+      {
+        "content": "Information theory",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Optimisation + control",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Physics",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Neuro statistics",
+        "checked": true,
+        "explain": "Neuro statistics is not a message landing discipline",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does K stand for in K mean algorithm?",
+    "options": [
+      {
+        "content": "Number of clusters",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Number of data",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Number of attributes",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Number of iterations",
+        "checked": true,
+        "explain": "K stands for a number of iterations in the K mean algorithm.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the clustering method which takes care of variance in data",
+    "options": [
+      {
+        "content": "Decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Gaussian mixture model",
+        "checked": true,
+        "explain": "Gaussian mixture model takes care of variance in data",
+        "code": "B"
+      },
+      {
+        "content": "K means",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a supervised learning",
+    "options": [
+      {
+        "content": "PCA",
+        "checked": true,
+        "explain": "PCA Is not supervised learning.",
+        "code": "A"
+      },
+      {
+        "content": "Naive Bayesian",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Linear regression",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Decision tree",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "options": [
+      {
+        "content": "Number of groups may be known",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Features of group explicitly stated",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Neither feature nor number of groups is known",
+        "checked": true,
+        "explain": "Unsupervised learning has neither feature nor number of groups known.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not a machine learning algorithm?",
+    "options": [
+      {
+        "content": "SVM",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "SVG",
+        "checked": true,
+        "explain": "SVG Is not a machine learning algorithm.",
+        "code": "B"
+      },
+      {
+        "content": "Random forest",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is true about Machine Learning?",
+    "options": [
+      {
+        "content": "The main focus of ML is to allow computer systems to learn from experience without being explicitly programmed or human intervention.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "ML is a type of artificial intelligence that extracts patterns out of raw data by using an algorithm or method.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Machine Learning (ML) is the field of computer science.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above is true about machine learning.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is not machine learning?",
+    "options": [
+      {
+        "content": "Artificial intelligence",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Rule-based inference",
+        "checked": true,
+        "explain": "Rule-based inference is not  machine learning",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the method which is used for trainControl resampling.",
+    "options": [
+      {
+        "content": "svm",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "repeatedcv",
+        "checked": true,
+        "explain": "repeatedcv is used for trainControl resampling.",
+        "code": "B"
+      },
+      {
+        "content": "Bag32",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following option identify the one which is used to create the most common graph types.",
+    "options": [
+      {
+        "content": "plot",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "quickplot",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "qplot",
+        "checked": true,
+        "explain": "qplot is used to create the most common graph types",
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

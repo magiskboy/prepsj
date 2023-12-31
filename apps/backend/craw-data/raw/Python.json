@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the maximum length of a Python identifier?",
+        "answer": "No fixed length is specified by default for a Python identifier.",
+        "options": [
+            "32",
+            "16",
+            "128",
+            "No fixed length is specified."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?print(2**3 + (5 + 6)**(1 + 1))",
+        "answer": "The above code will print 129 by following the BEDMAS rule of operator precedence.",
+        "options": [
+            "129",
+            "8",
+            "121",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What will be the datatype of the var in the below code snippet?var = 10\nprint(type(var))\nvar = \"Hello\"\nprint(type(var))",
+        "answer": "Initially var stores 10, and so is of type int. After that it stores “Hello” which is of type string.",
+        "options": [
+            "str and int",
+            "int and int",
+            "str and str",
+            "int and str"
+        ]
+    },
+    {
+        "question": "How is a code block indicated in Python?",
+        "answer": "A python code block is indicated through the use of indentation.",
+        "options": [
+            "Brackets.",
+            "Indentation.",
+            "Key.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [1, 2, 3]\na = tuple(a)\na[0] = 2\nprint(a)",
+        "answer": "Since we convert a to a tuple and then try to change its content, we will get an error since tuples are immutable.",
+        "options": [
+            "[2, 2, 3]",
+            "(2, 2, 3)",
+            "(1, 2, 3)",
+            "Error."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?print(type(5 / 2))\nprint(type(5 // 2))",
+        "answer": "The 1st expression performs standard division so the result is stored as a float type. The 2nd expression performs integer division so the result is stored as int type.",
+        "options": [
+            "float and int",
+            "int and float",
+            "float and float",
+            "int and int"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [1, 2, 3, 4, 5]\nsum = 0\nfor ele in a:\n   sum += ele \nprint(sum)",
+        "answer": "The above code calculates the sum of all elements in the list.",
+        "options": [
+            "15",
+            "0",
+            "20",
+            "None of these"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = 3\nb = 1 \nprint(a, b)\na, b = b, a \nprint(a, b)",
+        "answer": "The above code snippet swaps 2 numbers in Python.",
+        "options": [
+            "3 1    1 3",
+            "3 1    3 1",
+            "1 3    1 3",
+            "1 3    3 1"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [1, 2]\nprint(a * 3)",
+        "answer": "The * operator is overloaded in python to perform replication operations for lists. So the same list gets replicated 3 times in total.",
+        "options": [
+            "Error",
+            "[1, 2]",
+            "[1, 2, 1, 2]",
+            "[1, 2, 1, 2, 1, 2]"
+        ]
+    },
+    {
+        "question": "Which of the following types of loops are not supported in Python?",
+        "answer": "do-while loops are not explicitly a part of the Python language.",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?example = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\"];\ndel example[2]\nprint(example)",
+        "answer": "The del keyword deletes an element from a list at a given index.",
+        "options": [
+            "['Sunday', 'Monday', 'Tuesday', 'Wednesday']",
+            "['Sunday', 'Monday', 'Wednesday']",
+            "['Monday', 'Tuesday', 'Wednesday']",
+            "['Sunday', 'Monday', 'Tuesday']"
+        ]
+    },
+    {
+        "question": "Which of the following is the proper syntax to check if a particular element is present in a list?",
+        "answer": "Both A and B are valid syntaxes to check for the presence of an element in a list.",
+        "options": [
+            "if ele in list",
+            "if not ele not in list",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the type of the variable sorted_numbers in the below code snippet?numbers = (4, 7, 19, 2, 89, 45, 72, 22)\nsorted_numbers = sorted(numbers)\nprint(sorted_numbers)",
+        "answer": "sorted() function returns a list that contains all the elements in parameters in sorted order.",
+        "options": [
+            "List",
+            "Tuple",
+            "String",
+            "Int"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def thrive(n):\n if n % 15 == 0:\n   print(\"thrive\", end = “ ”)\n elif n % 3 != 0 and n % 5 != 0:\n   print(\"neither\", end = “ ”)\n elif n % 3 == 0:\n   print(\"three\", end = “ ”)\n elif n % 5 == 0:\n   print(\"five\", end = “ ”)\nthrive(35)\nthrive(56)\nthrive(15)\nthrive(39)",
+        "answer": "Multiples of both 3 and 5 prints thrive. Multiples of neither 3 nor 5 prints neither. Multiples of 3 prints three and multiple of 5 prints five.",
+        "options": [
+            "five neither thrive three",
+            "five neither three thrive",
+            "three three three three",
+            "five neither five neither"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?numbers = (4, 7, 19, 2, 89, 45, 72, 22)\nsorted_numbers = sorted(numbers)\neven = lambda a: a % 2 == 0\neven_numbers = filter(even, sorted_numbers)\nprint(type(even_numbers))",
+        "answer": "The filter function returns an object of type “filter”.",
+        "options": [
+            "filter",
+            "int",
+            "list",
+            "tuple"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def check(a):\n   print(\"Even\" if a % 2 == 0 else \"Odd\")\n   \ncheck(12)",
+        "answer": "The program uses ternary operators to check if a given number is even or not.",
+        "options": [
+            "Even",
+            "Odd",
+            "Error",
+            "None"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?numbers = (4, 7, 19, 2, 89, 45, 72, 22)\nsorted_numbers = sorted(numbers)\nodd_numbers = [x for x in sorted_numbers if x % 2 != 0]\nprint(odd_numbers)",
+        "answer": "The above code basically forms a list containing the odd numbers in the numbers list, in sorted order.",
+        "options": [
+            "[7, 19, 45, 89]",
+            "[2, 4, 22, 72]",
+            "[4, 7, 19, 2, 89, 45,72, 22]",
+            "[2, 4, 7, 19, 22, 45, 72, 89]"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?example = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\"];\nprint(example[-3:-1])",
+        "answer": "This is an example of slicing with negative indexes in a list. [-3:-1] here is equivalent to slicing the 2nd and 3rd index(1-based indexing) of the list.",
+        "options": [
+            "['Monday', 'Tuesday']",
+            "['Sunday', 'Monday']",
+            "['Tuesday', 'Wednesday']",
+            "['Wednesday', 'Monday']"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def is_even(number):\n  message =  f\"{number} is an even number\" if number % 2 == 0 else  f\"{number} is an odd number\"\n return message\nprint(is_even(54))",
+        "answer": "f strings in python are a method of formatting strings. The part enclosed in {} are replaced whatever value the parameter holds.",
+        "options": [
+            "54 is an even number",
+            "54 is an odd number",
+            "number is an even number",
+            "number is an odd number"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?dict1 = {'first' : 'sunday', 'second' : 'monday'}\ndict2 = {1: 3, 2: 4}\ndict1.update(dict2)\nprint(dict1)",
+        "answer": "The update function in python merges the contents of 2 dictionaries and stores them in the invoking dictionary.",
+        "options": [
+            "{'first': 'sunday', 'second': 'monday', 1: 3, 2: 4}",
+            "{'first': 'sunday', 'second': 'monday'}",
+            "{1: 3, 2: 4}",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?s = {1, 2, 3, 3, 2, 4, 5, 5}\nprint(s)",
+        "answer": "Sets in python store only unique elements within them, without any repetition.",
+        "options": [
+            "{1, 2, 3, 3, 2, 4, 5, 5}",
+            "{1, 2, 3, 4, 5}",
+            "None",
+            "{1, 5}"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = {'Hello':'World', 'First': 1}\nb = {val: k for k , val in a.items()}\nprint(b)",
+        "answer": "This is an example of dict comprehension in Python, in which we are reversing the key-value pairs from the 1st dictionary into the second.",
+        "options": [
+            "{'Hello':'World', 'First': 1}",
+            "{'World': 'Hello', 1: 'First'}",
+            "Can be both A or B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following functions converts date to corresponding time in Python?",
+        "answer": "strptime() function in Python converts a date to its corresponding time in Python.",
+        "options": [
+            "strptime()",
+            "strftime()",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?word = \"Python Programming\"\nn = len(word)\nword1 = word.upper()\nword2 = word.lower()\nconverted_word = \"\"\nfor i in range(n):\n if i % 2 == 0:\n   converted_word += word2[i]\n else:\n   converted_word += word1[i]\nprint(converted_word)",
+        "answer": "In this code snippet, we convert every element in odd index to lower case and every element in even index to uppercase.",
+        "options": [
+            "pYtHoN PrOgRaMmInG",
+            "Python Programming",
+            "python programming",
+            "PYTHON PROGRAMMING"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = \"4, 5\"\nnums = a.split(',')\nx, y = nums\nint_prod = int(x) * int(y)\nprint(int_prod)",
+        "answer": "In this code snippet, we break the given string into its 2 integer components, and then find their product, considering them as integer types.",
+        "options": [
+            "20",
+            "45",
+            "54",
+            "4,5"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?square = lambda x: x ** 2\na = []\nfor i in range(5):\n   a.append(square(i))\n   \nprint(a)",
+        "answer": "The above code snippet stores the 1st 5 perfect squares into a list. The perfect squares are evaluated using a lambda function.",
+        "options": [
+            "[0, 1, 4, 9, 16]",
+            "[1, 4, 9, 16, 25]",
+            "[0, 1, 2, 3, 4]",
+            "[1, 2, 3, 4, 5]"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def tester(*argv):\n   for arg in argv:\n       print(arg, end = ' ')\ntester('Sunday', 'Monday', 'Tuesday', 'Wednesday')",
+        "answer": "We pass a variable number of arguments into the function using *args, and then print their value.",
+        "options": [
+            "Sunday",
+            "Wednesday",
+            "Sunday Monday Tuesday Wednesday",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "As what datatype are the *args stored, when passed into a function?",
+        "answer": "*args are stored in Python as a tuple.",
+        "options": [
+            "List.",
+            "Tuple.",
+            "Dictionary.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def tester(**kwargs):\n   for key, value in kwargs.items():\n       print(key, value, end = \" \")\ntester(Sunday = 1, Monday = 2, Tuesday = 3, Wednesday = 4)",
+        "answer": "We can pass multiple key-word arguments to a function using kwargs. Here, we print the arguments passed to the function in this code snippet.",
+        "options": [
+            "Sunday 1 Monday 2 Tuesday 3 Wednesday 4",
+            "Sunday 1",
+            "Wednesday 4",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "As what datatype are the *kwargs stored, when passed into a function?",
+        "answer": "*kwargs are stored in Python as a dictionary.",
+        "options": [
+            "Lists.",
+            "Tuples.",
+            "Dictionary.",
+            "None of the above."
+        ]
+    },
+    {
+        "question": "Which of the following blocks will always be executed whether an exception is encountered or not in a program?",
+        "answer": "The finally block will always be executed in a program whether an exception has occurred or not.",
+        "options": [
+            "try",
+            "except",
+            "finally",
+            "None of These"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?from math import *\na = 2.19\nb = 3.999999\nc = -3.30\nprint(int(a), floor(b), ceil(c), fabs(c))",
+        "answer": "Option A will be the correct answer for this code snippet.",
+        "options": [
+            "2 3 -3 3.3",
+            "3 4 -3 3",
+            "2 3 -3 3",
+            "2 3 -3 -3.3"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?set1 = {1, 3, 5}\nset2 = {2, 4, 6}\nprint(len(set1 + set2))",
+        "answer": "The code will give an error since + operator is not overloaded for sets in Python.",
+        "options": [
+            "3",
+            "6",
+            "0",
+            "Error"
+        ]
+    },
+    {
+        "question": "What keyword is used in Python to raise exceptions?",
+        "answer": "The raise keyword is used in Python to throw exceptions.",
+        "options": [
+            "raise",
+            "try",
+            "goto",
+            "except"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?s1 = {1, 2, 3, 4, 5}\ns2 = {2, 4, 6}\nprint(s1 ^ s2)",
+        "answer": "The ^ operator in sets will return a set containing common of elements of its operand sets.",
+        "options": [
+            "{1, 2, 3, 4, 5}",
+            "{1, 3, 5, 6}",
+            "{2, 4}",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is not a valid set operation in python?",
+        "answer": "All the above operations are valid set operations in Python.",
+        "options": [
+            "Union",
+            "Intersection",
+            "Difference",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [1, 2, 3, 4]\nb = [3, 4, 5, 6]\nc = [x for x in a if x not in b]\nprint(c)",
+        "answer": "Above code snippet prints the values in a, which are not present in b.",
+        "options": [
+            "[1, 2]",
+            "[5, 6]",
+            "[1, 2, 5, 6]",
+            "[3, 4]"
+        ]
+    },
+    {
+        "question": "Which of the following are valid escape sequences in Python?",
+        "answer": "All of the above are valid escape sequences in Python.",
+        "options": [
+            "\\n",
+            "\\t",
+            "\\\\",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are valid string manipulation functions in Python?",
+        "answer": "All of the above are valid string manipulation functions in Python.",
+        "options": [
+            "count()",
+            "upper()",
+            "strip()",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following modules need to be imported to handle date time computations in Python?",
+        "answer": "The datetime module needs to be imported to handle date time computations in Python.",
+        "options": [
+            "datetime",
+            "date",
+            "time",
+            "timedate"
+        ]
+    },
+    {
+        "question": "How can assertions be disabled in Python?",
+        "answer": "Assertions can be disables in Python passing -O when running Python.",
+        "options": [
+            "Passing -O when running Python.",
+            "Assertions are disabled by default.",
+            "Both A and B are wrong.",
+            "Assertions cannot be disabled in Python."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?a = [[], \"abc\", [0], 1, 0]\nprint(list(filter(bool, a)))",
+        "answer": "The above code filters all the elements from list a, which evaluates to boolean value true, i.e. any non empty string, list or non-zero value is accepted.",
+        "options": [
+            "['abc', [0], 1]",
+            "[1]",
+            "[“abc”]",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "In which language is Python written?",
+        "answer": "Python is written in the C language.",
+        "options": [
+            "C++",
+            "C",
+            "Java",
+            "None of these"
+        ]
+    },
+    {
+        "question": "What will be the result of the following expression in Python “2 ** 3 + 5 ** 2”?",
+        "answer": "The above expression will be evaluated as 2^3 + 5^2 = 8 + 25 = 33.",
+        "options": [
+            "65536",
+            "33",
+            "169",
+            "None of these"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?count = 0\nwhile(True):\n   if count % 3 == 0:\n       print(count, end = \" \")\n   if(count > 15):\n       break;\n   count += 1",
+        "answer": "The above code prints the multiples of 3 not greater than 15, and then breaks off.",
+        "options": [
+            "0 1 2 ….. 15",
+            "Infinite Loop",
+            "0 3 6 9 12 15",
+            "0 3 6 9 12"
+        ]
+    },
+    {
+        "question": "Which of the following concepts is not a part of Python?",
+        "answer": "Pointers as a concept is not a part of Python.",
+        "options": [
+            "Pointers.",
+            "Loops.",
+            "Dynamic Typing.",
+            "All of the above."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def solve(a, b):\n   return b if a == 0 else solve(b % a, a)\nprint(solve(20, 50))",
+        "answer": "The above function basically calculates the gcd of 2 numbers recursively. The gcd of 20 and 50 is 10, so the answer is A.",
+        "options": [
+            "10",
+            "20",
+            "50",
+            "1"
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def solve(a):\n   a = [1, 3, 5]\na = [2, 4, 6]\nprint(a)\nsolve(a)\nprint(a)",
+        "answer": "This is a consequence of “Pass by Object Reference” in Python.",
+        "options": [
+            "[2, 4, 6]. [2, 4, 6]",
+            "[2, 4, 6], [1, 3, 5]",
+            "[1. 3. 5], [1, 3, 5]",
+            "None of these."
+        ]
+    },
+    {
+        "question": "What will be the output of the following code snippet?def func():\n   global value\n   value = \"Local\"\n   \nvalue = \"Global\"\nfunc()\nprint(value)",
+        "answer": "We set the value of “value” as Global. To change its value from inside the function, we use the global keyword along with “value” to change its value to local, and then print it.",
+        "options": [
+            "Local",
+            "Global",
+            "None",
+            "Cannot be predicted"
+        ]
+    },
+    {
+        "question": "Which of the following statements are used in Exception Handling in Python?",
+        "answer": "All the above statements are used for Exception Handling in Python.",
+        "options": [
+            "try",
+            "except",
+            "finally",
+            "All of the above"
+        ]
+    }
+]

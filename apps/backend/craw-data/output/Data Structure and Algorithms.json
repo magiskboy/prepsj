@@ -1,0 +1,1382 @@
+[
+  {
+    "question": "Dijkstra’s algorithm is used to solve __________  problems?",
+    "options": [
+      {
+        "content": "Network lock",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Single source shortest path",
+        "checked": true,
+        "explain": "Dijkstra’s algorithm is used to solve single source shortest path problems.",
+        "code": "B"
+      },
+      {
+        "content": "All pair shortest path",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Sorting",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The Bellmann Ford Algorithm returns __________  value?",
+    "options": [
+      {
+        "content": "String",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Boolean",
+        "checked": true,
+        "explain": "The Bellmann Ford Algorithm returns a boolean value.",
+        "code": "B"
+      },
+      {
+        "content": "Double",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Integer",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used for solving the N Queens Problem?",
+    "options": [
+      {
+        "content": "Greedy algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Dynamic programming",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Backtracking",
+        "checked": true,
+        "explain": "Backtracking is used for solving the N Queens Problem.",
+        "code": "C"
+      },
+      {
+        "content": "Sorting",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following statements is true about AVL Trees?",
+    "options": [
+      {
+        "content": "The difference between the heights of left and right nodes cannot be more than 1.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "The height of an AVL Tree always remains of the order of O(logn)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "AVL Trees are a type of self-balancing Binary Search Trees.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above.",
+        "checked": true,
+        "explain": "All the above options are applicable for an AVL Tree.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Representation of data structure in memory is known as?",
+    "options": [
+      {
+        "content": "Storage structure",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "File structure",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Recursive",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Abstract Data Type",
+        "checked": true,
+        "explain": "Representation of data structure in memory is known as Abstract Data Type.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In what time complexity can we find the diameter of a binary tree optimally?",
+    "options": [
+      {
+        "content": "O(V + E)",
+        "checked": true,
+        "explain": "We can compute the diameter of a binary tree using a single DFS, which takes the time of O(V + E).",
+        "code": "A"
+      },
+      {
+        "content": "O(V)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(E)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(V * logE)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To main measures of the efficiency of an algorithm are?",
+    "options": [
+      {
+        "content": "Time and space complexity",
+        "checked": true,
+        "explain": "Time and space complexity are the main measures of the efficiency of an algorithm.",
+        "code": "A"
+      },
+      {
+        "content": "Data and space",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Processor and memory",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Complexity and capacity",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following sorting algorithms provide the best time complexity in the worst-case scenario?",
+    "options": [
+      {
+        "content": "Merge Sort",
+        "checked": true,
+        "explain": "Merge Sort will always have a time complexity of O(n * logn) which is the best in the worst case among these algorithms.",
+        "code": "A"
+      },
+      {
+        "content": "Quick Sort",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bubble Sort",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Selection Sort",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is a Divide and Conquer algorithm?",
+    "options": [
+      {
+        "content": "Bubble Sort",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Selection Sort",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Heap Sort",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Merge Sort",
+        "checked": true,
+        "explain": "Merge Sort is a Divide and Conquer algorithm.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following data structure is used to perform recursion?",
+    "options": [
+      {
+        "content": "Linked list",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Array",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Queue",
+        "checked": true,
+        "explain": "Stack is used for performing recursion.",
+        "code": "C"
+      },
+      {
+        "content": "Stack",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the best case time complexity of selection sort?",
+    "options": [
+      {
+        "content": "O(nlogn)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": true,
+        "explain": "The best case time complexity of selection sort is O(n^2).",
+        "code": "B"
+      },
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Another name of the fractional knapsack is?",
+    "options": [
+      {
+        "content": "Non-continuous knapsack problem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Divisible knapsack problem",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "0/1 knapsack problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Continuous Knapsack Problem",
+        "checked": true,
+        "explain": "Fractional knapsack is also known as the continuous knapsack problem.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the approach followed in Floyd Warshall’s algorithm?",
+    "options": [
+      {
+        "content": "Linear programming",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Dynamic Programming",
+        "checked": true,
+        "explain": "The approach followed in Floyd Warshall’s algorithm is dynamic programming.",
+        "code": "B"
+      },
+      {
+        "content": "Greedy Technique",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Backtracking",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Hamiltonian path problem is _________?",
+    "options": [
+      {
+        "content": "NP problem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "P class problem",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "NP-complete problem",
+        "checked": true,
+        "explain": "Hamiltonian path problem is an NP-complete problem.",
+        "code": "C"
+      },
+      {
+        "content": "N class problem",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the time complexity of the following code snippet in C++?void solve() {\n    string s = \"scaler\";\n    int n = s.size();\n    for(int i = 0; i < n; i++) {\n        s = s + s[i];\n    }\n    cout << s << endl;\n}",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": true,
+        "explain": "The s = s + s[i] line first makes a copy of the original string and then appends the new character in it, leading to each operation being O(n). So the total time complexity is O(n^2).",
+        "code": "B"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(log n)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When a pop() operation is called on an empty queue, what is the condition called?",
+    "options": [
+      {
+        "content": "Overflow",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Underflow",
+        "checked": true,
+        "explain": "pop() on an empty queue causes Underflow.",
+        "code": "B"
+      },
+      {
+        "content": "Syntax Error",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Garbage Value",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the time complexity of the binary search algorithm?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(log2n)",
+        "checked": true,
+        "explain": "The time complexity of the binary search algorithm is O(log2n).",
+        "code": "C"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What will be the best sorting algorithm, given that the array elements are small (<= 1e6)?",
+    "options": [
+      {
+        "content": "Bubble Sort",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Merge Sort",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Counting Sort",
+        "checked": true,
+        "explain": "Counting sort sorts an array in O(n) time complexity, taking up an extra space complexity of O(max(a[i])).",
+        "code": "C"
+      },
+      {
+        "content": "Heap Sort",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the time complexity of the Sieve of Eratosthenes to check if a number is prime?",
+    "options": [
+      {
+        "content": "O(nlog(logn)) Precomputation, O(1) for check.",
+        "checked": true,
+        "explain": "The Sieve of Eratosthenes checks if a number is prime in O(1) in the range [1, n] by using an O(nlog(logn)) precomputation and O(n) space complexity.",
+        "code": "A"
+      },
+      {
+        "content": "O(n) Precomputation, O(1) for the check.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(n * logn) Precomputation, O(logn) for check.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n) Precomputation, O(logn) for check.",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The worst-case time complexity of Quicksort is?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(log2n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": true,
+        "explain": "The worst-case time complexity of Quicksort is O(n^2).",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the technique called in which it does not require extra memory for carrying out the sorting procedure?",
+    "options": [
+      {
+        "content": "Stable",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Unstable",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "In-place",
+        "checked": true,
+        "explain": "The technique which does not require extra memory for carrying out the sorting procedure is in-place.",
+        "code": "C"
+      },
+      {
+        "content": "In-partition",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the slowest sorting technique among the following?",
+    "options": [
+      {
+        "content": "Merge Sort",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Quick Sort",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bubble Sort",
+        "checked": true,
+        "explain": "Bubble sort is the slowest sorting technique.",
+        "code": "C"
+      },
+      {
+        "content": "Selection Sort",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Select the correct recurrence relation for Tower of Hanoi?",
+    "options": [
+      {
+        "content": "T(N) = 2T(N-1)+1",
+        "checked": true,
+        "explain": "The recurrence relation for Tower of Hanoi is T(N)=2T(N-1)+1;",
+        "code": "A"
+      },
+      {
+        "content": "T(N) = 2T(N/2)+1",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "T(N) = 2T(N-1)+N",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "T(N) = 2T(N-2)+2",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the sorting technique which compares adjacent elements in a list and switches whenever necessary?",
+    "options": [
+      {
+        "content": "Merge Sort",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Quick Sort",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Bubble Sort",
+        "checked": true,
+        "explain": "The sorting technique is bubble sort.",
+        "code": "C"
+      },
+      {
+        "content": "Selection Sort",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Among the following options which is the best sorting algorithm when the list is already sorted?",
+    "options": [
+      {
+        "content": "Merge Sort",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Insertion Sort",
+        "checked": true,
+        "explain": "Insertion Sort has a time complexity of O(N) when the array is always sorted.",
+        "code": "B"
+      },
+      {
+        "content": "Bubble Sort",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Selection Sort",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the best case time complexity of the binary search algorithm?",
+    "options": [
+      {
+        "content": "O(1)",
+        "checked": true,
+        "explain": "The best-case time complexity occurs when the target element occurs exactly at the middle of the array and the algorithm terminates in 1 move.",
+        "code": "A"
+      },
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(log2n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following algorithms are used to find the shortest path from a source node to all other nodes in a weighted graph?",
+    "options": [
+      {
+        "content": "BFS",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Djikstra’s Algorithm",
+        "checked": true,
+        "explain": "Djikstra’s algorithm is used to find the shortest path from a source node to all other nodes in a weighted graph.",
+        "code": "B"
+      },
+      {
+        "content": "Prims Algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Kruskal’s Algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are applications of Topological Sort of a graph?",
+    "options": [
+      {
+        "content": "Sentence Ordering",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Course Scheduling",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "OS Deadlock Detection",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All the above options are applicable.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the time complexity in decreasing the node value in a binomial heap?",
+    "options": [
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(N)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(logN)",
+        "checked": true,
+        "explain": "Time complexity and reducing the node value in Binomial heap is O(logN).",
+        "code": "C"
+      },
+      {
+        "content": "O(NlogN)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "An algorithm is __________?",
+    "options": [
+      {
+        "content": "A problem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A procedure for solving a problem",
+        "checked": true,
+        "explain": "An algorithm is a procedure for solving a problem.",
+        "code": "B"
+      },
+      {
+        "content": "A real-life mathematical problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is incorrect? Algorithms can be represented:",
+    "options": [
+      {
+        "content": "As programs",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "As flow charts",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "As syntax",
+        "checked": true,
+        "explain": "Ayurvedam can be represented as Syntax is incorrect.",
+        "code": "C"
+      },
+      {
+        "content": "As pseudo-codes",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the time complexity to insert an element to the front of a LinkedList(head pointer given)?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(1)",
+        "checked": true,
+        "explain": "We set the next node to the head of the list, and then return that node as the new head.",
+        "code": "B"
+      },
+      {
+        "content": "O(logn)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n * logn)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What should be considered when designing an algorithm?",
+    "options": [
+      {
+        "content": "If this software is used correctly",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "In the hardware is used correctly",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "If there is more than one way to solve the problem",
+        "checked": true,
+        "explain": "While designing an algorithm we must check if there is more than one way to solve the problem.",
+        "code": "C"
+      },
+      {
+        "content": "All of the above are correct",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is known to be not an NP-Hard Problem?",
+    "options": [
+      {
+        "content": "Vertex Cover Problem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "0/1 Knapsack Problem",
+        "checked": true,
+        "explain": "The 0/1 Knapsack is not an NP-Hard problem.",
+        "code": "B"
+      },
+      {
+        "content": "Maximal Independent Set Problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Travelling Salesman Problem",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The worst-case time complexity of Selection Exchange Sort is?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(log2n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": true,
+        "explain": "The worst-case time complexity of Selection Exchange Sort is O(n^2).",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Heap is a _____________?",
+    "options": [
+      {
+        "content": "Tree structure",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Complete binary tree",
+        "checked": true,
+        "explain": "Heap is a complete binary tree.",
+        "code": "B"
+      },
+      {
+        "content": "Binary tree",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the maximum number of swaps that can be performed in the Selection Sort algorithm?",
+    "options": [
+      {
+        "content": "n - 1",
+        "checked": true,
+        "explain": "n - 1 swap are performed at max to sort any array by Selection Sort.",
+        "code": "A"
+      },
+      {
+        "content": "n",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "n - 2",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Worst-case time complexity to access an element in a BST can be?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": true,
+        "explain": "In the worst case, we might need to visit all the nodes in the BST.",
+        "code": "A"
+      },
+      {
+        "content": "O(n * logn)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(logn)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In a graph of n nodes and n edges, how many cycles will be present?",
+    "options": [
+      {
+        "content": "Exactly 1",
+        "checked": true,
+        "explain": "A tree contains by definition n nodes and n - 1 edge,  and it is an acyclic graph. When we add 1 edge to the tree, we can form exactly one cycle by adding this edge.",
+        "code": "A"
+      },
+      {
+        "content": "At most 1",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "At most 2",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Depending on the graph",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Kruskal’s Algorithm for finding the Minimum Spanning Tree of a graph is a kind of a?",
+    "options": [
+      {
+        "content": "DP Problem",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Greedy Algorithm",
+        "checked": true,
+        "explain": "Kruskal’s Algorithm works on the greedy algorithm of taking the lowest weight edges in the MST of a graph unless it forms a cycle.",
+        "code": "B"
+      },
+      {
+        "content": "Adhoc Problem",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following algorithms are used for string and pattern matching problems??",
+    "options": [
+      {
+        "content": "Z Algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Rabin Karp Algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "KMP Algorithm",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All the above algorithms are used for string and pattern matching.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The time complexity for travel Singh all nodes in a binary search tree with n nodes and printing them in order is?",
+    "options": [
+      {
+        "content": "O(n)",
+        "checked": true,
+        "explain": "The time complexity for travel Singh all nodes in a binary search tree with n nodes and printing them in order is O(n).",
+        "code": "A"
+      },
+      {
+        "content": "O(1)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(nlog2n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the function of the stack that returns the top data element of the stack?",
+    "options": [
+      {
+        "content": "pop()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "peek()",
+        "checked": true,
+        "explain": "The function to return the top data element of the stack is peek()",
+        "code": "B"
+      },
+      {
+        "content": "push()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "findTop()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the best time complexity we can achieve to precompute all-pairs shortest paths in a weighted graph?",
+    "options": [
+      {
+        "content": "O(n^3)",
+        "checked": true,
+        "explain": "The Floyd-Warshall Algorithm computes All Pairs Shortest Paths in a weighted graph, in O(n^3).",
+        "code": "A"
+      },
+      {
+        "content": "O(n^2)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "O(n)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(n^4)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following functions provides the maximum asymptotic complexity?",
+    "options": [
+      {
+        "content": "f1(n) = n^(3/2)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "f2(n) = n^(logn)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "f3(n) = nlogn",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "f4(n) = 2^n.",
+        "checked": true,
+        "explain": "f4(n) = 2^n has exponential time complexity which is the maximum.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The time complexity to find the longest common subsequence of two strings of length M and N is?",
+    "options": [
+      {
+        "content": "O(N)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "O(M * N)",
+        "checked": true,
+        "explain": "The time complexity to find Longest common subsequence is O(M*N) is using the Dynamic programming approach.",
+        "code": "B"
+      },
+      {
+        "content": "O(M)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "O(log N)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

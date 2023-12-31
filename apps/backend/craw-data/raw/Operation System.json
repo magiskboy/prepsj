@@ -1,0 +1,532 @@
+[
+    {
+        "question": "Which of the following are CPU scheduling algorithms?",
+        "answer": "All of the above are CPU scheduling algorithms",
+        "options": [
+            "Priority scheduling",
+            "Round Robin",
+            "Shortest Job First",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Operating systems",
+        "answer": "OS acts as an interface between the user.",
+        "options": [
+            "Provides a layer so as to act as a user-friendly interface that enables the programmer to draw a flow chart",
+            "Links the program with subroutines",
+            "Helps to create a flow chart of the programs",
+            "All of these"
+        ]
+    },
+    {
+        "question": "A process which is copied from main memory to secondary memory on the basis of requirement is known as -",
+        "answer": "The process which is copied from main memory to secondary memory on the basis of requirement is known as demand paging.",
+        "options": [
+            "Demand paging",
+            "Paging",
+            "Threads",
+            "Segmentation"
+        ]
+    },
+    {
+        "question": "FIFO scheduling is a type of:",
+        "answer": "FIFO is a type of non-preemptive scheduling.",
+        "options": [
+            "Pre-emptive scheduling",
+            "Non-pre-emptive scheduling.",
+            "Deadline scheduling",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the type of OS reads and reacts in terms of actual time?",
+        "answer": "RTOS",
+        "options": [
+            "Quick sharing OS",
+            "Time Sharing OS",
+            "Real time OS",
+            "Batch OS"
+        ]
+    },
+    {
+        "question": "A systematic procedure for moving the CPU to new process is known as-",
+        "answer": "Multiple processes are run in parallel in CPU. Sometimes when a high priority process comes up, the kernel transfers control of the CPU to that process.",
+        "options": [
+            "Synchronization",
+            "Deadlock",
+            "Starvation",
+            "Context Switching"
+        ]
+    },
+    {
+        "question": "UNIX is written in which language?",
+        "answer": "UNIX is written in C language. It was developed in 1970s at AT & T Bell laboratories.",
+        "options": [
+            "C#",
+            "C++",
+            "C",
+            ".NET"
+        ]
+    },
+    {
+        "question": "Thread is a",
+        "answer": "A thread is the smallest unit of processing that can be performed in an OS. It is a light weight process.",
+        "options": [
+            "Light weight process",
+            "Heavy weight process",
+            "Multi-process",
+            "I/0 process"
+        ]
+    },
+    {
+        "question": "OS classifies the threads as-",
+        "answer": "OS classifies the threads into two types - User level thread: Implemented by user and Kernel level thread, implemented by the kernel.",
+        "options": [
+            "Mainframe and motherboard level",
+            "Kernel and User level",
+            "Security and Memory level",
+            "OS and CPU level"
+        ]
+    },
+    {
+        "question": "Among the following CPU scheduling algorithms, which of these allocated the CPU first to the process that requests the CPU first?",
+        "answer": "FCFS allocates resources to the process that requests first.",
+        "options": [
+            "FCFS",
+            "SJF",
+            "Priority scheduling",
+            "None"
+        ]
+    },
+    {
+        "question": "What are the two types of operating modes of AT?",
+        "answer": "Two operating modes of AT are Real mode and protected mode.",
+        "options": [
+            "Virtual mode, dedicated mode",
+            "Private mode, public mode",
+            "Real mode, protected mode",
+            "Direct mode, indirect mode"
+        ]
+    },
+    {
+        "question": "Which of the following schedules threads?",
+        "answer": "Thread scheduling is done by OS.",
+        "options": [
+            "Virtual memory",
+            "Operating system",
+            "CPU",
+            "Input"
+        ]
+    },
+    {
+        "question": "What is meant by ready state of a process?",
+        "answer": "Ready state of the process means the process has all necessary resources which are required for execution of that process when CPU is allocated.",
+        "options": [
+            "When the process is scheduled to run after some execution",
+            "When the process is currently using the CPU",
+            "When the process is dependent of the execution time of some other process.",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Among the following, which is an example of a spooled device?",
+        "answer": "A line printer that prints the output of a number of jobs is an example of a spooled device.",
+        "options": [
+            "A line printer that prints the output of a number of jobs.",
+            "A terminal that inputs user data",
+            "A I/O device to display graphics.",
+            "None"
+        ]
+    },
+    {
+        "question": "Main memory of a computer system is?",
+        "answer": "Main memory of a computer system is volatile.",
+        "options": [
+            "Non-volatile",
+            "Volatile",
+            "Restricted",
+            "Unrestricted"
+        ]
+    },
+    {
+        "question": "For which of the following purposes in Banker’s algorithm is used?",
+        "answer": "Banker's Algorithm is mainly used to prevent deadlock.",
+        "options": [
+            "Preventing deadlock",
+            "Solving deadlock",
+            "Recover from deadlock",
+            "None"
+        ]
+    },
+    {
+        "question": "Device driver required in?",
+        "answer": "A disk driver is a device driver that allows a specific disk drive to communicate with the remainder of the computer. A good example of this driver is a floppy disk driver.",
+        "options": [
+            "Register",
+            "Main memory",
+            "Disk",
+            "Cache"
+        ]
+    },
+    {
+        "question": "When are the register context and stack of thread deallocated?",
+        "answer": "Register context and stack of thread are deallocated when the thread terminates.",
+        "options": [
+            "when the thread terminates",
+            "when the thread blocks",
+            "when the thread unblocks",
+            "when the thread spawns"
+        ]
+    },
+    {
+        "question": "Threads is not shared among which of the following?",
+        "answer": "Since each thread can have its own execution sequence/code, it must have its own stack on which it might push/pop its program counter contents. So threads of same process do not share stack and program counter.",
+        "options": [
+            "stack",
+            "program counter",
+            "both program counter and stack",
+            "none"
+        ]
+    },
+    {
+        "question": "For which of the following is the jacketing technique used?",
+        "answer": "Jacketing technique used to convert a blocking system call into non blocking system call.",
+        "options": [
+            "to construct a new thread",
+            "to communicate between threads",
+            "convert a blocking system call into non blocking system call",
+            "None"
+        ]
+    },
+    {
+        "question": "For which of the following is resource sharing used?",
+        "answer": "Resource sharing is used for sharing memory and resources and well as compressing the address space.",
+        "options": [
+            "an application having several threads of activity all within the same address space.",
+            "share the memory and resources of the process to which the threads belong",
+            "Compress the address space a process can use",
+            "all of the mentioned"
+        ]
+    },
+    {
+        "question": "Many to One model is at an advantage in which of the following conditions?",
+        "answer": "Only one thread can access the Kernel at a time, so multiple threads are unable to run in parallel on multiprocessors. So, if a program does not need to be multithreading many to one model is at advantage.",
+        "options": [
+            "When the program needs to be multi-threaded",
+            "When there is a single processor present",
+            "When the program does not need multithreading",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the system calls that on termination does not return control to the calling point.",
+        "answer": "exec is the system calls that on termination does not return control to the calling point.",
+        "options": [
+            "exec",
+            "fork",
+            "longjmp",
+            "ioctl"
+        ]
+    },
+    {
+        "question": "Consider the following program:main()\n{\n     if(fork()>0)\nsleep(100);\n}",
+        "answer": "A zombie process or defunct process is a process that has completed execution (via the exit system call) but still has an entry in the process table: it is a process in the \"Terminated state\".",
+        "options": [
+            "infinite process",
+            "orphan process",
+            "zombie process",
+            "none"
+        ]
+    },
+    {
+        "question": "The output of the following C program is?int main(){\n\tfork();\n    fork();\n    printf(\"code \");\n}",
+        "answer": "First fork() is going to create a child process,which is going to execute the next instruction i.e 2nd fork() and parent process also going to execute 2nd fork.So now 2 more processes will be created. So in the system now there are 4 processes and they are going to execute printf statements. so total number, of code will be 4Therefore, total number of times code will be printed = 4",
+        "options": [
+            "code code code code",
+            "code code code",
+            "code code",
+            "code"
+        ]
+    },
+    {
+        "question": "Identify the call which never returns an error?",
+        "answer": "The call getpid never returns an error.",
+        "options": [
+            "fork",
+            "getpid",
+            "ioctl",
+            "open"
+        ]
+    },
+    {
+        "question": "What of the following defines Thread cancellation?",
+        "answer": "Thread cancellation means the process terminating a thread process before its execution.",
+        "options": [
+            "The process of terminating a thread process before its execution",
+            "The process of removing a thread after its work is executed",
+            "The process of destroying the thread after its work is executed",
+            "none"
+        ]
+    },
+    {
+        "question": "When a thread terminates some target thread immediately, it is known as?",
+        "answer": "When a thread terminates some target thread immediately, it is know as Asynchronous termination.",
+        "options": [
+            "Immediate Termination",
+            "Asynchronous termination",
+            "Synchronous termination",
+            "Deferred cancellation"
+        ]
+    },
+    {
+        "question": "Signals of some given type are",
+        "answer": "Signals of the same type are sent together.",
+        "options": [
+            "sent together",
+            "queued",
+            "stacked",
+            "none"
+        ]
+    },
+    {
+        "question": "Which of the following commands in UNIX is used to send a signal?",
+        "answer": "kill is used to send a signal in UNIX.",
+        "options": [
+            "send",
+            "kill",
+            "sigsend",
+            "none"
+        ]
+    },
+    {
+        "question": "The speed of writing data in magnetic tape disks is comparable to that of disk drives. State True/False",
+        "answer": "The statement is true. The speed of writing data in magnetic tape disks is comparable to that of disk drives.",
+        "options": [
+            "True",
+            "False",
+            "Both, depends on the data",
+            "None"
+        ]
+    },
+    {
+        "question": "What else is a command interpreter called?",
+        "answer": "A command interpreter is also called shell.",
+        "options": [
+            "prompt",
+            "kernel",
+            "command",
+            "shell"
+        ]
+    },
+    {
+        "question": "Select the correct definition of spooling.",
+        "answer": "Spooling holds a single copy of data.",
+        "options": [
+            "Spooling is a type of fast memory",
+            "Spooling holds a single copy of data",
+            "Spooling holds copy of all data in the system",
+            "none"
+        ]
+    },
+    {
+        "question": "Which of the following is the only state transition that is initiated by the user process itself?",
+        "answer": "The only state transition that is initiated by the user process itself is block. Whenever a user process initiates an I/O request it goes into block state unless and until the I/O request is not completed.",
+        "options": [
+            "dispatch",
+            "wakeup",
+            "block",
+            "none"
+        ]
+    },
+    {
+        "question": "Identify the two steps of a process execution.",
+        "answer": "The two steps of a process execution are CPU and I/O burst.",
+        "options": [
+            "CPU & I/O Burst",
+            "I/O & OS Burst",
+            "Memory & I/O Burst",
+            "CPU and Memory burst"
+        ]
+    },
+    {
+        "question": "Why is CPU scheduling done?",
+        "answer": "CPU scheduling is done to increase the CPU utilisation, so that many process can complete their execution without having to wait for too long.",
+        "options": [
+            "decrease CPU utilisation",
+            "decrease cost",
+            "increase CPU utilisation",
+            "None"
+        ]
+    },
+    {
+        "question": "The most optimal CPU scheduling algorithm is ________",
+        "answer": "SJF is optimal, in that for a given set of processes and their CPU bursts/execution times it gives the least average waiting time for each process.",
+        "options": [
+            "Shortest Job First",
+            "First Come First Serve",
+            "Round robin",
+            "None"
+        ]
+    },
+    {
+        "question": "How many minimum variables is/are required to share between processes, so as to solve the critical section problem?",
+        "answer": "It is a program element that wants to access the collective variables and needs to be sorted out as a nuclear operation. It implies the one process has to perform its essential section in a group of communicating systems at that particular time.",
+        "options": [
+            "one",
+            "two",
+            "three",
+            "four"
+        ]
+    },
+    {
+        "question": "Which of the following is known as uninterruptible unit?",
+        "answer": "Atomic is known as uninterruptible unit. That is, whenever a process starts executes, it doesn’t terminate or context switch until its complete execution.",
+        "options": [
+            "single",
+            "static",
+            "atomic",
+            "none of the mentioned"
+        ]
+    },
+    {
+        "question": "Semaphore is a __ and it helps to solve the problem of  ___?",
+        "answer": "Semaphore is an integer variable and it helps to solve problems of critical sections.",
+        "options": [
+            "atomic, critical section",
+            "integer variable, memory error",
+            "integer variable, critical section",
+            "atomic, memory error"
+        ]
+    },
+    {
+        "question": "Which of the following are two types of atomic operations performed by semaphores?",
+        "answer": "Semaphore mainly helps in performing wait and signal operations.",
+        "options": [
+            "wait, signal",
+            "wait, stop",
+            "signal, stop",
+            "signal, wait"
+        ]
+    },
+    {
+        "question": "The two types of semaphores are-",
+        "answer": "There are two types of semaphores- Binary and Counting semaphores.",
+        "options": [
+            "Counting and decimal semaphore",
+            "Counting and binary semaphore",
+            "Counting and mutex",
+            "None"
+        ]
+    },
+    {
+        "question": "A binary semaphore has a value of",
+        "answer": "A binary semaphore is initialised with value 1.",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "2"
+        ]
+    },
+    {
+        "question": "The release and request of resources are a type of which of the following?",
+        "answer": "The release and request of resources are a type system calls.",
+        "options": [
+            "system calls",
+            "I/O interrupts",
+            "command lines",
+            "None"
+        ]
+    },
+    {
+        "question": "Is mutual exclusion required for shareable resources?",
+        "answer": "Mutual exclusion is not required for shareable resources.",
+        "options": [
+            "Yes",
+            "No",
+            "Maybe",
+            "None"
+        ]
+    },
+    {
+        "question": "Unsafe states are?",
+        "answer": "Unsafe states are not always deadlocks. There might be cases, where unsafe states may lead to deadlocks, but in general, it cannot be classified as deadlocks.",
+        "options": [
+            "Not deadlocks",
+            "Deadlocks",
+            "Livelock",
+            "None"
+        ]
+    },
+    {
+        "question": "When can the binding of instructions and data to memory addresses be done?",
+        "answer": "Binding of instructions and data to memory addresses be done at compile time, run time as well as execution time too.",
+        "options": [
+            "Load time",
+            "Compile time",
+            "Execution time",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is also known as the base register?",
+        "answer": "The Relocation register is also known as the base register.",
+        "options": [
+            "Relocation register",
+            "Regular register",
+            "Delocation register",
+            "Basic register"
+        ]
+    },
+    {
+        "question": "Which of the following is not an operating system?",
+        "answer": "Oracle is not an operating system. It is a relational data base management system, also known as Oracle Database.",
+        "options": [
+            "Linux",
+            "DOS",
+            "Oracle",
+            "Windows"
+        ]
+    },
+    {
+        "question": "Which of the following is a single user operating system?",
+        "answer": "Ms-DOS  is a single user operating system.",
+        "options": [
+            "Windows",
+            "Ms-DOS",
+            "MAC",
+            "None"
+        ]
+    },
+    {
+        "question": "To access the services of operating system the interface is provided by the?",
+        "answer": "To access the services of operating system the interface is provided by the System Calls. Open, Close, Read, Write are some of most prominently used system calls.",
+        "options": [
+            "System Calls",
+            "API",
+            "Library",
+            "Assembly Instructions"
+        ]
+    },
+    {
+        "question": "The size of virtual memory is based on which of the following?",
+        "answer": "The size of virtual memory is based on Address Bus.",
+        "options": [
+            "CPU",
+            "Address Bus",
+            "RAM",
+            "Data Bus"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a real-time operating system?",
+        "answer": "Process Control is not RTOS since processing time requirements (including any OS delay) are measured in tenths of seconds or shorter increments of time.",
+        "options": [
+            "Process Control",
+            "MS DOS",
+            "WIndows XP",
+            "Lynx"
+        ]
+    }
+]

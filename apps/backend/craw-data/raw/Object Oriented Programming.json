@@ -1,0 +1,522 @@
+[
+    {
+        "question": "What is the implicit return type of constructor?",
+        "answer": "Explanation - B) Implicit return type of constructor is the class object in which it is defined.",
+        "options": [
+            "No return type",
+            "A class object in which it is defined.",
+            "void",
+            "None"
+        ]
+    },
+    {
+        "question": "When is the object created with a new keyword?",
+        "answer": "Explanation - A) The object created with a new keyword during run-time.",
+        "options": [
+            "At run time",
+            "At compile time",
+            "Depends on the code",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the incorrect constructor type.",
+        "answer": "Explanation - A) Friend constructor is not a type of constructor.",
+        "options": [
+            "Friend constructor",
+            "Default constructor",
+            "Parameterized constructor",
+            "Copy constructor"
+        ]
+    },
+    {
+        "question": "Identify the scope resolution operator.",
+        "answer": "Answer - B) :: is the scope resolution operator.",
+        "options": [
+            ":",
+            "::",
+            "?:",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the option below which is not a member of the class.",
+        "answer": "Answer - A) Friend function is not a member of the class.",
+        "options": [
+            "Friend function",
+            "Static function",
+            "Virtual function",
+            "Const function"
+        ]
+    },
+    {
+        "question": "Total types of constructors in C++ are?",
+        "answer": "Answer - C) There are three types of constructors in C++ - .default constructor,parameterized constructor and copy constructor.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "What is the number of parameters that a default constructor requires?",
+        "answer": "Answer - A) Default constructor does not require any parameter.",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "question": "Data members and member functions of a class are private. default. True or False?",
+        "answer": "Answer - A) True. Data members and member functions of a class are always private by default.",
+        "options": [
+            "True",
+            "False",
+            "Depends on code",
+            "None"
+        ]
+    },
+    {
+        "question": "Under which pillar of OOPS do base class and derived class relationships come?",
+        "answer": "Answer - B) Base class and derived class relationship come under inheritance.",
+        "options": [
+            "Polymorphism",
+            "Inheritance",
+            "Encapsulation",
+            "Abstraction"
+        ]
+    },
+    {
+        "question": "Which of the following functions can be inherited from the base class?",
+        "answer": "Answer - D) None of the functions can be inherited from the base class.",
+        "options": [
+            "Constructor",
+            "Destructor",
+            "Static",
+            "None"
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of inheritance?",
+        "answer": "Answer - C) Distributed is not a type of inheritance.",
+        "options": [
+            "Multiple",
+            "Multilevel",
+            "Distributed",
+            "Hierarchical"
+        ]
+    },
+    {
+        "question": "What is an object in c++?",
+        "answer": "Answer - B) An object is an instance of the class.",
+        "options": [
+            "It is a function of class",
+            "It is an instance of the class",
+            "It is the data type of class",
+            "It is part of the syntax of class."
+        ]
+    },
+    {
+        "question": "Why is reusability a desirable feature?",
+        "answer": "Answer - B) Reusability is a desirable feature as it decreases the testing time.",
+        "options": [
+            "Reduces compilation time",
+            "Decreases testing time",
+            "Lowers maintenance cost",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the operators which cannot be overloaded.",
+        "answer": "Answer - C) >> cannot be overloaded.",
+        "options": [
+            "?:",
+            ".(dot operator)",
+            ">>",
+            "Both A and B"
+        ]
+    },
+    {
+        "question": "Another name of overloading is?",
+        "answer": "Answer - D) Overloading is also known as Ad-hoc polymorphism.",
+        "options": [
+            "Pseudo polymorphism",
+            "Transient polymorphism",
+            "Virtual polymorphism",
+            "Ad-hoc polymorphism"
+        ]
+    },
+    {
+        "question": "By default, fields in a structure of a C program is?",
+        "answer": "Answer - A) Fields in the structure are public by default",
+        "options": [
+            "public",
+            "Private",
+            "protected",
+            "None"
+        ]
+    },
+    {
+        "question": "On what basis is it determined, when a variable comes into existence in memory?",
+        "answer": "Answer - B) A variable that comes into existence in memory is determined by storage class.",
+        "options": [
+            "Data type",
+            "Storage class",
+            "Scope",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the feature using which, one object can interact with another object.",
+        "answer": "Answer - A) Message passing is the feature using which, one object can interact with another object",
+        "options": [
+            "Message passing",
+            "Message reading",
+            "Data binding",
+            "Data transfer"
+        ]
+    },
+    {
+        "question": "Total access specifiers in OOPS for C++ are?",
+        "answer": "Answer - C) There is a total of 3 access specifiers - private, public, protected.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Choose the option below which can show polymorphism.",
+        "answer": "Answer - B) Overloading << can show polymorphism.",
+        "options": [
+            "Overloading ||",
+            "Overloading <<",
+            "Overloading &&",
+            "Overloading +="
+        ]
+    },
+    {
+        "question": "Select the following which shows the correct constructor.",
+        "answer": "Answer - C) class_name() is the correct constructor.",
+        "options": [
+            "()class_name",
+            "-class_name",
+            "class_name()",
+            "~class_name()"
+        ]
+    },
+    {
+        "question": "To access data members of a class, which of the following is used?",
+        "answer": "Answer - C) To access data members of a class, Dot or arrow operator, as required.",
+        "options": [
+            "Dot operator",
+            "Arrow operator",
+            "Dot or arrow operator, as required",
+            "Dot, arrow, or direct call"
+        ]
+    },
+    {
+        "question": "Identify the feature, which is used to reduce the use of nested classes.",
+        "answer": "Answer - B) Inheritance is the feature. which is used to reduce the use of nested classes.",
+        "options": [
+            "Binding",
+            "Inheritance",
+            "Encapsulation",
+            "Abstraction"
+        ]
+    },
+    {
+        "question": "Choose the option below which is used to free the memory allocated for an object in C++.",
+        "answer": "Answer - C) delete is used to free the memory allocated for an object in C++.",
+        "options": [
+            "Free()",
+            "unallocate()",
+            "delete",
+            "collect"
+        ]
+    },
+    {
+        "question": "Identify the option below which is not a property of the object.",
+        "answer": "Answer - A) Names are not a property of the object.",
+        "options": [
+            "Names",
+            "Attributes",
+            "Identity",
+            "Properties"
+        ]
+    },
+    {
+        "question": "What type of inheritance does single-level inheritance support?",
+        "answer": "Answer - B) Single-level inheritance supports Runtime inheritance.",
+        "options": [
+            "Compile-time",
+            "Runtime inheritance",
+            "Multiple inheritances",
+            "Language independent"
+        ]
+    },
+    {
+        "question": "In which of the following is memory allocated for the objects?",
+        "answer": "Answer - A) Memory is allocated for the objects in RAM",
+        "options": [
+            "RAM",
+            "ROM",
+            "Cache",
+            "HDD"
+        ]
+    },
+    {
+        "question": "How do encapsulation and abstraction differ?",
+        "answer": "Answer - B) Encapsulation and abstraction differ on the basis of binding and hiding.",
+        "options": [
+            "Hiding and binding",
+            "Binding and hiding",
+            "Hiding and hiding",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the option below which is shown by function overriding",
+        "answer": "Answer - C). Function overriding shows polymorphism.",
+        "options": [
+            "Abstraction",
+            "Encapsulation",
+            "Polymorphism",
+            "Inheritance"
+        ]
+    },
+    {
+        "question": "Choose the option below for which instance of the class cannot be created.",
+        "answer": "Answer - D) For the Abstract class, an instance of a class cannot be created.",
+        "options": [
+            "Anonymous class",
+            "Parent class",
+            "Nested class",
+            "Abstract class"
+        ]
+    },
+    {
+        "question": "Identify the feature which can be implemented using encapsulation.",
+        "answer": "Answer - A) Abstraction can be implemented using encapsulation.",
+        "options": [
+            "Abstraction",
+            "Encapsulation",
+            "Polymorphism",
+            "Inheritance"
+        ]
+    },
+    {
+        "question": "Why is a virtual function mainly used to achieve?",
+        "answer": "Answer - D) Virtual function mainly used to achieve Runtime polymorphism.",
+        "options": [
+            "Function code polymorphism",
+            "Interpreter polymorphism",
+            "Compile-time polymorphism",
+            "Runtime polymorphism"
+        ]
+    },
+    {
+        "question": "Virtual functions should be defined in?",
+        "answer": "Answer - B) Virtual functions should be defined in the base class.",
+        "options": [
+            "Derived class",
+            "Base class",
+            "Both base and derived class",
+            "None"
+        ]
+    },
+    {
+        "question": "Virtual function should be ________.",
+        "answer": "Answer - A) Virtual functions should be public.",
+        "options": [
+            "public",
+            "Private",
+            "protected",
+            "default"
+        ]
+    },
+    {
+        "question": "Choose whether True or False: The constructor function can be constant.",
+        "answer": "Answer - B) False. Constructor function cannot be constant.",
+        "options": [
+            "True",
+            "False",
+            "Depends on implementation",
+            "None"
+        ]
+    },
+    {
+        "question": "Dynamic memory allocation can be done using?",
+        "answer": "Answer - C) Dynamic memory allocation can be done using both calloc() and malloc().",
+        "options": [
+            "calloc()",
+            "malloc()",
+            "Both (a) and (b)",
+            "create()"
+        ]
+    },
+    {
+        "question": "Total types of polymorphism in C++ are?",
+        "answer": "Answer - B) There is a total of 2 types of polymorphism in C++ - runtime polymorphism and compile-time polymorphism.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Another name of the generic class is?",
+        "answer": "Answer - A) Generic class is also known as a template class.",
+        "options": [
+            "Template class",
+            "Final class",
+            "Abstract class",
+            "Efficient code"
+        ]
+    },
+    {
+        "question": "Choose the option below which overloads using the friend function.",
+        "answer": "Answer - C) * can be overloaded using the friend function.",
+        "options": [
+            "()",
+            "->",
+            "*",
+            "="
+        ]
+    },
+    {
+        "question": "Choose whether True or False: Object cannot be passed as a function.",
+        "answer": "Answer - A) True. The object cannot be passed as a function.",
+        "options": [
+            "True",
+            "False",
+            "Depends on implementation",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the pure object-oriented programming language among the following.",
+        "answer": "Answer - B) SmallTalk is a pure object-oriented programming language.",
+        "options": [
+            "C++",
+            "SmallTalk",
+            "Java",
+            "Python"
+        ]
+    },
+    {
+        "question": "Identify the abstract data type among the following.",
+        "answer": "Answer - C) Class is an abstract data type.",
+        "options": [
+            "double",
+            "int",
+            "class",
+            "string"
+        ]
+    },
+    {
+        "question": "What are the total catch blocks that can be used using a single Try block?",
+        "answer": "Answer - C) We can use as many catch blocks as required using a single Try block.",
+        "options": [
+            "1",
+            "2",
+            "According to needs",
+            "Maximum 256"
+        ]
+    },
+    {
+        "question": "Choose the incorrect option below which is not a type of constructor.",
+        "answer": "Answer - B). Friend constructor is not a type of constructor.",
+        "options": [
+            "Copy constructor",
+            "Friend constructor",
+            "Parameterized constructor",
+            "Default constructor"
+        ]
+    },
+    {
+        "question": "Total instances of an abstract class that can be created?",
+        "answer": "Answer - A) Instances of abstract class cannot be made.",
+        "options": [
+            "0",
+            "1",
+            "4",
+            "8"
+        ]
+    },
+    {
+        "question": "Identify the option below which cannot be used with the term “virtual”.",
+        "answer": "Answer - A) Constructor cannot be used with the term “virtual”.",
+        "options": [
+            "constructor",
+            "destructor",
+            "class",
+            "Member function"
+        ]
+    },
+    {
+        "question": "Which type of inheritance is implemented in the following code below?",
+        "answer": "Answer - D) Multiple inheritances are implemented in the above code.",
+        "options": [
+            "Single inheritance",
+            "Multilevel inheritance",
+            "Hybrid inheritance",
+            "Multiple inheritances"
+        ]
+    },
+    {
+        "question": "Choose the option below which is used to implement late binding.",
+        "answer": "Answer - C) Virtual function is used to implement late binding.",
+        "options": [
+            "Friend function",
+            "Static function",
+            "Virtual function",
+            "Const function"
+        ]
+    },
+    {
+        "question": "What is cout?",
+        "answer": "Answer - B) cout is an object.",
+        "options": [
+            "Operator",
+            "Object",
+            "Function",
+            "Macro"
+        ]
+    },
+    {
+        "question": "Choose the option below which describes the overloading of functions.",
+        "answer": "Answer - A) Ad-hoc polymorphism correctly describes the overloading of functions",
+        "options": [
+            "Ad-hoc polymorphism",
+            "Virtual polymorphism",
+            "Pseudo polymorphism",
+            "Transient polymorphism"
+        ]
+    },
+    {
+        "question": "Who developed object-oriented programming?",
+        "answer": "Answer - C) Object-oriented programming was developed by Alan Kay.",
+        "options": [
+            "Dennis Ritchie",
+            "Charles Babbage",
+            "Alan Kay",
+            "Andrea Ferro"
+        ]
+    },
+    {
+        "question": "Which of the following is not an oops concept?",
+        "answer": "Answer - B) Compilation is not a concept of OOPS.",
+        "options": [
+            "Inheritance",
+            "Compilation",
+            "Polymorphism",
+            "Encapsulation"
+        ]
+    }
+]

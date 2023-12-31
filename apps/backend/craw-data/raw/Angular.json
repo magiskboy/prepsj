@@ -1,0 +1,439 @@
+[
+    {
+        "question": "AngularJS is a ____",
+        "answer": "Answer: B) AngularJS is a JavaScript framework.",
+        "options": [
+            "Java framework",
+            "JavaScript framework",
+            "HTML framework",
+            "SQL framework"
+        ]
+    },
+    {
+        "question": "AngularJS is perfect for?",
+        "answer": "Answer: D) AngularJS is perfect for SPAs.",
+        "options": [
+            "MPAs",
+            "DPAs",
+            "CPAs",
+            "SPAs"
+        ]
+    },
+    {
+        "question": "Among the following, on which architectural pattern is AngularJS based?",
+        "answer": "Answer: C) AngularJS is based on an MVVM architecture pattern.",
+        "options": [
+            "Decorator pattern",
+            "Observer pattern",
+            "MVVM architecture pattern",
+            "MVC architecture pattern"
+        ]
+    },
+    null,
+    {
+        "question": "Choose the correct syntax for writing AngularJS expression.",
+        "answer": "Answer: B) {{expressions}} is the correct syntax.",
+        "options": [
+            "[expression]",
+            "{{expressions}}",
+            "{{{expressions}}}",
+            "{expressions}"
+        ]
+    },
+    {
+        "question": "Choose the reactor which is used to bind the application data to the HTML view in AngularJS.",
+        "answer": "Answer: A) ng-bind directive is used to bind the application data to the HTML view in AngularJS.",
+        "options": [
+            "ng-bind directive",
+            "ng-model directive",
+            "ng-init directive",
+            "ng-app directive"
+        ]
+    },
+    {
+        "question": "Choose the correct statement about the lowercase filter.",
+        "answer": "Answer: B) Lowercase filter converts a text to lowercase text is correct.",
+        "options": [
+            "it is a function that takes text as input",
+            "the lowercase filter converts a text to lowercase text",
+            "both a and b",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "Choose the advantage of Angular JS among the following.",
+        "answer": "Answer: D) All of the above advantages of Angular JS",
+        "options": [
+            "it provides reusable components",
+            "it uses dependency injection and makes use of separation of concerns",
+            "it is unit-testable",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "The functionality of angular controllers in the application is",
+        "answer": "Answer: B) Angular controllers are used for controlling the data",
+        "options": [
+            "an angular controller is used for displaying the data",
+            "an angular controller is used for controlling the data",
+            "both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The syntax used to create a module in AngularJS is:",
+        "answer": "Answer: A) module(“app”,[]) is the correct syntax used to create a module in AngularJS",
+        "options": [
+            "module(“app”,[])",
+            "var myModule=angular.module();",
+            "var myModule = new Module();",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the incorrect AngularJS filter.",
+        "answer": "Answer: B) email is not an AngularJS filter.",
+        "options": [
+            "orderby",
+            "email",
+            "currency",
+            "lowercase"
+        ]
+    },
+    {
+        "question": "Who is the father of AngularJS?",
+        "answer": "Answer: A) Misko Hevery is the father of AngularJS.",
+        "options": [
+            "Misko Hevery",
+            "Brad Green",
+            "Mike Adams",
+            "Adam a bronze"
+        ]
+    },
+    {
+        "question": "Choose the directive which is used to find the values of HTML controls to application data.",
+        "answer": "Answer: A) ng-model is used to find the values of HTML controls to application data.",
+        "options": [
+            "ng-model",
+            "ng-init",
+            "ng-app",
+            "ng-hide"
+        ]
+    },
+    null,
+    {
+        "question": "Module created by using AngularJS function is known as",
+        "answer": "Answer: B) Module created by using AngularJS function is known as a module().",
+        "options": [
+            "module()",
+            "mod()",
+            "Angular module()",
+            "mdl()"
+        ]
+    },
+    {
+        "question": "The total $RootScope an AngularJS application can have is?",
+        "answer": "Answer:  B) Total $RootScope an AngularJS application can have is 1.",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "question": "Which of the following components is the one which can be injected as a dependency in Angular JS?",
+        "answer": "Answer: C) Application module can be injected as a dependency in AngularJS.",
+        "options": [
+            "Factory",
+            "Constant",
+            "Application module",
+            "Value"
+        ]
+    },
+    {
+        "question": "Choose the correct definition of deep thinking in AngularJS",
+        "answer": "Answer: B) Deep linking allows you to encode the state of an application in the URL so that it can be bookmarked.",
+        "options": [
+            "Deep linking refers to Linking various views to the main page",
+            "Deep linking allows you to encode the state of an application in the URL so that it can be bookmarked",
+            "Deep linking is an SEO based technique",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "Among the following which can be used to write AngularJS directives",
+        "answer": "Answer: D) All of the above can be used to write the AngularJS directives.",
+        "options": [
+            "Attribute",
+            "class name",
+            "Tag",
+            "all of the above"
+        ]
+    },
+    null,
+    null,
+    {
+        "question": "AOT stands for ________",
+        "answer": "Answer: B) AOT stands for Ahead of Time compilation.",
+        "options": [
+            "Angular Object Templates",
+            "Ahead of Time compilation",
+            "Both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the incorrect hook application lifecycle.",
+        "answer": "Answer: B)ngViewStart is not a hook application lifecycle.",
+        "options": [
+            "noOnInit",
+            "ngViewStart",
+            "ngOnChanges",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The router is a part of which of the following given models?",
+        "answer": "Answer: A) Router is a part of @angular/router. of",
+        "options": [
+            "@angular/router",
+            "@angular/core",
+            "Both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What can RxJS be used for?",
+        "answer": "Answer: C) RxJS can be used for both Server-side and browser.",
+        "options": [
+            "Server-side",
+            "Browser",
+            "Both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which decorator is used for configuring model class",
+        "answer": "Answer: B)@NgModule is used for configuring the model class.",
+        "options": [
+            "@NgApp",
+            "@NgModule",
+            "Both a and b are correct",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the functionality of.angular-cli.json  among the following.",
+        "answer": "Answer: A) .angular-cli.json is used to configure the angular 2 projects.",
+        "options": [
+            "used to configure angular 2 project",
+            "used to install required  project packages",
+            "used to link external files",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Among the following choose the one which is responsible for the startup of the angular 2 projects.",
+        "answer": "Answer: B) main.ts is Responsible for the startup of the angular 2 project",
+        "options": [
+            "app.ts",
+            "main.ts",
+            "index.js",
+            "angular.cli.json"
+        ]
+    },
+    {
+        "question": "How is interpolation in angular 2 done?",
+        "answer": "Answer: B )Using {{}} interpolation is done in angular 2.",
+        "options": [
+            "{{{}}}",
+            "{{}}",
+            "{{|var}}",
+            "!!!!"
+        ]
+    },
+    {
+        "question": "Choose the filter which is used to convert the input to all uppercase",
+        "answer": "Answer: C) uppercase Is used to convert the input to uppercase.",
+        "options": [
+            "toUpper",
+            "upper",
+            "uppercase",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "To detect changes in the angular 2 project which of the following is used?",
+        "answer": "Answer: A) zone.js is used to detect changes in the angular 2 project.",
+        "options": [
+            "zone.js",
+            "scope.js",
+            "zones.js",
+            "zone$,js"
+        ]
+    },
+    {
+        "question": "Which of the following is not a feature of angular 2?",
+        "answer": "Answer: B) Multithread is not a feature of angular 2",
+        "options": [
+            "Typescript",
+            "multi-thread",
+            "Components",
+            "services"
+        ]
+    },
+    {
+        "question": "Which of the following is used to retrieve a list of items from a server’s URL?",
+        "answer": "Answer: D) To retrieve a list of items from a server’s URL, create a URL transaction.",
+        "options": [
+            "Using the http get method",
+            "using an HTTP package",
+            "create a get SQL  statement",
+            "create a URL transaction"
+        ]
+    },
+    {
+        "question": "Choose the correct definition of routerOutlet.",
+        "answer": "Answer: B) routerOutlet is a directive defined in the HTML indicating where the route’s view should display.",
+        "options": [
+            "A decorator defines the template to display when a route is activated",
+            "a directive defined in the HTML indicating where the route’s view should display",
+            "A directive defined in the HTML identifying the route to activate",
+            "A property of component class used to activate a route"
+        ]
+    },
+    {
+        "question": "Which of the following can be used as a prefix for directive?",
+        "answer": "Answer: C) Both A and B can be used as a prefix for the directive.",
+        "options": [
+            "ng-",
+            "data-",
+            "Both a and b",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Choose the correct definition of the view in MVC.",
+        "answer": "Answer: A) View is responsible for displaying all or a portion of data to the user.",
+        "options": [
+            "View is responsible for displaying all or a portion of data to the user",
+            "View is responsible to act and process the data",
+            "View represents the database view",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "On which of the types of components can a custom derivative be created?",
+        "answer": "Answer: D) All of the above types of components can be used to create a custom derivative.",
+        "options": [
+            "Attribute",
+            "element directives",
+            "CSS",
+            "All of the above"
+        ]
+    },
+    null,
+    null,
+    {
+        "question": "Among the following which is not built-in a pipe in angular?",
+        "answer": "Answer: B) DataPipe Is not built-in a pipe in angular.",
+        "options": [
+            "CurrencyPipe",
+            "DataPipe",
+            "PercentPipe",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "Choose the valid AngularJS expression.",
+        "answer": "Answer: C) {{2+2}} is correct expression.",
+        "options": [
+            "{(2+2)}",
+            "{2+2}",
+            "{{2+2}}",
+            "((2+2))"
+        ]
+    },
+    {
+        "question": "Which decorator is used to make a class a service?",
+        "answer": "Answer: A) Injectable is used to make a class service.",
+        "options": [
+            "Injectable",
+            "Component",
+            "Server",
+            "injector"
+        ]
+    },
+    {
+        "question": "What is the functionality of the @output decorator?",
+        "answer": "Answer: A) @output is used to share data from child component to parent.",
+        "options": [
+            "Add OptionShare data from child component to parent1",
+            "use a service",
+            "use event  binding",
+            "share data from the parent component to a child"
+        ]
+    },
+    null,
+    {
+        "question": "Which function is used to import RouterModule in a feature module?",
+        "answer": "Answer: D) forChild() is used to import RouterModule in a feature module.",
+        "options": [
+            "forRoot()",
+            "forModule()",
+            "forFeature()",
+            "forChild()"
+        ]
+    },
+    {
+        "question": "Most used CSS frameworks are ________",
+        "answer": "Answer: C) Most used CSS frameworks are bootstrap.",
+        "options": [
+            "SASS",
+            "Semantic UI",
+            "Bootstrap",
+            "Foundation"
+        ]
+    },
+    {
+        "question": "AngularJS was developed by which company?",
+        "answer": "Answer: B) AngularJS was developed by Google.",
+        "options": [
+            "Facebook",
+            "Google",
+            "Angular",
+            "Netflix"
+        ]
+    },
+    {
+        "question": "What is the functionality of the @input decorator",
+        "answer": "Answer: D) @input is used to share data from the parent component to the child.",
+        "options": [
+            "Share data from child component to parent",
+            "use a service",
+            "use event  binding",
+            "share data from parent component to child"
+        ]
+    },
+    {
+        "question": "Choose the definition of transpilers.",
+        "answer": "Answer: C) Transpiler are the source to source compiler.",
+        "options": [
+            "Converts source to the library",
+            "Convert source to source and then to the library",
+            "source to source compiler",
+            "all of the above"
+        ]
+    },
+    {
+        "question": "Angular CLI stands for ____________",
+        "answer": "Answer: C) Angular CLI stands for Angular command-line interface.",
+        "options": [
+            "Angular command-line interceptor",
+            "Angular command line",
+            "Angular command-line interface",
+            "Angular command-line user interfaces"
+        ]
+    }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "question": "Dijkstra’s algorithm is used to solve __________  problems?",
+    "answer": "Answer - B) Dijkstra’s algorithm is used to solve single source shortest path problems.",
+    "options": [
+      "Network lock",
+      "Single source shortest path",
+      "All pair shortest path",
+      "Sorting"
+    ]
+  },
+  {
+    "question": "The Bellmann Ford Algorithm returns __________  value?",
+    "answer": "Answer - B) The Bellmann Ford Algorithm returns a boolean value.",
+    "options": ["String", "Boolean", "Double", "Integer"]
+  },
+  {
+    "question": "Which of the following is used for solving the N Queens Problem?",
+    "answer": "Answer - C) Backtracking is used for solving the N Queens Problem.",
+    "options": [
+      "Greedy algorithm",
+      "Dynamic programming",
+      "Backtracking",
+      "Sorting"
+    ]
+  },
+  {
+    "question": "Which of the following statements is true about AVL Trees?",
+    "answer": "Answer - D) All the above options are applicable for an AVL Tree.",
+    "options": [
+      "The difference between the heights of left and right nodes cannot be more than 1.",
+      "The height of an AVL Tree always remains of the order of O(logn)",
+      "AVL Trees are a type of self-balancing Binary Search Trees.",
+      "All of the above."
+    ]
+  },
+  {
+    "question": "Representation of data structure in memory is known as?",
+    "answer": "Answer - D) Representation of data structure in memory is known as Abstract Data Type.",
+    "options": [
+      "Storage structure",
+      "File structure",
+      "Recursive",
+      "Abstract Data Type"
+    ]
+  },
+  {
+    "question": "In what time complexity can we find the diameter of a binary tree optimally?",
+    "answer": "Answer - A) We can compute the diameter of a binary tree using a single DFS, which takes the time of O(V + E).",
+    "options": ["O(V + E)", "O(V)", "O(E)", "O(V * logE)"]
+  },
+  {
+    "question": "To main measures of the efficiency of an algorithm are?",
+    "answer": "Answer - A) Time and space complexity are the main measures of the efficiency of an algorithm.",
+    "options": [
+      "Time and space complexity",
+      "Data and space",
+      "Processor and memory",
+      "Complexity and capacity"
+    ]
+  },
+  {
+    "question": "Which of the following sorting algorithms provide the best time complexity in the worst-case scenario?",
+    "answer": "Answer - A) Merge Sort will always have a time complexity of O(n * logn) which is the best in the worst case among these algorithms.",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Selection Sort"]
+  },
+  {
+    "question": "Which of the following is a Divide and Conquer algorithm?",
+    "answer": "Answer - D) Merge Sort is a Divide and Conquer algorithm.",
+    "options": ["Bubble Sort", "Selection Sort", "Heap Sort", "Merge Sort"]
+  },
+  {
+    "question": "Which of the following data structure is used to perform recursion?",
+    "answer": "Answer - C) Stack is used for performing recursion.",
+    "options": ["Linked list", "Array", "Queue", "Stack"]
+  },
+  {
+    "question": "Identify the best case time complexity of selection sort?",
+    "answer": "Answer - B) The best case time complexity of selection sort is O(n^2).",
+    "options": ["O(nlogn)", "O(n^2)", "O(n)", "O(1)"]
+  },
+  {
+    "question": "Another name of the fractional knapsack is?",
+    "answer": "Answer - D) Fractional knapsack is also known as the continuous knapsack problem.",
+    "options": [
+      "Non-continuous knapsack problem",
+      "Divisible knapsack problem",
+      "0/1 knapsack problem",
+      "Continuous Knapsack Problem"
+    ]
+  },
+  {
+    "question": "Identify the approach followed in Floyd Warshall’s algorithm?",
+    "answer": "Answer - B) The approach followed in Floyd Warshall’s algorithm is dynamic programming.",
+    "options": [
+      "Linear programming",
+      "Dynamic Programming",
+      "Greedy Technique",
+      "Backtracking"
+    ]
+  },
+  {
+    "question": "Hamiltonian path problem is _________?",
+    "answer": "Answer - C) Hamiltonian path problem is an NP-complete problem.",
+    "options": [
+      "NP problem",
+      "P class problem",
+      "NP-complete problem",
+      "N class problem"
+    ]
+  },
+  {
+    "question": "What is the time complexity of the following code snippet in C++?void solve() {\n    string s = \"scaler\";\n    int n = s.size();\n    for(int i = 0; i < n; i++) {\n        s = s + s[i];\n    }\n    cout << s << endl;\n}",
+    "answer": "Answer - B) The s = s + s[i] line first makes a copy of the original string and then appends the new character in it, leading to each operation being O(n). So the total time complexity is O(n^2).",
+    "options": ["O(n)", "O(n^2)", "O(1)", "O(log n)"]
+  },
+  {
+    "question": "When a pop() operation is called on an empty queue, what is the condition called?",
+    "answer": "Answer - B) pop() on an empty queue causes Underflow.",
+    "options": ["Overflow", "Underflow", "Syntax Error", "Garbage Value"]
+  },
+  {
+    "question": "What is the time complexity of the binary search algorithm?",
+    "answer": "Answer - C) The time complexity of the binary search algorithm is O(log2n).",
+    "options": ["O(n)", "O(1)", "O(log2n)", "O(n^2)"]
+  },
+  {
+    "question": "What will be the best sorting algorithm, given that the array elements are small (<= 1e6)?",
+    "answer": "Answer - C) Counting sort sorts an array in O(n) time complexity, taking up an extra space complexity of O(max(a[i])).",
+    "options": ["Bubble Sort", "Merge Sort", "Counting Sort", "Heap Sort"]
+  },
+  {
+    "question": "What is the time complexity of the Sieve of Eratosthenes to check if a number is prime?",
+    "answer": "Answer - A) The Sieve of Eratosthenes checks if a number is prime in O(1) in the range [1, n] by using an O(nlog(logn)) precomputation and O(n) space complexity.",
+    "options": [
+      "O(nlog(logn)) Precomputation, O(1) for check.",
+      "O(n) Precomputation, O(1) for the check.",
+      "O(n * logn) Precomputation, O(logn) for check.",
+      "O(n) Precomputation, O(logn) for check."
+    ]
+  },
+  {
+    "question": "The worst-case time complexity of Quicksort is?",
+    "answer": "Answer - D) The worst-case time complexity of Quicksort is O(n^2).",
+    "options": ["O(n)", "O(1)", "O(log2n)", "O(n^2)"]
+  },
+  {
+    "question": "What is the technique called in which it does not require extra memory for carrying out the sorting procedure?",
+    "answer": "Answer - C) The technique which does not require extra memory for carrying out the sorting procedure is in-place.",
+    "options": ["Stable", "Unstable", "In-place", "In-partition"]
+  },
+  {
+    "question": "Identify the slowest sorting technique among the following?",
+    "answer": "Answer - C) Bubble sort is the slowest sorting technique.",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Selection Sort"]
+  },
+  {
+    "question": "Select the correct recurrence relation for Tower of Hanoi?",
+    "answer": "Answer - A) The recurrence relation for Tower of Hanoi is T(N)=2T(N-1)+1;",
+    "options": [
+      "T(N) = 2T(N-1)+1",
+      "T(N) = 2T(N/2)+1",
+      "T(N) = 2T(N-1)+N",
+      "T(N) = 2T(N-2)+2"
+    ]
+  },
+  {
+    "question": "Identify the sorting technique which compares adjacent elements in a list and switches whenever necessary?",
+    "answer": "Answer - C) The sorting technique is bubble sort.",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Selection Sort"]
+  },
+  {
+    "question": "Among the following options which is the best sorting algorithm when the list is already sorted?",
+    "answer": "Answer - B) Insertion Sort has a time complexity of O(N) when the array is always sorted.",
+    "options": ["Merge Sort", "Insertion Sort", "Bubble Sort", "Selection Sort"]
+  },
+  {
+    "question": "What is the best case time complexity of the binary search algorithm?",
+    "answer": "Answer - A) The best-case time complexity occurs when the target element occurs exactly at the middle of the array and the algorithm terminates in 1 move.",
+    "options": ["O(1)", "O(n)", "O(log2n)", "O(n^2)"]
+  },
+  {
+    "question": "Which of the following algorithms are used to find the shortest path from a source node to all other nodes in a weighted graph?",
+    "answer": "Answer - B) Djikstra’s algorithm is used to find the shortest path from a source node to all other nodes in a weighted graph.",
+    "options": [
+      "BFS",
+      "Djikstra’s Algorithm",
+      "Prims Algorithm",
+      "Kruskal’s Algorithm"
+    ]
+  },
+  {
+    "question": "Which of the following are applications of Topological Sort of a graph?",
+    "answer": "Answer - D) All the above options are applicable.",
+    "options": [
+      "Sentence Ordering",
+      "Course Scheduling",
+      "OS Deadlock Detection",
+      "All of the above"
+    ]
+  },
+  {
+    "question": "What is the time complexity in decreasing the node value in a binomial heap?",
+    "answer": "Answer - C) Time complexity and reducing the node value in Binomial heap is O(logN).",
+    "options": ["O(1)", "O(N)", "O(logN)", "O(NlogN)"]
+  },
+  {
+    "question": "An algorithm is __________?",
+    "answer": "Answer - B) An algorithm is a procedure for solving a problem.",
+    "options": [
+      "A problem",
+      "A procedure for solving a problem",
+      "A real-life mathematical problem",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following is incorrect? Algorithms can be represented:",
+    "answer": "Answer - C) Ayurvedam can be represented as Syntax is incorrect.",
+    "options": ["As programs", "As flow charts", "As syntax", "As pseudo-codes"]
+  },
+  {
+    "question": "What is the time complexity to insert an element to the front of a LinkedList(head pointer given)?",
+    "answer": "Answer - B) We set the next node to the head of the list, and then return that node as the new head.",
+    "options": ["O(n)", "O(1)", "O(logn)", "O(n * logn)"]
+  },
+  {
+    "question": "What should be considered when designing an algorithm?",
+    "answer": "Answer - C) While designing an algorithm we must check if there is more than one way to solve the problem.",
+    "options": [
+      "If this software is used correctly",
+      "In the hardware is used correctly",
+      "If there is more than one way to solve the problem",
+      "All of the above are correct"
+    ]
+  },
+  {
+    "question": "Which of the following is known to be not an NP-Hard Problem?",
+    "answer": "Answer - B) The 0/1 Knapsack is not an NP-Hard problem.",
+    "options": [
+      "Vertex Cover Problem",
+      "0/1 Knapsack Problem",
+      "Maximal Independent Set Problem",
+      "Travelling Salesman Problem"
+    ]
+  },
+  {
+    "question": "The worst-case time complexity of Selection Exchange Sort is?",
+    "answer": "Answer - D) The worst-case time complexity of Selection Exchange Sort is O(n^2).",
+    "options": ["O(n)", "O(1)", "O(log2n)", "O(n^2)"]
+  },
+  {
+    "question": "Heap is a _____________?",
+    "answer": "Answer - B) Heap is a complete binary tree.",
+    "options": [
+      "Tree structure",
+      "Complete binary tree",
+      "Binary tree",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "What is the maximum number of swaps that can be performed in the Selection Sort algorithm?",
+    "answer": "Answer - A) n - 1 swap are performed at max to sort any array by Selection Sort.",
+    "options": ["n - 1", "n", "1", "n - 2"]
+  },
+  {
+    "question": "Worst-case time complexity to access an element in a BST can be?",
+    "answer": "Answer - A) In the worst case, we might need to visit all the nodes in the BST.",
+    "options": ["O(n)", "O(n * logn)", "O(1)", "O(logn)"]
+  },
+  {
+    "question": "In a graph of n nodes and n edges, how many cycles will be present?",
+    "answer": "Answer - A) A tree contains by definition n nodes and n - 1 edge,  and it is an acyclic graph. When we add 1 edge to the tree, we can form exactly one cycle by adding this edge.",
+    "options": ["Exactly 1", "At most 1", "At most 2", "Depending on the graph"]
+  },
+  {
+    "question": "Kruskal’s Algorithm for finding the Minimum Spanning Tree of a graph is a kind of a?",
+    "answer": "Answer - B) Kruskal’s Algorithm works on the greedy algorithm of taking the lowest weight edges in the MST of a graph unless it forms a cycle.",
+    "options": [
+      "DP Problem",
+      "Greedy Algorithm",
+      "Adhoc Problem",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following algorithms are used for string and pattern matching problems??",
+    "answer": "Answer - D) All the above algorithms are used for string and pattern matching.",
+    "options": [
+      "Z Algorithm",
+      "Rabin Karp Algorithm",
+      "KMP Algorithm",
+      "All of the above"
+    ]
+  },
+  {
+    "question": "The time complexity for travel Singh all nodes in a binary search tree with n nodes and printing them in order is?",
+    "answer": "Answer - A) The time complexity for travel Singh all nodes in a binary search tree with n nodes and printing them in order is O(n).",
+    "options": ["O(n)", "O(1)", "O(nlog2n)", "O(n^2)"]
+  },
+  {
+    "question": "Identify the function of the stack that returns the top data element of the stack?",
+    "answer": "Answer - B) The function to return the top data element of the stack is peek()",
+    "options": ["pop()", "peek()", "push()", "findTop()"]
+  },
+  {
+    "question": "What is the best time complexity we can achieve to precompute all-pairs shortest paths in a weighted graph?",
+    "answer": "Answer - A) The Floyd-Warshall Algorithm computes All Pairs Shortest Paths in a weighted graph, in O(n^3).",
+    "options": ["O(n^3)", "O(n^2)", "O(n)", "O(n^4)"]
+  },
+  {
+    "question": "Which of the following functions provides the maximum asymptotic complexity?",
+    "answer": "Answer - D) f4(n) = 2^n has exponential time complexity which is the maximum.",
+    "options": [
+      "f1(n) = n^(3/2)",
+      "f2(n) = n^(logn)",
+      "f3(n) = nlogn",
+      "f4(n) = 2^n."
+    ]
+  },
+  {
+    "question": "The time complexity to find the longest common subsequence of two strings of length M and N is?",
+    "answer": "Answer - B) The time complexity to find Longest common subsequence is O(M*N) is using the Dynamic programming approach.",
+    "options": ["O(N)", "O(M * N)", "O(M)", "O(log N)"]
+  }
+]

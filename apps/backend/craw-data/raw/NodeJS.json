@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Which of the following statements are true?",
+    "answer": "Ans. A) Explanation: Node.js used Javascript on the server-side",
+    "options": [
+      "Node.js is a server-side language.",
+      "Node.js is a client-side language.",
+      "Node.js is both a server and client-side language.",
+      "None of the above."
+    ]
+  },
+  {
+    "question": "_____ is an interactive shell that processes Node.",
+    "answer": "Ans. A) Explanation: REPL is an interactive shell that processes Node",
+    "options": ["REPL", "REAL", "RESP", "None of the above"]
+  },
+  {
+    "question": "What is the full form of REPL?",
+    "answer": "Ans. A) Explanation: REPL stands for Read Eval Print Loop.",
+    "options": [
+      "Read Eval Print Loop",
+      "Research Eval Program Learn",
+      "Read Earn Point Learn",
+      "Read Eval Point Loop"
+    ]
+  },
+  {
+    "question": "Node.js is written in which language?",
+    "answer": "Ans. B) Explanation: Node.js is written in Javascript.",
+    "options": ["C++", "JavaScript", "C", "Java"]
+  },
+  {
+    "question": "How can we install the node body-parser module?",
+    "answer": "Ans. A) Explanation: We use the npm install ‘module-name’ command to install the node modules. Here the required module is body-parser.",
+    "options": [
+      "npm install body-parser",
+      "node install body-parser",
+      "node.js install body-parser",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of node modules?",
+    "answer": "Ans. D) Explanation: All of the above-given examples are commonly used node modules.",
+    "options": ["Express", "Body-parser", "Socket.io", "All of the above"]
+  },
+  {
+    "question": "To include the HTTP server in the node module, what function do we use?",
+    "answer": "Ans. B) Explanation: We use the require() function to include the HTTP server in the node module.",
+    "options": ["get()", "require()", "createServer()", "None of the above"]
+  },
+  {
+    "question": "How can we expose node modules?",
+    "answer": "Ans. A) Explanation: The node.js modules can be exposed using module.exports.",
+    "options": ["exports", "expose", "requires", "None of the above"]
+  },
+  {
+    "question": "What method is used to return the current working directory of the process?",
+    "answer": "Ans. A) Explanation: The process.cwd() is used to return the current working directory of the current process.",
+    "options": ["cwd()", "pwd()", "cmd()", "None of the above"]
+  },
+  {
+    "question": "Default scope in Node.js application is?",
+    "answer": "Ans. B) Explanation: Local is the default scope in Node.js applications.",
+    "options": ["Global", "Local", "Local to Object", "None of the above"]
+  },
+  {
+    "question": "How many node objects methods are available?",
+    "answer": "Ans. B) Explanation: There are a total of 18 node objects methods.",
+    "options": ["21", "18", "19", "20"]
+  },
+  {
+    "question": "We can kill a process in Node.js using the keyboard shortcut?",
+    "answer": "Ans. A) Explanation: A process in node.js can be killed using the Ctrl + C.",
+    "options": ["Ctrl + C", "Ctrl + B", "Ctrl + K", "None of the above"]
+  },
+  {
+    "question": "What is the full form of npm?",
+    "answer": "Ans. B) Explanation: npm stands for Node Package Manager.",
+    "options": [
+      "Node Project Manager",
+      "Node Package Manager",
+      "New Project Manager",
+      "New Package Manager"
+    ]
+  },
+  {
+    "question": "How can we initiate a NodeJS file called Hello in Node?",
+    "answer": "Ans. B) Explanation: We can initiate a file in the node by using the command node filename.js.",
+    "options": [
+      "Hello,js",
+      "node Hello.js",
+      "javascript Hello.js",
+      "node Hello"
+    ]
+  },
+  {
+    "question": "NodeJS is supported on which of the following platforms?",
+    "answer": "Ans. D) Explanation: NodeJS is supported in all of the above platforms.",
+    "options": ["Windows", "MAC OS", "Unix/Linux", "All of the above"]
+  },
+  {
+    "question": "____ is a debugging tool for NodeJS?",
+    "answer": "Ans. B) Explanation: Node Inspector is a debugging tool for NodeJS",
+    "options": ["REPL", "Node Inspector", "Node Console", "None of the above"]
+  },
+  {
+    "question": "The node object property which is used to return the node just before the current node is?",
+    "answer": "Ans. C) Explanation: previousSibling is the node object property which is used to return the node just before the current node",
+    "options": ["localName", "index", "previousSibling", "None of the above"]
+  },
+  {
+    "question": "The advantages of using node modules are?",
+    "answer": "Ans. D) Explanation: All of the above statements are valid advantages of using node modules.",
+    "options": [
+      "Provides a means of dividing up tasks",
+      "Provides a means of reuse of program code",
+      "Provides a means of testing individual parts of the program",
+      "All of the above"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of NodeJS streams types?",
+    "answer": "Ans. D) Explanation: All of the above are examples of NodeJS streams types.",
+    "options": ["Writable", "Duplex", "Readable", "All of the above"]
+  },
+  {
+    "question": "The command to install nodemon in NodeJS is?",
+    "answer": "Ans. A) Explanation: The correct command to install nodemon in NodeJS is npm install -g nodemon.",
+    "options": [
+      "npm install -g nodemon",
+      "node install -g nodemon",
+      "npm nodemon",
+      "node nodemon"
+    ]
+  },
+  {
+    "question": "Which of the following are built-in node modules?",
+    "answer": "Ans. D) Explanation: All of the above-given examples are built-in node modules.",
+    "options": ["zlib", "https", "dgram", "All of the above"]
+  },
+  {
+    "question": "_ variable in REPL session of NodeJS is used for?",
+    "answer": "Ans. C) Explanation: Underscore(_) variable in REPL session is used to get the last result.",
+    "options": [
+      "It is used to store the result",
+      "It is used to get the last command that was used",
+      "It is used to get the last result",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following statements are true?\nNodeJS is multithreaded.\nThe Buffer class is a global class that can be accessed without importing a buffer module.",
+    "answer": "Ans. D) Explanation: NodeJS is not multithreaded but buffer class is a global class that can be accessed without importing a buffer module.",
+    "options": [
+      "Both statements are true.",
+      "Both statements are false.",
+      "Statement 1 is true and statement 2 is false.",
+      "Statement 2 is true and statement 1 is false."
+    ]
+  },
+  {
+    "question": "When does a stream fire a data event?",
+    "answer": "Ans. A) Explanation: A stream fires a data event when there is data to read.",
+    "options": [
+      "When there is data to read.",
+      "When there is data to write",
+      "When there is no data available",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "For path specific operations which of the following operations is required to be used?",
+    "answer": "Ans. B) Explanation: Path modiule is to be required for path specific operations.",
+    "options": ["OS Module", "Path Module", "Fs Module", "None of the above"]
+  },
+  {
+    "question": "Which of the following operations can we do with the NodeJS events module?",
+    "answer": "Ans. D) Explanation: We can create, fire, and listen for our own events using the NodeJS events module.",
+    "options": ["Create", "Listen for", "Fire", "All of the above"]
+  },
+  {
+    "question": "How can we check the installed version of Node?",
+    "answer": "Ans. B) Explanation: The command node –version is used to check the installed version of Node.",
+    "options": [
+      "npm –version",
+      "node –version",
+      "npm getVersion",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "What command do we use to list all the node modules that are installed globally?",
+    "answer": "Ans. A) Explanation: The command is used to list all the node modules that are installed globally",
+    "options": ["npm ls -g", "node ls -g", "npm ls", "node ls"]
+  },
+  {
+    "question": "Which of the following is a valid HTTP method?",
+    "answer": "Ans. D) Explanation: All of the above options are valid HTTP methods.",
+    "options": ["get", "put", "post", "All of the above"]
+  },
+  {
+    "question": "Which of the following fs module is used to close a file?",
+    "answer": "Ans. A) Explanation: The fs.close() module is used to close the file.",
+    "options": [
+      "fs.close()",
+      "fs.closeFile()",
+      "fs.closePath()",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following NodeJS module splits up a web address into readable parts?",
+    "answer": "Ans. C) Explanation: We use the URL module to split up a web address into readable parts.",
+    "options": ["Express", "Cors", "URL", "None of the above"]
+  },
+  {
+    "question": "NodeJS uses an event-driven, non-blocking IO model?",
+    "answer": "Ans. A) Explanation: The above statement is true.",
+    "options": ["True", "False", "Cannot be determined", "None of the above"]
+  },
+  {
+    "question": "Which NodeJS statement is used to list all the locally installed NodeJS modules?",
+    "answer": "Ans. A) Explanation: The ls command is used to list all the locally installed NodeJS modules",
+    "options": ["Is", "list", "cwd", "None of the above"]
+  },
+  {
+    "question": "A visual development environment for NodeJS is?",
+    "answer": "Ans. D) Explanation: Node-Red is a visual development environment for NodeJS.",
+    "options": ["Visual Studio", "IntelliJ", "NetBeans", "Node-Red"]
+  },
+  {
+    "question": "Which of the following NodeJS modules is used for file uploads?",
+    "answer": "Ans. A) Explanation: The formidable module in NodeJS is used for file uploads purposes.",
+    "options": ["formidable", "fs", "express", "files"]
+  },
+  {
+    "question": "Which node module is used to handle binary data?",
+    "answer": "Ans. B) Explanation: The buffer module is used to handle binary data in Node",
+    "options": ["binary", "buffer", "crypto", "dgram"]
+  },
+  {
+    "question": "Which node module is used for zip and unzip functionalities?",
+    "answer": "Ans. A) Explanation: The ZLIB module is used for zip and unzip functionalities in Node.",
+    "options": ["ZLIB", "buffer", "binary", "None of the above"]
+  },
+  {
+    "question": "Which of the following is used for cryptographic protocols to secure communication over the web?",
+    "answer": "Ans. A) Explanation: The TLS/SSL protocol is used to secure communication over the web.",
+    "options": ["TLS/SSL", "TCP/IP", "Both A and B", "None of the above"]
+  },
+  {
+    "question": "Which node module is used to serve static resources in NodeJS?",
+    "answer": "Ans. B) Explanation: The node-static module is used to serve static resources in NodeJS.",
+    "options": ["static", "node-static", "http", "None of the above"]
+  },
+  {
+    "question": "_____ is a software service that allows 2 or more applications to talk to each other?",
+    "answer": "Ans. B) Explanation: API is a software service that allows 2 or more applications to talk to each other.",
+    "options": ["REST", "API", "Both A and B", "None of the above"]
+  },
+  {
+    "question": "Which of the following are StringDecoder class methods?",
+    "answer": "Ans. C) Explanation: Both the A and B options are StringDecoder class methods.",
+    "options": [
+      "decoder.write()",
+      "decoder.end()",
+      "Both A and B",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following NodeJS modules is now deprecated?",
+    "answer": "Ans. A) Explanation: The punycode module is now deprecated.",
+    "options": ["punycode", "os", "express", "None of the above"]
+  },
+  {
+    "question": "What does the fs module stand for?",
+    "answer": "Ans. C) Explanation: The fs module stands for File System.",
+    "options": [
+      "File Store",
+      "File Service",
+      "File System",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following are the benefits of using modules?",
+    "answer": "Ans. D) Explanation: All of the above statements are benefits of using modules.",
+    "options": [
+      "Provides a means of dividing up tasks.",
+      "Provides a means of resuing program codes",
+      "Provides a means of testing individual parts of a program.",
+      "All of the above"
+    ]
+  },
+  {
+    "question": "Applications built on NodeJS can access which of the following types of databases?",
+    "answer": "Ans. C) Explanation: Applications built on NodeJS can access both SQL and NoSQL databases.",
+    "options": [
+      "NoSQL Databases",
+      "SQL Databases",
+      "Both A and B",
+      "None of the above"
+    ]
+  },
+  {
+    "question": "Which of the following are NodeJS global objects?",
+    "answer": "Ans. D) Explanation: All of the above options are examples of valid NodeJS global objects.",
+    "options": ["__dirname", "__filename", "Buffer", "All of the above"]
+  },
+  {
+    "question": "JSON was natively constructed on which language?",
+    "answer": "Ans. A) Explanation: JSON was natively constructed on Javascript.",
+    "options": ["Javascript", "Java", "C++", "None of the above"]
+  },
+  {
+    "question": "Which NodeJS object specifies the name of the directory which contains the code?",
+    "answer": "Ans. A) Explanation: The __dirname object specifies the name of the directory which contains the code.",
+    "options": ["__dirname", "Buffer", "__filename", "None of the above"]
+  },
+  {
+    "question": "What function is used to fire an event?",
+    "answer": "Ans. A) Explanation: The emit() function is used to fire an event.",
+    "options": ["emit()", "fire()", "calc()", "None of the above"]
+  },
+  {
+    "question": "Which of the following parameters is taken by the buffer.toString method?",
+    "answer": "Ans. D) Explanation: All the above parameters are taken by the toString method.",
+    "options": ["encoding", "start", "end", "All of the above"]
+  },
+  {
+    "question": "What is a callback?",
+    "answer": "Ans. B) Explanation: The callback is an asynchronous equivalent of a function.",
+    "options": [
+      "The callback is a technique in which a method calls back the caller method",
+      "The callback is an asynchronous equivalent for a function",
+      "Both A and B",
+      "None of the above"
+    ]
+  }
+]

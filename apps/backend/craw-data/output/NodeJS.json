@@ -1,0 +1,1532 @@
+[
+  {
+    "question": "Which of the following statements are true?",
+    "options": [
+      {
+        "content": "Node.js is a server-side language.",
+        "checked": true,
+        "explain": "Explanation: Node.js used Javascript on the server-side",
+        "code": "A"
+      },
+      {
+        "content": "Node.js is a client-side language.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Node.js is both a server and client-side language.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above.",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "_____ is an interactive shell that processes Node.",
+    "options": [
+      {
+        "content": "REPL",
+        "checked": true,
+        "explain": "Explanation: REPL is an interactive shell that processes Node",
+        "code": "A"
+      },
+      {
+        "content": "REAL",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "RESP",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the full form of REPL?",
+    "options": [
+      {
+        "content": "Read Eval Print Loop",
+        "checked": true,
+        "explain": "Explanation: REPL stands for Read Eval Print Loop.",
+        "code": "A"
+      },
+      {
+        "content": "Research Eval Program Learn",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Read Earn Point Learn",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Read Eval Point Loop",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Node.js is written in which language?",
+    "options": [
+      {
+        "content": "C++",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "JavaScript",
+        "checked": true,
+        "explain": "Explanation: Node.js is written in Javascript.",
+        "code": "B"
+      },
+      {
+        "content": "C",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we install the node body-parser module?",
+    "options": [
+      {
+        "content": "npm install body-parser",
+        "checked": true,
+        "explain": "Explanation: We use the npm install ‘module-name’ command to install the node modules. Here the required module is body-parser.",
+        "code": "A"
+      },
+      {
+        "content": "node install body-parser",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "node.js install body-parser",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are examples of node modules?",
+    "options": [
+      {
+        "content": "Express",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Body-parser",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Socket.io",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above-given examples are commonly used node modules.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To include the HTTP server in the node module, what function do we use?",
+    "options": [
+      {
+        "content": "get()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "require()",
+        "checked": true,
+        "explain": "Explanation: We use the require() function to include the HTTP server in the node module.",
+        "code": "B"
+      },
+      {
+        "content": "createServer()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we expose node modules?",
+    "options": [
+      {
+        "content": "exports",
+        "checked": true,
+        "explain": "Explanation: The node.js modules can be exposed using module.exports.",
+        "code": "A"
+      },
+      {
+        "content": "expose",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "requires",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What method is used to return the current working directory of the process?",
+    "options": [
+      {
+        "content": "cwd()",
+        "checked": true,
+        "explain": "Explanation: The process.cwd() is used to return the current working directory of the current process.",
+        "code": "A"
+      },
+      {
+        "content": "pwd()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "cmd()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Default scope in Node.js application is?",
+    "options": [
+      {
+        "content": "Global",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Local",
+        "checked": true,
+        "explain": "Explanation: Local is the default scope in Node.js applications.",
+        "code": "B"
+      },
+      {
+        "content": "Local to Object",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How many node objects methods are available?",
+    "options": [
+      {
+        "content": "21",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "18",
+        "checked": true,
+        "explain": "Explanation: There are a total of 18 node objects methods.",
+        "code": "B"
+      },
+      {
+        "content": "19",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "20",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "We can kill a process in Node.js using the keyboard shortcut?",
+    "options": [
+      {
+        "content": "Ctrl + C",
+        "checked": true,
+        "explain": "Explanation: A process in node.js can be killed using the Ctrl + C.",
+        "code": "A"
+      },
+      {
+        "content": "Ctrl + B",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Ctrl + K",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the full form of npm?",
+    "options": [
+      {
+        "content": "Node Project Manager",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Node Package Manager",
+        "checked": true,
+        "explain": "Explanation: npm stands for Node Package Manager.",
+        "code": "B"
+      },
+      {
+        "content": "New Project Manager",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "New Package Manager",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we initiate a NodeJS file called Hello in Node?",
+    "options": [
+      {
+        "content": "Hello,js",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "node Hello.js",
+        "checked": true,
+        "explain": "Explanation: We can initiate a file in the node by using the command node filename.js.",
+        "code": "B"
+      },
+      {
+        "content": "javascript Hello.js",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "node Hello",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "NodeJS is supported on which of the following platforms?",
+    "options": [
+      {
+        "content": "Windows",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "MAC OS",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Unix/Linux",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: NodeJS is supported in all of the above platforms.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "____ is a debugging tool for NodeJS?",
+    "options": [
+      {
+        "content": "REPL",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Node Inspector",
+        "checked": true,
+        "explain": "Explanation: Node Inspector is a debugging tool for NodeJS",
+        "code": "B"
+      },
+      {
+        "content": "Node Console",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The node object property which is used to return the node just before the current node is?",
+    "options": [
+      {
+        "content": "localName",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "index",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "previousSibling",
+        "checked": true,
+        "explain": "Explanation: previousSibling is the node object property which is used to return the node just before the current node",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The advantages of using node modules are?",
+    "options": [
+      {
+        "content": "Provides a means of dividing up tasks",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Provides a means of reuse of program code",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Provides a means of testing individual parts of the program",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above statements are valid advantages of using node modules.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are examples of NodeJS streams types?",
+    "options": [
+      {
+        "content": "Writable",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Duplex",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Readable",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above are examples of NodeJS streams types.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The command to install nodemon in NodeJS is?",
+    "options": [
+      {
+        "content": "npm install -g nodemon",
+        "checked": true,
+        "explain": "Explanation: The correct command to install nodemon in NodeJS is npm install -g nodemon.",
+        "code": "A"
+      },
+      {
+        "content": "node install -g nodemon",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "npm nodemon",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "node nodemon",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are built-in node modules?",
+    "options": [
+      {
+        "content": "zlib",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "https",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "dgram",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above-given examples are built-in node modules.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "_ variable in REPL session of NodeJS is used for?",
+    "options": [
+      {
+        "content": "It is used to store the result",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "It is used to get the last command that was used",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "It is used to get the last result",
+        "checked": true,
+        "explain": "Explanation: Underscore(_) variable in REPL session is used to get the last result.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following statements are true?\nNodeJS is multithreaded.\nThe Buffer class is a global class that can be accessed without importing a buffer module.",
+    "options": [
+      {
+        "content": "Both statements are true.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Both statements are false.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Statement 1 is true and statement 2 is false.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Statement 2 is true and statement 1 is false.",
+        "checked": true,
+        "explain": "Explanation: NodeJS is not multithreaded but buffer class is a global class that can be accessed without importing a buffer module.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "When does a stream fire a data event?",
+    "options": [
+      {
+        "content": "When there is data to read.",
+        "checked": true,
+        "explain": "Explanation: A stream fires a data event when there is data to read.",
+        "code": "A"
+      },
+      {
+        "content": "When there is data to write",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "When there is no data available",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "For path specific operations which of the following operations is required to be used?",
+    "options": [
+      {
+        "content": "OS Module",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Path Module",
+        "checked": true,
+        "explain": "Explanation: Path modiule is to be required for path specific operations.",
+        "code": "B"
+      },
+      {
+        "content": "Fs Module",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following operations can we do with the NodeJS events module?",
+    "options": [
+      {
+        "content": "Create",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Listen for",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Fire",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: We can create, fire, and listen for our own events using the NodeJS events module.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we check the installed version of Node?",
+    "options": [
+      {
+        "content": "npm –version",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "node –version",
+        "checked": true,
+        "explain": "Explanation: The command node –version is used to check the installed version of Node.",
+        "code": "B"
+      },
+      {
+        "content": "npm getVersion",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What command do we use to list all the node modules that are installed globally?",
+    "options": [
+      {
+        "content": "npm ls -g",
+        "checked": true,
+        "explain": "Explanation: The command is used to list all the node modules that are installed globally",
+        "code": "A"
+      },
+      {
+        "content": "node ls -g",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "npm ls",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "node ls",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is a valid HTTP method?",
+    "options": [
+      {
+        "content": "get",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "put",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "post",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above options are valid HTTP methods.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following fs module is used to close a file?",
+    "options": [
+      {
+        "content": "fs.close()",
+        "checked": true,
+        "explain": "Explanation: The fs.close() module is used to close the file.",
+        "code": "A"
+      },
+      {
+        "content": "fs.closeFile()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "fs.closePath()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following NodeJS module splits up a web address into readable parts?",
+    "options": [
+      {
+        "content": "Express",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Cors",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "URL",
+        "checked": true,
+        "explain": "Explanation: We use the URL module to split up a web address into readable parts.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "NodeJS uses an event-driven, non-blocking IO model?",
+    "options": [
+      {
+        "content": "True",
+        "checked": true,
+        "explain": "Explanation: The above statement is true.",
+        "code": "A"
+      },
+      {
+        "content": "False",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Cannot be determined",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which NodeJS statement is used to list all the locally installed NodeJS modules?",
+    "options": [
+      {
+        "content": "Is",
+        "checked": true,
+        "explain": "Explanation: The ls command is used to list all the locally installed NodeJS modules",
+        "code": "A"
+      },
+      {
+        "content": "list",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "cwd",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "A visual development environment for NodeJS is?",
+    "options": [
+      {
+        "content": "Visual Studio",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "IntelliJ",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "NetBeans",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Node-Red",
+        "checked": true,
+        "explain": "Explanation: Node-Red is a visual development environment for NodeJS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following NodeJS modules is used for file uploads?",
+    "options": [
+      {
+        "content": "formidable",
+        "checked": true,
+        "explain": "Explanation: The formidable module in NodeJS is used for file uploads purposes.",
+        "code": "A"
+      },
+      {
+        "content": "fs",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "express",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "files",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which node module is used to handle binary data?",
+    "options": [
+      {
+        "content": "binary",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "buffer",
+        "checked": true,
+        "explain": "Explanation: The buffer module is used to handle binary data in Node",
+        "code": "B"
+      },
+      {
+        "content": "crypto",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "dgram",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which node module is used for zip and unzip functionalities?",
+    "options": [
+      {
+        "content": "ZLIB",
+        "checked": true,
+        "explain": "Explanation: The ZLIB module is used for zip and unzip functionalities in Node.",
+        "code": "A"
+      },
+      {
+        "content": "buffer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "binary",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used for cryptographic protocols to secure communication over the web?",
+    "options": [
+      {
+        "content": "TLS/SSL",
+        "checked": true,
+        "explain": "Explanation: The TLS/SSL protocol is used to secure communication over the web.",
+        "code": "A"
+      },
+      {
+        "content": "TCP/IP",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which node module is used to serve static resources in NodeJS?",
+    "options": [
+      {
+        "content": "static",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "node-static",
+        "checked": true,
+        "explain": "Explanation: The node-static module is used to serve static resources in NodeJS.",
+        "code": "B"
+      },
+      {
+        "content": "http",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "_____ is a software service that allows 2 or more applications to talk to each other?",
+    "options": [
+      {
+        "content": "REST",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "API",
+        "checked": true,
+        "explain": "Explanation: API is a software service that allows 2 or more applications to talk to each other.",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are StringDecoder class methods?",
+    "options": [
+      {
+        "content": "decoder.write()",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "decoder.end()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Explanation: Both the A and B options are StringDecoder class methods.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following NodeJS modules is now deprecated?",
+    "options": [
+      {
+        "content": "punycode",
+        "checked": true,
+        "explain": "Explanation: The punycode module is now deprecated.",
+        "code": "A"
+      },
+      {
+        "content": "os",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "express",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does the fs module stand for?",
+    "options": [
+      {
+        "content": "File Store",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "File Service",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "File System",
+        "checked": true,
+        "explain": "Explanation: The fs module stands for File System.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are the benefits of using modules?",
+    "options": [
+      {
+        "content": "Provides a means of dividing up tasks.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Provides a means of resuing program codes",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Provides a means of testing individual parts of a program.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above statements are benefits of using modules.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Applications built on NodeJS can access which of the following types of databases?",
+    "options": [
+      {
+        "content": "NoSQL Databases",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "SQL Databases",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Explanation: Applications built on NodeJS can access both SQL and NoSQL databases.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are NodeJS global objects?",
+    "options": [
+      {
+        "content": "__dirname",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "__filename",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Buffer",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All of the above options are examples of valid NodeJS global objects.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "JSON was natively constructed on which language?",
+    "options": [
+      {
+        "content": "Javascript",
+        "checked": true,
+        "explain": "Explanation: JSON was natively constructed on Javascript.",
+        "code": "A"
+      },
+      {
+        "content": "Java",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "C++",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which NodeJS object specifies the name of the directory which contains the code?",
+    "options": [
+      {
+        "content": "__dirname",
+        "checked": true,
+        "explain": "Explanation: The __dirname object specifies the name of the directory which contains the code.",
+        "code": "A"
+      },
+      {
+        "content": "Buffer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "__filename",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What function is used to fire an event?",
+    "options": [
+      {
+        "content": "emit()",
+        "checked": true,
+        "explain": "Explanation: The emit() function is used to fire an event.",
+        "code": "A"
+      },
+      {
+        "content": "fire()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "calc()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following parameters is taken by the buffer.toString method?",
+    "options": [
+      {
+        "content": "encoding",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "start",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "end",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Explanation: All the above parameters are taken by the toString method.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is a callback?",
+    "options": [
+      {
+        "content": "The callback is a technique in which a method calls back the caller method",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "The callback is an asynchronous equivalent for a function",
+        "checked": true,
+        "explain": "Explanation: The callback is an asynchronous equivalent of a function.",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

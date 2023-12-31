@@ -1,0 +1,541 @@
+[
+  {
+    "question": "What is the action of parsing the source program into proper syntactic classes known as?",
+    "answer": "Explanation: The action of parsing the source program into proper syntactic classes known as lexical analysis.",
+    "options": [
+      "Interpretation analysis",
+      "General syntax analysis",
+      "Syntax analysis",
+      "Lexical analysis"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does a bottom-up parser generate?",
+    "answer": "Explanation: Bottom-up parser generates the rightmost derivation in reverse.",
+    "options": [
+      "Rightmost derivation in reverse",
+      "Rightmost derivation in reverse",
+      "Leftmost derivation in reverse",
+      "Leftmost derivation"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the bottom-up parsing method also known as?",
+    "answer": "Explanation: Bottom-up parsing method is also known as shift-reduce parsing.",
+    "options": [
+      "Predictive parsing",
+      "Shift reduce parsing",
+      "Recursive descent parsing",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the method which merges the bodies of two loops?",
+    "answer": "Explanation: The merging of the bodies of two loops is called loop jamming.",
+    "options": [
+      "Constant folding",
+      "Loop unrolling",
+      "Loop jamming",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the compiler allows the only modified sections of source code to be recompiled?",
+    "answer": "Explanation: The compiler allows the only modified section of source code to be recompiled is known as an incremental compiler.",
+    "options": [
+      "Incremental compiler",
+      "Dynamic compiler",
+      "Reconfigurable compiler",
+      "Subjective compiler"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the data structure which has minimum access time in case of symbol table implementation?",
+    "answer": "Explanation: Hash table is the most efficient data structure in the case of symbol table implementation as its access time is O(1).",
+    "options": [
+      "Self-organizing list",
+      "Hash table",
+      "Search tree",
+      "Linear"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does a top-down parser generate?",
+    "answer": "Explanation: Top-down parser generates left most derivation.",
+    "options": [
+      "Rightmost derivation in reverse",
+      "Rightmost derivation in reverse",
+      "Leftmost derivation in reverse",
+      "Leftmost derivation"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the most powerful parser?",
+    "answer": "Explanation: Canonical LR is the most powerful parser.",
+    "options": [
+      "LALR",
+      "SLR",
+      "Canonical LR",
+      "Operator-precedence"
+    ],
+    "done": false
+  },
+  {
+    "question": "Through which type of grammar can synthesized attributes can be simulated?",
+    "answer": "Explanation: Through LR grammar synthesized attributes can be simulated.",
+    "options": [
+      "Ambiguous grammar",
+      "LR grammar",
+      "LL grammar",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Another name of top-down parsing is?",
+    "answer": "Explanation: Top-down parsing is also known as recursive descent parsing.",
+    "options": [
+      "Predictive parsing",
+      "Shift reduce parsing",
+      "Recursive descent parsing",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the most general phase of structured grammar.",
+    "answer": "Explanation: The most general phase of structured grammar is context-sensitive grammar.",
+    "options": [
+      "Regular",
+      "Context-sensitive",
+      "Context-free",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the technique used to replace run-time computations with compile-time computations.",
+    "answer": "Explanation: The technique used to replace run-time computations with compile-time computations is constant folding.",
+    "options": [
+      "Code hoisting",
+      "Pee hole optimization",
+      "Invariant computation",
+      "Constant folding"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identifying the class of statement when compiled does not produce any executable code.",
+    "answer": "Explanation: The class of statement when compiled does not produce any executable code is called a structural statement.",
+    "options": [
+      "Structural statement",
+      "I/O statement",
+      "Assignment statement",
+      "Declaration"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the lexical analyzer take as input?",
+    "answer": "Explanation: The lexical analyzer takes source code as input.",
+    "options": [
+      "Tokens",
+      "Source code",
+      "Machine code",
+      "Both a and c."
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the lexical analyzer take as output?",
+    "answer": "Explanation: The lexical analyzer produces a list of tokens as output.",
+    "options": [
+      "List of tokens",
+      "List of source code",
+      "List of mnemonic",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is a linear analysis called in a compiler?",
+    "answer": "Explanation: Linear analysis is called both lexical analysis and scanning in compiler",
+    "options": [
+      "Testing",
+      "Lexical analysis",
+      "Scanning",
+      "Both b and c"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the correct definition of lexical analysis?",
+    "answer": "Explanation: Lexical analysis means Breaking the sequence of characters into tokens.",
+    "options": [
+      "Breaking sequence of characters into packets.",
+      "Breaking sequence of characters into groups.",
+      "Breaking sequence of characters into tokens.",
+      "Breaking sequence of characters into lines."
+    ],
+    "done": false
+  },
+  {
+    "question": "On what basis is the phase syntax analysis modeled?",
+    "answer": "Explanation: The action of parsing the source program into proper syntactic classes known as lexical analysis.",
+    "options": [
+      "Context-free grammar",
+      "High-level language",
+      "Low-level language",
+      "Regular grammar"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the role of optimizing the compiler?",
+    "answer": "Explanation: The role of optimizing the compiler is to optimize the code.",
+    "options": [
+      "Optimized to take less time for execution",
+      "Optimize the code",
+      "Optimize to occupy less space",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the compiler called which runs on one machine and produces code for a different machine?",
+    "answer": "Explanation: The compiler called which runs on one machine and produces code for the different machines is called a cross compiler.",
+    "options": [
+      "Optimizing compiler",
+      "One pass compiler",
+      "Cross compiler",
+      "Multipass compiler"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the graph called which shows basic blocks along with their successor relationship?",
+    "answer": "Explanation: The graph is known as Flowgraph",
+    "options": [
+      "Direct Acyclic graph",
+      "Control graph",
+      "Flowgraph",
+      "Hamiltonian graph"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the action of parsing the source program into proper syntactic classes known as?",
+    "answer": "Explanation: The action of parsing the source program into proper syntactic classes known as lexical analysis.",
+    "options": [
+      "Interpretation analysis",
+      "General syntax analysis",
+      "Syntax analysis",
+      "Lexical analysis"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which part produces the target code from the intermediate representation of source code?",
+    "answer": "Explanation: The synthesis part is responsible for producing the target code from the intermediate representation of the source code.",
+    "options": [
+      "Lexical",
+      "Synthesis",
+      "Analysis",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the method to determine whether tokens can be generated by a given grammar?",
+    "answer": "Explanation: Parsing is used to determine whether tokens can be generated by a given grammar.",
+    "options": [
+      "Translate",
+      "Analyse",
+      "Parse",
+      "Recognize"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which parsing technique avoids backtracking?",
+    "answer": "Explanation: Both predictive parsing and recursive descent parsing avoid backtracking.",
+    "options": [
+      "Predictive parsing",
+      "Top-down parsing",
+      "Recursive descent parsing",
+      "Both a and c"
+    ],
+    "done": false
+  },
+  {
+    "question": "What of the following can recognize Context-sensitive grammar?",
+    "answer": "Explanation: 2-way linear bounded automata can recognize CSG.",
+    "options": [
+      "Finite state automata",
+      "2-way linear bounded automata",
+      "Push down automata",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the data structure which is based on the locality of reference used for implementation of the symbol table.",
+    "answer": "Explanation: A self-organizing list is based on the locality of reference.",
+    "options": [
+      "Linear list",
+      "Search tree",
+      "Self-organizing list",
+      "Hash table"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the process of searching for match tokens described using?",
+    "answer": "Explanation: The process of searching for match tokens is described using finite automata and regular expressions.",
+    "options": [
+      "Context-free grammar",
+      "Finite automata",
+      "Regular expression",
+      "Both b and c"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is an interpreter preferred over a compiler?",
+    "answer": "Explanation: Interpreter is preferred over compiler during the development phase.",
+    "options": [
+      "When the space needs to be minimized",
+      "During the development phase",
+      "When resources need to be efficiently used.",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify which among the following is used for grouping characters into tokens.",
+    "answer": "Explanation: Scanner is used for grouping characters into tokens.",
+    "options": [
+      "Code generator",
+      "Code optimizer",
+      "Scanner",
+      "Parser"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is type checking done?",
+    "answer": "Explanation: Type checking is done during syntax-directed translation.",
+    "options": [
+      "During lexical analysis",
+      "During syntax-directed translation",
+      "During syntax analysis",
+      "During code optimization"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the term which is recognized as a sequence of characters in token.",
+    "answer": "Explanation: The sequence of characters in the token is called a lexeme.",
+    "options": [
+      "Lexeme",
+      "Texeme",
+      "Mexeme",
+      "Pattern"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does LR stand for?",
+    "answer": "Explanation: LR stands for Left to right and rightmost derivation in reverse.",
+    "options": [
+      "Right to left",
+      "Left to right",
+      "Left to right and rightmost derivation in reverse.",
+      "Left to right reduction"
+    ],
+    "done": false
+  },
+  {
+    "question": "In which class does recursive descent parsing belong?",
+    "answer": "Explanation: Recursive descent belongs to top-down parsing.",
+    "options": [
+      "Top-down parsing",
+      "Predictive parsing",
+      "Bottom-up parsing",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Why is the minimum Hamming distance method used?",
+    "answer": "Explanation: Minimum Hamming distance is used for the correction of syntactic errors.",
+    "options": [
+      "For correction of transcription errors",
+      "For correction of semantic errors",
+      "For correction of syntactic errors",
+      "For correction of algorithm errors"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following errors can a compiler check?",
+    "answer": "Explanation: Compiler can only check syntax errors.",
+    "options": [
+      "Logical",
+      "Runtime",
+      "Syntax",
+      "Both a and b"
+    ],
+    "done": false
+  },
+  {
+    "question": "Why is the symbol table used?",
+    "answer": "Explanation: A symbol table is used for all of the above.",
+    "options": [
+      "For suppressing duplication of error messages",
+      "For storage allocation",
+      "For checking type compatibility",
+      "All of the above."
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the language processor among the following.",
+    "answer": "Explanation: All of the above are language processors.",
+    "options": [
+      "Assembler",
+      "Compilers",
+      "Interpreters",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Why is handle pruning used?",
+    "answer": "Explanation: Handle pruning is used to obtain a canonical reduction sequence.",
+    "options": [
+      "Canonical derivation sequence",
+      "Canonical reduction sequence",
+      "Both a and b",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "When can semantic errors be detected?",
+    "answer": "Explanation: Semantic errors can be detected during runtime and compile time.",
+    "options": [
+      "During runtime",
+      "During compiler time",
+      "Both a and b",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the correct phase of the compiler.",
+    "answer": "Explanation: All of the above are phases of the compiler.",
+    "options": [
+      "Syntax analyzer",
+      "Code generation",
+      "Lexical analyzer",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "In which does the compiler translate the source code?",
+    "answer": "Explanation: Compiler translates the source code to binary and machine code.",
+    "options": [
+      "Binary code",
+      "Machine code",
+      "Executable code",
+      "Both a and b"
+    ],
+    "done": false
+  },
+  {
+    "question": "In which phase of the compiler is grammar checked?",
+    "answer": "Explanation: Grammar is checked at syntax analysis.",
+    "options": [
+      "Syntax analysis",
+      "Code optimization",
+      "Semantic analysis",
+      "Code generation"
+    ],
+    "done": false
+  },
+  {
+    "question": "Why is semantic analysis responsible for?",
+    "answer": "Explanation: Semantic analysis is responsible for all of the above.",
+    "options": [
+      "Static checking",
+      "Type checking",
+      "Check semantics",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the interpreted language.",
+    "answer": "Explanation: Both Java and Visual basic are interpreted languages.",
+    "options": [
+      "Java",
+      "C++",
+      "Visual basic",
+      "Both a and c"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the process of finding a parse tree for a string of tokens called?",
+    "answer": "Explanation: Parsing is the process of finding a parse tree for a string of tokens.",
+    "options": [
+      "Tokenizing",
+      "Parsing",
+      "Analyzing",
+      "Recognizing"
+    ],
+    "done": false
+  },
+  {
+    "question": "In which language do users write the programs?",
+    "answer": "Explanation: Users write the programs in a high-level language.",
+    "options": [
+      "High-level language",
+      "Low-level language",
+      "Assembly language",
+      "Decimal format"
+    ],
+    "done": false
+  },
+  {
+    "question": "Check whether the following statement is true or false: Ambiguous grammar produces more than one parse tree for some sentence.",
+    "answer": "Explanation: The above statement is true.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be interpreted",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the output of the assembler.",
+    "answer": "Explanation: The assembler outputs an object file that contains the object code.",
+    "options": [
+      "Object file",
+      "Data file",
+      "Task file",
+      "Program file"
+    ],
+    "done": false
+  }
+]

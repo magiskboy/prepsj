@@ -1,0 +1,502 @@
+[
+    {
+        "question": "If the objects focus on the problem domain, then we are concerned with",
+        "answer": "If the objects focus on the problem domain, then we are concerned with object-oriented analysis.",
+        "options": [
+            "Object-oriented analysis",
+            "Object-oriented design",
+            "Object-oriented analysis and design",
+            "None"
+        ]
+    },
+    {
+        "question": "When can white-box testing be started?",
+        "answer": "White-box testing be started after programming.",
+        "options": [
+            "After SRS creation",
+            "After installation",
+            "After programming",
+            "After designing"
+        ]
+    },
+    {
+        "question": "By whom is unit testing done?",
+        "answer": "Unit testing is done by developers.",
+        "options": [
+            "Users",
+            "Customers",
+            "Developers",
+            "None"
+        ]
+    },
+    {
+        "question": "In which of the following categories can white-box testing be classified?",
+        "answer": "White-box testing can also be classified as structural testing.",
+        "options": [
+            "Design based testing",
+            "Structural testing",
+            "Error guessing technique",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Infrastructure software is covered under which of the following categories?",
+        "answer": "Infrastructure software is covered under Generic products.",
+        "options": [
+            "Customized products",
+            "Generic products",
+            "Generic and customized products",
+            "None"
+        ]
+    },
+    {
+        "question": "What does the RAD software process stand for?",
+        "answer": "RAD stands for Rapid Application Development.",
+        "options": [
+            "Rapid Application Development",
+            "Recent Application Development",
+            "Relative Application Development",
+            "Rapid Application Design"
+        ]
+    },
+    {
+        "question": "Identify the simplest model of SDLC?",
+        "answer": "The spiral model is the simplest model of SDLC.",
+        "options": [
+            "Agile",
+            "RAD",
+            "Waterfall",
+            "Spiral"
+        ]
+    },
+    {
+        "question": "Choose the correct option among the following. The software consists of?",
+        "answer": "Software consists of Program+documentation operating procedures.",
+        "options": [
+            "Program+documentation operating procedures",
+            "Program+hardware manuals",
+            "Instruction+hardware manuals",
+            "Set of programs"
+        ]
+    },
+    {
+        "question": "Which is the following is the most important feature of the spiral model?",
+        "answer": "Risk management is the most important feature of the spiral model.",
+        "options": [
+            "Efficiency management",
+            "Time management",
+            "Risk management",
+            "Quality management"
+        ]
+    },
+    {
+        "question": "Total phases of RAD software model is-",
+        "answer": "RAD consists of a total of 5 phases - Business modeling, Data modeling, Process modeling, application generation, and testing & turnover.",
+        "options": [
+            "6",
+            "5",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "question": "Identify the incorrect phase of the prototype model.",
+        "answer": "Coding is an incorrect phase. In the prototype model, it generates only a working model.",
+        "options": [
+            "Prototype refinement",
+            "Engineer product",
+            "Coding",
+            "Quick design"
+        ]
+    },
+    {
+        "question": "Which of the following is the first step of SDLC?",
+        "answer": "The first step of SDLC is Preliminary Investigation and Analysis.",
+        "options": [
+            "Coding",
+            "Design",
+            "Preliminary Investigation and Analysis",
+            "Testing"
+        ]
+    },
+    {
+        "question": "Choose the correct option which does not relate to the Evolutionary Process Model?",
+        "answer": "All of the above does not relate to the Evolutionary Process Model. The evolutionary Process Model is designed for rapid model development i.e it is developed from scratch and is modified as per user requirement.",
+        "options": [
+            "Concurrent Development Model",
+            "WINWIN Spiral Model",
+            "Incremental Model",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is a fourth-generation language?",
+        "answer": "UNIX Shell is a fourth-generation language.",
+        "options": [
+            "COBOL",
+            "UNIX Shell",
+            "C++",
+            "Fotran"
+        ]
+    },
+    {
+        "question": "Select the correct option which refers to internal software equality?",
+        "answer": "Reusability is referred to as internal software equality.",
+        "options": [
+            "Reusability",
+            "Scalability",
+            "Usability",
+            "Reliability"
+        ]
+    },
+    {
+        "question": "Identify among the following which is not recommended for software processes in software engineering?",
+        "answer": "Software verification is not recommended since it is mainly used for implementing and testing.",
+        "options": [
+            "Software verification",
+            "Software testing and validation",
+            "Software designing",
+            "Software evolution"
+        ]
+    },
+    {
+        "question": "Choose the option which is not applicable to agile software development?",
+        "answer": "Abolishing the project planning and testing is not applicable as testing and planning are essential in SDLC.",
+        "options": [
+            "Producing only the essential work products",
+            "Recent Application Development",
+            "Abolishing the project planning and testing",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the correct option among the following which is involved in the system planning and designing phase of the Software Development Life Cycle (SDLC)?",
+        "answer": "Parallel run, sizing, specification freeze are involved in the system planning and designing phase of the Software Development Life Cycle (SDLC).",
+        "options": [
+            "Parallel run",
+            "Sizing",
+            "Specification freeze",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the major drawback of the Spiral Model?",
+        "answer": "In the spiral model, the major drawback is that additional functionalities are added later on.",
+        "options": [
+            "Does not work efficiently with small projects",
+            "High amount of risk analysis",
+            "Strong approval and documentation control",
+            "Additional functionalities are added later on"
+        ]
+    },
+    {
+        "question": "On which of the following is model selection based upon?",
+        "answer": "All of the above are necessary factors while modeling selection.",
+        "options": [
+            "Development teams and users",
+            "Requirements",
+            "Project types and the associated risks",
+            "All of the above mentioned"
+        ]
+    },
+    {
+        "question": "Which of the following models will not result in the desired output, when the user participation isn’t involved?",
+        "answer": "RAD and prototyping are the models which are dependent upon the user’s participation and might produce undesired output.",
+        "options": [
+            "RAD and prototyping",
+            "Waterfall and prototyping",
+            "Prototyping and spiral",
+            "Spiral and RAD"
+        ]
+    },
+    {
+        "question": "Choose the correct option which states the correct definition of Software. It is considered to be a collection of",
+        "answer": "Software is said to be a collection of programming code, documentation, associated libraries.",
+        "options": [
+            "Programming code",
+            "documentations",
+            "associated libraries",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the incorrect type of prototype of the Prototyping Model among the following.",
+        "answer": "Diagonal prototype is incorrect.",
+        "options": [
+            "Horizontal prototype",
+            "Diagonal prototype",
+            "Vertical prototype",
+            "None"
+        ]
+    },
+    {
+        "question": "For which of the following reasons is the waterfall model not suitable.",
+        "answer": "Waterfall model is not suitable for accommodating changes.",
+        "options": [
+            "Small projects",
+            "Complex projects",
+            "Maintenance Projects",
+            "Accommodating changes"
+        ]
+    },
+    {
+        "question": "Identify the correct software metrics?",
+        "answer": "All of the above are correct software matrices,",
+        "options": [
+            "Complexity Metrics",
+            "Process Metrics",
+            "Quality Metrics",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Identify the model which is also known as Verification and Validation Model?",
+        "answer": "The V-model is also known as Verification and Validation Model.",
+        "options": [
+            "Waterfall model",
+            "V-model",
+            "Prototype model",
+            "Evolutionary model"
+        ]
+    },
+    {
+        "question": "Identify the incorrect software layers.",
+        "answer": "Manufacturing is not considered in the software layers.",
+        "options": [
+            "Process",
+            "Manufacturing",
+            "Tools",
+            "Method"
+        ]
+    },
+    {
+        "question": "Which of the following is not included in the efficiency of a software product.",
+        "answer": "Licensing is not included in the efficiency of a software product.",
+        "options": [
+            "Processing time",
+            "licensing",
+            "Responsiveness",
+            "Memory utilization"
+        ]
+    },
+    {
+        "question": "Identify the two dimensions of the spiral model.",
+        "answer": "Radial, angular are the two types of dimensions of the spiral model.",
+        "options": [
+            "Radial, angular",
+            "Diagonal, angular",
+            "Diagonal, perpendicular",
+            "None"
+        ]
+    },
+    {
+        "question": "On which of the following is Agile Software Development based?",
+        "answer": "Agile Software Development based on both incremental and iterative development.",
+        "options": [
+            "Linear development",
+            "Incremental development",
+            "Iterative development",
+            "Both incremental and iterative development"
+        ]
+    },
+    {
+        "question": "FAST stands for?",
+        "answer": "FAST stands for Facilitated Application Specification Technique.",
+        "options": [
+            "Facilitated Application Specification Technique",
+            "Functional Application Specification Techniques",
+            "Fast Application Specification Technique",
+            "None"
+        ]
+    },
+    {
+        "question": "Requirement Analysis does not deal with which of the following diagrams?",
+        "answer": "Requirement Analysis does not deal with the Activity diagram.",
+        "options": [
+            "Entity Relationship Diagram",
+            "Use cases",
+            "Activity diagram",
+            "State transition diagram"
+        ]
+    },
+    {
+        "question": "The SRS document is also known as _____________ specification.",
+        "answer": "The SRS document is also known as black box specification.",
+        "options": [
+            "Black box",
+            "White box",
+            "Grey box",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct option among the following which is not included in SRS?",
+        "answer": "Design solutions are not included in SRS.",
+        "options": [
+            "Functionality",
+            "Performance",
+            "External interfaces",
+            "Design solutions"
+        ]
+    },
+    {
+        "question": "Total different notations for Unified Modelling Language?",
+        "answer": "There are total 9 different notations for Unified Modelling Language.",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "9"
+        ]
+    },
+    {
+        "question": "Identify the correct functional requirement.",
+        "answer": "All of the above are non-functional requirements, hence D) is correct.",
+        "options": [
+            "Robustness",
+            "Portability",
+            "Maintainability",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the correct measure for correctness.",
+        "answer": "Defects per KLOC is the most common measure for correctness.",
+        "options": [
+            "Errors per KLOC",
+            "$ per KLOC",
+            "Defects per KLOC",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the fault-based testing technique.",
+        "answer": "Mutation testing is a fault-based technique.",
+        "options": [
+            "Beta testing",
+            "Unit testing",
+            "Mutation testing",
+            "Stress testing"
+        ]
+    },
+    {
+        "question": "UML diagram cannot be used to capture which of the following views?",
+        "answer": "Layer view cannot be captured using UML diagram.",
+        "options": [
+            "Layer view",
+            "User view",
+            "Structural view",
+            "None"
+        ]
+    },
+    {
+        "question": "The construction of a simpler version of a problem by ignoring details is known as",
+        "answer": "The construction of a simpler version of a problem by ignoring details is known as abstraction.",
+        "options": [
+            "Encapsulation",
+            "Abstraction",
+            "Decomposition",
+            "Composition"
+        ]
+    },
+    {
+        "question": "Which of the following terms is used often for the principle of abstraction?",
+        "answer": "Principal of abstraction is also known as modelling.",
+        "options": [
+            "Modelling",
+            "Data binding",
+            "Propelling",
+            "Manipulating"
+        ]
+    },
+    {
+        "question": "Decomposition is also popularly known as",
+        "answer": "Decomposition is also popularly known as Divide and conquer principle.",
+        "options": [
+            "Group and merge principle",
+            "Binary search principle",
+            "Quick sort principle",
+            "Divide and conquer principle"
+        ]
+    },
+    {
+        "question": "Identify the term which is not related to testing?",
+        "answer": "Test bot is not related to testing.",
+        "options": [
+            "failure",
+            "error",
+            "Test case",
+            "Test bot"
+        ]
+    },
+    {
+        "question": "Identify the incorrect testing technique.",
+        "answer": "Collaboration testing is not a testing technique.",
+        "options": [
+            "Integration testing",
+            "Collaboration testing",
+            "System testing",
+            "Unit testing"
+        ]
+    },
+    {
+        "question": "Which of the following are type of code review?",
+        "answer": "Both A and B are types of code review.",
+        "options": [
+            "Code walkthrough",
+            "Code inspection",
+            "Both A and B",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the worst type of coupling.",
+        "answer": "In a content coupling, one module can modify the data of another module,   or control flow is passed from one module to the other module. This is the worst form of coupling and should be avoided.",
+        "options": [
+            "Data coupling",
+            "Control coupling",
+            "Stam coupling",
+            "Content coupling"
+        ]
+    },
+    {
+        "question": "RUP and PSP stands for?",
+        "answer": "RUP stands for Rational Unified Process and PSP stands for Personal software process.",
+        "options": [
+            "Rational Unified Process and Personal software process",
+            "Rational Unified Process and Project software process",
+            "Real-time unified process and Project software process",
+            "Real-time unified process and Personal software process"
+        ]
+    },
+    {
+        "question": "When is the ‘risk analysis’ In the spiral model performed?",
+        "answer": "The ‘risk analysis’ In the spiral model is performed in every loop.",
+        "options": [
+            "In the first loop",
+            "Before using the spiral model",
+            "Every loop",
+            "The first and second loop"
+        ]
+    },
+    {
+        "question": "Which feature of OOPs helps in code reusability?",
+        "answer": "Inheritance helps in code reusability.",
+        "options": [
+            "Class",
+            "Inheritance",
+            "Abstraction",
+            "Object"
+        ]
+    },
+    {
+        "question": "COCOMO model stand for?",
+        "answer": "COCOMO stands for Constructive Cost Estimation Model.",
+        "options": [
+            "Complete Cost Estimation Model",
+            "Constructive Cost Estimation Model",
+            "Common Cost Estimation Model",
+            "Comprehensive Cost Estimation Model"
+        ]
+    }
+]

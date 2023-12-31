@@ -1,0 +1,1252 @@
+[
+  {
+    "question": "Which of the following command is used to count the total number of lines, words, and characters contained in a file?",
+    "answer": "Answer -  A) wc is used to count the total number of lines, words, and characters contained in a file.",
+    "options": [
+      "wc",
+      "wcount",
+      "countw",
+      "None of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the command which is used to remove files.",
+    "answer": "Answer -  b) rm is used to remove files.",
+    "options": [
+      "delete",
+      "rm",
+      "dm",
+      "erase"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the hardware structure which is not supported by Red Hat?",
+    "answer": "Answer -  d) Macintosh is not supported by Red Hat.",
+    "options": [
+      "IBM-compatible",
+      "Alpha",
+      "SPARC",
+      "Macintosh"
+    ],
+    "done": false
+  },
+  {
+    "question": "Among the following command which is used with vi editors to delete a single character?",
+    "answer": "Answer -  B) x is used with vi editors to delete a single character.",
+    "options": [
+      "a",
+      "x",
+      "y",
+      "z"
+    ],
+    "done": false
+  },
+  {
+    "question": "Choose the TCP/IP Protocol which is used for remote terminal connection service?",
+    "answer": "Answer -  D) TELNET is used for remote terminal connection service.",
+    "options": [
+      "FTP",
+      "UDP",
+      "RARP",
+      "TELNET"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the service which is used to translate a domain name to IP address.",
+    "answer": "Answer -  B) DNS is used to translate a domain name to IP address.",
+    "options": [
+      "NIS",
+      "DNS",
+      "SMB",
+      "NFS"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following command is used to add a new user to the system?",
+    "answer": "Answer -  D) All of the above is used to add a new is a to the system",
+    "options": [
+      "Using Linuxconf",
+      "Using adduser",
+      "Using useradd",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "Total primary partitions that can exist on one drive is_____________",
+    "answer": "Answer -  D) A total of 4 primary partitions that can exist on one drive.",
+    "options": [
+      "1",
+      "2",
+      "16",
+      "4"
+    ],
+    "done": false
+  },
+  {
+    "question": "FSF stands for __________",
+    "answer": "Answer -  C) FSF stands for Free software Foundation.",
+    "options": [
+      "File server first",
+      "Free software file",
+      "Free software Foundation",
+      "First server first"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the command which is used to remove files.",
+    "answer": "Answer -  C) rmdir is used to remove files.",
+    "options": [
+      "rd",
+      "remove",
+      "rmdir",
+      "rdir"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the command which is used to create Linux File systems.",
+    "options": [
+      {
+        "content": "fsck",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "mkfs",
+        "checked": true,
+        "explain": "mkfs is used to create Linux File systems.",
+        "code": "B"
+      },
+      {
+        "content": "fdisk",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "mount",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the one which is not a communication command",
+    "options": [
+      {
+        "content": "mail",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "mesg",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "grep",
+        "checked": true,
+        "explain": "grep is not a communication command.",
+        "code": "C"
+      },
+      {
+        "content": "write",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used to back up over typing errors in vi?",
+    "options": [
+      {
+        "content": "$",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "#",
+        "checked": true,
+        "explain": "# is used to backup over typing errors in vi.",
+        "code": "B"
+      },
+      {
+        "content": "@",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "!",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the command used to add printing jobs to the queue.",
+    "options": [
+      {
+        "content": "lpd",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "lpq",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "lpc",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "lpr",
+        "checked": true,
+        "explain": "lpr is used to add printing jobs to the queue",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Choose the server which is used with the BIND package?",
+    "options": [
+      {
+        "content": "shttp",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "dns",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "named",
+        "checked": true,
+        "explain": "named is used with the BIND package.",
+        "code": "C"
+      },
+      {
+        "content": "httpd",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "By default, which port does squid listen to?",
+    "options": [
+      {
+        "content": "4322",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "3128",
+        "checked": true,
+        "explain": "Squid listens by default port 3128",
+        "code": "B"
+      },
+      {
+        "content": "7334",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "2314",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following commands is used to display the octal value of the text?",
+    "options": [
+      {
+        "content": "od",
+        "checked": true,
+        "explain": "od command is used to display the octal value of the text.",
+        "code": "A"
+      },
+      {
+        "content": "oct",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "octal",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "text_oct",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "GNU stands for ___________.",
+    "options": [
+      {
+        "content": "Greek Needed Unix",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "General Unix",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "GNU’s Not Unix",
+        "checked": true,
+        "explain": "GNU stands for GNU’s not Unix.",
+        "code": "C"
+      },
+      {
+        "content": "General Noble Unix",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the core of the Linux operating system?",
+    "options": [
+      {
+        "content": "Terminal",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Kernel",
+        "checked": true,
+        "explain": "The core of the Linux operating system is a kernel",
+        "code": "B"
+      },
+      {
+        "content": "Command",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Terminal",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In which of the following directory does the configuration files are present?",
+    "options": [
+      {
+        "content": "/bin/",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "/root/",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "/etc/",
+        "checked": true,
+        "explain": "/etc/ contains the configuration files in Linux.",
+        "code": "C"
+      },
+      {
+        "content": "/dev/",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the OS which is not based on Linux.",
+    "options": [
+      {
+        "content": "Ubuntu",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "BSD",
+        "checked": true,
+        "explain": "BSD is not based on Linux.",
+        "code": "B"
+      },
+      {
+        "content": "CentOS",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Red Hat",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the command which is used to record sessions in Linux",
+    "options": [
+      {
+        "content": "script",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "session",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both a and b",
+        "checked": true,
+        "explain": "Both a and b are used to record session in Linux.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Where is the user password stored?",
+    "options": [
+      {
+        "content": "/etc/passwd",
+        "checked": true,
+        "explain": "User password is stored in /etc/passwd.",
+        "code": "A"
+      },
+      {
+        "content": "/root/password",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "/etc/password",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "/root/passwd",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the default file system type of Linux",
+    "options": [
+      {
+        "content": "ext3",
+        "checked": true,
+        "explain": "ext3 is the default file system type of Linux.",
+        "code": "A"
+      },
+      {
+        "content": "ext2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "ext",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "mimix",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which command is used to display the operating system name",
+    "options": [
+      {
+        "content": "wc",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "uname",
+        "checked": true,
+        "explain": "uname is used to display the operating system name.",
+        "code": "B"
+      },
+      {
+        "content": "countw",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "os",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which command is used to print a file",
+    "options": [
+      {
+        "content": "wc",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "pg",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "lp",
+        "checked": true,
+        "explain": "lp command is used to print a file.",
+        "code": "C"
+      },
+      {
+        "content": "print",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which option of ls command used to view file inode number",
+    "options": [
+      {
+        "content": "-l",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "-i",
+        "checked": true,
+        "explain": "-i command used to view file inode number.",
+        "code": "B"
+      },
+      {
+        "content": "-o",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "-a",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Using which of the following command can hidden files be viewed?",
+    "options": [
+      {
+        "content": "ls -h",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "ls -a",
+        "checked": true,
+        "explain": "ls -a is used to view hidden files.",
+        "code": "B"
+      },
+      {
+        "content": "ls -l",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "ls -k",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following sign is used to represent the user home directory?",
+    "options": [
+      {
+        "content": "/",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": ".",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "~",
+        "checked": true,
+        "explain": "~ is used to represent the user home directory",
+        "code": "C"
+      },
+      {
+        "content": "..",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the command which is used to set terminal IO characteristics.",
+    "options": [
+      {
+        "content": "ctty",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "stty",
+        "checked": true,
+        "explain": "stty is used to set terminal IO characteristics.",
+        "code": "B"
+      },
+      {
+        "content": "tty",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify the command which is used to display the unix version.",
+    "options": [
+      {
+        "content": "uname -t",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "uname -r",
+        "checked": true,
+        "explain": "uname -r is used to display the UNIX version.",
+        "code": "B"
+      },
+      {
+        "content": "uname -n",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "kernel",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is used to represent the top-level directory?",
+    "options": [
+      {
+        "content": "*",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "$",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "#",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "/",
+        "checked": true,
+        "explain": "/ .is used to represent the top-level directory.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The dialogue control and token management are responsible for?",
+    "options": [
+      {
+        "content": "Session layers",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Datalink layer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Transport layer",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Network layer",
+        "checked": true,
+        "explain": "The dialogue control and token management are responsible for Network layer.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The main Apache configuration file is?",
+    "options": [
+      {
+        "content": "/etc/httpd/config.ini",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "/etc/apache.conf",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "/etc/httpd/conf/httpd.conf",
+        "checked": true,
+        "explain": "/etc/httpd/conf/httpd.conf is the main Apache configuration file.",
+        "code": "C"
+      },
+      {
+        "content": "/etc/srm.conf",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following command is used to see the services running in the NFS server?",
+    "options": [
+      {
+        "content": "serverinfo",
+        "checked": true,
+        "explain": "serverinfo is used to see the services running in NFS server.",
+        "code": "A"
+      },
+      {
+        "content": "rpcinfo",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "infserv",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "NFSinfo",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following command is used to sort the lines of data in a file in alphabetical order?",
+    "options": [
+      {
+        "content": "sh",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "sort -r",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "sort",
+        "checked": true,
+        "explain": "sort is used to sort the lines of data in a file in alphabetical order.",
+        "code": "C"
+      },
+      {
+        "content": "st",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Routing is performed by which of the following layers",
+    "options": [
+      {
+        "content": "Transport layer",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "data link layer",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "network layer",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "session layer",
+        "checked": true,
+        "explain": "Routing is performed by session layer.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What type of installations requires a special boot disk?",
+    "options": [
+      {
+        "content": "FTP",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "NFS",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "PCMCIA",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above require a special boot disk.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "RPM ________",
+    "options": [
+      {
+        "content": "assigns a dynamic IP address",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "is used to keep track of the users",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "stands for Red Hat Package Manager",
+        "checked": true,
+        "explain": "RMP stands for Red Hat Package Manager.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Identify this script which is run for setting a global defaults for users",
+    "options": [
+      {
+        "content": "/etc/.log",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "/etc/.bashrc",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "/etc/.profile",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "/etc/profile",
+        "checked": true,
+        "explain": "/etc/profile is run for setting global defaults for users.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Linux Kernel was founded by?",
+    "options": [
+      {
+        "content": "Richard Stallman",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Linus Torvalds",
+        "checked": true,
+        "explain": "Linus Torvalds founded Linux kernel",
+        "code": "B"
+      },
+      {
+        "content": "Bill Gates",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Ben Thomas",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following command can force all buffers to disk?",
+    "options": [
+      {
+        "content": "save",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "flush",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "edbuff",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "sync",
+        "checked": true,
+        "explain": "sync can force all buffers to disk.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "To create a swap partition by using fdisk, which partition’s system ID type should be used?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "82",
+        "checked": true,
+        "explain": "Partition’s system ID type 82 must be used.",
+        "code": "B"
+      },
+      {
+        "content": "5",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "83",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following command is used to change the working directory?",
+    "options": [
+      {
+        "content": "changed",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "chdr",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "dr",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "cd",
+        "checked": true,
+        "explain": "cd command is used to change the working directory.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "LILO stands for _____________-",
+    "options": [
+      {
+        "content": "Linux Leveraging Order",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Linux loader",
+        "checked": true,
+        "explain": "LILO stands for Linux loader.",
+        "code": "B"
+      },
+      {
+        "content": "Linux Low Order",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "NIS",
+    "options": [
+      {
+        "content": "is a simple directory service whose main purpose is to allow remote authentication of systems on local network systems",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "allows configuration-such as password and group files",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "is Network Information Service",
+        "checked": true,
+        "explain": "NIS is Network Information Service.",
+        "code": "C"
+      },
+      {
+        "content": "was formerly known as yellow page",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "OSS stands for _____________",
+    "options": [
+      {
+        "content": "Original Source Software",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Open System Software",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Original System Server",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Open Source Software",
+        "checked": true,
+        "explain": "OSS stands for Open Source Software.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following commands is used to display and create files?",
+    "options": [
+      {
+        "content": "cat",
+        "checked": true,
+        "explain": "cat is used to display and create files.",
+        "code": "A"
+      },
+      {
+        "content": "lyrix",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "vi",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "ed",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

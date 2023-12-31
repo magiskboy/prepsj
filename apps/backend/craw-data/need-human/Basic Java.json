@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Number of primitive data types in Java are?",
+    "answer": "There are 8 types of primitive data types- int, char, boolean, byte, long, float, short, double.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the size of float and double in java?",
+    "answer": "The size of float and double in java is 32 and 64.",
+    "options": [
+      "32 and 64",
+      "32 and 32",
+      "64 and 64",
+      "64 and 32"
+    ],
+    "done": false
+  },
+  {
+    "question": "Automatic type conversion is possible in which of the possible cases?",
+    "answer": "Automatic type conversion is possible in Int to long.",
+    "options": [
+      "Byte to int",
+      "Int to long",
+      "Long to int",
+      "Short to int"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following code.int Integer = 24;\nchar String  = ‘I’;\nSystem.out.print(Integer);\nSystem.out.print(String);",
+    "answer": "24 I will be printed.",
+    "options": [
+      "Compile error",
+      "Throws exception",
+      "I",
+      "24 I"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following program.public class Solution{\n       public static void main(String[] args){\n                     short x = 10;\n                     x =  x * 5;\n                     System.out.print(x);\n       }\n}",
+    "answer": "This will give compile error - “Lossy conversion from int to short”",
+    "options": [
+      "50",
+      "10",
+      "Compile error",
+      "Exception"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following program.\npublic class Solution{\n       public static void main(String[] args){\n                     byte x = 127;\n                     x++;\n                     x++;\n                     System.out.print(x);\n       }\n}",
+    "answer": "Range of byte data in java is -128 to 127. But the byte data type in java is cyclic in nature.",
+    "options": [
+      "-127",
+      "127",
+      "129",
+      "2"
+    ],
+    "done": false
+  },
+  {
+    "question": "Select the valid statement.",
+    "answer": "char[] ch = new char[5] is the correct syntax for declaring a character array.",
+    "options": [
+      "char[] ch = new char(5)",
+      "char[] ch = new char[5]",
+      "char[] ch = new char()",
+      "char[] ch = new char[]"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following program.public class Solution{\n       public static void main(String[] args){\n               int[]  x = {120, 200, 016};\n               for(int i = 0; i < x.length; i++){\n                        System.out.print(x[i] + “ “);\n               }                   \n       }\n}",
+    "answer": "016 is an octal number, its equivalent decimal number is 14. Hence answer is B.",
+    "options": [
+      "120 200 016",
+      "120 200 14",
+      "120 200 16",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "When an array is passed to a method, what does the method receive?",
+    "answer": "When an array is passed to a method, a reference of the array is received by the method.",
+    "options": [
+      "The reference of the array",
+      "A copy of the array",
+      "Length of the array",
+      "Copy of first element"
+    ],
+    "done": false
+  },
+  {
+    "question": "Select the valid statement to declare and initialize an array.",
+    "answer": "int[] A = {1, 2, 3} is the valid way of declaring arrays.",
+    "options": [
+      "int[] A = {}",
+      "int[] A = {1, 2, 3}",
+      "int[] A = (1, 2, 3)",
+      "int[][] A = {1,2,3}"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the value of A[1] after execution of the following program.int[] A = {0,2,4,1,3};\nfor(int i = 0; i < a.length; i++){\n    a[i] = a[(a[i] + 3) % a.length];\n}",
+    "answer": "a.length = 5             A[0] = a[(0 + 3) % 5] = a[3] = 1             So, a[0] =  a[3] = 1             A[1] = a[(2 + 3) % 5] = a[0] = 1             Therefore, a[1] = 1;",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "done": false
+  },
+  {
+    "question": "Arrays in java are-",
+    "answer": "Arrays are objects in java. It is a container that holds a fixed number of items of a single type.",
+    "options": [
+      "Object references",
+      "objects",
+      "Primitive data type",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is the object created with new keyword?",
+    "answer": "The object created with new keyword during run-time.",
+    "options": [
+      "At run time",
+      "At compile time",
+      "Depends on the code",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the corrected definition of a package.",
+    "answer": "A package is a collection of classes and interfaces.",
+    "options": [
+      "A package is a collection of editing tools",
+      "A package is a collection of classes",
+      "A package is a collection of classes and interfaces",
+      "A package is a collection of interfaces"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the correct restriction on static methods.\nThey must access only static data\nThey can only call other static methods.\nThey cannot refer to this or super.",
+    "answer": "Static methods must only access static data and can call other static methods. Moreover they cannot refer this or super.",
+    "options": [
+      "I and II",
+      "II and III",
+      "Only III",
+      "I, II and III"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the keyword among the following that makes a variable belong to a class,rather than being defined for each instance of the class.",
+    "answer": "Static keyword makes a variable belong to a class,rather than being defined for each instance of the class.",
+    "options": [
+      "final",
+      "static",
+      "volatile",
+      "abstract"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify what can directly access and change the value of the variable res.Package com.mypackage;\nPublic class Solution{\n       Private int res = 100;\n}",
+    "answer": "Only solution class can directly access and change the value of the variable res.",
+    "options": [
+      "Any class",
+      "Only Solution class",
+      "Any class that extends Solution",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "In which of the following is toString() method defined?",
+    "answer": "toString() is defined in java.lang.Object.",
+    "options": [
+      "java.lang.Object",
+      "java.lang.String",
+      "java.lang.util",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "compareTo() returns",
+    "answer": "compareTo() returns an int value",
+    "options": [
+      "True",
+      "False",
+      "An int value",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the output of the following program.String str = “abcde”;\nSystem.out.println(str.substring(1, 3));",
+    "answer": "str.substring(start, end) returns the string from s[start] till s[end - 1]",
+    "options": [
+      "abc",
+      "bc",
+      "bcd",
+      "cd"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the output of the following program.String str = “Hellow”;\nSystem.out.println(str.indexOf(‘t));",
+    "answer": "Since, t isn’t present in the string str, it returns -1.",
+    "options": [
+      "0",
+      "1",
+      "true",
+      "-1"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the output of the following program.Public class Test{\n          Public static void main(String argos[]){\n                   String str1 = “one”;\n                   String str2 = “two”;\n                   System.out.println(str1.concat(str2));\n          }\n}",
+    "answer": "concat attached both the string. Hence answer is C.",
+    "options": [
+      "one",
+      "two",
+      "onetwo",
+      "twoone"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the following string do to given string str1.String str1 = “Interviewbit”.replace(‘e’,’s’);",
+    "answer": "replace() replaces all the occurrences of the oldcharacter by the newcharacter.",
+    "options": [
+      "Replaces single occurrence of ‘e’ to ‘s’.",
+      "Replaces all occurrences of ‘e’ to ‘s’.",
+      "Replaces single occurrence of ‘s’ to ‘e’.",
+      "None."
+    ],
+    "done": false
+  },
+  {
+    "question": "To which of the following does the class string belong to.",
+    "answer": "string class belongs to java.lang.",
+    "options": [
+      "java.lang",
+      "java.awt",
+      "java.applet",
+      "java.string"
+    ],
+    "done": false
+  },
+  {
+    "question": "How many objects will be created in the following?String a = new String(“Interviewbit”);\nString b = new String(“Interviewbit”);\nStrinc c = “Interviewbit”;\nString d = “Interviewbit”;",
+    "answer": "Using the new keyword creates an object everytime. Hence, 2 objects are created for first two statement. Next, a string is declared which creates another object. For the fourth statement, since, a string ”Interviewbit” already exists, it doesn’t create an additional object again. Hence, answer is 3.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Total constructor string class have?",
+    "answer": "String class has 13 constructors.",
+    "options": [
+      "3",
+      "7",
+      "13",
+      "20"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following code.int ++a = 100;\nSystem.out.println(++a);",
+    "answer": "It shows compile error as ++a is not valid identifier.",
+    "options": [
+      "101",
+      "Compile error as ++a is not valid identifier",
+      "100",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following code.if(1 + 1 + 1 + 1 + 1 == 5){\n  System.out.print(“TRUE”);\n}\nelse{\n  System.out.print(“FALSE”);\n}",
+    "answer": "Since, LHS matches RHS, hence the output is TRUE.",
+    "options": [
+      "TRUE",
+      "FALSE",
+      "Compile error",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following code.Public class Solution{\n      Public static void main(String… argos){\n             Int x = 5;\n             x * = (3 + 7);\n             System.out.println(x);",
+    "answer": "Explanation - x* = 3 + 7 is equivalent to x * (3 + 7) = x * 10. Therefore, x = 50.",
+    "options": [
+      "50",
+      "22",
+      "10",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the return type of a method that does not return any value.",
+    "answer": "void does not return any value.",
+    "options": [
+      "int",
+      "void",
+      "double",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Output of Math.floor(3.6)?",
+    "answer": "floor returns largest integer that is less than or equal to the given number.",
+    "options": [
+      "3",
+      "3.0",
+      "4",
+      "4.0"
+    ],
+    "done": false
+  },
+  {
+    "question": "Where does the system stores parameters and local variables whenever a method is invoked?",
+    "answer": "The system stores parameters and local variables in a stack.",
+    "options": [
+      "Heap",
+      "Stack",
+      "Array",
+      "Tree"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the modifier which cannot be used for constructor.",
+    "answer": "Static cannot be used for constructor.",
+    "options": [
+      "public",
+      "protected",
+      "private",
+      "static"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the variables declared in a class for the use of all methods of the class called?",
+    "answer": "It is know as instance variable.",
+    "options": [
+      "Object",
+      "Instance variables",
+      "Reference variable",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is the implicit return type of constructor?",
+    "answer": "Implicit return type of constructor is the class object in which it is defined.",
+    "options": [
+      "No return type",
+      "A class object in which it is defined",
+      "void",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "When is the finalize() method called?",
+    "answer": "finalize() method is called before garbage collection.",
+    "options": [
+      "Before garbage collection",
+      "Before an object goes out of scope",
+      "Before a variable goes out of scope",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the prototype of the default constructor.Public class Solution {}",
+    "answer": "public Solution() is the prototype of the default constructor.",
+    "options": [
+      "Solution(void)",
+      "Solution()",
+      "public Solution(void)",
+      "public Solution()"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the correct way of declaring constructor.Public class Solution {}",
+    "answer": "Both A and B are correct way of declaring constructor.",
+    "options": [
+      "Solution(){}",
+      "public Solution(){}",
+      "Solution(void){}",
+      "Both (A) and (B)"
+    ],
+    "done": false
+  },
+  {
+    "question": "Find the output of the following code.Public class Solution{\n         Public static void main(String args[]){\n                 Int i;\n                 for(i = 1; i < 6; i++){ \n                     if(i > 3) continue;\n                 }\n                 System.out.println(i);\n          }\n}",
+    "answer": "Since, the loop runs till 6, the value of i is 6.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "done": false
+  },
+  {
+    "question": "How many times will “Interviewbit” be printed.Int count = 0;\ndo{\n  System.out.println(“Interviewbit”);\n  count++;\n} while(count < 10);",
+    "answer": "Interviewbit will be printed 10 times, starting from count = 0.",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the infinite loop.",
+    "answer": "All of the above are infinite loop.",
+    "options": [
+      "for(; ;)",
+      "for(int i = 0; i < 1; i--)",
+      "for(int i = 0; ;i++)",
+      "All of the above"
+    ],
+    "done": false
+  },
+  {
+    "question": "What is Runnable?",
+    "answer": "Runnable is an interface.",
+    "options": [
+      "Abstract class",
+      "Interface",
+      "Class",
+      "Method"
+    ],
+    "done": false
+  },
+  {
+    "question": "Exception created by try block is caught in which block",
+    "answer": "Answer- A) Exception created by try block is caught in catch block.",
+    "options": [
+      "catch",
+      "throw",
+      "final",
+      "none"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following exception is thrown when divided by zero statement is executed?",
+    "answer": "ArithmeticException  is thrown when divided by zero statement is executed.",
+    "options": [
+      "NullPointerException",
+      "NumberFormatException",
+      "ArithmeticException",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Where is System class defined?",
+    "answer": "System class is defined in java.lang.package.",
+    "options": [
+      "java.lang.package",
+      "java.util.package",
+      "java.io.package",
+      "None"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the interface which is used to declare core methods in java?",
+    "answer": "Collection is used to declare core methods in java.",
+    "options": [
+      "Comparator",
+      "EventListener",
+      "Set",
+      "Collection"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following statements are true about finalize() method?",
+    "answer": "The finalize() method can be called Zero or one times.",
+    "options": [
+      "It can be called Zero or one times",
+      "It can be called Zero or more times",
+      "It can be called Exactly once",
+      "It can be calledOne or more times"
+    ],
+    "done": false
+  },
+  {
+    "question": "What does the operator >>>> do?",
+    "answer": ">>>> is Zero fill right shift.",
+    "options": [
+      "Right shift operator",
+      "Left shift operator",
+      "Zero fill left shift",
+      "Zero fill right shift"
+    ],
+    "done": false
+  },
+  {
+    "question": "Identify the incorrect Java feature.",
+    "answer": "Java does have the concept of pointers.",
+    "options": [
+      "Object oriented",
+      "Use of pointers",
+      "Dynamic",
+      "Architectural neural"
+    ],
+    "done": false
+  },
+  {
+    "question": "Which of the following is used to find and fix bugs in the program?",
+    "answer": "JDB is used to find and fix bugs in the program.",
+    "options": [
+      "JDK",
+      "JRE",
+      "JVM",
+      "JDB"
+    ],
+    "done": false
+  }
+]

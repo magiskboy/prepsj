@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "The full form of CSS is:",
+    "options": [
+      {
+        "content": "Cascading Style Sheets",
+        "checked": true,
+        "explain": "CSS stands for Cascading Style Sheets.",
+        "code": "A"
+      },
+      {
+        "content": "Coloured Special Sheets",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Color and Style Sheets",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we change the background color of an element?",
+    "options": [
+      {
+        "content": "background-color",
+        "checked": true,
+        "explain": "background-color property is used to change the background color of an element.",
+        "code": "A"
+      },
+      {
+        "content": "color",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we change the text color of an element?",
+    "options": [
+      {
+        "content": "background-color",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "color",
+        "checked": true,
+        "explain": "The color property is used to change the text color of an element.",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In how many ways can CSS be written in?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": true,
+        "explain": "CSS can be written in 3 ways: Inline, External, and Internal CSS.",
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What type of CSS is the following code snippet?<h1 style=\"color:blue;\">A Blue Heading</h1>",
+    "options": [
+      {
+        "content": "Inline",
+        "checked": true,
+        "explain": "The above code snippet is an example of Inline CSS.",
+        "code": "A"
+      },
+      {
+        "content": "Internal",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "External",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What type of CSS is generally recommended for designing large web pages?",
+    "options": [
+      {
+        "content": "Inline",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Internal",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "External",
+        "checked": true,
+        "explain": "Generally External CSS is used for large web pages due to the idea of “Separation of Concerns”.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which HTML tag is used to declare internal CSS?",
+    "options": [
+      {
+        "content": "<style>",
+        "checked": true,
+        "explain": "The HTML <style> tag is used to declare internal CSS.",
+        "code": "A"
+      },
+      {
+        "content": "<link>",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "<script>",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we select an element with a specific ID in CSS?",
+    "options": [
+      {
+        "content": "#",
+        "checked": true,
+        "explain": "IDs are selected in CSS using # followed by the ID name.",
+        "code": "A"
+      },
+      {
+        "content": ".",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "^",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we select an element with a specific Class in CSS?",
+    "options": [
+      {
+        "content": "#",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": ".",
+        "checked": true,
+        "explain": "Classes are selected in CSS using . followed by the Class name.",
+        "code": "B"
+      },
+      {
+        "content": "^",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we write comments in CSS?",
+    "options": [
+      {
+        "content": "/* */",
+        "checked": true,
+        "explain": "/* */ is used to write comments in CSS.",
+        "code": "A"
+      },
+      {
+        "content": "//",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "#",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "In the below code snippet, in what order will the margins be added?p {\n  margin: 25px 50px 75px 100px;\n}",
+    "options": [
+      {
+        "content": "Top, Right, Bottom, Left",
+        "checked": true,
+        "explain": "The margins are added in the order given in option A.",
+        "code": "A"
+      },
+      {
+        "content": "Top, Left, Bottom, Right",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Top, Bottom, Right, Left",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "Right, Left, Top, Bottom",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Can negative values be allowed in padding property?",
+    "options": [
+      {
+        "content": "Yes",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "No",
+        "checked": true,
+        "explain": "Padding Property values cannot be negative.",
+        "code": "B"
+      },
+      {
+        "content": "Depends on property",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The CSS property used to specify the transparency of an element is?",
+    "options": [
+      {
+        "content": "opacity",
+        "checked": true,
+        "explain": "Opacity is used to specify the transparency of an element.",
+        "code": "A"
+      },
+      {
+        "content": "visibility",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "filter",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we specify the spacing between each letter in a text in CSS?",
+    "options": [
+      {
+        "content": "alpha-spacing",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "letter-spacing",
+        "checked": true,
+        "explain": "letter-spacing property specifies the spacing between each letter in a text in CSS.",
+        "code": "B"
+      },
+      {
+        "content": "character-spacing",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the correct syntax for referring an external CSS?",
+    "options": [
+      {
+        "content": "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+        "checked": true,
+        "explain": "The correct way to refer external CSS from a is given in option A.",
+        "code": "A"
+      },
+      {
+        "content": "<style rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are valid ways to represent a colour in CSS?",
+    "options": [
+      {
+        "content": "A valid color name",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RGB values",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "HEX values",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above options are valid ways to represent a color in CSS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is the correct way to select all h1 headers in a div element?",
+    "options": [
+      {
+        "content": "div h1",
+        "checked": true,
+        "explain": "The CSS descendant selector is used to match the descendant elements of a particular element and represent it using a single space.",
+        "code": "A"
+      },
+      {
+        "content": "div-h1",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "h1",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "We can make rounded borders around elements using which CSS element?",
+    "options": [
+      {
+        "content": "border-collapse",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "border-round",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "border-radius",
+        "checked": true,
+        "explain": "The border-radius property is used to make rounded borders around some given element.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we set the maximum width of the elements content box using CSS?",
+    "options": [
+      {
+        "content": "height property",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "max-height property",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "max-width property",
+        "checked": true,
+        "explain": "The max-width property in CSS is used to set the maximum width of the element's content box.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which CSS property is used to specify different border styles?",
+    "options": [
+      {
+        "content": "border-style",
+        "checked": true,
+        "explain": "border-style property is used to specify different border styles in CSS.",
+        "code": "A"
+      },
+      {
+        "content": "border",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following property specifies the look and design of an outline?",
+    "options": [
+      {
+        "content": "outline-style",
+        "checked": true,
+        "explain": "The outline-style CSS property is used to set the style of the outline of an element.",
+        "code": "A"
+      },
+      {
+        "content": "outline",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "outline-font",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are valid CSS position property values?",
+    "options": [
+      {
+        "content": "static",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "relative",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "fixed",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above properties are valid CSS position property values.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What does the inherit value for a property do?",
+    "options": [
+      {
+        "content": "Inherits the value of the parent element.",
+        "checked": true,
+        "explain": "The inherit property is used to inherit the value of the parent element.",
+        "code": "A"
+      },
+      {
+        "content": "Invalid property name.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Changes the value of the parent element’s property.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Setting an inline-block in CSS requires which of the following properties?",
+    "options": [
+      {
+        "content": "display",
+        "checked": true,
+        "explain": "The display: inline-block syntax is used to set up an inline-block in CSS.",
+        "code": "A"
+      },
+      {
+        "content": "color",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "block",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following CSS property is used for controlling the layout?",
+    "options": [
+      {
+        "content": "display",
+        "checked": true,
+        "explain": "The display property is the most important CSS property for controlling the layout.",
+        "code": "A"
+      },
+      {
+        "content": "color",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "text",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following CSS property specifies the origin of the background image?",
+    "options": [
+      {
+        "content": "background-origin",
+        "checked": true,
+        "explain": "The CSS background-origin property specifies the origin of the background image.",
+        "code": "A"
+      },
+      {
+        "content": "background-size",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "origin",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How are custom fonts defined using CSS?",
+    "options": [
+      {
+        "content": "@font-face rule.",
+        "checked": true,
+        "explain": "We can define our own custom fonts using CSS @font-face rule.",
+        "code": "A"
+      },
+      {
+        "content": "Custom fonts cannot be defined.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "src tags.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are parts of the CSS box model?",
+    "options": [
+      {
+        "content": "Margins",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Borders",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Padding",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Margins, Borders, Padding and all the content are all components of the CSS box model.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following components of the CSS box model are transparent?",
+    "options": [
+      {
+        "content": "Padding",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Margin",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "The Margins and the Padding are transparent regions in the CSS box model.",
+        "code": "C"
+      },
+      {
+        "content": "Content",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What will be the width of the div element given below?div {\n  width: 310px;\n  padding: 20px;\n  border: 5px solid blue;\n  margin: 0;\n}",
+    "options": [
+      {
+        "content": "310px",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "350px",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "360px",
+        "checked": true,
+        "explain": "310 px (width) + 20 * 2 px (left + right padding) + 5 * 2 px (left + right border) + 0px (margin) = 360px.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following can be achieved with CSS lists?",
+    "options": [
+      {
+        "content": "Set different list item markers for ordered lists",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Set different list item markers for unordered lists",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Set an image as the list item marker",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All of the above features can be implemented using CSS lists.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following CSS property specifies the type of list item marker?",
+    "options": [
+      {
+        "content": "list",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "list-style-type",
+        "checked": true,
+        "explain": "The list-style-type property specifies the type of list item marker.",
+        "code": "B"
+      },
+      {
+        "content": "ul",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "ol",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What value should be passed to the width parameter if we want an element, say a table, to span the entire width of the screen?",
+    "options": [
+      {
+        "content": "100%",
+        "checked": true,
+        "explain": "To make a table span the entire width of the screen, set width: 100%.",
+        "code": "A"
+      },
+      {
+        "content": "50%",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "0%",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following properties is used to align text in CSS?",
+    "options": [
+      {
+        "content": "text-align",
+        "checked": true,
+        "explain": "The text-align property specifies the alignment of text in CSS.",
+        "code": "A"
+      },
+      {
+        "content": "text-alignment",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "text",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "text-position",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following is the correct approach to make a table responsive?",
+    "options": [
+      {
+        "content": "overflow-x: auto",
+        "checked": true,
+        "explain": "Adding a container element (like <div>) with overflow-x:auto around the <table> element will make it responsive.",
+        "code": "A"
+      },
+      {
+        "content": "overflow-x: none",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following CSS properties specifies the stack order of elements?",
+    "options": [
+      {
+        "content": "z-index",
+        "checked": true,
+        "explain": "The z-index property specifies the stack order of an element.",
+        "code": "A"
+      },
+      {
+        "content": "overlap",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "No such specific property is present",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following CSS property creates a clipping region and specifies the visible area of the element?",
+    "options": [
+      {
+        "content": "visibility",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "clip-path",
+        "checked": true,
+        "explain": "The clip-path CSS property is used to create a clipping region and specifies the element's area that should be visible.",
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are the uses of CSS pseudo-elements?",
+    "options": [
+      {
+        "content": "Style specified parts of an element.",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Style the first letter or line of an element.",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Insert content before or after the element.",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above.",
+        "checked": true,
+        "explain": "All the above uses are valid use cases of CSS pseudo-elements.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we select elements with a specified attribute in CSS?",
+    "options": [
+      {
+        "content": "[attribute] selector",
+        "checked": true,
+        "explain": "The [attribute] selector is used to select elements with a specified attribute.",
+        "code": "A"
+      },
+      {
+        "content": "[property] selector",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are types of length units in CSS?",
+    "options": [
+      {
+        "content": "Absolute",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Relative",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Both A and B",
+        "checked": true,
+        "explain": "Absolute and Relative are the types of length units in CSS.",
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which of the following are units of relative length in CSS?",
+    "options": [
+      {
+        "content": "em",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "rem",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "vmax",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "All the given units are units of relative length in CSS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What parameter does the calc() function in CSS take?",
+    "options": [
+      {
+        "content": "A sentence",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "A mathematical expression",
+        "checked": true,
+        "explain": "The calc() function takes a mathematical expression as a parameter and returns its value.",
+        "code": "B"
+      },
+      {
+        "content": "A number",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How can we add more importance to a property/value than normal?",
+    "options": [
+      {
+        "content": "!important",
+        "checked": true,
+        "explain": "The !important rule in CSS is used to add more importance to a property/value than normal",
+        "code": "A"
+      },
+      {
+        "content": "important",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "bold",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which CSS property specifies the painting area of the background?",
+    "options": [
+      {
+        "content": "background-size",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "background-clip",
+        "checked": true,
+        "explain": "The background-clip property in CSS specifies the painting area of the background.",
+        "code": "B"
+      },
+      {
+        "content": "background-image",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What are the different types of gradients in CSS?",
+    "options": [
+      {
+        "content": "Linear Gradients",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "Conic Gradients",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "Radial Gradients",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "All of the above",
+        "checked": true,
+        "explain": "Linear, Conic and Radial gradients are the different types of gradients available in CSS.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "Which CSS property is used to create an image reflection?",
+    "options": [
+      {
+        "content": "box-reflect",
+        "checked": true,
+        "explain": "box-reflect property is used to create an image reflection in CSS.",
+        "code": "A"
+      },
+      {
+        "content": "image-reflect",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "reflect-img",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "The transparent keyword is equivalent to which RGBA() value in CSS?",
+    "options": [
+      {
+        "content": "RGBA(0, 0, 0, 1)",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "RGBA(255, 255, 255, 1)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "RGBA(0, 0, 0, 0)",
+        "checked": true,
+        "explain": "The transparent keyword is equivalent to RGBA(0, 0, 0, 0) value in CSS.",
+        "code": "C"
+      },
+      {
+        "content": "RGBA(255, 255, 255, 0)",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What function is used to insert values of a CSS variable?",
+    "options": [
+      {
+        "content": "var()",
+        "checked": true,
+        "explain": "The var() function is used to insert values of a CSS variable.",
+        "code": "A"
+      },
+      {
+        "content": "rand()",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "varchar()",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "calc()",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "What is the general syntax of writing the var() function?",
+    "options": [
+      {
+        "content": "var(--name, value)",
+        "checked": true,
+        "explain": "var(--name, value) is the correct syntax of writing the var() function.",
+        "code": "A"
+      },
+      {
+        "content": "var(--name)",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "var(value)",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "None of the above",
+        "checked": false,
+        "explain": null,
+        "code": "D"
+      }
+    ],
+    "done": true
+  },
+  {
+    "question": "How many layout modes were there before the Flexbox Layout Module was introduced in CSS?",
+    "options": [
+      {
+        "content": "1",
+        "checked": false,
+        "explain": null,
+        "code": "A"
+      },
+      {
+        "content": "2",
+        "checked": false,
+        "explain": null,
+        "code": "B"
+      },
+      {
+        "content": "3",
+        "checked": false,
+        "explain": null,
+        "code": "C"
+      },
+      {
+        "content": "4",
+        "checked": true,
+        "explain": "There were 4 layout modes, Block, Inline, Table, Positioned.",
+        "code": "D"
+      }
+    ],
+    "done": true
+  }
+]

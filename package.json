@@ -1,0 +1,23 @@
+{
+  "name": "prepsj-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "be:dev": "yarn workspace @prepsj/backend develop",
+    "be:build": "yarn workspace @prepsj/backend build",
+    "be:start": "yarn workspace @prepsj/backend start",
+    "fe:dev": "yarn workspace @prepsj/frontend start",
+    "fe:build": "yarn workspace @prepsj/frontend build"
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=14.0.0, <=18"
+  }
+}

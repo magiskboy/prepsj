@@ -1,0 +1,523 @@
+[
+    {
+        "question": "Choose the correct option related to Android.",
+        "answer": "Answer - B) Android is an Operating System",
+        "options": [
+            "Android is a web browser",
+            "Android is an Operating System",
+            "Android is a web server",
+            "None"
+        ]
+    },
+    {
+        "question": "What is an activity in android?",
+        "answer": "Answer - C) A activity is a single screen in an application.",
+        "options": [
+            "android class",
+            "android package",
+            "A single screen in an application with supporting java code",
+            "None of the above"
+        ]
+    },
+    null,
+    {
+        "question": "Among the following options choose the one for which Android is based on Linux.",
+        "answer": "Answer - D)  All of the above are reasons for which Android is based on Linux.",
+        "options": [
+            "Networking",
+            "Portability",
+            "Security",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Among the below virtual machines choose the one which is used by the Android operating system",
+        "answer": "Answer - A)  Android uses Dalvik operating system.",
+        "options": [
+            "Dalvik operating system",
+            "JVM",
+            "Simple virtual machine",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the language on which Android is based upon.",
+        "answer": "Answer - C) Android is based upon Java.",
+        "options": [
+            "Python",
+            "C++",
+            "Java",
+            "None"
+        ]
+    },
+    {
+        "question": "All layout classes are the subclasses of",
+        "answer": "Answer - C) all layout classes are the subclasses of android.view.ViewGroup in android.",
+        "options": [
+            "android.widget",
+            "android.view.View",
+            "android.view.ViewGroup",
+            "None"
+        ]
+    },
+    {
+        "question": "The full form of APK is",
+        "answer": "Answer - C) APK stands for Android package kit.",
+        "options": [
+            "Android Page Kit",
+            "Android Phone Kit",
+            "Android Package Kit",
+            "Android Photo Kit"
+        ]
+    },
+    {
+        "question": "What is manifest XML in android?",
+        "answer": "Answer - B) It has all the information about an application",
+        "options": [
+            "It has information about layout in an application",
+            "It has all the information about an application",
+            "It has the information about activities in an application",
+            "None"
+        ]
+    },
+    {
+        "question": "What is the use of a content provider in Android?",
+        "answer": "Answer - C) A content provider is used to share information between Android applications.",
+        "options": [
+            "For sharing the data between applications",
+            "For storing the data in the database",
+            "For sending the data from an application to another application",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "While developing android application developers can test their apps on",
+        "answer": "Answer - D) Apps can be tested in all the sources mentioned above.",
+        "options": [
+            "Emulators in Android SDK",
+            "Android Phone",
+            "Third-Party Emulator",
+            "All the above"
+        ]
+    },
+    {
+        "question": "In android, mini activities are also known as",
+        "answer": "Answer - C) In android, mini activities are also known as Fragments",
+        "options": [
+            "Adapter",
+            "Activity",
+            "Fragments",
+            "None"
+        ]
+    },
+    {
+        "question": "Among the following choose the one which converts Java bytecode into Dalvik bytecode",
+        "answer": "Answer - A)  dex compiler converts convert JAVA bytecode into Dalvik bytecode.",
+        "options": [
+            "dex compiler",
+            "Mobile interpretive compare",
+            "Dalvik converter",
+            "None"
+        ]
+    },
+    {
+        "question": "The services in android can be stopped using which of the following method?",
+        "answer": "Answer - B) stopSelf() and stopService() method can be used to stop services in android.",
+        "options": [
+            "system. exit()  method",
+            "stopSelf() and stopService() method",
+            "finish() method",
+            "end() method"
+        ]
+    },
+    {
+        "question": "Activity in Android can be killed using?",
+        "answer": "Answer - D) Activity in Android can be killed using both finishActivity (int requestCode) and finish() method.",
+        "options": [
+            "finishActivity (int requestCode)",
+            "finish() method",
+            "neither a and b",
+            "None"
+        ]
+    },
+    {
+        "question": "The full form of ADB is.",
+        "answer": "Answer - B)  ADB stands for Android debug Bridge.",
+        "options": [
+            "Android Delete Bridge",
+            "Android Debug Bridge",
+            "Android Destroy Bridge",
+            "Android Developed Bridge"
+        ]
+    },
+    {
+        "question": "AVD stands for",
+        "answer": "Answer - C) AVD stands for Android virtual device",
+        "options": [
+            "Active Virtual Display",
+            "Android Virtual display",
+            "Android Virtual Device",
+            "Active Virtual Device"
+        ]
+    },
+    {
+        "question": "Choose the option which is contained in the src folder",
+        "answer": "Answer - B) Java source code is contained in the src folder",
+        "options": [
+            "Manifest",
+            "Java Source Code",
+            "XML",
+            "All of them"
+        ]
+    },
+    {
+        "question": "Identify the parent class of activity.",
+        "answer": "Answer - A) The contextThemeWrapper class is the parent class of activity.",
+        "options": [
+            "contextThemeWrapper",
+            "context",
+            "object",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose among the following tabs in which an error is shown",
+        "answer": "Answer - D) Logcat shows an error.",
+        "options": [
+            "ADB logs",
+            "Memory",
+            "CPU",
+            "Logcat"
+        ]
+    },
+    {
+        "question": "When was Open Handset Alliance announced?",
+        "answer": "Answer - D) Open Handset Alliance was announced in 2007",
+        "options": [
+            "2004",
+            "2005",
+            "2006",
+            "2007"
+        ]
+    },
+    {
+        "question": "Identify the topmost layer of Android architecture",
+        "answer": "Answer - B) The topmost layer of Android architecture is the application framework.",
+        "options": [
+            "Applications",
+            "Applications Framework",
+            "Linux Kernel",
+            "System libraries and android runtime"
+        ]
+    },
+    {
+        "question": "Identify the lowest layer of Android architecture.",
+        "answer": "Answer - C) Linux kernel Is the lowest layer of Android architecture.",
+        "options": [
+            "Applications",
+            "Applications framework",
+            "Linux Kernel",
+            "System libraries and android runtime"
+        ]
+    },
+    {
+        "question": "Identify among the following which is not a state in the service lifecycle.",
+        "answer": "Answer - C) Paused is not a state in the service lifecycle.",
+        "options": [
+            "Running",
+            "Start",
+            "Paused",
+            "Destroyed"
+        ]
+    },
+    {
+        "question": "Identify the dialogue class in Android among the following",
+        "answer": "Answer - D) All of the above are dialogue classes in Android.",
+        "options": [
+            "DatePicker Dialog",
+            "AlertDialog",
+            "ProgressDialog",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Choose the built-in database of Android.",
+        "answer": "Answer - B) SQLite Is the built-in database of Android.",
+        "options": [
+            "MySQL",
+            "SQLite",
+            "Oracle",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the one which provides access to the database.",
+        "answer": "Answer - B) android.database provides access to the database.",
+        "options": [
+            "android.api",
+            "android.database",
+            "android.content",
+            "None"
+        ]
+    },
+    {
+        "question": "Why is.sendStickybroadcast(intent) used?",
+        "answer": "Answer - C) sendStickybroadcast(intent) is used to show intent is sticky.",
+        "options": [
+            "To show intent is prioritize",
+            "To show intent is optional",
+            "To show intent is sticky",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify among the one which is used to log debug messages.",
+        "answer": "Answer - B) Log.d() is used to log debug messages.",
+        "options": [
+            "Log.R()",
+            "Log.d()",
+            "Log.D()",
+            "Log.r()"
+        ]
+    },
+    {
+        "question": "The full form of ANR is.",
+        "answer": "Answer - B) ANR stands for Application not responding",
+        "options": [
+            "Application not rendering",
+            "Application not responding",
+            "Application not reacting",
+            "Application not reachable"
+        ]
+    },
+    {
+        "question": "All layout classes are subclasses of which of the following?",
+        "answer": "Answer - C) All layout classes are subclasses of android .view.Viewgroup",
+        "options": [
+            "android.widget",
+            "android.view.view",
+            "android .view.Viewgroup",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the layout in which Android arranges its children into rows and columns.",
+        "answer": "Answer - C) TableLayout arranges its children into rows and columns.",
+        "options": [
+            "FrameLayout",
+            "RelativeLayout",
+            "TableLayout",
+            "None"
+        ]
+    },
+    {
+        "question": "The full form of GCM is",
+        "answer": "Answer - B) GCM stands for Google Cloud messaging",
+        "options": [
+            "Google Centre messaging",
+            "Google Cloud messaging",
+            "Google account",
+            "None account manager"
+        ]
+    },
+    {
+        "question": "Choose the correct definition of the nine-patch images tool in Android",
+        "answer": "Answer - A) Nine-patch images tool is used to change the bitmap images into 9 sections.",
+        "options": [
+            "Used to change the bitmap images in 9 sections",
+            "it is an image extension tool",
+            "Neither a and b",
+            "Both a and b"
+        ]
+    },
+    {
+        "question": "JSON stands for ___________",
+        "answer": "Answer - C) JSON stands for Javascript Object Notation.",
+        "options": [
+            "JavaScript Oriented Notation",
+            "JavaScript Object Native",
+            "JavaScript Object Notation",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the correct option to find the JSON element length in Android JSON.",
+        "answer": "Answer - D) To find the JSON element length in Android JSON, length() is used.",
+        "options": [
+            "sum()",
+            "add()",
+            "count()",
+            "length()"
+        ]
+    },
+    {
+        "question": "Transient data in Android is.",
+        "answer": "Answer - D) Transient data in Android is logical data.",
+        "options": [
+            "Secure data",
+            "Permanent data",
+            "Temporary data",
+            "Logical data"
+        ]
+    },
+    {
+        "question": "On what is Android web browser-based?",
+        "answer": "Answer - C) Android web browser is based upon open-source WebKit.",
+        "options": [
+            "Safari",
+            "Firefox",
+            "Open-source WebKit",
+            "Chrome"
+        ]
+    },
+    {
+        "question": "Why is the view pager used?",
+        "answer": "Answer - B) viewpager is used for swiping fragments.",
+        "options": [
+            "Paging down list items",
+            "Swiping Fragments",
+            "Swiping Activities",
+            "None"
+        ]
+    },
+    {
+        "question": "On which kernel is Android-based on",
+        "answer": "Answer - C) Android is based on Linux.",
+        "options": [
+            "Windows",
+            "Mac",
+            "Linux",
+            "Redhat"
+        ]
+    },
+    {
+        "question": "Choose the correct technique to refresh the dynamic content in Android.",
+        "answer": "Answer - C) Using the ajax technique we can refresh the dynamic content in Android.",
+        "options": [
+            "Java",
+            "Android",
+            "Ajax",
+            "None"
+        ]
+    },
+    {
+        "question": "Under which, an open-source license is Android licensed?",
+        "answer": "Answer - B) Android is licensed under Apache/MIT.",
+        "options": [
+            "OSS",
+            "Apache/MIT",
+            "Gnus GPL",
+            "Sourceforce"
+        ]
+    },
+    {
+        "question": "OHA stands for ___________.",
+        "answer": "Answer - A) OHA stands for Open Handset Alliance.",
+        "options": [
+            "Open Handset Alliance",
+            "Open Handset Association",
+            "Open Handset Application",
+            "Open Host Application"
+        ]
+    },
+    {
+        "question": "In which of the following is the Android application Framework provided?",
+        "answer": "Answer - B) Android application Framework is provided in the Jar file.",
+        "options": [
+            "Zip file",
+            "Jar file",
+            "Object file",
+            "EXE file"
+        ]
+    },
+    {
+        "question": "Which of the following packages is used for supporting SQL libraries in the Android framework.",
+        "answer": "Answer - C) javax.*  is used for supporting SQL libraries in the Android framework.",
+        "options": [
+            "android.*",
+            "org.w3c.dom",
+            "javax.*",
+            "junit.*"
+        ]
+    },
+    {
+        "question": "WAP stands for?",
+        "answer": "Answer - A) WAP stands for wireless application protocol.",
+        "options": [
+            "Wireless Application Protocol",
+            "Wireless Application Program",
+            "Wireless Application Portal",
+            "Wireless Application Parts"
+        ]
+    },
+    {
+        "question": "Choose the option below which are part of the system library and android runtime layer of Android architecture.",
+        "answer": "Answer - D) SSL, DVM, and WebKit are all part of the system library and android runtime layer of Android architecture.",
+        "options": [
+            "SSL",
+            "DVM",
+            "Webkit",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Who manages data sharing between applications?",
+        "answer": "Answer - C) Data sharing between applications is managed by content providers.",
+        "options": [
+            "Telephony managers",
+            "Location manager",
+            "Content providers",
+            "Activity manager"
+        ]
+    },
+    {
+        "question": "Who develops DVM?",
+        "answer": "Answer - A) DVM was developed by Dan Bornstein.",
+        "options": [
+            "Dan Bornstein",
+            "Dennis Ritchie",
+            "Linus Torvald",
+            "None"
+        ]
+    },
+    {
+        "question": "What is a WebKit?",
+        "answer": "Answer - B) Webkit is a browser engine.",
+        "options": [
+            "Database Server",
+            "Browser Engine",
+            "Database Engine",
+            "None"
+        ]
+    },
+    {
+        "question": "AAPT stands for",
+        "answer": "Answer - C) AAPT stands for Android asset packaging tool.",
+        "options": [
+            "Android activity packaging tool",
+            "Android action packaging tool",
+            "Android asset packaging tool",
+            "None"
+        ]
+    },
+    {
+        "question": "Full form of NDK is _______",
+        "answer": "Answer - B) NDK stands for Native Development Kit.",
+        "options": [
+            "Native Development Key",
+            "Native Development Kit",
+            "New Development Kit",
+            "Net Development Kit"
+        ]
+    },
+    {
+        "question": "Which language is used by WAP?",
+        "answer": "Answer - B) WAP uses WML.",
+        "options": [
+            "SGML",
+            "WML",
+            "XML",
+            "HTML"
+        ]
+    }
+]

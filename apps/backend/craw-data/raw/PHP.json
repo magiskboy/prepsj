@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Full form of PHP is?",
+        "answer": "Answer: B) PHP stands for Hypertext preprocessor",
+        "options": [
+            "Pretext Hypertext Processor",
+            "Hypertext preprocessor",
+            "Preprocessor Home page",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the default file extension of PHP among the following.",
+        "answer": "Answer: C) The default file extension of PHP is .php",
+        "options": [
+            ".xml",
+            ".html",
+            ".php",
+            ".ph"
+        ]
+    },
+    {
+        "question": "What type of language is PHP?",
+        "answer": "Answer: A) PHP is a server-side scripting language.",
+        "options": [
+            "Server-side scripting",
+            "Client-side scripting",
+            "User-side scripting",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the correct syntax of PHP.",
+        "answer": "Answer: D) The correct syntax is <?php?>",
+        "options": [
+            "<php>",
+            "<?php>",
+            "?php?",
+            "<?php?>"
+        ]
+    },
+    {
+        "question": "Choose the equivalent of the statement : $sub -= $sub.",
+        "answer": "Answer: B) $sub -= $sub is equivalent to $sub = $sub - $sub",
+        "options": [
+            "$sub = $sub - 1",
+            "$sub = $sub - $sub",
+            "$sub = $sub - $sub - 1",
+            "$sub = $sub"
+        ]
+    },
+    {
+        "question": "Total ways in which user a print output in PHP is -",
+        "answer": "Answer: A) Output can be printed in 2 ways i.e. echo and print.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Among echo and print, which is faster?",
+        "answer": "Answer: B) echo is comparatively faster than print.",
+        "options": [
+            "print",
+            "echo",
+            "Both have the same speed",
+            "None"
+        ]
+    },
+    {
+        "question": "In PHP, variable names must start with which of the following.",
+        "answer": "Answer: D) Variable names must follow all of the above.",
+        "options": [
+            "No numbers",
+            "Letters",
+            "Underscore",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Is PHP variable case sensitive?",
+        "answer": "Answer: A) PHP variables are case-sensitive.",
+        "options": [
+            "True",
+            "False",
+            "Depends on variable",
+            "None"
+        ]
+    },
+    {
+        "question": "Total variable scope in PHP is?",
+        "answer": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "question": "Choose the incorrect data type among the following.",
+        "answer": "Answer: B) void is not a data type in PHP.",
+        "options": [
+            "Objects",
+            "void",
+            "Null",
+            "Resources"
+        ]
+    },
+    {
+        "question": "Total looping techniques supported by PHP are?",
+        "answer": "Answer: D) PHP supports 4 types of looping techniques - for, while, do-while,for-each loop.",
+        "options": [
+            "1",
+            "22",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Choose whether true or false: the do-while loop is an exit control loop.",
+        "answer": "Answer: B) True. the do-while loop is an exit control loop.",
+        "options": [
+            "False",
+            "True",
+            "Depends on the condition",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose whether true or false: while loop is an exit control loop.",
+        "answer": "Answer: A) False. while loop is an entry control loop.",
+        "options": [
+            "False",
+            "True",
+            "Depends on the condition",
+            "None"
+        ]
+    },
+    {
+        "question": "Identify the function among the following, which is not built-in.",
+        "answer": "Answer: B) fclosed() isn’t a built-in function in PHP.",
+        "options": [
+            "fopen()",
+            "fclosed()",
+            "gettype()",
+            "print_r()"
+        ]
+    },
+    {
+        "question": "Functions in PHP should start with which of the following keyword?",
+        "answer": "Answer: c) Functions in PHP should start with the keyword function.",
+        "options": [
+            "def",
+            "fun",
+            "function",
+            "None"
+        ]
+    },
+    {
+        "question": "Total types of the array in PHP is?",
+        "answer": "Answer: B) There are a total of 3 types of arrays in PHP.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "question": "Index of an array by default starts with which of the following in PHP?",
+        "answer": "Answer: A) Index of arrays starts with 0 in PHP.",
+        "options": [
+            "0",
+            "-1",
+            "1",
+            "2"
+        ]
+    },
+    {
+        "question": "trim() in PHP is used for?",
+        "answer": "Answer: B) trim() removes whitespaces.",
+        "options": [
+            "Removes uppercase alphabet",
+            "Removes whitespaces",
+            "Removes lowercase alphabet",
+            "Removes underscore"
+        ]
+    },
+    {
+        "question": "Another term used for Objects is?",
+        "answer": "Answer: C) Objects are also known as instances.",
+        "options": [
+            "template",
+            "reference",
+            "instances",
+            "class"
+        ]
+    },
+    {
+        "question": "Using which keyword is the object created?",
+        "answer": "Answer: B) new keyword is used for creating the object.",
+        "options": [
+            "object",
+            "new",
+            "create",
+            "None"
+        ]
+    },
+    {
+        "question": "Another name of the constructor is?",
+        "answer": "Answer: D) Constructors are also known as magic functions.",
+        "options": [
+            "Key function",
+            "Automatic function",
+            "Find function",
+            "Magic function"
+        ]
+    },
+    {
+        "question": "Among the following options, choose the term which is used to refer to methods within the class itself.",
+        "answer": "Answer: A) this keyword is used to refer to methods within the class itself.",
+        "options": [
+            "this",
+            "public",
+            "private",
+            "protected"
+        ]
+    },
+    {
+        "question": "In which version of PHP was Type Hinting introduced?",
+        "answer": "Answer: C) Type Hinting was introduced in PHP 5.",
+        "options": [
+            "PHP 6",
+            "PHP 4",
+            "PHP 5",
+            "PHP 5.3"
+        ]
+    },
+    {
+        "question": "Among the following functions, choose the one which accepts any number of parameters.",
+        "answer": "Answer: D) func_get_args() can accepts any number of parameters.",
+        "options": [
+            "get_argv()",
+            "func_get_argv()",
+            "get_argc()",
+            "func_get_args()"
+        ]
+    },
+    {
+        "question": "Which of the following is used to find files?",
+        "answer": "Answer: B) glob() is used to find files.",
+        "options": [
+            "file()",
+            "glob()",
+            "get_file()",
+            "fold()"
+        ]
+    },
+    {
+        "question": "Identify the function which is used to compress a string.",
+        "answer": "Answer: A) gzcompress() is used to compress a string.",
+        "options": [
+            "gzcompress()",
+            "compress()",
+            "zip()",
+            "zip_compress()"
+        ]
+    },
+    {
+        "question": "Which of the following function is used to sort array in descending order?",
+        "answer": "Answer: C) rsort() is used to sort array in descending order.",
+        "options": [
+            "dsort()",
+            "asort()",
+            "rsort()",
+            "sort()"
+        ]
+    },
+    {
+        "question": "Choose the correct way to invoke a method among the following.",
+        "answer": "Answer: D) To invoke a method $object->methodName(); is used.",
+        "options": [
+            "object::methodName();",
+            "object -> methodName();",
+            "$object::methodName();",
+            "$object->methodName();"
+        ]
+    },
+    {
+        "question": "Choose the option which prevents a method from being overridden by a subclass?",
+        "answer": "Answer: A) Final is the method scope which prevents a method from being overridden by a subclass.",
+        "options": [
+            "Final",
+            "Protected",
+            "Static",
+            "Abstract"
+        ]
+    },
+    {
+        "question": "In PHP, how are constructors recognized?",
+        "answer": "Answer: C) In PHP, constructors recognized by function__construct().",
+        "options": [
+            "function_construct()",
+            "classname()",
+            "function__construct()",
+            "_construct()"
+        ]
+    },
+    {
+        "question": "Identify the feature, which allows calling one or more methods or functions in single instruction?",
+        "answer": "Answer: B) Method chaining allows to call one or more methods or functions in a single instruction.",
+        "options": [
+            "Method adding",
+            "Method chaining",
+            "Method including",
+            "Typecasting"
+        ]
+    },
+    {
+        "question": "Total error levels available in PHP are?",
+        "answer": "Answer: B) PHP has a total of 16 error levels.",
+        "options": [
+            "17",
+            "16",
+            "15",
+            "14"
+        ]
+    },
+    {
+        "question": "Error level E_ERROR denotes?",
+        "answer": "Answer: D) E_ERROR denotes a Fatal run-time error.",
+        "options": [
+            "Near-fatal error",
+            "Compile-time error",
+            "Fatal compile-time error",
+            "Fatal run-time error"
+        ]
+    },
+    {
+        "question": "Identify the options among the following which invokes the exception class.",
+        "answer": "Answer: C) throw new exception() invokes the exception class.",
+        "options": [
+            "new exception()",
+            "throws new expection()",
+            "throw new expection()",
+            "New throws exception()"
+        ]
+    },
+    {
+        "question": "Identify the options among the following which generates unique ids",
+        "answer": "Answer: B) uniqueid() is function which generates unique ids.",
+        "options": [
+            "md5()",
+            "uniqueid()",
+            "id()",
+            "mdid()"
+        ]
+    },
+    {
+        "question": "Find the output of the code below:<?PHP\n ECHO CHR(52);\n?>",
+        "answer": "Answer: D) ASCII value of 4 is 52, hence the output is 4.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Find the output of the code below:<?PHP\n ECHO ORD(“HI”);\n?>",
+        "answer": "Answer: A) The ASCII value of H is 104 and ORD returns the ASCII value of the first character.",
+        "options": [
+            "104",
+            "103",
+            "106",
+            "209"
+        ]
+    },
+    {
+        "question": "Identify the function which adds a value at the end of an array?",
+        "answer": "Answer: D) array_push() adds a value at the end of an array.",
+        "options": [
+            "into_array()",
+            "inend_array()",
+            "array_unshift()",
+            "array_push()"
+        ]
+    },
+    {
+        "question": "Find the output of the code below:<?PHP\n$arr = ARRAY(12,5,2);\n ECHO (ARRAY_PRODUCT($A));\n?>",
+        "answer": "Answer: C) ARRAY_PRODUCT returns the product of all the elements of the array.",
+        "options": [
+            "60",
+            "10",
+            "120",
+            "24"
+        ]
+    },
+    {
+        "question": "Which of the following function is used to sort arrays in the natural order?",
+        "answer": "Answer: B) natcasesort() is used to sort arrays in the natural order.",
+        "options": [
+            "dsort()",
+            "natcasesort()",
+            "naturalsort()",
+            "casesort()"
+        ]
+    },
+    {
+        "question": "Identify the property scope not supported by PHP.",
+        "answer": "Answer: D) The property scope final is not supported by PHP.",
+        "options": [
+            "public",
+            "static",
+            "friendly",
+            "final"
+        ]
+    },
+    {
+        "question": "From which of the following class does the child class inherits?\nChild class\nSuper class\nBase class\nParent class",
+        "answer": "Answer: C). The child class inherits from a parent class and base class.",
+        "options": [
+            "Only 2",
+            "Only 2 and 3",
+            "Only 3 and 4",
+            "Only 1 and 4"
+        ]
+    },
+    {
+        "question": "To implement overloading, which of the following magic method used?",
+        "answer": "Answer: A) __call is used to implement overloading in PHP.",
+        "options": [
+            "__call",
+            "__invoke",
+            "__unset",
+            "__wakeup"
+        ]
+    },
+    {
+        "question": "Full form of SPL is?",
+        "answer": "Answer: C) SPL stands for Standard PHP library.",
+        "options": [
+            "Source PHP library",
+            "Source PHP list",
+            "Standard PHP library",
+            "Standard PHP list"
+        ]
+    },
+    {
+        "question": "Total types of filtering present in PHP?",
+        "answer": "Answer: B) PHP has a total of 2 filtering types.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "Identify the regular expression which matches any expression string having zero or one P?",
+        "answer": "Answer: C) P? Is the regular expression that matches any expression string having zero or one P.",
+        "options": [
+            "P+",
+            "P*",
+            "P?",
+            "P#"
+        ]
+    },
+    {
+        "question": "Full form of POSIX is?",
+        "answer": "Answer: B) POSIX stands for Portable Operating system interface for Unix.",
+        "options": [
+            "Portable Operating system interface for Linux",
+            "Portable Operating system interface for Unix",
+            "Portative Operating system interface for Linux",
+            "Portative Operating system interface for Unix"
+        ]
+    },
+    {
+        "question": "Identify the function which converts a string to uppercase.",
+        "answer": "Answer: C) strtoupper() converts a string to uppercase.",
+        "options": [
+            "uppercase()",
+            "str_uppercase()",
+            "strtoupper()",
+            "struppercase()"
+        ]
+    },
+    {
+        "question": "The function FILESIZE() returns the size of the file in?",
+        "answer": "Answer: B) FILESIZE() returns the size of the file in bytes.",
+        "options": [
+            "KB",
+            "Bytes",
+            "GB",
+            "bits"
+        ]
+    }
+]

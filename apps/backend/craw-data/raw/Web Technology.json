@@ -1,0 +1,484 @@
+[
+    {
+        "question": "Which of the following can read and render HTML web pages",
+        "answer": "Explanation: C) web browsers can read and render HTML web pages.",
+        "options": [
+            "Server",
+            "head Tak",
+            "web browser",
+            "empty"
+        ]
+    },
+    {
+        "question": "Identify the range of byte data types in JavaScript.",
+        "answer": "Explanation: B) the range of byte data type is - 128 to 127.",
+        "options": [
+            "-10 to 9",
+            "- 128 to 127",
+            "-32768 to 32767",
+            "-2147483648 to 2147483647"
+        ]
+    },
+    {
+        "question": "Among the following operators identify the one which is used to allocate memory to array variables in JavaScript.",
+        "answer": "Explanation: A) new Is used to allocate memory to array variables in JavaScript.",
+        "options": [
+            "new",
+            "new malloc",
+            "alloc",
+            "malloc"
+        ]
+    },
+    {
+        "question": "The latest HTML standard is",
+        "answer": "Explanation: B) The latest HTML standard is HTML 5.0",
+        "options": [
+            "HTML 4.0",
+            "HTML 5.0",
+            "XML",
+            "SGML"
+        ]
+    },
+    {
+        "question": "Why were cookies designed?",
+        "answer": "Explanation: A) Cookies were designed for server-side programming.",
+        "options": [
+            "for server-side programming",
+            "For client-side programming",
+            "both a and b",
+            "None"
+        ]
+    },
+    {
+        "question": "What are variables used in JavaScript programs",
+        "answer": "Explanation: B) Variables are used to store numbers, dates, and other values.",
+        "options": [
+            "Varying randomly",
+            "Storing numbers, dates, and other values",
+            "Used as header files",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "Simple network management protocol uses which of the following port number",
+        "answer": "Explanation: D) simple network management protocol uses port number 161.",
+        "options": [
+            "164",
+            "163",
+            "160",
+            "161"
+        ]
+    },
+    {
+        "question": "Identify the incorrect HTML tag among the following",
+        "answer": "Explanation: C) < list>  is in correct HTML tag among the following.",
+        "options": [
+            "< input>",
+            "<select>",
+            "< list>",
+            "< textarea>"
+        ]
+    },
+    {
+        "question": "Full form of W3C is _____________",
+        "answer": "Explanation: D) W3C stands for World Wide Web consortium.",
+        "options": [
+            "World Wide Websites community",
+            "World Wide Web community",
+            "World Wide Websites consortium",
+            "World Wide Web consortium"
+        ]
+    },
+    {
+        "question": "Identify the empty or void element in HTML.",
+        "answer": "Explanation: B) <br> Is the empty or void element in HTML",
+        "options": [
+            "<sup>",
+            "<br>",
+            "<p>",
+            "< abbr>"
+        ]
+    },
+    {
+        "question": "Which of the following attribute is used for merging two or more adjacent columns?",
+        "answer": "Explanation: C) COLSPAN Is used for merging two or more adjacent columns.",
+        "options": [
+            "ROWSPAN",
+            "CELLSPACING",
+            "COLSPAN",
+            "CELLPADDING"
+        ]
+    },
+    {
+        "question": "Which of the following is used to transmit information on the world wide web?",
+        "answer": "Explanation: B) HTTP Is used to transmit information on the world wide web.",
+        "options": [
+            "HPPT",
+            "HTTP",
+            "HTTTP",
+            "HTPP"
+        ]
+    },
+    {
+        "question": "A website is a _______  cookie.",
+        "answer": "Explanation: B) a website is a transient cookie.",
+        "options": [
+            "volatile",
+            "transient",
+            "in transient",
+            "non-volatile"
+        ]
+    },
+    {
+        "question": "Among which of the following is HTML a subset.",
+        "answer": "Explanation: C) HTML  it is a subset of SGML.",
+        "options": [
+            "SGMD",
+            "SGMT",
+            "SGML",
+            "None"
+        ]
+    },
+    {
+        "question": "When is the body tag used?",
+        "answer": "Explanation: D) Body tag is used after the HEAD tag.",
+        "options": [
+            "after FORM tag",
+            "after Title tag",
+            "after EM tag",
+            "after HEAD tag"
+        ]
+    },
+    {
+        "question": "To establish the base URL which of the following is used?",
+        "answer": "Explanation: A) To establish the base URL BASE element is used.",
+        "options": [
+            "BASE element",
+            "HEAD element",
+            "both a and b",
+            "None"
+        ]
+    },
+    {
+        "question": "On which model is www based upon",
+        "answer": "Explanation: A)  www is based upon client-server.",
+        "options": [
+            "client-server",
+            "local server",
+            "3 tier",
+            "none of this"
+        ]
+    },
+    {
+        "question": "Identify the container among the following",
+        "answer": "Explanation: D) Both <body> and <select> containers.",
+        "options": [
+            "< body>",
+            "< select>",
+            "< input>",
+            "both a and b"
+        ]
+    },
+    {
+        "question": "Which of the following attribute defines the relationship between the current document and  URL?",
+        "answer": "Explanation: C) REL defines the relationship between the current document and HREF’ed URL.",
+        "options": [
+            "URL",
+            "REV",
+            "REL",
+            "None"
+        ]
+    },
+    {
+        "question": "The MIME text file is saved with which of the following extension",
+        "answer": "Explanation: B) MIME text file is saved with HTML extension.",
+        "options": [
+            "THM extension",
+            "HTML extension",
+            "HTM extension",
+            "None"
+        ]
+    },
+    {
+        "question": "Why is XPATH used?",
+        "answer": "Explanation: C) XPATH is used to address the document by specifying a location path",
+        "options": [
+            "To address the server",
+            "to store the IP address of this server",
+            "to address the document by specifying a location path",
+            "none"
+        ]
+    },
+    {
+        "question": "Identified among the following which creates push button",
+        "answer": "Explanation: A) RESET  is used to create a push-button.",
+        "options": [
+            "RESET",
+            "CHECK BOX",
+            "INPUT",
+            "RADIO"
+        ]
+    },
+    null,
+    {
+        "question": "How many sizes of headers are available in HTML by default?",
+        "answer": "Explanation: D) 6 headers are available in HTML by default ranging from h1 to h6.",
+        "options": [
+            "5",
+            "1",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "question": "What are the types of lists available in HTML?",
+        "answer": "Explanation: A) The lists available in HTML are Ordered and Unordered List.",
+        "options": [
+            "Ordered, unordered lists",
+            "Bulleted, numbered lists",
+            "Named, Unnamed lists",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "HTML files are saved by default with the extension?",
+        "answer": "Explanation: B) HTML files are saved by the .html or .htm extension.",
+        "options": [
+            ".h",
+            ".html",
+            ".ht",
+            "None"
+        ]
+    },
+    {
+        "question": "What is the effect of the \\<b> tag?",
+        "answer": "Explanation: A) It converts the text within it to a bold tag.",
+        "options": [
+            "It converts the text within it to a bold tag.",
+            "It is used to write black-colored font",
+            "It is used to change the font size.",
+            "None"
+        ]
+    },
+    {
+        "question": "Which of the following tags doesn’t require a closing tag?",
+        "answer": "Explanation: C) Both the \\<hr> and the \\<br> tag doesn’t require a closing tag.",
+        "options": [
+            "\\<br>",
+            "\\<hr>",
+            "Both (a) and (b)",
+            "None"
+        ]
+    },
+    {
+        "question": "What are the attributes used to change the size of an image?",
+        "answer": "Explanation: B) Width and Height attributes are used to change the size of an image.",
+        "options": [
+            "Big and Small",
+            "Width and height",
+            "Top and bottom",
+            "None"
+        ]
+    },
+    {
+        "question": "Which attribute is used to provide a unique name to an HTML element?",
+        "answer": "Explanation: A) An id is used to provide a unique name for an HTML element that can be used to identify it.",
+        "options": [
+            "id",
+            "class",
+            "type",
+            "None"
+        ]
+    },
+    {
+        "question": "What is the function of the HTML style attribute?",
+        "answer": "Explanation: A)  It is used to add styles to an HTML element.",
+        "options": [
+            "It is used to add styles to an HTML element.",
+            "It is used to uniquely identify some specific styles of some elements.",
+            "Both (a) and (b)",
+            "None"
+        ]
+    },
+    {
+        "question": "Which HTML element is used to define description data?",
+        "answer": "Explanation: C) Description data is defined by <dd> tag.",
+        "options": [
+            "\\<li>",
+            "\\<ol>",
+            "\\<dd>",
+            "\\<dl>"
+        ]
+    },
+    {
+        "question": "Which of the following properties is used to change the font of text?",
+        "answer": "Explanation: A) The font-family property is used to change text font in HTML.",
+        "options": [
+            "font-family",
+            "font-size",
+            "text-align",
+            "None"
+        ]
+    },
+    {
+        "question": "Choose the correct option related to XML.",
+        "answer": "Explanation: C) XML is a storage format but a textual storage format that can be called a language.",
+        "options": [
+            "It cannot be used as a database",
+            "it can be used as a database",
+            "it is a storage format but a textual storage format which can be called a language",
+            "it is not a database, it is a language"
+        ]
+    },
+    {
+        "question": "Where is the map definition file generally stored?",
+        "answer": "Explanation: B) The map definition file is generally stored in CGI-BIN.",
+        "options": [
+            "RECYCLE BIN",
+            "CGI-BIN",
+            "BIN",
+            "All of the above"
+        ]
+    },
+    null,
+    {
+        "question": "What is Document Object Model(DOM)?",
+        "answer": "Explanation: C) DOM is a  parser.",
+        "options": [
+            "a coding style",
+            "Specification",
+            "a parser",
+            "none"
+        ]
+    },
+    {
+        "question": "Identify the function in JavaScript which is used to send messages to users requesting for text input?",
+        "answer": "Explanation: B) prompt() it is used to send messages to users requesting text input.",
+        "options": [
+            "alert()",
+            "prompt()",
+            "display()",
+            "getInput()"
+        ]
+    },
+    {
+        "question": "Identify the method which is used to specify a container's layout in JSP.",
+        "answer": "Explanation: C) setLayout() Is used to specify a container's layout in JSP.",
+        "options": [
+            "setContainerLayout()",
+            "Layout()",
+            "setLayout()",
+            "none"
+        ]
+    },
+    {
+        "question": "To get the current system date which of the following function is used in ASP?",
+        "answer": "Explanation: D) Date() Is used to get the current system date.",
+        "options": [
+            "CurrentDate()",
+            "getDate()",
+            "Now()",
+            "Date()"
+        ]
+    },
+    {
+        "question": "The full form of DOM is?",
+        "answer": "Explanation: B) DOM  stands for document object model.",
+        "options": [
+            "Document-oriented memory",
+            "document object model",
+            "document object memory",
+            "none"
+        ]
+    },
+    {
+        "question": "Identify the total standard color names that HTML supports.",
+        "answer": "Explanation: C) HTML supports a total of 140 standard color names.",
+        "options": [
+            "30",
+            "70",
+            "140",
+            "120"
+        ]
+    },
+    {
+        "question": "Identify the tag used to give paragraph",
+        "answer": "Explanation: A) <p> Is used to give paragraph.",
+        "options": [
+            "<p>",
+            "<br>",
+            "<marquee>",
+            "< pre>"
+        ]
+    },
+    {
+        "question": "Identify the tag which is used to define a concept in HTML.",
+        "answer": "Explanation: B) <def> is used to define a concept in HTML",
+        "options": [
+            "<p>",
+            "<def>",
+            "<marquee>",
+            "< pre>"
+        ]
+    },
+    {
+        "question": "Identify the standard network protocol used to transfer computer files between a client and server on a computer network.",
+        "answer": "Explanation: C) FTP is the standard protocol used to transfer computer files between the client and server in a computer network.",
+        "options": [
+            "Physical",
+            "TCP/IP",
+            "FTP",
+            "Hyperlink"
+        ]
+    },
+    {
+        "question": "Choose among the following, which is the most common internet protocol.",
+        "answer": "Explanation: D) SMTP is the most commonly used internet protocol.",
+        "options": [
+            "PPP",
+            "FTP",
+            "TCP/IP",
+            "SMTP"
+        ]
+    },
+    {
+        "question": "Choose the port number of FTP.",
+        "answer": "Explanation: B) The port number of FTP is 21",
+        "options": [
+            "23",
+            "21",
+            "110",
+            "143"
+        ]
+    },
+    {
+        "question": "What does MIME stand for?",
+        "answer": "Explanation: D) MIME stands for Multipurpose Internet Mail Extension.",
+        "options": [
+            "Multipurpose Internet Mail Extra",
+            "Multi Internet Mail End",
+            "Multipurpose Internet Mail Email",
+            "Multipurpose Internet Mail Extensio"
+        ]
+    },
+    {
+        "question": "Which of the following is used to allocate and manage resources for a network?",
+        "answer": "Explanation: B) Server is used to allocate and manage resources for a network.",
+        "options": [
+            "Bluetooth",
+            "Server",
+            "Node",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Identify among the following servers which allow LAN users to share data.",
+        "answer": "Explanation: D) File server allows LAN users to share data.",
+        "options": [
+            "Communication server",
+            "Point server",
+            "Data server",
+            "File server"
+        ]
+    }
+]

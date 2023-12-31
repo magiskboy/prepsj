@@ -1,0 +1,502 @@
+[
+    {
+        "question": "The full form of CSS is:",
+        "answer": "Answer: A) CSS stands for Cascading Style Sheets.",
+        "options": [
+            "Cascading Style Sheets",
+            "Coloured Special Sheets",
+            "Color and Style Sheets",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we change the background color of an element?",
+        "answer": "Answer: A) background-color property is used to change the background color of an element.",
+        "options": [
+            "background-color",
+            "color",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we change the text color of an element?",
+        "answer": "Answer: B) The color property is used to change the text color of an element.",
+        "options": [
+            "background-color",
+            "color",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "In how many ways can CSS be written in?",
+        "answer": "Answer: C) CSS can be written in 3 ways: Inline, External, and Internal CSS.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "question": "What type of CSS is the following code snippet?<h1 style=\"color:blue;\">A Blue Heading</h1>",
+        "answer": "Answer: A) The above code snippet is an example of Inline CSS.",
+        "options": [
+            "Inline",
+            "Internal",
+            "External",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What type of CSS is generally recommended for designing large web pages?",
+        "answer": "Answer: C) Generally External CSS is used for large web pages due to the idea of “Separation of Concerns”.",
+        "options": [
+            "Inline",
+            "Internal",
+            "External",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to declare internal CSS?",
+        "answer": "Answer: A) The HTML <style> tag is used to declare internal CSS.",
+        "options": [
+            "<style>",
+            "<link>",
+            "<script>",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we select an element with a specific ID in CSS?",
+        "answer": "Answer: A) IDs are selected in CSS using # followed by the ID name.",
+        "options": [
+            "#",
+            ".",
+            "^",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we select an element with a specific Class in CSS?",
+        "answer": "Answer: B) Classes are selected in CSS using . followed by the Class name.",
+        "options": [
+            "#",
+            ".",
+            "^",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we write comments in CSS?",
+        "answer": "Answer: A) /* */ is used to write comments in CSS.",
+        "options": [
+            "/* */",
+            "//",
+            "#",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "In the below code snippet, in what order will the margins be added?p {\n  margin: 25px 50px 75px 100px;\n}",
+        "answer": "Answer: A) The margins are added in the order given in option A.",
+        "options": [
+            "Top, Right, Bottom, Left",
+            "Top, Left, Bottom, Right",
+            "Top, Bottom, Right, Left",
+            "Right, Left, Top, Bottom"
+        ]
+    },
+    {
+        "question": "Can negative values be allowed in padding property?",
+        "answer": "Answer: B) Padding Property values cannot be negative.",
+        "options": [
+            "Yes",
+            "No",
+            "Depends on property",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The CSS property used to specify the transparency of an element is?",
+        "answer": "Answer: A) Opacity is used to specify the transparency of an element.",
+        "options": [
+            "opacity",
+            "visibility",
+            "filter",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we specify the spacing between each letter in a text in CSS?",
+        "answer": "Answer: B) letter-spacing property specifies the spacing between each letter in a text in CSS.",
+        "options": [
+            "alpha-spacing",
+            "letter-spacing",
+            "character-spacing",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What is the correct syntax for referring an external CSS?",
+        "answer": "Answer: A) The correct way to refer external CSS from a is given in option A.",
+        "options": [
+            "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+            "<style rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are valid ways to represent a colour in CSS?",
+        "answer": "Answer: D) All of the above options are valid ways to represent a color in CSS.",
+        "options": [
+            "A valid color name",
+            "RGB values",
+            "HEX values",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following is the correct way to select all h1 headers in a div element?",
+        "answer": "Answer: A) The CSS descendant selector is used to match the descendant elements of a particular element and represent it using a single space.",
+        "options": [
+            "div h1",
+            "div-h1",
+            "h1",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "We can make rounded borders around elements using which CSS element?",
+        "answer": "Answer: C) The border-radius property is used to make rounded borders around some given element.",
+        "options": [
+            "border-collapse",
+            "border-round",
+            "border-radius",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we set the maximum width of the elements content box using CSS?",
+        "answer": "Answer: C) The max-width property in CSS is used to set the maximum width of the element's content box.",
+        "options": [
+            "height property",
+            "max-height property",
+            "max-width property",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which CSS property is used to specify different border styles?",
+        "answer": "Answer: A) border-style property is used to specify different border styles in CSS.",
+        "options": [
+            "border-style",
+            "border",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following property specifies the look and design of an outline?",
+        "answer": "Answer: A) The outline-style CSS property is used to set the style of the outline of an element.",
+        "options": [
+            "outline-style",
+            "outline",
+            "outline-font",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are valid CSS position property values?",
+        "answer": "Answer: D) All of the above properties are valid CSS position property values.",
+        "options": [
+            "static",
+            "relative",
+            "fixed",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What does the inherit value for a property do?",
+        "answer": "Answer: A) The inherit property is used to inherit the value of the parent element.",
+        "options": [
+            "Inherits the value of the parent element.",
+            "Invalid property name.",
+            "Changes the value of the parent element’s property.",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Setting an inline-block in CSS requires which of the following properties?",
+        "answer": "Answer: A) The display: inline-block syntax is used to set up an inline-block in CSS.",
+        "options": [
+            "display",
+            "color",
+            "block",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following CSS property is used for controlling the layout?",
+        "answer": "Answer: A) The display property is the most important CSS property for controlling the layout.",
+        "options": [
+            "display",
+            "color",
+            "text",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following CSS property specifies the origin of the background image?",
+        "answer": "Answer: A) The CSS background-origin property specifies the origin of the background image.",
+        "options": [
+            "background-origin",
+            "background-size",
+            "origin",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How are custom fonts defined using CSS?",
+        "answer": "Answer: A) We can define our own custom fonts using CSS @font-face rule.",
+        "options": [
+            "@font-face rule.",
+            "Custom fonts cannot be defined.",
+            "src tags.",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are parts of the CSS box model?",
+        "answer": "Answer: D) Margins, Borders, Padding and all the content are all components of the CSS box model.",
+        "options": [
+            "Margins",
+            "Borders",
+            "Padding",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following components of the CSS box model are transparent?",
+        "answer": "Answer: C) The Margins and the Padding are transparent regions in the CSS box model.",
+        "options": [
+            "Padding",
+            "Margin",
+            "Both A and B",
+            "Content"
+        ]
+    },
+    {
+        "question": "What will be the width of the div element given below?div {\n  width: 310px;\n  padding: 20px;\n  border: 5px solid blue;\n  margin: 0;\n}",
+        "answer": "Answer: C) 310 px (width) + 20 * 2 px (left + right padding) + 5 * 2 px (left + right border) + 0px (margin) = 360px.",
+        "options": [
+            "310px",
+            "350px",
+            "360px",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following can be achieved with CSS lists?",
+        "answer": "Answer: D) All of the above features can be implemented using CSS lists.",
+        "options": [
+            "Set different list item markers for ordered lists",
+            "Set different list item markers for unordered lists",
+            "Set an image as the list item marker",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which of the following CSS property specifies the type of list item marker?",
+        "answer": "Answer: B) The list-style-type property specifies the type of list item marker.",
+        "options": [
+            "list",
+            "list-style-type",
+            "ul",
+            "ol"
+        ]
+    },
+    {
+        "question": "What value should be passed to the width parameter if we want an element, say a table, to span the entire width of the screen?",
+        "answer": "Answer: A) To make a table span the entire width of the screen, set width: 100%.",
+        "options": [
+            "100%",
+            "50%",
+            "0%",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following properties is used to align text in CSS?",
+        "answer": "Answer: A) The text-align property specifies the alignment of text in CSS.",
+        "options": [
+            "text-align",
+            "text-alignment",
+            "text",
+            "text-position"
+        ]
+    },
+    {
+        "question": "Which of the following is the correct approach to make a table responsive?",
+        "answer": "Answer: A) Adding a container element (like <div>) with overflow-x:auto around the <table> element will make it responsive.",
+        "options": [
+            "overflow-x: auto",
+            "overflow-x: none",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following CSS properties specifies the stack order of elements?",
+        "answer": "Answer: A) The z-index property specifies the stack order of an element.",
+        "options": [
+            "z-index",
+            "overlap",
+            "No such specific property is present",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following CSS property creates a clipping region and specifies the visible area of the element?",
+        "answer": "Answer: B) The clip-path CSS property is used to create a clipping region and specifies the element's area that should be visible.",
+        "options": [
+            "visibility",
+            "clip-path",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What are the uses of CSS pseudo-elements?",
+        "answer": "Answer: D) All the above uses are valid use cases of CSS pseudo-elements.",
+        "options": [
+            "Style specified parts of an element.",
+            "Style the first letter or line of an element.",
+            "Insert content before or after the element.",
+            "All of the above."
+        ]
+    },
+    {
+        "question": "How can we select elements with a specified attribute in CSS?",
+        "answer": "Answer: A) The [attribute] selector is used to select elements with a specified attribute.",
+        "options": [
+            "[attribute] selector",
+            "[property] selector",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are types of length units in CSS?",
+        "answer": "Answer: C) Absolute and Relative are the types of length units in CSS.",
+        "options": [
+            "Absolute",
+            "Relative",
+            "Both A and B",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which of the following are units of relative length in CSS?",
+        "answer": "Answer: D) All the given units are units of relative length in CSS.",
+        "options": [
+            "em",
+            "rem",
+            "vmax",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What parameter does the calc() function in CSS take?",
+        "answer": "Answer: B) The calc() function takes a mathematical expression as a parameter and returns its value.",
+        "options": [
+            "A sentence",
+            "A mathematical expression",
+            "A number",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How can we add more importance to a property/value than normal?",
+        "answer": "Answer: A) The !important rule in CSS is used to add more importance to a property/value than normal",
+        "options": [
+            "!important",
+            "important",
+            "bold",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Which CSS property specifies the painting area of the background?",
+        "answer": "Answer: B) The background-clip property in CSS specifies the painting area of the background.",
+        "options": [
+            "background-size",
+            "background-clip",
+            "background-image",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "What are the different types of gradients in CSS?",
+        "answer": "Answer: D) Linear, Conic and Radial gradients are the different types of gradients available in CSS.",
+        "options": [
+            "Linear Gradients",
+            "Conic Gradients",
+            "Radial Gradients",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "Which CSS property is used to create an image reflection?",
+        "answer": "Answer: A) box-reflect property is used to create an image reflection in CSS.",
+        "options": [
+            "box-reflect",
+            "image-reflect",
+            "reflect-img",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The transparent keyword is equivalent to which RGBA() value in CSS?",
+        "answer": "Answer: C) The transparent keyword is equivalent to RGBA(0, 0, 0, 0) value in CSS.",
+        "options": [
+            "RGBA(0, 0, 0, 1)",
+            "RGBA(255, 255, 255, 1)",
+            "RGBA(0, 0, 0, 0)",
+            "RGBA(255, 255, 255, 0)"
+        ]
+    },
+    {
+        "question": "What function is used to insert values of a CSS variable?",
+        "answer": "Answer: A) The var() function is used to insert values of a CSS variable.",
+        "options": [
+            "var()",
+            "rand()",
+            "varchar()",
+            "calc()"
+        ]
+    },
+    {
+        "question": "What is the general syntax of writing the var() function?",
+        "answer": "Answer: A) var(--name, value) is the correct syntax of writing the var() function.",
+        "options": [
+            "var(--name, value)",
+            "var(--name)",
+            "var(value)",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "How many layout modes were there before the Flexbox Layout Module was introduced in CSS?",
+        "answer": "Answer: D) There were 4 layout modes, Block, Inline, Table, Positioned.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    }
+]
