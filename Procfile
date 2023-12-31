@@ -1,1 +1,1 @@
-web: yarn workspace be:start
+web: npm run start -w @prepsj/backend
