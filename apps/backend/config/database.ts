@@ -1,10 +1,6 @@
 export default ({ env }) => {
-  const ssl = env.bool('DATABASE_SSL', false);
-  let ca = '';
-  if (ssl) {
-    const certData = env('DATABASE_SSL_CA', '');
-    ca = Buffer.from(certData, 'base64').toString('ascii');
-  }
+  const certData = env('DATABASE_SSL_CA', '');
+  const ca = Buffer.from(certData, 'base64').toString('ascii');
 
   return {
     connection: {
@@ -15,11 +11,11 @@ export default ({ env }) => {
         database: env('DATABASE_NAME', 'prepsj'),
         user: env('DATABASE_USERNAME', 'prepsj'),
         password: env('DATABASE_PASSWORD', 'prepsj'),
-        ssl: ssl && {
+        ssl: {
           ca,
           rejectUnauthorized: env.bool(
             'DATABASE_SSL_REJECT_UNAUTHORIZED',
-            true,
+            false,
           ),
         },
         schema: env('DATABASE_SCHEMA', 'public'),
