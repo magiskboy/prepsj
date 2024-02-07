@@ -4,7 +4,7 @@ import { useQuery } from 'react-query';
 
 import { useTranslation } from 'react-i18next';
 import { BsPencil, BsStar } from 'react-icons/bs';
-import { getExamination } from '@/apis/get-interviews';
+import { getPublicExaminations } from '@/apis/get-interviews';
 import { formatDistanceToNow } from '@/helpers/date';
 import Text from '@/components/Text/Text.component';
 
@@ -12,7 +12,10 @@ export function Component() {
   const { id } = useParams<{id: string}>();
   const { data, error, isLoading } = useQuery({
     queryKey: [id],
-    queryFn: () => getExamination(Number(id)),
+    queryFn: async () => {
+      const examinations = await getPublicExaminations();
+      return examinations.find(exam => exam.id === Number(id));
+    },
     staleTime: 5 * 60 * 1000,
   });
   const { t, i18n } = useTranslation();

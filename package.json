@@ -5,9 +5,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "be:dev": "yarn workspace @prepsj/backend develop",
+    "be:dev": "yarn workspace @prepsj/backend start:dev",
     "be:build": "yarn workspace @prepsj/backend build",
-    "be:start": "yarn workspace @prepsj/backend start",
     "fe:dev": "yarn workspace @prepsj/frontend start",
     "fe:build": "yarn workspace @prepsj/frontend build"
   },

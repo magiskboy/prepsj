@@ -27,7 +27,7 @@ export default function ExaminationOutline() {
     reset();
   }
 
-  const canSubmit = (result.filter(item => item.answer.length > 0).length / result.length) > 0.8;
+  const canSubmit = (result.filter(item => item.answer.length > 0).length / result.length) > 0;
 
   return (
     <>

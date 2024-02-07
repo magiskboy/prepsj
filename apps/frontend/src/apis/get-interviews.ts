@@ -10,24 +10,17 @@ export const getPublicExaminations = (): Promise<Examination[]> =>
   client.get("/examinations/public")
     .then(res => res.data.data || []);
 
-export const getExamination = (id: number): Promise<Examination> =>
-  client.get(`/examinations/${id}`)
-    .then(res => ({
-      id: res.data.data.id,
-      ...res.data.data.attributes,
-    }));
-
 export const getFullExamination = (id: number): Promise<Examination & { questions: Question[] }> =>
-  client.get(`/examinations/${id}/request`)
+  client.get(`/examinations/${id}`)
     .then(res => res.data.data);
 
 export const submitTest = (examId: number, result: {id: number, answer: string[]}[]): Promise<{id: number, answer: string[], correct: string[]}[]> =>
-  new Promise(r => setTimeout(r, 3000)).then(() => client.post('/examinations/marking-test', {
-    id: examId,
-    questions: result.map(item => ({ id: item.id, answer: item.answer }))
+  new Promise(r => setTimeout(r, 0)).then(() => client.post('/submissions', {
+    examinationId: examId,
+    result: result.map(item => ({ questionId: item.id, answer: item.answer }))
   }).then(res => {
-    const { data } = res.data;
-    return data.result;
+    const { result } = res.data.data;
+    return result;
   }));
 
 export type Examination = {
