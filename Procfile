@@ -1,1 +1,0 @@
-web: npm run start -w @prepsj/backend
