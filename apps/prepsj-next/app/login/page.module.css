@@ -1,0 +1,19 @@
+.login {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.form {
+  width: 100%;
+  max-width: 300px;
+  min-height: 300px;
+  margin: 0 auto;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}

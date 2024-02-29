@@ -1,11 +1,7 @@
 import { LoaderFunctionArgs } from "react-router-dom";
 
 export function Component() {
-  return (
-    <>
-            Login
-    </>
-  )
+  return <>Login</>;
 }
 
 Component.displayName = "Login";

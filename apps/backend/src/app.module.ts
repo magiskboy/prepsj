@@ -6,6 +6,7 @@ import { StorageModule } from './storage/storage.module';
 import { ExaminationModule } from './examination/examination.module';
 import { QuestionModule } from './question/question.module';
 import { SubmissionModule } from './submission/submission.module';
+import { AuthModule } from './auth/auth.module';
 
 @Module({
   imports: [
@@ -17,6 +18,7 @@ import { SubmissionModule } from './submission/submission.module';
     QuestionModule,
     ExaminationModule,
     SubmissionModule,
+    AuthModule,
   ],
   controllers: [AppController],
   providers: [AppService],
