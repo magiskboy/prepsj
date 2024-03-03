@@ -8,7 +8,8 @@
     "be:dev": "yarn workspace @prepsj/backend start:dev",
     "be:build": "yarn workspace @prepsj/backend build",
     "fe:dev": "yarn workspace @prepsj/frontend start",
-    "fe:build": "yarn workspace @prepsj/frontend build"
+    "fe:build": "yarn workspace @prepsj/frontend build",
+    "fe-next:dev": "yarn workspace @prepsj/next dev"
   },
   "workspaces": [
     "apps/*"

@@ -1,5 +1,5 @@
-import styles from "./page.module.css";
+"use client";
 
-export default function Home() {
-  return <main className={styles.main}>Homepage</main>;
+export default function Homepage() {
+  return <>Hello world</>;
 }
