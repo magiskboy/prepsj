@@ -1,16 +1,23 @@
+"use client";
+
 import { getMe } from "@/apis/user";
-import { useRouter } from "next/router";
-import { PropsWithChildren, createContext, useEffect, useState } from "react";
+import { usePathname, useRouter } from "next/navigation";
+import {
+  PropsWithChildren,
+  createContext,
+  useContext,
+  useEffect,
+  useState,
+} from "react";
 
 interface Props {
   user: Awaited<ReturnType<typeof getMe>> | null;
-  token: string | null;
 }
 
 const _AuthContext = createContext<Props | null>(null);
-const { Provider } = _AuthContext;
+_AuthContext.displayName = "AuthProvider";
 
-export function AuthContext({
+export function AuthProvider({
   whitelist,
   children,
 }: PropsWithChildren<{ whitelist: string[] }>) {
@@ -18,29 +25,33 @@ export function AuthContext({
   const [user, setUser] = useState<Awaited<ReturnType<typeof getMe>> | null>(
     null
   );
-  const [token, setToken] = useState<string | null>(null);
+  const path = usePathname();
 
   useEffect(() => {
-    const token = localStorage.getItem("token");
-    if (token) {
-      setToken(token);
-      return;
-    }
-    const currentPath = router.pathname;
-    if (whitelist.includes(currentPath)) return;
-    router.push("/login");
-  }, [router, whitelist]);
-
-  useEffect(() => {
-    if (!token) return;
-    getMe(token)
-      .then((data) => {
-        setUser(data);
+    getMe()
+      .then((user) => {
+        setUser(user);
       })
-      .catch(() => {
-        router.push("/login");
-      });
-  }, [token, router]);
+      .catch(() => setUser(null));
+  }, [router]);
 
-  return <Provider value={{ user, token }}>{children}</Provider>;
+  useEffect(() => {
+    if (path && whitelist.includes(path)) return;
+
+    if (!user) {
+      router.push("/login");
+    }
+  }, [user, whitelist, router, path]);
+
+  return (
+    <_AuthContext.Provider value={{ user }}>{children}</_AuthContext.Provider>
+  );
 }
+
+export const useAuth = () => {
+  const context = useContext(_AuthContext);
+  if (!context) {
+    throw new Error("useAuth must be used within an AuthProvider");
+  }
+  return context;
+};

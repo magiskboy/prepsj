@@ -1,4 +1,5 @@
 import { AppLayout } from "@/components/AppLayout";
+import { AuthProvider } from "@/contexts/Auth";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
@@ -20,7 +21,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <AntdRegistry>
-          <AppLayout>{children}</AppLayout>
+          <AuthProvider whitelist={["/login"]}>
+            <AppLayout>{children}</AppLayout>
+          </AuthProvider>
         </AntdRegistry>
       </body>
     </html>

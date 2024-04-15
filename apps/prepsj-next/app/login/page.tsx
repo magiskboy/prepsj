@@ -1,16 +1,28 @@
 "use client";
 
+import { useAuth } from "@/contexts/Auth";
 import { BACKEND_URL } from "@/environments";
 import { LockOutlined, UserOutlined } from "@ant-design/icons";
 import { Button, Checkbox, Divider, Form, Input } from "antd";
+import { useRouter } from "next/navigation";
+import { useEffect } from "react";
 import styles from "./page.module.css";
 
 const loginUrl = `${BACKEND_URL}/auth/login/google`;
 
 export default function LoginPage() {
+  const { user } = useAuth();
+  const router = useRouter();
   const onFinish = (values: any) => {
     console.log("Received values of form: ", values);
   };
+
+  useEffect(() => {
+    if (user) {
+      router.push("/me");
+      return;
+    }
+  }, [user, router]);
 
   return (
     <main className="h-full flex items-center">

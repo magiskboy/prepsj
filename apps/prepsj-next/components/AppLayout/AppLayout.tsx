@@ -8,17 +8,24 @@ import {
   UserOutlined,
 } from "@ant-design/icons";
 import type { MenuProps } from "antd";
-import { Layout, Menu } from "antd";
+import { Breadcrumb, Layout, Menu } from "antd";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import React, { PropsWithChildren, useState } from "react";
 
-const { Content, Footer, Sider } = Layout;
+const { Content, Footer, Sider, Header } = Layout;
 
 type MenuItem = Required<MenuProps>["items"][number];
 
 export function AppLayout({ children }: PropsWithChildren) {
   const [collapsed, setCollapsed] = useState(false);
+  const path = usePathname();
+  let pathItems: string[] = ["Home"];
+  if (path) {
+    pathItems.push(...path.split("/"));
+  }
+  pathItems = pathItems.filter((item) => item);
 
   return (
     <Layout className="h-screen">
@@ -48,7 +55,8 @@ export function AppLayout({ children }: PropsWithChildren) {
           items={items}
         />
       </Sider>
-      <Layout className="overflow-y-scroll">
+      <Layout className="overflow-y-scroll p-3">
+        <Breadcrumb items={pathItems.map((item) => ({ title: item }))} />
         <Content className="m-4">{children}</Content>
         <Footer className="text-center">
           Ant Design ©{new Date().getFullYear()} Created by Ant UED
